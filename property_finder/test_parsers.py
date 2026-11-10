@@ -86,11 +86,18 @@ def test_resolve_project_and_developer():
     ("https://www.propertyfinder.ae/en/search?c=1&l=50&l=86&ob=mr", {"ids": [50, 86], "slug": None, "city_slug": None, "query": None, "country": "ae"}),
     ("https://www.propertyfinder.ae/en/area-insights/dubai/dubai-marina", {"ids": None, "slug": "dubai-marina", "city_slug": "dubai", "query": None, "country": "ae"}),
     ("https://www.propertyfinder.ae/en/transactions/sold/dubai/dubai-marina-marina-gate?page=2",
-     {"ids": None, "slug": "dubai-marina-marina-gate", "city_slug": "dubai", "query": None, "country": "ae"}),
+     {"ids": None, "slug": "dubai-marina-marina-gate", "city_slug": "dubai", "query": None, "country": "ae", "deal": "sold"}),
+    ("https://www.propertyfinder.ae/en/transactions/rented/dubai/1-bedroom-apartments-downtown-dubai-burj-khalifa-area-burj-khalifa",
+     {"ids": None, "slug": "downtown-dubai-burj-khalifa-area-burj-khalifa", "city_slug": "dubai", "query": None, "country": "ae",
+      "deal": "rented"}),
     ("https://www.propertyfinder.ae/en/buy/dubai/properties-for-sale-dubai-marina.html", {"ids": None, "slug": "dubai-marina", "city_slug": "dubai", "query": None, "country": "ae"}),
+    ("https://www.propertyfinder.ae/en/buy/dubai/villas-for-sale-palm-jumeirah.html", {"ids": None, "slug": "palm-jumeirah", "city_slug": "dubai", "query": None, "country": "ae"}),
+    ("https://www.propertyfinder.ae/en/rent/dubai/apartments-for-rent-dubai-marina.html", {"ids": None, "slug": "dubai-marina", "city_slug": "dubai", "query": None, "country": "ae"}),
     ("https://www.propertyfinder.ae/en/rent/dubai/properties-for-rent.html", {"ids": None, "slug": "dubai", "city_slug": "dubai", "query": None, "country": "ae"}),
     ("https://www.propertyfinder.ae/en/building-reviews/dubai/dubai-marina-damac-heights.html",
      {"ids": None, "slug": "dubai-marina-damac-heights", "city_slug": "dubai", "query": None, "country": "ae"}),
+    ("https://www.propertyfinder.ae/en/new-projects/lp/dubai/jumeirah-village-circle",
+     {"ids": None, "slug": "jumeirah-village-circle", "city_slug": "dubai", "query": None, "country": "ae"}),
 ])
 def test_resolve_location(value, expected):
     assert refs.resolve_location(value) == expected
@@ -295,12 +302,52 @@ def test_parse_project_full():
     assert project["payment_plans"][0]["name"] == "Standard" and project["payment_plans"][0]["total_pct"] == 100
     assert project["units_count"] == 14 and project["units"][0]["bedrooms"] == 3
     assert project["units"][0]["area"] == {"value": 157.3777, "unit": "sqm"} and project["units"][0]["floor_plans"][0]["link"].startswith("https://")
+    assert project["units"][0]["size"] == {"value": round(157.3777 * 10.7639, 2), "unit": "sqft"}
     assert project["bedrooms"] == [1, 2, 3, 4] and project["property_types"] == ["apartment", "villa"]
     assert project["amenities"][0]["name"] == "Indoor Swimming Pool"
     assert project["faqs"][0]["question"].startswith("Is Valia Tower") and "<" not in project["faqs"][0]["answer"]
     assert project["description"].startswith("Project Description") and "<p>" not in project["description"]
     assert project["media"]["brochures"][0].endswith(".pdf") and project["media"]["gallery"]
     assert project["contact"]["whatsapp_link"].startswith("https://wa.me/")
+
+
+def test_unit_sizes_follow_the_storefront():
+    # the project page shows raw x 10.7639: sqft on .ae, sqm elsewhere (2026-11-10)
+    ae = P._units([{"area": 74.42, "bedrooms": 1}], "ae")[0]
+    assert ae["area"] == {"value": 74.42, "unit": "sqm"} and ae["size"] == {"value": 801.05, "unit": "sqft"}
+    eg = P._units([{"area": 2.88, "bedrooms": 0}], "eg")[0]
+    assert eg["area"] == {"value": 31.0, "unit": "sqm"} and eg["size"] == {"value": 31.0, "unit": "sqm"}
+    assert P._units([{"area": None}], "sa")[0]["area"] is None
+
+
+def test_post_handover_flag_reads_after_handover():
+    plan = {"phases_per_category": {"payment": [{"title": {"en": "Plan"}, "phase_group_key": "during_construction", "progress_percentage": 70},
+                                                {"title": {"en": "Plan"}, "phase_group_key": "after_handover", "progress_percentage": 30}]}}
+    assert P.parse_project(plan)["has_post_handover_payment_plan"] is True
+    plan["phases_per_category"]["payment"].pop()
+    assert P.parse_project(plan)["has_post_handover_payment_plan"] is False
+
+
+def test_whatsapp_links_without_a_number_are_dropped():
+    assert P._whatsapp_link("https://wa.me/?text=Hello") is None
+    assert P._whatsapp_link("https://api.whatsapp.com/send?phone=&text=Hello") is None
+    assert P._whatsapp_link("https://wa.me/971501234567?text=Hello") == "https://wa.me/971501234567?text=Hello"
+    assert P._whatsapp_link("https://api.whatsapp.com/send?phone=+97144550887&text=Hi") == "https://api.whatsapp.com/send?phone=+97144550887&text=Hi"
+    assert P._whatsapp_link(None) is None
+
+
+def test_project_location_name_falls_back_to_english():
+    loc = {"id": 5, "name": {"en": "سمو بوليفارد"}, "location_tree": [{"id": 1, "name": {"en": "Cairo"}, "type": "CITY"},
+                                                                  {"id": 5, "name": {"en": "Sumou Boulebvard"}, "type": "TOWER"}]}
+    assert P._bilbo_location(loc, "eg")["name"] == "Sumou Boulebvard"
+    assert P._bilbo_location({"id": 7, "name": {"en": "Valia Tower"}}, "ae")["name"] == "Valia Tower"
+
+
+def test_embedded_developer_drops_zero_project_counts():
+    project = P.parse_project({"developer": {"name": {"en": "Emaar Properties"}, "slug": "emaar-properties", "num_projects_online": 0,
+                                             "num_projects_delivered": 0, "construction_phase": {"completed": 0}}})
+    assert project["developer"]["name"] == "Emaar Properties" and project["developer"]["projects"] is None
+    assert P.parse_developer({"name": {"en": "Emaar"}, "num_projects_online": 214})["projects"]["online"] == 214
 
 
 def test_parse_projects_search():
@@ -358,10 +405,35 @@ def test_parse_transactions_rented():
     assert parsed["summary"]["trend"][0]["new_contracts"]["median_price"]
 
 
+def test_parse_rental_contract_fields():
+    row = fixture("transactions_marina_rented_filtered.json")["transactions"][0]
+    tx = P.parse_transaction(row, 2)
+    assert tx["contract"]["duration_months"] == 36 and tx["contract"]["term"] == "Long term"
+    assert tx["contract"]["status"] == "New" and tx["contract"]["ejari_id"] == "608460267"
+    assert tx["property"]["parking_spaces"] == 1 and tx["property"]["completion_year"] is None
+
+
+def test_agent_rating_and_noise_fields():
+    one_review = P.parse_agent({"id": 1, "averageRating": 0, "reviewCount": 1, "ratingDistribution": {"score5": 1},
+                                "avgWhatsappResponseTime": -935, "experienceSince": 0})
+    assert one_review["rating"]["average"] == 5.0 and one_review["rating"]["count"] == 1
+    assert one_review["response_time_minutes"] is None and one_review["experience_since"] is None
+    no_reviews = P.parse_agent({"id": 2, "averageRating": 0, "reviewCount": 0, "ratingDistribution": {"score5": 0}})
+    assert no_reviews["rating"]["average"] is None
+    rated = P.parse_agent({"id": 3, "averageRating": 4.4, "reviewCount": 7, "avgWhatsappResponseTime": 2, "experienceSince": 2019})
+    assert rated["rating"]["average"] == 4.4 and rated["response_time_minutes"] == 2 and rated["experience_since"] == 2019
+
+
+def test_company_address_and_dead_counts():
+    company = P.parse_company({"id": 1144, "address": "Office G-05, Emaar Business Park, Dubai,", "transactionsCount": 0, "totalBranches": 0})
+    assert company["address"] == "Office G-05, Emaar Business Park, Dubai"
+    assert company["transactions_count"] is None and company["branches"]["total"] is None
+
+
 def test_parse_transactions_empty():
     parsed = P.parse_transactions(fixture("transactions_unknown_location.json"), 1)
     assert parsed["results"] == [] and parsed["total"] == 0 and parsed["pages"] == 0
-    assert parsed["summary"]["average_price"] is None
+    assert parsed["summary"] is None   # upstream sends an all-null summary
     assert P.parse_transactions({})["results"] == []
 
 

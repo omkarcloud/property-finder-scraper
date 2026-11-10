@@ -66,6 +66,24 @@ EVERY_CATEGORY = "buy, rent, commercial-buy or commercial-rent (default: every c
 PAGE = "page number (1-based)"
 
 
+def _one_place(data, field):
+    """The endpoints that read ONE place: several location ids would silently
+    use the first (2026-11-10), so they are refused."""
+    ref = data.get(field) or {}
+    if len(ref.get("ids") or []) > 1:
+        raise ValidationError("One location only (this endpoint reads a single place).", field)
+
+
+def _name_or_place(data):
+    """Property Finder ignores the name when a place is set (agents: jordan +
+    Palm Jumeirah lists 1,917 agents, none named Jordan; companies: the name
+    only reorders), so the two are refused together instead of answering
+    rows that ignore the name."""
+    if data.get("query") and data.get("location"):
+        raise ValidationError("Use either query or location: Property Finder ignores the name when a place is set.",
+                              "query")
+
+
 # ---- reference fields -------------------------------------------------------------------
 
 class LocationField(RefField):
@@ -184,6 +202,10 @@ class PriceTrendsSchema(BaseSchema):
         "description": "apartment, villa, townhouse, penthouse ..."})
     country = _country()
 
+    @validates_schema
+    def _single_location(self, data, **kwargs):
+        _one_place(data, "location")
+
 
 # ---- agents ---------------------------------------------------------------------------------
 
@@ -201,6 +223,10 @@ class AgentsSearchSchema(BaseSchema):
     per_page = PageSizeField(default=20, max_size=MAX_AGENTS_PAGE_SIZE, metadata={
         "description": "results per page (default 20, max 100)"})
     country = _country()
+
+    @validates_schema
+    def _query_or_location(self, data, **kwargs):
+        _name_or_place(data)
 
 
 class AgentSchema(BaseSchema):
@@ -225,11 +251,15 @@ class CompaniesSearchSchema(BaseSchema):
     query = _optional_text("company name to search for", 100)
     location = LocationField(required=False, load_default=None, metadata={
         "description": "location id, name or link the company lists in (one place: with several ids the first counts)"})
-    sort = ChoiceField(refs.COMPANY_SORTS, metadata={"description": "featured (default), name or listings-most"})
+    sort = ChoiceField(refs.COMPANY_SORTS, metadata={"description": "featured (default) or listings-most"})
     page = PageField(max_page=MAX_PAGE, metadata={"description": PAGE})
     per_page = PageSizeField(default=20, max_size=MAX_AGENTS_PAGE_SIZE, metadata={
         "description": "results per page (default 20, max 100)"})
     country = _country()
+
+    @validates_schema
+    def _query_or_location(self, data, **kwargs):
+        _name_or_place(data)
 
 
 class CompanySchema(BaseSchema):
@@ -305,7 +335,8 @@ class DeveloperSchema(BaseSchema):
 class TransactionsSearchSchema(BaseSchema):
     location = LocationField(metadata={
         "description": "location id, name or link (Dubai = 1, Dubai Marina = 50); Dubai Land Department data, Dubai only"})
-    type = ChoiceField(refs.TRANSACTION_TYPES, load_default=1, metadata={"description": "sold (default) or rented"})
+    type = ChoiceField(refs.TRANSACTION_TYPES, metadata={
+        "description": "sold (default) or rented; left out, a transactions/rented/… link means rented"})
     period = ChoiceField(list(refs.TRANSACTION_PERIODS), metadata={
         "description": "1w, 1m, 3m, 6m, ytd, 1y, 3y, 5y or 10y (alternative to date_from/date_to)"})
     date_from = DateField(bound="past", metadata={"description": "transactions on/after this date (YYYY-MM-DD), with date_to"})
@@ -330,6 +361,7 @@ class TransactionsSearchSchema(BaseSchema):
 
     @validates_schema
     def _dates(self, data, **kwargs):
+        _one_place(data, "location")
         if bool(data.get("date_from")) != bool(data.get("date_to")):
             raise ValidationError("date_from and date_to go together.", "date_from")
         if data.get("date_from") and data.get("date_to") and data["date_from"] > data["date_to"]:
@@ -344,6 +376,10 @@ class AreaSchema(BaseSchema):
     area = LocationField(metadata={"description": "location id (50), a place name or an area-insights / search link"})
     country = _country()
 
+    @validates_schema
+    def _single_area(self, data, **kwargs):
+        _one_place(data, "area")
+
 
 class AreaReviewsSchema(BaseSchema):
     area = LocationField(metadata={"description": "location id (50), a place name or an area-insights / search link"})
@@ -355,3 +391,7 @@ class AreaReviewsSchema(BaseSchema):
     per_page = PageSizeField(default=20, max_size=MAX_REVIEWS_PAGE_SIZE, metadata={
         "description": "results per page (default 20, max 50)"})
     country = _country()
+
+    @validates_schema
+    def _single_area(self, data, **kwargs):
+        _one_place(data, "area")

@@ -141,6 +141,14 @@ def _number(value):
     return int(value) if float(value).is_integer() else value
 
 
+def _floor(value):
+    return None if value is None else int(math.floor(value))
+
+
+def _ceil(value):
+    return None if value is None else int(math.ceil(value))
+
+
 def _search_response(country, params, page, per_page):
     parsed = parsers.parse_search(fetch_search(country, params), country)
     return {
@@ -218,18 +226,30 @@ def _agents_params(page, per_page, text=None, location_ids=None, category=None, 
     # find-agent page's own `languages` / `superagent` query names are ignored
     # (2026-11-10). Every agent it lists has live listings, so it has no
     # listings filter to offer.
+    # several places go as ONE comma list (their union); a repeated location_ids
+    # keeps only the last one (2026-11-10)
     params = [("text", text), ("category_id", category), ("language_ids", language), ("nationality", nationality),
               ("is_superagent", "true" if super_agent else None),
-              ("sort", sort), ("broker_id", broker_id), ("page", page), ("per_page", per_page)]
-    params += [("location_ids", i) for i in (location_ids or [])]
+              ("sort", sort), ("broker_id", broker_id), ("page", page), ("per_page", per_page),
+              ("location_ids", ",".join(str(i) for i in location_ids) if location_ids else None)]
     return params
+
+
+# Sorted by listing counts, the agents API serves the first 10,000 results only
+# (page 101 of 100 is empty although total_pages says 202); the featured order
+# pages to the end.
+AGENTS_SORTED_WINDOW = 10_000
 
 
 def _agents_response(country, params, page, per_page):
     rows, totals = fetch_agents(country, params)
+    pages = totals.get("total_pages")
+    sort = dict(params).get("sort")
+    if pages is not None and sort not in (None, refs.AGENT_SORTS["featured"]):
+        pages = min(pages, max(AGENTS_SORTED_WINDOW // per_page, 1))
     return {
         "results": [parsers.parse_agent(r, country) for r in rows],
-        "pagination": _pagination(page, per_page, totals.get("total"), totals.get("total_pages")),
+        "pagination": _pagination(page, per_page, totals.get("total"), pages),
     }
 
 
@@ -472,6 +492,8 @@ def _transactions_search(location, type, period, date_from, date_to, property_ty
                          per_page, country):
     country = _country(location, country)
     ids, rows = _resolve_location(location, country)
+    # no `type` given: a transactions/rented/… link means rentals, anything else sales
+    type = type or (2 if (location or {}).get("deal") == "rented" else 1)
     cap_pages = max(config.PROPERTY_FINDER_TRANSACTIONS_ROW_CAP // per_page, 1)
     base = {"country": country, "location": (_location_context(rows) or [None])[0], "type": "rented" if type == 2 else "sold"}
     if page > cap_pages:
@@ -484,8 +506,10 @@ def _transactions_search(location, type, period, date_from, date_to, property_ty
         ("offering_type_id", type), ("size", per_page), ("page", page), ("sort", sort), ("period", period),
         ("start_date", date_from), ("end_date", date_to), ("property_type_id", property_type),
         ("bedroom_ids", ",".join(str(b) for b in bedrooms) if bedrooms else None),
-        ("min_price", _number(min_price)), ("max_price", _number(max_price)),
-        ("min_area", _number(min_area)), ("max_area", _number(max_area)),
+        # whole numbers only: a decimal bound is dropped upstream and the filter vanishes
+        # (2026-11-10: min_price=44458.56 returned the whole day)
+        ("min_price", _floor(min_price)), ("max_price", _ceil(max_price)),
+        ("min_area", _floor(min_area)), ("max_area", _ceil(max_area)),
         ("completion_status", completion_status), ("contract_status", contract_status), ("sold_by", sold_by),
         ("unit_number", unit_number),
     ]

@@ -134,8 +134,9 @@ SEARCH_SORTS = {
 AGENT_SORTS = {"featured": "-trusted_score", "listings-most": "-total_properties",
                "listings-least": "total_properties", "sale-listings": "-total_sales_properties",
                "rent-listings": "-total_rental_properties"}
-# pf-b2c-customer/brokerages `sort`
-COMPANY_SORTS = {"featured": None, "name": "name", "listings-most": "-total_properties"}
+# pf-b2c-customer/brokerages `sort` (its `name` sort is not alphabetical in either
+# direction — SOLACE HOMES, NEXT HERITAGE, THE AJS … on 2026-11-10 — so it is not offered)
+COMPANY_SORTS = {"featured": None, "listings-most": "-total_properties"}
 
 # agent languages: label -> id (find-agent page options, 64 rows)
 LANGUAGES = {
@@ -292,7 +293,14 @@ def resolve_developer(value):
     raise ValueError("Must be a developer uuid, slug (emaar-properties) or a propertyfinder developer link.")
 
 
-_SEO_SLUG_RE = re.compile(r"^properties-for-(?:sale|rent)(?:-(.+))?\.html$")
+# /en/buy/dubai/<what>-for-sale[-<place>].html: properties-, villas-, apartments-,
+# 1-bedroom-apartments- … all name the place after for-sale / for-rent
+_SEO_SLUG_RE = re.compile(r"^[a-z0-9-]*?-?for-(?:sale|rent)(?:-(.+))?\.html$")
+# /en/transactions/<sold|rented>/<city>/<what>-<place>: the similar-search links put
+# bedrooms and a property type before the place (1-bedroom-apartments-downtown-dubai)
+_TX_PREFIX_RE = re.compile(
+    r"^(?:(?:studio|\d+-bedrooms?)-)?(?:hotel-)?(?:apartments|villas|townhouses|penthouses|duplexes|compounds|"
+    r"bungalows|lands|plots|offices|shops|warehouses|full-floors|half-floors|whole-buildings)-")
 
 
 def resolve_location(value):
@@ -321,7 +329,10 @@ def resolve_location(value):
         if len(segments) >= 3 and segments[0] in ("area-insights", "building-reviews"):
             return slug_ref(country, segments[2], segments[1])
         if len(segments) >= 4 and segments[0] == "transactions":
-            return slug_ref(country, segments[3], segments[2])
+            ref = slug_ref(country, _TX_PREFIX_RE.sub("", segments[3]), segments[2])
+            # the link's own deal type, for transactions/search when `type` is not given
+            ref["deal"] = segments[1] if segments[1] in ("sold", "rented") else None
+            return ref
         if len(segments) >= 3 and segments[0] in ("buy", "rent", "commercial-buy", "commercial-rent"):
             match = _SEO_SLUG_RE.match(segments[2])
             if match and match.group(1):
@@ -330,8 +341,11 @@ def resolve_location(value):
             return slug_ref(country, segments[1], segments[1])
         if len(segments) >= 2 and segments[0] in ("area-insights", "transactions"):
             return slug_ref(country, segments[-1], segments[-1])
-        raise ValueError("Must be a propertyfinder search, listing, transactions or area-insights link "
-                         "that names a location.")
+        # a new-projects area page: /en/new-projects/lp/<city>/<area> (or /lp/<city>)
+        if len(segments) >= 3 and segments[0] == "new-projects" and segments[1] == "lp":
+            return slug_ref(country, segments[-1], segments[2])
+        raise ValueError("Must be a propertyfinder search page (/en/search?… or /en/buy/…), transactions, "
+                         "area-insights or new-projects area link that names a location.")
     parts = [p.strip() for p in value.split(",") if p.strip()]
     if parts and all(p.isdigit() for p in parts):
         return _ref(ids=[int(p) for p in parts][:10], slug=None, city_slug=None, query=None, country=None)

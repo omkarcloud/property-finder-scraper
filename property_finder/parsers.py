@@ -43,6 +43,7 @@ _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"[ \t\r\f\v]+")
 _BLANK_LINES_RE = re.compile(r"\n{3,}")
 _BLOCK_TAG_RE = re.compile(r"</?(?:p|div|br|li|ul|ol|h[1-6]|section|tr|table)[^>]*>", re.I)
+_ARABIC_RE = re.compile(r"[؀-ۿ]")
 
 
 # ---- small helpers ------------------------------------------------------------------
@@ -796,6 +797,13 @@ def parse_agent(agent, country=refs.DEFAULT_COUNTRY):
     bid = _int(broker.get("id") or broker.get("clientId"))
     nationality = _dict(agent.get("nationality"))
     distribution = _dict(agent.get("ratingDistribution"))
+    stars = {str(i): _int(distribution.get(f"score{i}")) or 0 for i in range(1, 6)} if distribution else None
+    average = _float(agent.get("averageRating"))
+    if not average and stars and sum(stars.values()):
+        # averageRating comes back 0 for every agent with exactly one review (2026-11-10)
+        average = round(sum(int(k) * n for k, n in stars.items()) / sum(stars.values()), 2)
+    since = _int(agent.get("experienceSince"))
+    response = _int(agent.get("avgWhatsappResponseTime"))
     compliances = {_none(c.get("type")): _none(c.get("value")) for c in _list(agent.get("compliances")) if isinstance(c, dict)}
     return {
         "id": aid,
@@ -815,8 +823,9 @@ def parse_agent(agent, country=refs.DEFAULT_COUNTRY):
         "languages": [_none(l.get("name")) if isinstance(l, dict) else _none(l) for l in _list(agent.get("languages"))] or None,
         "license_number": _none(agent.get("licenseNumber")) or compliances.get("brn"),
         "licenses": {k: v for k, v in compliances.items() if k} or None,
-        "experience_since": _int(agent.get("experienceSince")),
-        "response_time_minutes": _int(agent.get("avgWhatsappResponseTime")),
+        # 0 = not set; a response time of 0 or below (down to -935) is not a real average
+        "experience_since": since or None,
+        "response_time_minutes": response if response and response > 0 else None,
         "ranking": _float(agent.get("ranking")),
         "listing_quality": _int(agent.get("medianListingQuality")),
         "listings": {
@@ -827,9 +836,9 @@ def parse_agent(agent, country=refs.DEFAULT_COUNTRY):
             "commercial_rent": _int(agent.get("propertiesCommercialForRentCount")),
         },
         "rating": {
-            "average": _float(agent.get("averageRating")),
+            "average": average or None,
             "count": _int(agent.get("reviewCount")) or 0,
-            "distribution": {str(i): _int(distribution.get(f"score{i}")) or 0 for i in range(1, 6)} if distribution else None,
+            "distribution": stars,
         },
         "transactions": {
             "count": _int(agent.get("transactionsCount")),
@@ -870,7 +879,7 @@ def parse_company(broker, country=refs.DEFAULT_COUNTRY):
         "description": _none(broker.get("description")),
         "email": _none(broker.get("email")),
         "phone": _none(broker.get("phone")),
-        "address": _none(broker.get("address")),
+        "address": _none((_none(broker.get("address")) or "").strip().rstrip(",").strip()),
         "location": {"id": _int(broker.get("locationId")), "name": _none(broker.get("location"))}
         if (broker.get("location") or broker.get("locationId")) else None,
         "license": {"number": _none(broker.get("licenseNumber")), "authority": _none(broker.get("licenseLabel"))}
@@ -887,9 +896,11 @@ def parse_company(broker, country=refs.DEFAULT_COUNTRY):
         },
         "agents_count": _int(broker.get("totalAgents")),
         "super_agents_count": _int(broker.get("totalSuperAgents")),
-        "transactions_count": _int(broker.get("transactionsCount")),
+        # transactionsCount and totalBranches come back 0 for every company (3,931 checked
+        # 2026-11-10): null, not a zero that looks like data
+        "transactions_count": _int(broker.get("transactionsCount")) or None,
         "awards": [_none(a) if not isinstance(a, dict) else (_none(a.get("image") or a.get("url")) or a) for a in _list(broker.get("awards"))] or None,
-        "branches": {"is_main_branch": _bool(broker.get("isMainBranch")), "total": _int(broker.get("totalBranches")),
+        "branches": {"is_main_branch": _bool(broker.get("isMainBranch")), "total": _int(broker.get("totalBranches")) or None,
                      "parent_id": _int(broker.get("parentId")) or None},
     }
 
@@ -928,8 +939,18 @@ def _communication(block):
         "lead_phone": _none(lead.get("primary_phone_number")),
         "lead_email": _none(lead.get("primary_email")),
         "website": _none(block.get("website")),
-        "whatsapp_link": _en(whatsapp) if whatsapp else None,
+        "whatsapp_link": _whatsapp_link(_en(whatsapp) if whatsapp else None),
     }
+
+
+_WA_NO_NUMBER_RE = re.compile(r"^https?://(wa\.me/?(\?|$)|api\.whatsapp\.com/send/?\?(?!.*\bphone=\+?\d))", re.I)
+
+
+def _whatsapp_link(link):
+    """A WhatsApp link that opens a chat, or None: Qatar and Bahrain projects
+    carry `https://wa.me/?text=…` with no number (2026-11-10)."""
+    link = _none(link)
+    return None if link and _WA_NO_NUMBER_RE.match(link) else link
 
 
 def _phases(rows):
@@ -970,11 +991,23 @@ def _payment_plans(rows):
     return list(plans.values()) or None
 
 
-def _units(rows):
+SQM_TO_SQFT = 10.7639
+
+
+def _units(rows, country=refs.DEFAULT_COUNTRY):
+    """bilbo stores a unit's size as the figure its project page shows divided
+    by 10.7639, on every storefront: the page shows raw x 10.7639 in sqft on
+    propertyfinder.ae and in sqm on the other four sites (2026-11-10: Pier
+    Point 2 Type A2 74.42 -> 801 sqft; Sumou Boulevard Studio A 2.88 -> 31 sqm
+    on .eg; Al Shorouq 26.1987 -> 282 sqm on .sa). So `size` is the page's
+    figure in the page's unit, and `area` the true sqm (the raw figure on
+    .ae, raw x 10.7639 elsewhere)."""
     out = []
     for row in _list(rows):
         row = _dict(row)
-        area = _float(row.get("area"))
+        raw = _float(row.get("area"))
+        shown = round(raw * SQM_TO_SQFT, 2) if raw else None
+        sqm = (raw if country == "ae" else shown) if raw else None
         out.append({
             "id": _none(row.get("id")),
             "title": _en(row.get("title")),
@@ -983,7 +1016,8 @@ def _units(rows):
             "description": _text(_en(row.get("description"))),
             "bedrooms": _int(row.get("bedrooms")),
             "bathrooms": _int(row.get("bathrooms")),
-            "area": {"value": area, "unit": "sqm"} if area else None,
+            "area": {"value": sqm, "unit": "sqm"} if sqm else None,
+            "size": {"value": shown, "unit": "sqft" if country == "ae" else "sqm"} if shown else None,
             "starting_price": _float(row.get("starting_price")),
             "view": _none(row.get("view")),
             "stock_status": _none(row.get("stock_status")),
@@ -1007,9 +1041,15 @@ def _bilbo_location(loc, country):
     for node in _list(loc.get("location_tree")):
         node = _dict(node)
         tree.append({"id": _int(node.get("id")), "name": _en(node.get("name")), "type": _location_type(node.get("type"))})
+    name = _en(loc.get("name"))
+    if name and _ARABIC_RE.search(name):
+        # .sa / .eg projects carry an Arabic `name` while the tree is English
+        leaf = next((n for n in reversed(tree) if n["id"] == _int(loc.get("id")) and n["name"]), None)
+        if leaf and not _ARABIC_RE.search(leaf["name"]):
+            name = leaf["name"]
     return {
         "id": _int(loc.get("id")),
-        "name": _en(loc.get("name")),
+        "name": name,
         "full_name": _en(loc.get("full_name")),
         "type": _location_type(loc.get("type")),
         "slug": _none(loc.get("slug")),
@@ -1063,6 +1103,18 @@ def parse_developer(dev, country=refs.DEFAULT_COUNTRY, brief=False):
     return out
 
 
+def _embedded_developer(dev, country):
+    """The developer slice a project carries. Its project counts come back as
+    zeros there (Emaar: online 0 though it has 214 projects online), so they
+    are dropped rather than reported wrong; developers/details has them."""
+    out = parse_developer(dev, country, brief=True)
+    if out:
+        counts = out.get("projects") or {}
+        if not counts.get("online") and not counts.get("delivered") and not any((counts.get("by_phase") or {}).values()):
+            out["projects"] = None
+    return out
+
+
 def parse_project(project, country=refs.DEFAULT_COUNTRY, brief=False):
     """A bilbo project (search card or data.project) -> a project record. The
     search card already carries the full record; `brief` trims units /
@@ -1082,7 +1134,7 @@ def parse_project(project, country=refs.DEFAULT_COUNTRY, brief=False):
         "name_ar": _ar(project.get("title")),
         "slug": slug,
         "link": refs.project_link(country, slug),
-        "developer": parse_developer(project.get("developer"), country, brief=True),
+        "developer": _embedded_developer(project.get("developer"), country),
         "location": _bilbo_location(project.get("location"), country),
         "project_type": _none(project.get("project_type")),
         "property_types": unit_types or None,
@@ -1106,7 +1158,9 @@ def parse_project(project, country=refs.DEFAULT_COUNTRY, brief=False):
             "phases": _phases(phases.get("sales")),
         },
         "payment_plans": _payment_plans(phases.get("payment")),
-        "has_post_handover_payment_plan": any((_dict(r).get("phase_group_key") or "") == "post_handover" for r in _list(phases.get("payment"))) or False,
+        # bilbo names the stage after_handover (post_handover kept in case it changes back)
+        "has_post_handover_payment_plan": any((_dict(r).get("phase_group_key") or "") in ("after_handover", "post_handover")
+                                              for r in _list(phases.get("payment"))),
         "units_count": len(units),
         "hotness_level": _int(project.get("hotness_level")),
         "has_active_campaign": _bool(project.get("has_active_campaign")),
@@ -1121,7 +1175,7 @@ def parse_project(project, country=refs.DEFAULT_COUNTRY, brief=False):
     out.update({
         "description": _text(_en(project.get("description"))),
         "master_plan_description": _text(_en(project.get("master_plan_description"))),
-        "units": _units(units),
+        "units": _units(units, country),
         "amenities": [{"name": _en(_dict(a).get("name")), "category": _none(_dict(a).get("category")), "slug": _none(_dict(a).get("slug"))}
                       for a in _list(project.get("amenities")) if _en(_dict(a).get("name"))] or None,
         "faqs": [{"question": _en(_dict(f).get("question")), "answer": _text(_en(_dict(f).get("answer")))}
@@ -1195,6 +1249,8 @@ def parse_transaction(row, offering_type_id=1, country=refs.DEFAULT_COUNTRY):
             "plot_area": _float(row.get("plot_area")),
             "balcony_area": _float(row.get("balcony_area")),
             "unit": "sqft",
+            "parking_spaces": _int(row.get("parking_count")),
+            "completion_year": _int(row.get("completion_year")),
         },
         "location": {
             "id": _int(row.get("location_id")),
@@ -1206,11 +1262,14 @@ def parse_transaction(row, offering_type_id=1, country=refs.DEFAULT_COUNTRY):
         },
         "developer_name": _none(row.get("developer_name")),
         "sold_by": _none(row.get("sold_by")),
+        # a rental's months are contract_duration_months (contract_duration is a label like
+        # "Long term") and its top-level status (New / Renewed) is the contract's
         "contract": {
             "start_date": _date(row.get("contract_start_date")),
             "end_date": _date(row.get("contract_end_date")),
-            "duration_months": _int(row.get("contract_duration")),
-            "status": _none(row.get("contract_status")),
+            "duration_months": _int(row.get("contract_duration_months")),
+            "term": _none(row.get("contract_duration")),
+            "status": _none(row.get("contract_status")) or (_none(row.get("status")) if kind == "rented" else None),
             "ejari_id": _none(row.get("ejari_id")),
         } if kind == "rented" or row.get("contract_start_date") else None,
         "previous": {
@@ -1310,7 +1369,8 @@ def parse_transactions(attributes, offering_type_id=1, country=refs.DEFAULT_COUN
         "page": _int(attributes.get("page")),
         "pages": pages,
         "total": total,
-        "summary": parse_transactions_summary(attributes.get("summary"), offering_type_id, country),
+        # a place with no transactions gets an all-null summary upstream: none at all here
+        "summary": parse_transactions_summary(attributes.get("summary"), offering_type_id, country) if total else None,
         "similar_searches": [{"title": _none(l.get("title")), "link": refs.absolute(country, _none(l.get("link"))), "count": _int(l.get("count"))}
                              for l in _list(links.get("similar_searches")) if isinstance(l, dict)] or None,
     }

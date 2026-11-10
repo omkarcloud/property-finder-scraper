@@ -20,7 +20,8 @@ def test_agent_filters_use_the_names_the_api_filters_on():
     sent = _sent(api._agents_params(1, 20, text="nathan", location_ids=[50, 86], category=2, language=6,
                                     nationality="GB", super_agent=True, sort="-total_properties"))
     assert ("language_ids", 6) in sent and ("is_superagent", "true") in sent
-    assert ("location_ids", 50) in sent and ("location_ids", 86) in sent
+    # several places go as one comma list: a repeated location_ids keeps only the last
+    assert ("location_ids", "50,86") in sent and [k for k, _ in sent].count("location_ids") == 1
     assert not {k for k, _ in sent} & {"languages", "superagent", "must_have_properties"}
     assert not {k for k, _ in _sent(api._agents_params(1, 20, super_agent=None))} & {"is_superagent"}
 
@@ -40,6 +41,34 @@ def test_companies_search_sends_one_location_id(monkeypatch):
     assert ("location_id", 86) in sent and ("text", "sotheby") in sent
     assert not any(k in ("location_ids", "location_id") and v == 50 for k, v in sent)
     assert [r["id"] for r in out["location"]] == [86]
+
+
+def test_agents_listing_sorts_stop_at_10000_results(monkeypatch):
+    monkeypatch.setattr(api, "fetch_agents", lambda country, params: ([], {"total": 20140, "total_pages": 202}))
+    capped = api._agents_response("ae", api._agents_params(1, 100, sort="-total_properties"), 1, 100)
+    assert capped["pagination"]["total_pages"] == 100 and capped["pagination"]["total_count"] == 20140
+    featured = api._agents_response("ae", api._agents_params(1, 100, sort="-trusted_score"), 1, 100)
+    assert featured["pagination"]["total_pages"] == 202
+
+
+def test_transactions_take_the_link_type_and_whole_number_bounds(monkeypatch):
+    seen = {}
+
+    def fake_fetch(country, location_id, params):
+        seen["params"] = dict(params)
+        return {"transactions": [], "total_items": 0, "total_pages": 0}
+
+    monkeypatch.setattr(api, "fetch_transactions", fake_fetch)
+    monkeypatch.setattr(api, "_resolve_location", lambda ref, country, required=True: ([2710], [{"id": 2710}]))
+    rented_link = {"ids": None, "slug": "x", "city_slug": "dubai", "query": None, "country": "ae", "deal": "rented"}
+    out = api._transactions_search(rented_link, None, None, None, None, None, None, 44458.56, 61277.81, 500.5, None,
+                                   None, None, None, None, "td", 1, 25, "ae")
+    assert seen["params"]["offering_type_id"] == 2 and out["type"] == "rented"
+    assert seen["params"]["min_price"] == 44458 and seen["params"]["max_price"] == 61278 and seen["params"]["min_area"] == 500
+    assert out["summary"] is None
+    api._transactions_search({"ids": [2710]}, None, None, None, None, None, None, None, None, None, None,
+                             None, None, None, None, "td", 1, 25, "ae")
+    assert seen["params"]["offering_type_id"] == 1
 
 
 def test_companies_search_without_location(monkeypatch):

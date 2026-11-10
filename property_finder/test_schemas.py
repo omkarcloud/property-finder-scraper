@@ -104,7 +104,7 @@ def test_price_trends_schema():
 # ---- agents ------------------------------------------------------------------------------------
 
 def test_agents_search_schema():
-    loaded = schemas.AgentsSearchSchema().load({"query": "nathan", "language": "Russian", "nationality": "ru",
+    loaded = schemas.AgentsSearchSchema().load({"language": "Russian", "nationality": "ru",
                                                 "super_agent": "1", "sort": "listings-most",
                                                 "location": "50", "category": "commercial-rent", "per_page": "100"})
     assert loaded["language"] == 6 and loaded["nationality"] == "RU" and loaded["super_agent"] is True
@@ -119,6 +119,9 @@ def test_agents_search_schema():
     # featured order: neither is offered
     assert "has_listings" in _errors(schemas.AgentsSearchSchema, {"has_listings": "true"})
     assert "sort" in _errors(schemas.AgentsSearchSchema, {"sort": "ranking"})
+    # Property Finder ignores the name when a place is set: refused together
+    assert schemas.AgentsSearchSchema().load({"query": "nathan"})["query"] == "nathan"
+    assert "query" in _errors(schemas.AgentsSearchSchema, {"query": "jordan", "location": "86"})
 
 
 def test_agent_schemas():
@@ -133,9 +136,12 @@ def test_agent_schemas():
 # ---- companies ---------------------------------------------------------------------------------
 
 def test_company_schemas():
-    loaded = schemas.CompaniesSearchSchema().load({"query": "barnes", "sort": "name", "location": "dubai"})
-    assert loaded["sort"] == "name" and loaded["location"]["query"] == "dubai"
+    loaded = schemas.CompaniesSearchSchema().load({"sort": "listings-most", "location": "dubai"})
+    assert loaded["sort"] == "-total_properties" and loaded["location"]["query"] == "dubai"
+    assert schemas.CompaniesSearchSchema().load({"query": "barnes"})["query"] == "barnes"
     assert schemas.CompaniesSearchSchema().load({"sort": "featured"})["sort"] is None
+    assert "sort" in _errors(schemas.CompaniesSearchSchema, {"sort": "name"})   # not alphabetical upstream
+    assert "query" in _errors(schemas.CompaniesSearchSchema, {"query": "barnes", "location": "dubai"})
     assert schemas.CompanySchema().load({"company": "https://www.propertyfinder.ae/en/broker/barnes-international-realty-v2-4338-4338"})["company"] == {"id": 4338, "country": "ae"}
     assert "company" in _errors(schemas.CompanySchema, {"company": "barnes"})
     loaded = schemas.CompanyAgentsSchema().load({"company": "4338", "sort": "rent-listings", "page": "2"})
@@ -184,7 +190,12 @@ def test_transactions_schema():
     assert loaded["type"] == 2 and loaded["contract_status"] == "new" and loaded["bedrooms"] == [1, 2]
     assert loaded["property_type"] == 1 and loaded["sort"] == "pd" and loaded["per_page"] == 50
     defaults = schemas.TransactionsSearchSchema().load({"location": "1"})
-    assert defaults["type"] == 1 and defaults["sort"] == "td" and defaults["per_page"] == 25 and defaults["period"] is None
+    # no type: the api layer reads sold, or rented from a transactions/rented/… link
+    assert defaults["type"] is None and defaults["sort"] == "td" and defaults["per_page"] == 25 and defaults["period"] is None
+    assert "location" in _errors(schemas.TransactionsSearchSchema, {"location": "86,50"})   # one place only
+    assert "location" in _errors(schemas.PriceTrendsSchema, {"location": "86,50", "bedrooms": "2", "property_type": "villa"})
+    assert "area" in _errors(schemas.AreaSchema, {"area": "86,50"})
+    assert "area" in _errors(schemas.AreaReviewsSchema, {"area": "86,50"})
     dated = schemas.TransactionsSearchSchema().load({"location": "1", "date_from": "2026-01-01", "date_to": "2026-01-31"})
     assert dated["date_from"] == "2026-01-01" and dated["date_to"] == "2026-01-31"
     assert schemas.TransactionsSearchSchema().load({"location": "1", "period": "ytd"})["period"] == "ytd"
