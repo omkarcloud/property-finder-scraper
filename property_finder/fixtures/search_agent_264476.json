@@ -1,0 +1,1634 @@
+{
+ "listings": [
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "165049903",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 7399999,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "SPRINGS 1 | EXCLUSIVE | PRICE REDUCED | VACANT NOW",
+    "location": {
+     "id": "4460",
+     "full_name": "Springs 1, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.061460494995117,
+      "lon": 55.16080856323242
+     },
+     "slug": "the-springs-springs-1",
+     "path": "1.89.4460",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 1",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/FJ1GDY5TKCMDRJY82TVM8TB4QW/8f9c8f3b-af02-438c-a023-52bb7a6e234c/416x272.jpg?v=c27380e22df9a0e673e61506e038cff3",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/FJ1GDY5TKCMDRJY82TVM8TB4QW/8f9c8f3b-af02-438c-a023-52bb7a6e234c/668x452.jpg?v=d13db1163313c115374bd9d5555db35c",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/FJ1GDY5TKCMDRJY82TVM8TB4QW/c1ab42f3-8a6c-412f-a798-4b02a76b101e/416x272.jpg?v=c25c1bbcccd36bf48bb410218f8ddf31",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/FJ1GDY5TKCMDRJY82TVM8TB4QW/c1ab42f3-8a6c-412f-a798-4b02a76b101e/668x452.jpg?v=e2d6004da91f1a4afaa26a0cef85d747",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/FJ1GDY5TKCMDRJY82TVM8TB4QW/ec05b09b-2c9d-466f-ad48-f1f4a061e97f/416x272.jpg?v=4e42f685a32f9b9cdbe3c32a6e6b0af3",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/FJ1GDY5TKCMDRJY82TVM8TB4QW/ec05b09b-2c9d-466f-ad48-f1f4a061e97f/668x452.jpg?v=4dafc0243b012281b3880d1cfa528a91",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "size": {
+     "value": 4104,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-the-springs-springs-1-165049903.html",
+    "reference": "PB-S-43052",
+    "listed_date": "2026-10-27T11:40:57Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-43052%0AType%3A+Villa%0APrice%3A+7%2C399%2C999+AED+%0ALocation%3A+Springs+1+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F165049903%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 18,
+    "amenities": [
+     "AC",
+     "BA",
+     "CP",
+     "BL",
+     "PG",
+     "BW",
+     "WC"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 67.92526,
+    "rss": 67.92526,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4460",
+      "name": "Springs 1",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-1",
+      "slug_en": "the-springs-springs-1",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Nathan Blake and BARNES Dubai are delighted to exclusively present this Type 1E set on a full corner plot in the highly sought-after Springs 1, backing onto the pool and park, offering a rare combination of privacy, space, and premium positioning.\n\n- Exclusive\n- Springs 1\n- Type 1E\n- 3 Bedroom + Study + Family Room + Maids\n- Full Corner Plot\n- Backing Pool And Park\n- Vacant Now\n- Private Pool\n- Plot - 3,032 Sq. Ft.\n- BUA - 4,104 Sq. Ft.\n- Agent - Nathan Blake\n\nBacking directly onto the pool and park, the home enjoys peaceful views and an abundance of natural light, making it ideal for family living.\n\nThe villa features 3 spacious bedrooms, a study and a separate family room, providing flexible living areas for work, relaxation, and entertaining.\n\nOutdoors, the property truly stands out, a large spacious plot and a private pool creating the perfect setting for outdoor living and entertaining all year round.\n\nThis is a rare opportunity to secure a prime villa in one of The Springs’ most desirable locations.",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Covered Parking",
+     "View of Landmark",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Walk-in Closet"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-the-springs-springs-1-165049903.html",
+    "rank_score": 67.92526245117188,
+    "bedrooms_value": 3,
+    "bathrooms_value": 4,
+    "is_pf_exclusive": false,
+    "listing_id": "FJ1GDY5TKCMDRJY82TVM8TB4QW",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/f033ac65deb4986647833895bdedc52e/3df6483c-b827-46d4-8971-849c80bb8e50/watermarked.png",
+      "floor_number": 0,
+      "area": 4104,
+      "id": "Dubai_the_spring_the_springs_1_3BD_03__40901"
+     }
+    ],
+    "mortgage_cashback": 16000,
+    "price_per_area": {
+     "price": 1803,
+     "unit": "sqft",
+     "built_up_area": 2551.7237931034483,
+     "plot": 1803.118664717349
+    },
+    "view_360": "",
+    "plot_size": 4104,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "built_up_area": 2900,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 1,
+   "aggregated_position": 1,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164589911",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 9100000,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Type 14 | Renovation Oppurtunity | Vacant Now",
+    "location": {
+     "id": "4097",
+     "full_name": "Meadows 9, Meadows, Dubai",
+     "coordinates": {
+      "lat": 25.046472549438477,
+      "lon": 55.173404693603516
+     },
+     "slug": "meadows-meadows-9",
+     "path": "1.76.4097",
+     "type": "SUBCOMMUNITY",
+     "name": "Meadows 9",
+     "path_name": "Dubai, Meadows",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/3967HH02QKKZHRR7VB1PXEZP0W/436ad897-f382-4870-a0eb-32c64de1fb92/416x272.jpg?v=8f7e090fefbfe3d3ae539d3c610d0be0",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/3967HH02QKKZHRR7VB1PXEZP0W/436ad897-f382-4870-a0eb-32c64de1fb92/668x452.jpg?v=b183074df005f877d5b38f751f0ef6db",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/3967HH02QKKZHRR7VB1PXEZP0W/5d409f06-f419-47af-8046-6a618323e353/416x272.jpg?v=32ac432e091b387aad3fbfee554837d9",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/3967HH02QKKZHRR7VB1PXEZP0W/5d409f06-f419-47af-8046-6a618323e353/668x452.jpg?v=45b56569f18cf68f69948aa94f8a08d9",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/3967HH02QKKZHRR7VB1PXEZP0W/898ae687-9b12-4f85-b924-f033223269ec/416x272.jpg?v=6976adfb1118ebdf35b05b60df6afd5f",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/3967HH02QKKZHRR7VB1PXEZP0W/898ae687-9b12-4f85-b924-f033223269ec/668x452.jpg?v=be5bb1e0a0cc93ef00e70fb235aeffe6",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "size": {
+     "value": 6727,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-meadows-meadows-9-164589911.html",
+    "reference": "PB-S-40529-2",
+    "listed_date": "2026-10-26T11:31:12Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-40529-2%0AType%3A+Villa%0APrice%3A+9%2C100%2C000+AED+%0ALocation%3A+Meadows+9+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164589911%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 26,
+    "amenities": [
+     "MR",
+     "BA",
+     "PG",
+     "BW",
+     "SE"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 67.604935,
+    "rss": 67.604935,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "76",
+      "name": "Meadows",
+      "type": "COMMUNITY",
+      "slug": "meadows",
+      "slug_en": "meadows",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4097",
+      "name": "Meadows 9",
+      "type": "SUBCOMMUNITY",
+      "slug": "meadows-meadows-9",
+      "slug_en": "meadows-meadows-9",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Nathan Blake and BARNES Dubai are delighted to bring to market this well-located Type 14 villa in Meadows 9.\n\n- Meadows 9\n- Type 14\n- 4 Bedroom + Maid\n- Back To Back\n- Vacant Now\n- Renovation Opportunity\n- View Today!\n- BUA - 4,099 Sq. Ft.\n- Plot - 6,727 Sq. Ft. Approx\n- Agent – Nathan Blake\n\nThis spacious 4-bedroom + maid property offers an excellent opportunity for buyers looking to create their ideal family home in one of Dubai’s established villa communities. The villa is back to back and is vacant now, allowing for a smooth and immediate move-in or renovation project.\n\nWith a renovation opportunity, this property provides plenty of potential to modernise and personalise the home to your own taste and requirements for end users, or 30% profit to be made for investors.\n\nLocated in the sought-after Meadows 9, residents benefit from a peaceful family-friendly community with excellent access to local amenities, schools, parks and major road networks.",
+    "amenity_names": [
+     "Maids Room",
+     "Balcony",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 236.76,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-meadows-meadows-9-164589911.html",
+    "rank_score": 67.60493469238281,
+    "bedrooms_value": 4,
+    "bathrooms_value": 4,
+    "is_pf_exclusive": false,
+    "listing_id": "3967HH02QKKZHRR7VB1PXEZP0W",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 20000,
+    "price_per_area": {
+     "price": 1352,
+     "unit": "sqft",
+     "plot": 1352.757544224766
+    },
+    "view_360": "",
+    "plot_size": 6727,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": true,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 2,
+   "aggregated_position": 2,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164589410",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 5999000,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Full Lake View | Owner Occupied | Fully Upgraded",
+    "location": {
+     "id": "4469",
+     "full_name": "Springs 10, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.0573787689209,
+      "lon": 55.18102264404297
+     },
+     "slug": "the-springs-springs-10",
+     "path": "1.89.4469",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 10",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/9C9QEVGV5GH0STSAMYFT2194S4/c8fe092c-c05f-4a26-a664-d43472c1300b/416x272.jpg?v=ad4943b7def390adc380b55fd92a3911",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/9C9QEVGV5GH0STSAMYFT2194S4/c8fe092c-c05f-4a26-a664-d43472c1300b/668x452.jpg?v=5e41fd12bfdb56f43bbfef4058966716",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/9C9QEVGV5GH0STSAMYFT2194S4/1e9c61f8-640d-40fc-8fac-fafdbd0ac67a/416x272.jpg?v=72e2c61485a8df30d760e3ebc228cf11",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/9C9QEVGV5GH0STSAMYFT2194S4/1e9c61f8-640d-40fc-8fac-fafdbd0ac67a/668x452.jpg?v=fa2452acbda5a1ddde808203efdb32c5",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/9C9QEVGV5GH0STSAMYFT2194S4/c4691eea-4aae-40b1-bd7d-9d9d13af02d9/416x272.jpg?v=fd4749e477e014a57e32cc06005b9309",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/9C9QEVGV5GH0STSAMYFT2194S4/c4691eea-4aae-40b1-bd7d-9d9d13af02d9/668x452.jpg?v=809064a6d2756b82945ae4de56119b9f",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "size": {
+     "value": 2748,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-the-springs-springs-10-164589410.html",
+    "reference": "PB-S-9326-7",
+    "listed_date": "2026-10-26T11:24:02Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-9326-7%0AType%3A+Villa%0APrice%3A+5%2C999%2C000+AED+%0ALocation%3A+Springs+10+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164589410%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 29,
+    "amenities": [
+     "BA",
+     "CP",
+     "VW",
+     "PA",
+     "ST",
+     "PG",
+     "BW",
+     "SE"
+    ],
+    "completion_status": "completed",
+    "furnished": "YES",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 67.60341,
+    "rss": 67.60341,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4469",
+      "name": "Springs 10",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-10",
+      "slug_en": "the-springs-springs-10",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Nathan Blake and BARNES Dubai are delighted to present this fully upgraded type 3M in a perfect location with lake views.\n\nProperty Features:\n- Springs 10\n- Type 3M\n- 3 Bedrooms + Study\n- Full Lake View\n- Fully Upgraded\n- Front Extension \n- Owner Occupied \n- Vacant On Transfer \n- Motivated Sellers\n- BUA - 2,456 Sq. Ft. (Before Extension)\n- Plot - 2,748.03 Sq. Ft. \n- Agent - Nathan Blake\n\nPresenting this beautifully upgraded Type 3M villa in the highly sought-after Springs 10 community. Positioned in a prime location, this owner-occupied home offers stunning full lake views and has been meticulously maintained throughout.\n\nThe property features 3 spacious bedrooms plus a study, alongside a thoughtfully designed front extension that enhances the overall living space. Fully upgraded to a high standard, this villa is perfect for end-users and investors alike.\n\nThis home combines comfort, functionality, and exceptional outdoor surroundings.\n\nPlease call Nathan Blake to arrange a viewing.",
+    "amenity_names": [
+     "Balcony",
+     "Covered Parking",
+     "View of Water",
+     "Pets Allowed",
+     "Study",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-the-springs-springs-10-164589410.html",
+    "rank_score": 67.60340881347656,
+    "bedrooms_value": 3,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "9C9QEVGV5GH0STSAMYFT2194S4",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 13000,
+    "price_per_area": {
+     "price": 2183,
+     "unit": "sqft",
+     "built_up_area": 2558.208955223881,
+     "plot": 2183.042212518195
+    },
+    "view_360": "",
+    "plot_size": 2748,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "built_up_area": 2345,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 3,
+   "aggregated_position": 3,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164589244",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 7000000,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Full Deep Lake View | Owner Occupied | Extended",
+    "location": {
+     "id": "4473",
+     "full_name": "Springs 14, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.051584243774414,
+      "lon": 55.17394256591797
+     },
+     "slug": "the-springs-springs-14",
+     "path": "1.89.4473",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 14",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/DBKCXYE6S5956Z1PJG2MWBFEEM/9932afbe-b92a-4052-8088-bb138236d0de/416x272.jpg?v=2b0aed7e26be86b9670a2b3b1091b58d",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/DBKCXYE6S5956Z1PJG2MWBFEEM/9932afbe-b92a-4052-8088-bb138236d0de/668x452.jpg?v=0119500adfe8134a064795026519ba10",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/DBKCXYE6S5956Z1PJG2MWBFEEM/3b8a5845-62be-4924-8e04-e2133847d898/416x272.jpg?v=74f1e0aa7a7b85fdfad18bf529d4fea2",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/DBKCXYE6S5956Z1PJG2MWBFEEM/3b8a5845-62be-4924-8e04-e2133847d898/668x452.jpg?v=211f874c9164a6a341901c6d04f036ac",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/DBKCXYE6S5956Z1PJG2MWBFEEM/d6b5247c-9923-445a-9f0a-7b92fe6d441e/416x272.jpg?v=b346e4d9d4b79a982b493a77496392cc",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/DBKCXYE6S5956Z1PJG2MWBFEEM/d6b5247c-9923-445a-9f0a-7b92fe6d441e/668x452.jpg?v=4f4fec7865d4e8b2387a0eacf09dca6d",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "size": {
+     "value": 3720,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-the-springs-springs-14-164589244.html",
+    "reference": "PB-S-38821-7",
+    "listed_date": "2026-10-26T11:21:21Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-38821-7%0AType%3A+Villa%0APrice%3A+7%2C000%2C000+AED+%0ALocation%3A+Springs+14+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164589244%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 16,
+    "amenities": [
+     "MR",
+     "BA",
+     "SP",
+     "CP",
+     "VW",
+     "PA",
+     "ST",
+     "PG",
+     "PR",
+     "CO",
+     "SE"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 67.60284,
+    "rss": 67.60284,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4473",
+      "name": "Springs 14",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-14",
+      "slug_en": "the-springs-springs-14",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Nathan Blake and BARNES Dubai are delighted to present this exceptionally located 2E, with an unbelievable lake view.\n\nFull Deep Lake View | Owner Occupied | Extended\n\n- Springs 14\n- Type 2E\n- 3 Bedroom + Study + Maids \n- Full Deep Lake View \n- Extended \n- Pristine Condition \n- Owner Occupied \n- Plot - 2,700 Sq. Ft. \n- BUA - 3,720.22 Sq. Ft. \n- Agent - Nathan Blake\n\nPresented by Nathan Blake, this stunning Type 2E villa in Springs 14 offers a rare opportunity to own a beautifully extended home with a full deep lake view. \n\nMaintained in pristine condition and owner occupied, the property features 3 spacious bedrooms, a study, and maid’s room, making it ideal for family living. The extended layout provides generous living and entertaining space, complemented by bright interiors and a peaceful waterfront setting. \n\nThis home combines comfort, privacy, and one of the best views within the community. Located in the highly sought-after Springs 14, residents enjoy a tranquil lifestyle with easy access to parks, pools, schools, and retail amenities.",
+    "amenity_names": [
+     "Maids Room",
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "View of Water",
+     "Pets Allowed",
+     "Study",
+     "Private Garden",
+     "Children's Play Area",
+     "Children's Pool",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-the-springs-springs-14-164589244.html",
+    "rank_score": 67.60283660888672,
+    "bedrooms_value": 3,
+    "bathrooms_value": 4,
+    "is_pf_exclusive": false,
+    "listing_id": "DBKCXYE6S5956Z1PJG2MWBFEEM",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 15000,
+    "price_per_area": {
+     "price": 1881,
+     "unit": "sqft",
+     "built_up_area": 2606.1057334326138,
+     "plot": 1881.720430107527
+    },
+    "view_360": "",
+    "plot_size": 3720,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "built_up_area": 2686,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 4,
+   "aggregated_position": 4,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164588946",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 7649000,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "EXCLUSIVE | Turnkey High End Renovation | Extended",
+    "location": {
+     "id": "4467",
+     "full_name": "Springs 8, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.060590744018555,
+      "lon": 55.18796920776367
+     },
+     "slug": "the-springs-springs-8",
+     "path": "1.89.4467",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 8",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/7Z0A7XM08F0VT979W98SXCQ298/3be8df3c-6e99-43c7-9eaf-bce2db43685b/416x272.jpg?v=e7c73dfea66f504b833d99fd4b0b51f8",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/7Z0A7XM08F0VT979W98SXCQ298/3be8df3c-6e99-43c7-9eaf-bce2db43685b/668x452.jpg?v=c2420ec7f737084d1058b377590422ed",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/7Z0A7XM08F0VT979W98SXCQ298/e23a5ee8-9d05-4c08-bc73-ff5cdd20160a/416x272.jpg?v=3e717b0a0c308989163893b61c5eb8d2",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/7Z0A7XM08F0VT979W98SXCQ298/e23a5ee8-9d05-4c08-bc73-ff5cdd20160a/668x452.jpg?v=7bf586e022366016f6279083218f8204",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/7Z0A7XM08F0VT979W98SXCQ298/e35818a4-56c8-4579-9ef6-febc762107d8/416x272.jpg?v=0ffa8ceb3790eab634c872a22a753cd3",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/7Z0A7XM08F0VT979W98SXCQ298/e35818a4-56c8-4579-9ef6-febc762107d8/668x452.jpg?v=6e043fa9f2b8227af934d3a7e492b232",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "size": {
+     "value": 3595,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-the-springs-springs-8-164588946.html",
+    "reference": "PB-S-7595-2",
+    "listed_date": "2026-10-26T11:19:10Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-7595-2%0AType%3A+Villa%0APrice%3A+7%2C649%2C000+AED+%0ALocation%3A+Springs+8+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164588946%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 26,
+    "amenities": [
+     "BA",
+     "SP",
+     "CP",
+     "PA",
+     "ST",
+     "PG",
+     "PP",
+     "BW",
+     "BK",
+     "PR",
+     "CO",
+     "BR",
+     "SE"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 67.60237,
+    "rss": 67.60237,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4467",
+      "name": "Springs 8",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-8",
+      "slug_en": "the-springs-springs-8",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Nathan Blake and BARNES Dubai are delighted to exclusively present this one-of-a-kind, high end renovated villa in the highly sought after Springs 8.\n\n- Exclusive\n- Springs 8\n- Turnkey\n- 3 Bedrooms + Office\n- Large Plot\n- Private Pool\n- Extended\n- High End Renovations\n- One Of A Kind\n- Opposite Lake\n- BUA - 2,285 Sq. Ft. (Before Extension)\n- Plot - 3,595 Sq. Ft. Approx\n- Agent - Nathan Blake\n\nOffering 3 bedrooms plus a dedicated office, this exceptional home has been extended and upgraded with high end renovations throughout. Ready to move into, the turnkey property combines stylish finishes with spacious, practical living areas, creating a distinctive home in a sought after lakeside setting.\n\nSet on a large plot of approximately 3,595 sq. ft., the villa features a private swimming pool, BBQ area, outdoor seating and is ideally positioned opposite the lake. Its thoughtful extension and premium renovation make it a rare opportunity for buyers seeking a unique home in Emirates Living.",
+    "amenity_names": [
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "Pets Allowed",
+     "Study",
+     "Private Garden",
+     "Private Pool",
+     "Built in Wardrobes",
+     "Kitchen Appliances",
+     "Children's Play Area",
+     "Children's Pool",
+     "Barbecue Area",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-the-springs-springs-8-164588946.html",
+    "rank_score": 67.60237121582031,
+    "bedrooms_value": 3,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "7Z0A7XM08F0VT979W98SXCQ298",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 17000,
+    "price_per_area": {
+     "price": 2127,
+     "unit": "sqft",
+     "built_up_area": 3347.483588621444,
+     "plot": 2127.6773296244783
+    },
+    "view_360": "",
+    "plot_size": 3595,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": true,
+    "built_up_area": 2285,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 5,
+   "aggregated_position": 5,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "145503377",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 6250000,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "PRICE REDUCED | Owner Occupied | Fully Upgraded",
+    "location": {
+     "id": "4473",
+     "full_name": "Springs 14, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.051584243774414,
+      "lon": 55.17394256591797
+     },
+     "slug": "the-springs-springs-14",
+     "path": "1.89.4473",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 14",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/5RAFQQSE1FND9TJDQVRTQMW2KR/25a1bee1-ac76-40e4-826c-4569d7d45ab5/416x272.jpg?v=aebf2679eb1def4fea96c3a47af9ef2c",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/5RAFQQSE1FND9TJDQVRTQMW2KR/25a1bee1-ac76-40e4-826c-4569d7d45ab5/668x452.jpg?v=21e42c4527cf74e5ea983286958ac393",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/5RAFQQSE1FND9TJDQVRTQMW2KR/cdb08946-ef44-4b24-970d-64c399e95420/416x272.jpg?v=581f0a84ee00174edbc0217e0b5cba3b",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/5RAFQQSE1FND9TJDQVRTQMW2KR/cdb08946-ef44-4b24-970d-64c399e95420/668x452.jpg?v=4ca83d0948b69cc04135ee1fa68df831",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/5RAFQQSE1FND9TJDQVRTQMW2KR/7093a229-3e16-4e43-a63d-7aaffd9c69dc/416x272.jpg?v=24dc93544e47b9296744a13479fd380e",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/5RAFQQSE1FND9TJDQVRTQMW2KR/7093a229-3e16-4e43-a63d-7aaffd9c69dc/668x452.jpg?v=4b5e10cc84df858f0377aa6495db94b7",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "size": {
+     "value": 2746,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-the-springs-springs-14-145503377.html",
+    "reference": "PB-S-36649-6",
+    "listed_date": "2026-09-16T05:51:57Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-36649-6%0AType%3A+Villa%0APrice%3A+6%2C250%2C000+AED+%0ALocation%3A+Springs+14+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F145503377%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 20,
+    "amenities": [
+     "MR",
+     "BA",
+     "SP",
+     "CP",
+     "ST",
+     "PG",
+     "BK",
+     "PR",
+     "CO",
+     "SE"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 63.715607,
+    "rss": 63.715607,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4473",
+      "name": "Springs 14",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-14",
+      "slug_en": "the-springs-springs-14",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "- Springs 14\n- Type 2M\n- 3 Bedroom + Study + Maids + Family Area\n- Fully Upgraded\n- Opposite Pool And Park\n- Extended\n- Owner Occupied\n- Vacant On Transfer\n- Plot - 2,588 Sq. Ft. (Before Extensions)\n- BUA - 2,745.87 Sq. Ft. \n\nNathan Blake and BARNES Dubai are delighted to present this exceptional Type 2M.\n\nLocated in the highly sought-after Springs 14 community, this beautifully presented villa offers an ideal family home in a prime position.\n\nThe property features 3 spacious bedrooms, a study, maid’s room and a family area, providing flexible living space for modern family life.\n\nFully upgraded throughout and thoughtfully extended, the villa has been meticulously maintained as its currently owner occupied.\n\nPositioned directly opposite the community pool and park, it benefits from open views and a peaceful family-friendly setting.\n\nThe home offers a plot of 2,588 Sq. Ft. (before extensions) and sits on 2,745 Sq. Ft. BUA. This property is a perfect turnkey opportunity for end users or investors.",
+    "amenity_names": [
+     "Maids Room",
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "Study",
+     "Private Garden",
+     "Kitchen Appliances",
+     "Children's Play Area",
+     "Children's Pool",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-the-springs-springs-14-145503377.html",
+    "rank_score": 63.715606689453125,
+    "bedrooms_value": 3,
+    "bathrooms_value": 4,
+    "is_pf_exclusive": false,
+    "listing_id": "5RAFQQSE1FND9TJDQVRTQMW2KR",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/666a03c4845df6e718941412a11ad785/00a484af-2b04-49d5-8341-feb82e9fe26a/watermarked.png",
+      "floor_number": 0,
+      "area": 2745,
+      "id": "Dubai_the_spring_the_springs_14_3BD_05__29476"
+     },
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/faf2a7a7cdb44f684e8bd70831e9df8b/2f2a302a-314a-49ac-b8f5-ebd3841b65fc/watermarked.png",
+      "floor_number": 0,
+      "area": 2745,
+      "id": "Dubai_the_spring_the_springs_14_3BD_08__33208"
+     },
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/eee005a5cf80a9e9963c26f3ada64d1d/ee491c81-426b-4edd-a682-bf9988b2752b/watermarked.png",
+      "floor_number": 0,
+      "area": 2745,
+      "id": "Dubai_the_spring_the_springs_14_3BD_011__28983"
+     }
+    ],
+    "mortgage_cashback": 14000,
+    "price_per_area": {
+     "price": 2276,
+     "unit": "sqft",
+     "built_up_area": 2447.141738449491,
+     "plot": 2276.037873270211
+    },
+    "view_360": "",
+    "plot_size": 2746,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "built_up_area": 2554,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 6,
+   "aggregated_position": 6,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "153291916",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 9800000,
+     "currency": "AED",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "PRICE REDUCED | EXCLUSIVE | VACANT NOW | TYPE 2",
+    "location": {
+     "id": "4097",
+     "full_name": "Meadows 9, Meadows, Dubai",
+     "coordinates": {
+      "lat": 25.046472549438477,
+      "lon": 55.173404693603516
+     },
+     "slug": "meadows-meadows-9",
+     "path": "1.76.4097",
+     "type": "SUBCOMMUNITY",
+     "name": "Meadows 9",
+     "path_name": "Dubai, Meadows",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JP7MDSBE2VG9TYKH0RXQGK2G30/61c08585-389d-4c11-8f99-ff0d23555e8c/416x272.jpg?v=e42902e575ff3499e95002938ef37ae3",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JP7MDSBE2VG9TYKH0RXQGK2G30/61c08585-389d-4c11-8f99-ff0d23555e8c/668x452.jpg?v=928c53c78226a7a8eedbaa2e88ffb744",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JP7MDSBE2VG9TYKH0RXQGK2G30/80563241-91a3-42a5-9951-4f40b715daa6/416x272.jpg?v=229f8c89d53e10ef8134282b9ba6a1e7",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JP7MDSBE2VG9TYKH0RXQGK2G30/80563241-91a3-42a5-9951-4f40b715daa6/668x452.jpg?v=eb3cd589cbeedf3334f26a44f78c756c",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JP7MDSBE2VG9TYKH0RXQGK2G30/5a75f2de-c2b3-420f-b4c6-2a7855bbca52/416x272.jpg?v=15d98da5d87ab289dc645aeb60efefad",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JP7MDSBE2VG9TYKH0RXQGK2G30/5a75f2de-c2b3-420f-b4c6-2a7855bbca52/668x452.jpg?v=883cb937d1138a554cc1271176937176",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "264476",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+     "is_super_agent": true,
+     "name": "Nathan Blake",
+     "user_id": 116810,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "nathan-blake"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "size": {
+     "value": 5866,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/buy/villa-for-sale-dubai-meadows-meadows-9-153291916.html",
+    "reference": "PB-S-8321-3",
+    "listed_date": "2026-10-02T08:47:35Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-S-8321-3%0AType%3A+Villa%0APrice%3A+9%2C800%2C000+AED+%0ALocation%3A+Meadows+9+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F153291916%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 30,
+    "amenities": [
+     "BA",
+     "CP",
+     "PG",
+     "BW",
+     "BK",
+     "SE"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 72.186775,
+    "rss": 72.186775,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Sale",
+    "video_url": "https://youtu.be/efrMhCswBUw",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "76",
+      "name": "Meadows",
+      "type": "COMMUNITY",
+      "slug": "meadows",
+      "slug_en": "meadows",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4097",
+      "name": "Meadows 9",
+      "type": "SUBCOMMUNITY",
+      "slug": "meadows-meadows-9",
+      "slug_en": "meadows-meadows-9",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Nathan Blake and BARNES Dubai are delighted to exclusively present this well located and very well priced Type 2 in Meadows 9.\n\n- Exclusive \n- Meadows 9 \n- Type 2 \n- 4 Bedroom + Maids \n- Upgraded Kitchen & Bathrooms \n- Back To Back \n- Vacant Now \n- BUA - 4,018 Sq. Ft. \n- Plot - 5,886.33 Sq. Ft.\n\nPresenting this exclusive Type 2 villa in the highly desirable Meadows 9, offering an exceptional opportunity to own a beautifully maintained family home in one of Dubai's most established communities. \n\nThis 4-bedroom plus maid's villa features a fully upgraded kitchen and bathrooms, combining modern finishes with the spacious layout that makes the Type 2 one of the area's most sought-after floor plans. Positioned in a back-to-back location, with bright open-plan living and dining areas, spacious bedrooms, and a private landscaped garden ideal for family living and entertaining. \n\nThis home is ready for immediate occupancy, making it an ideal choice for both end-users and investors. Conveniently located close to parks, lakes, schools and community amenities, this is a rare opportunity to secure an upgraded home in the heart of Emirates Living.",
+    "amenity_names": [
+     "Balcony",
+     "Covered Parking",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Kitchen Appliances",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 10,
+    "details_path": "/en/plp/buy/villa-for-sale-dubai-meadows-meadows-9-153291916.html",
+    "rank_score": 72.18677520751953,
+    "bedrooms_value": 4,
+    "bathrooms_value": 4,
+    "is_pf_exclusive": false,
+    "listing_id": "JP7MDSBE2VG9TYKH0RXQGK2G30",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 21000,
+    "price_per_area": {
+     "price": 1670,
+     "unit": "sqft",
+     "plot": 1670.6443914081146
+    },
+    "view_360": "",
+    "plot_size": 5866,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 7,
+   "aggregated_position": 7,
+   "project_expert": null
+  }
+ ],
+ "similar_listings": [],
+ "meta": {
+  "page": 1,
+  "total_count": 7,
+  "new_properties_count": 0,
+  "per_page": 10,
+  "page_count": 1,
+  "location_tree": []
+ },
+ "filter_errors": []
+}

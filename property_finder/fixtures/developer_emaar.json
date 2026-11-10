@@ -1,0 +1,143 @@
+{
+ "id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+ "pf_client_id": "1803",
+ "pf_portal_legacy_id": "5",
+ "sf_account_number": "118333",
+ "communication": {
+  "direct": {
+   "primary_phone_number": "9710585573022",
+   "additional_phone_numbers": [
+    ""
+   ],
+   "primary_email": "hassaan.aslam@propertyfinder.ae",
+   "additional_emails": [
+    ""
+   ]
+  },
+  "lead": {
+   "primary_phone_number": "971503073759",
+   "additional_phone_numbers": [
+    ""
+   ],
+   "primary_email": "m.umar@emaar.ae",
+   "additional_emails": [
+    ""
+   ]
+  },
+  "website": "",
+  "whatsapp_links": {
+   "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Femaar-properties%0A",
+   "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Femaar-properties%0A"
+  }
+ },
+ "media": {
+  "gallery": [
+   {
+    "id": "2c3b71e5-2825-4eca-b632-c8007c628836",
+    "entity_id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+    "entity_type": "developer",
+    "name": "original",
+    "category": "image",
+    "locator": "gallery",
+    "ext": ".webp",
+    "src": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/original.webp",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/thumbnail.webp"
+    }
+   },
+   {
+    "id": "55e1a84a-b252-4679-ab1a-5a4506c5ea12",
+    "entity_id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+    "entity_type": "developer",
+    "name": "original",
+    "category": "image",
+    "locator": "gallery",
+    "ext": ".webp",
+    "src": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/original.webp",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/thumbnail.webp"
+    }
+   }
+  ],
+  "logo": [
+   {
+    "id": "956ca72d-fa0a-41d1-8f9a-9d66b85f0cbe",
+    "entity_id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+    "entity_type": "developer",
+    "name": "original",
+    "category": "image",
+    "locator": "logo",
+    "ext": ".png",
+    "src": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/original.png",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/big.png",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/thumbnail.webp"
+    }
+   }
+  ]
+ },
+ "dev_page_enabled": true,
+ "name": {
+  "en": "Emaar Properties",
+  "ar": "إعمار العقارية"
+ },
+ "slug": "emaar-properties",
+ "description": {
+  "en": "<p><span style=\"color: rgb(0, 0, 0);\">Emaar, a real estate giant </span><span style=\"color: rgb(51, 51, 51);\">founded in 1997</span><span style=\"color: rgb(0, 0, 0);\">, is renowned for Burj Khalifa and Dubai Mall. Emaar offers different properties built to the highest standards.</span><span style=\"color: rgb(51, 51, 51);\"> Their mission is to shape the future for everyone.</span></p>",
+  "ar": "<p>اكتشف إعمار، المطور العقاري الشهير وراء برج خليفة ودبي مول. تقدم إعمار فللًا وشققًا مصممة بأعلى المعايير. منذ تأسيسها عام 1997، كان هدفها المساهمة في تشكيل المستقبل.</p>"
+ },
+ "num_projects_delivered": null,
+ "num_projects_online": 214,
+ "hq_country": null,
+ "operation_countries": [],
+ "average_building_weeks": null,
+ "building_types": [],
+ "development_classes": [
+  ""
+ ],
+ "established_since": "1997-01-03T00:00:00Z",
+ "license_number": "500353",
+ "construction_phase": {
+  "not_started": 1,
+  "cancelled": 0,
+  "under_construction": 157,
+  "on_hold": 0,
+  "completed": 56,
+  "demolished": 0
+ },
+ "construction_phase_per_location": {
+  "1": {
+   "not_started": 1,
+   "cancelled": 0,
+   "under_construction": 156,
+   "on_hold": 0,
+   "completed": 56,
+   "demolished": 0
+  },
+  "3": {
+   "not_started": 0,
+   "cancelled": 0,
+   "under_construction": 1,
+   "on_hold": 0,
+   "completed": 0,
+   "demolished": 0
+  }
+ }
+}

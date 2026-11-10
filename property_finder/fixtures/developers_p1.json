@@ -1,0 +1,1035 @@
+{
+ "data": {
+  "developers": [
+   {
+    "id": "30f94be2-b434-4063-a426-a65feb0f99d7",
+    "pf_client_id": "5005",
+    "pf_portal_legacy_id": "526",
+    "sf_account_number": "115032",
+    "communication": {
+     "direct": {
+      "primary_phone_number": "058 949 1147",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "luca.orthmann@gmail.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "971565443728",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "pfleads@revirealty.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Frevi-realty%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Frevi-realty%0A"
+     }
+    },
+    "media": {
+     "gallery": [
+      {
+       "id": "bffc1819-f5d1-4824-94ae-3f9d0d26399b",
+       "entity_id": "30f94be2-b434-4063-a426-a65feb0f99d7",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "gallery",
+       "ext": ".jpg",
+       "src": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/original.jpg",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/big.jpg",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/gallery/image/CoVWsjh-w8vjsS1bCXi6eHLobqKkD1C_QGgbfkyYwAY=/thumbnail.webp"
+       }
+      }
+     ],
+     "logo": [
+      {
+       "id": "f9c0e16a-a341-4cf9-8bcf-0e56bfd02bfe",
+       "entity_id": "30f94be2-b434-4063-a426-a65feb0f99d7",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/30f94be2-b434-4063-a426-a65feb0f99d7/logo/image/FUVAWTLIgertVYHKoD7kSQXUxcLdmjfcJGaFURre4-g=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": true,
+    "lead_cta": [
+     {
+      "id": "4e6f9c37-402b-4d99-8a1b-6c905c476a07",
+      "owner_type": "developer",
+      "owner_sf_account_number": "115032",
+      "ownership_until": "2027-12-17T00:00:00Z",
+      "cost_per_lead": "25",
+      "contract_number": "O-127995",
+      "campaign_source": "O-127995_Revi_Realty",
+      "entity_id": "30f94be2-b434-4063-a426-a65feb0f99d7",
+      "entity_type": "developer"
+     }
+    ],
+    "name": {
+     "en": "Revi Realty",
+     "ar": "ريڤي رييلايتي"
+    },
+    "slug": "revi-realty",
+    "description": {
+     "en": "<p><span style=\"color: rgb(0, 0, 0);\">Since 2014, Revi Realty has been producing top-notch residential developments in Dubai under the direction of Moreno Ivano Nicoli. Revi is well-known for their superior craftsmanship and design.</span></p>",
+     "ar": "<p><span style=\"color: rgb(0, 0, 0);\">ريفي ريالتي، تحت إشراف مورينو إيفانو نيكولي، تقوم منذ عام 2014 بتطوير مشاريع سكنية متميزة في دبي. تشتهر الشركة بجودة التصاميم ودقة التنفيذ، مما يجعلها من الشركات الرائدة في قطاع العقارات الفاخرة.</span></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 2,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2014-08-14T00:00:00Z",
+    "license_number": "1104265",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 1,
+     "on_hold": 0,
+     "completed": 1,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 1,
+      "on_hold": 0,
+      "completed": 1,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d",
+    "pf_client_id": "2042",
+    "pf_portal_legacy_id": "240",
+    "sf_account_number": "115688",
+    "communication": {
+     "direct": {
+      "primary_phone_number": "80025327",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "customercare@aldar.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "80025327",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "customercare@aldar.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Faldar-properties-pjsc%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Faldar-properties-pjsc%0A"
+     }
+    },
+    "media": {
+     "gallery": [
+      {
+       "id": "c033ebf8-fb2f-4a23-8e21-d1df7f934ba6",
+       "entity_id": "d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "gallery",
+       "ext": ".webp",
+       "src": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/original.webp",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/big.webp",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/gallery/image/o49hh2DOxXGyoMbhVVqkYbhiyOeqWiO-MuIoP9mP8Yw=/thumbnail.webp"
+       }
+      }
+     ],
+     "logo": [
+      {
+       "id": "33dfd616-e568-43cb-ba6c-8cc4b5baf96f",
+       "entity_id": "d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": true,
+    "lead_cta": [
+     {
+      "id": "7036c838-28ba-455f-93ec-79196cae632c",
+      "owner_type": "developer",
+      "owner_sf_account_number": "115688",
+      "ownership_until": "2027-08-30T00:00:00Z",
+      "cost_per_lead": "25",
+      "contract_number": "O-250687",
+      "campaign_source": "O-250687_Aldar_Properties_PJSC",
+      "entity_id": "d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d",
+      "entity_type": "developer"
+     }
+    ],
+    "name": {
+     "en": "Aldar Properties PJSC",
+     "ar": "الدار  العقارية"
+    },
+    "slug": "aldar-properties-pjsc",
+    "description": {
+     "en": "<p><span style=\"color: rgb(0, 0, 0);\">Aldar Properties is Abu Dhabi's premier developer founded in 2004, shaping world-class communities with a wide range of properties to choose from. Famous for creating luxurious living experiences.</span></p><p><span style=\"color: rgb(0, 0, 0);\">&nbsp;</span></p>",
+     "ar": "<p>\"تعد الدار العقارية المطور الرائد في أبوظبي منذ تأسيسها عام 2004، حيث تسهم في تطوير مجتمعات عالمية المستوى مع مجموعة متنوعة من العقارات. تشتهر بتقديم تجارب معيشية فاخرة.\"</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 107,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2004-03-11T00:00:00Z",
+    "license_number": "CN-1003168",
+    "construction_phase": {
+     "not_started": 5,
+     "cancelled": 0,
+     "under_construction": 83,
+     "on_hold": 0,
+     "completed": 19,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 42,
+      "on_hold": 0,
+      "completed": 0,
+      "demolished": 0
+     },
+     "3": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 2,
+      "on_hold": 0,
+      "completed": 0,
+      "demolished": 0
+     },
+     "6": {
+      "not_started": 5,
+      "cancelled": 0,
+      "under_construction": 39,
+      "on_hold": 0,
+      "completed": 19,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "eee68878-a1b6-4eb7-be9e-9adcadc7c542",
+    "pf_client_id": "5275",
+    "pf_portal_legacy_id": "548",
+    "sf_account_number": null,
+    "communication": {
+     "direct": {
+      "primary_phone_number": "+971 04 239 3801",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@altadevelopment.ae",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "97143264455",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@altadevelopment.ae",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Falta-real-estate-development%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Falta-real-estate-development%0A"
+     }
+    },
+    "media": {
+     "gallery": [
+      {
+       "id": "b78e4215-f7db-4548-9966-61734b77699c",
+       "entity_id": "eee68878-a1b6-4eb7-be9e-9adcadc7c542",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "gallery",
+       "ext": ".jpg",
+       "src": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/original.jpg",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/big.jpg",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/gallery/image/HXugdfmAOg6pwCS13EyAVkk_MA8g-senHmZ1RkTIQmI=/thumbnail.webp"
+       }
+      }
+     ],
+     "logo": [
+      {
+       "id": "e4b24138-3598-4856-861d-2c65354410ce",
+       "entity_id": "eee68878-a1b6-4eb7-be9e-9adcadc7c542",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/eee68878-a1b6-4eb7-be9e-9adcadc7c542/logo/image/5Q0UIqM_jeBCk5F4V2eJX-ey_rBIxIcNEvitB6cohTQ=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": true,
+    "lead_cta": [
+     {
+      "id": "5d162a8c-7fd3-4778-bb74-e04a74688515",
+      "owner_type": "developer",
+      "owner_sf_account_number": "0",
+      "ownership_until": "2027-11-19T00:00:00Z",
+      "cost_per_lead": "25",
+      "contract_number": "O-129857",
+      "campaign_source": "O-129857_Alta_Real_Estate_Development",
+      "entity_id": "eee68878-a1b6-4eb7-be9e-9adcadc7c542",
+      "entity_type": "developer"
+     }
+    ],
+    "name": {
+     "en": "Alta Real Estate Development",
+     "ar": "ألتا للتطوير العقاري"
+    },
+    "slug": "alta-real-estate-development",
+    "description": {
+     "en": "<p>It’s about creating a lasting legacy that defines exceptional living. Every detail is considered &amp; every project has purpose. Even as we reach new heights, we remain grounded in the values that have defined us since day one.</p>",
+     "ar": "<p><span style=\"color: rgb(0, 0, 0);\">ألتا، شركة عقارية عالمية تتمتع برؤية مستقبلية، تتخصص في تحديد المشاريع في المواقع المتميزة ذات المساحات الواسعة للنمو، مع التركيز على تطوير العقارات الجديدة.</span></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 3,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2020-03-13T00:00:00Z",
+    "license_number": "500353",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 1,
+     "on_hold": 0,
+     "completed": 2,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 1,
+      "on_hold": 0,
+      "completed": 2,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "db16d589-88c5-4428-899b-db54b1d7ef7a",
+    "pf_client_id": "2772",
+    "pf_portal_legacy_id": "385",
+    "sf_account_number": "114761",
+    "communication": {
+     "direct": {
+      "primary_phone_number": "+971504100164",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "Ahmed.reda@binghatti.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "971505831526",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "Simonette.bajadi@binghatti.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Fbinghatti-developers%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Fbinghatti-developers%0A"
+     }
+    },
+    "media": {
+     "gallery": [
+      {
+       "id": "49a2fbfd-63ea-4b7b-b442-e84d62b0ce78",
+       "entity_id": "db16d589-88c5-4428-899b-db54b1d7ef7a",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "gallery",
+       "ext": ".jpg",
+       "src": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/original.jpg",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/big.jpg",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/gallery/image/A0mUL7I0OJ2wprkqDbFc_m6iVgtsfRx09O71LaFz008=/thumbnail.webp"
+       }
+      }
+     ],
+     "logo": [
+      {
+       "id": "2e4de640-4d63-4039-a12f-4e9bdacc67c7",
+       "entity_id": "db16d589-88c5-4428-899b-db54b1d7ef7a",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/db16d589-88c5-4428-899b-db54b1d7ef7a/logo/image/8vzI4gce86CSJ4D9K87x1kkedoyk-7e8CJWbx-rR8X0=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": true,
+    "lead_cta": [
+     {
+      "id": "bc29ad53-a003-4e36-94b2-0fbed85f6b0f",
+      "owner_type": "developer",
+      "owner_sf_account_number": "114761",
+      "ownership_until": "2028-02-04T00:00:00Z",
+      "cost_per_lead": "25",
+      "contract_number": "O-136273",
+      "campaign_source": "O-136273_Binghatti_Developers",
+      "entity_id": "db16d589-88c5-4428-899b-db54b1d7ef7a",
+      "entity_type": "developer"
+     }
+    ],
+    "name": {
+     "en": "Binghatti Developers",
+     "ar": "بن غاطي"
+    },
+    "slug": "binghatti-developers",
+    "description": {
+     "en": "<p>One of Dubai's leading developers, Binghatti, created opulent&nbsp;projects by offering a variety of residences that redefine luxury living. partnered with global brands, including Mercedes-Benz, Bugatti, and Jacob &amp; Co.</p>",
+     "ar": "<p>تعد بن غاطي من أبرز المطورين العقاريين في دبي، حيث تقدم مشاريع فاخرة تعيد تعريف أسلوب الحياة الراقي. تعاونت مع علامات تجارية عالمية مثل مرسيدس-بينز، بوغاتي، وجاكوب آند كو.</p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 72,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2008-03-13T00:00:00Z",
+    "license_number": "1279",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 31,
+     "on_hold": 0,
+     "completed": 41,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 31,
+      "on_hold": 0,
+      "completed": 41,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "1c7f2550-22df-469f-9bae-508146c253e1",
+    "pf_client_id": "2521",
+    "pf_portal_legacy_id": "347",
+    "sf_account_number": "114407",
+    "communication": {
+     "direct": {
+      "primary_phone_number": "0566579582",
+      "additional_phone_numbers": null,
+      "primary_email": "fahadakj@abukhamiss.com",
+      "additional_emails": null
+     },
+     "lead": {
+      "primary_phone_number": "0566579582",
+      "additional_phone_numbers": null,
+      "primary_email": "fahadakj@abukhamiss.com",
+      "additional_emails": null
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Fcw6-development%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Fcw6-development%0A"
+     }
+    },
+    "media": {},
+    "dev_page_enabled": false,
+    "name": {
+     "en": "CW6 Development",
+     "ar": ""
+    },
+    "slug": "cw6-development",
+    "description": {
+     "en": "",
+     "ar": ""
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 0,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [],
+    "established_since": null,
+    "license_number": "0",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 0,
+     "on_hold": 0,
+     "completed": 0,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {}
+   },
+   {
+    "id": "2227e408-a291-4b6a-955f-c47b28b7984a",
+    "pf_client_id": "",
+    "pf_portal_legacy_id": "0000",
+    "sf_account_number": null,
+    "communication": {
+     "direct": {
+      "primary_phone_number": "",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@propertyfinder.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@propertyfinder.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": null
+    },
+    "media": {},
+    "dev_page_enabled": false,
+    "name": {
+     "en": "Vista Real Estate Developments",
+     "ar": "Vista Real Estate Developments"
+    },
+    "slug": "vista-real-estate-developments",
+    "description": {
+     "en": "",
+     "ar": ""
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 0,
+    "hq_country": "",
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2026-04-22T22:21:19.375Z",
+    "license_number": "",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 0,
+     "on_hold": 0,
+     "completed": 0,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {}
+   },
+   {
+    "id": "2767abfc-838b-4e8d-a693-4a4c49b31483",
+    "pf_client_id": "0",
+    "pf_portal_legacy_id": "00",
+    "sf_account_number": null,
+    "communication": {
+     "direct": {
+      "primary_phone_number": "",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@manjothi.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "melikyan.ka@gmail.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": null
+    },
+    "media": {
+     "logo": [
+      {
+       "id": "99cfb133-7100-4372-9125-46918bf54649",
+       "entity_id": "2767abfc-838b-4e8d-a693-4a4c49b31483",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/2767abfc-838b-4e8d-a693-4a4c49b31483/logo/image/K6UriXMFsI_EgN8n-eYUkNnXdsd-WGUG_Vn4O_HjKaI=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": false,
+    "name": {
+     "en": "Manjothi Real Estate Development",
+     "ar": "Manjothi Real Estate Development"
+    },
+    "slug": "manjothi-real-estate-development",
+    "description": {
+     "en": "<p><span style=\"color: rgb(0, 0, 0);\">Manjothi Real Estate has 30 years of experience building homes in the UAE that are influenced by design. Their developments offer well-located homes that put comfort and elegance first, combining luxury and affordability.</span></p>",
+     "ar": "<p><span style=\"color: rgb(0, 0, 0);\">منجوتي العقارية تتمتع بخبرة 30 عامًا في بناء المنازل في الإمارات، حيث تركز مشاريعها على التصميم المتميز، مما يوفر منازل في مواقع استراتيجية تجمع بين الفخامة والراحة بأسعار تنافسية.</span></p><p><br></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 1,
+    "hq_country": "",
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2024-08-18T09:53:57.395Z",
+    "license_number": "",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 0,
+     "on_hold": 0,
+     "completed": 1,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 0,
+      "on_hold": 0,
+      "completed": 1,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "28e1f8bf-66a5-4d9f-8381-f5fdb39ee110",
+    "pf_client_id": "0",
+    "pf_portal_legacy_id": "0000",
+    "sf_account_number": null,
+    "communication": {
+     "direct": {
+      "primary_phone_number": "",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@propertyfinder.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "info@propertyfinder.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": null
+    },
+    "media": {
+     "logo": [
+      {
+       "id": "38803dff-7af8-4e8c-bd8a-88a5998f9b27",
+       "entity_id": "28e1f8bf-66a5-4d9f-8381-f5fdb39ee110",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/28e1f8bf-66a5-4d9f-8381-f5fdb39ee110/logo/image/mMdE0CfegCcienOpAXIukgXxVC5AZSHbKmvdsFT4G68=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": false,
+    "name": {
+     "en": "Darah South Real Estate Development",
+     "ar": "دارة ساوث للتطوير العقاري"
+    },
+    "slug": "darah-south-real-estate-development",
+    "description": {
+     "en": "<p><span style=\"color: rgb(0, 0, 0);\">Darah South Real Estate Development is a Dubai-based residential developer active in Dubai South, UAE. Their flagship project, Darah Residence (DLD No. 4363, AED 27M), targets handover in May 2029.</span></p>",
+     "ar": "<p><span style=\"color: rgb(0, 0, 0);\">داره ساوث للتطوير العقاري شركة سكنية مقرها دبي تعمل في منطقة دبي الجنوب بالإمارات مشروعها الرئيسي داره ريزيدنس رقم دائرة الأراضي ٤٣٦٣ بقيمة ٢٧ مليون درهم والتسليم المستهدف في مايو ٢٠٢٩</span></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 1,
+    "hq_country": "",
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2026-05-03T10:56:33.664Z",
+    "license_number": "",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 1,
+     "on_hold": 0,
+     "completed": 0,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 1,
+      "on_hold": 0,
+      "completed": 0,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "2f20e6c0-e80f-4072-89b1-8fbfea7b9264",
+    "pf_client_id": "5298",
+    "pf_portal_legacy_id": "563",
+    "sf_account_number": null,
+    "communication": {
+     "direct": {
+      "primary_phone_number": "971568867371",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "melikyan.ka@gmail.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "971568867371",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "melikyan.ka@gmail.com",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Ftabeer-starwood-holding-limited%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Ftabeer-starwood-holding-limited%0A"
+     }
+    },
+    "media": {
+     "logo": [
+      {
+       "id": "ea0ac3d6-7e80-4bd0-8733-154f0829ee58",
+       "entity_id": "2f20e6c0-e80f-4072-89b1-8fbfea7b9264",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/2f20e6c0-e80f-4072-89b1-8fbfea7b9264/logo/image/X8X1DFrnplqJdFChZhtLkbF5kJkRAE7NTeLPAiBDQNs=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": false,
+    "name": {
+     "en": "Tabeer Starwood Holding Limited",
+     "ar": "تعبير ستاروود القابضة"
+    },
+    "slug": "tabeer-starwood-holding-limited",
+    "description": {
+     "en": "<p><span style=\"color: rgb(0, 0, 0);\">Tabeer Starwood Holding Limited, Dubai-based developers. Partnered with Starwood Capital Group, have created several high-end residential projects in Dubai, including the St. Regis Dubai and the Westin Dubai.</span></p>",
+     "ar": "<p><span style=\"color: rgb(0, 0, 0);\">تعبير ستاروود هولدينغ ليميتد، شركة تطوير عقاري في دبي. دخلت في شراكة مع ستاروود كابيتال جروب لتطوير عدة مشاريع سكنية فاخرة في دبي، بما في ذلك سانت ريجيس دبي وويستن دبي.</span></p><p><br></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 3,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2014-05-22T00:00:00Z",
+    "license_number": "500353",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 2,
+     "on_hold": 0,
+     "completed": 1,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 2,
+      "on_hold": 0,
+      "completed": 1,
+      "demolished": 0
+     }
+    }
+   },
+   {
+    "id": "19252207-e1ef-445e-99a7-a6736c5138d2",
+    "pf_client_id": "8240",
+    "pf_portal_legacy_id": "783",
+    "sf_account_number": "100126",
+    "communication": {
+     "direct": {
+      "primary_phone_number": "+971 4 3341234",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "waleedre@emirates.net.ae",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "lead": {
+      "primary_phone_number": "+971 4 3341234",
+      "additional_phone_numbers": [
+       ""
+      ],
+      "primary_email": "waleedre@emirates.net.ae",
+      "additional_emails": [
+       ""
+      ]
+     },
+     "website": "",
+     "whatsapp_links": {
+      "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdev-lp%2Fal-waleed-real-estate%0A",
+      "ar": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+your+projects+which+I+found+on+Property+Finder.+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Fdev-lp%2Fal-waleed-real-estate%0A"
+     }
+    },
+    "media": {
+     "logo": [
+      {
+       "id": "c230fc93-e742-4285-98db-f8d5fb2f40e5",
+       "entity_id": "19252207-e1ef-445e-99a7-a6736c5138d2",
+       "entity_type": "developer",
+       "name": "original",
+       "category": "image",
+       "locator": "logo",
+       "ext": ".png",
+       "src": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/original.png",
+       "attach_order": 0,
+       "variants": {
+        "big": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/big.webp",
+        "fullscreen": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/fullscreen.webp",
+        "medium": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/medium.webp",
+        "small": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/small.webp",
+        "src_big": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/big.png",
+        "thumbnail": "https://new-projects-media.propertyfinder.com/developer/19252207-e1ef-445e-99a7-a6736c5138d2/logo/image/kQcOQKVC8Op7AinWVfSdr-aHH4DQOWtLHBYIDTPPRI4=/thumbnail.webp"
+       }
+      }
+     ]
+    },
+    "dev_page_enabled": false,
+    "name": {
+     "en": "Al Waleed Real Estate",
+     "ar": "Al Waleed Real Estate"
+    },
+    "slug": "al-waleed-real-estate",
+    "description": {
+     "en": "<p><span style=\"color: rgb(0, 0, 0);\">Al Waleed Real Estate offers residential options with projects designed to be livable. Their creations frequently include practical designs that are appropriate for daily stability and comfort.</span></p>",
+     "ar": "<p><span style=\"color: rgb(0, 0, 0);\">الوليد العقارية تقدم خيارات سكنية بمشاريع مصممة لتكون صالحة للعيش. غالبًا ما تتضمن تصاميم عملية مناسبة للاستقرار والراحة اليومية.</span></p><p><br></p><p><br></p>"
+    },
+    "num_projects_delivered": null,
+    "num_projects_online": 2,
+    "hq_country": null,
+    "operation_countries": [],
+    "average_building_weeks": null,
+    "building_types": [],
+    "development_classes": [
+     ""
+    ],
+    "established_since": "2025-05-13T06:47:38.222Z",
+    "license_number": "0000",
+    "construction_phase": {
+     "not_started": 0,
+     "cancelled": 0,
+     "under_construction": 1,
+     "on_hold": 0,
+     "completed": 1,
+     "demolished": 0
+    },
+    "construction_phase_per_location": {
+     "1": {
+      "not_started": 0,
+      "cancelled": 0,
+      "under_construction": 1,
+      "on_hold": 0,
+      "completed": 1,
+      "demolished": 0
+     }
+    }
+   }
+  ]
+ },
+ "meta": {
+  "count": 960,
+  "left": 950,
+  "pagination": {
+   "page": 1,
+   "total": 96
+  }
+ }
+}

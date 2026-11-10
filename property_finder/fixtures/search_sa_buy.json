@@ -1,0 +1,1082 @@
+{
+ "listings": [
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "52173408",
+    "category_id": 1,
+    "property_type": "Apartment",
+    "price": {
+     "value": 1150000,
+     "currency": "SAR",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "2 Bedroom apartment  Bayat Plaza 1",
+    "location": {
+     "id": "5060",
+     "full_name": "Ash Sharafiyah, Jeddah, Makkah Al Mukarramah",
+     "coordinates": {
+      "lat": 21.50891876220703,
+      "lon": 39.182594299316406
+     },
+     "slug": "jeddah-ash-sharafiyah",
+     "path": "11.2658.5060",
+     "type": "DISTRICT",
+     "name": "Ash Sharafiyah",
+     "path_name": "Makkah Al Mukarramah, Jeddah",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/GB635PM10ZBRPJV2KRRZ29PTS0/80a5b21e-7787-4b31-8aa9-18cf6d3816f5/416x272.jpg?v=22a0e71621d4d0cc199bb9574a761911",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/GB635PM10ZBRPJV2KRRZ29PTS0/80a5b21e-7787-4b31-8aa9-18cf6d3816f5/668x452.jpg?v=196af8e33d88717c9d9eb98afdb5d0d6",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/GB635PM10ZBRPJV2KRRZ29PTS0/2470a11e-9305-4e36-9b7d-e9bdc998ed0c/416x272.jpg?v=2649816d3a46a87e2e852b5161a56bf9",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/GB635PM10ZBRPJV2KRRZ29PTS0/2470a11e-9305-4e36-9b7d-e9bdc998ed0c/668x452.jpg?v=786eff944a12e43b842f60f791e81567",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/GB635PM10ZBRPJV2KRRZ29PTS0/7e3ecc76-05c7-4810-8115-524767216f90/416x272.jpg?v=64589f3fadf00664712a885448b3bae1",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/GB635PM10ZBRPJV2KRRZ29PTS0/7e3ecc76-05c7-4810-8115-524767216f90/668x452.jpg?v=1410fbee49351677147c89b6f28bbbfb",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "1002",
+     "image": "",
+     "is_super_agent": false,
+     "name": "Hassan Shami",
+     "user_id": 371,
+     "email": "",
+     "languages": [],
+     "slug": "hassan-shami"
+    },
+    "broker": {
+     "id": "450",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/450/c0bff5b5-65f2-4ae0-84b2-7810c13fbf0e/260x200.jpg",
+     "name": "شركة سلونس السعودية للعقارات المحدودة",
+     "address": "Office 1, Building -, Jeddah Eslamic Seaport, حي الخالدية -شارع صاري - مبنى جدة 101 للأعمال, Jeddah, PO Box -",
+     "email": "ali@sabbangroup.com",
+     "phone": "+966126900099",
+     "slug": "شركة-منازل-لاعمال-التنمية-والتسويق-1126"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": true,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "size": {
+     "value": 112,
+     "unit": "sqm"
+    },
+    "share_url": "https://www.propertyfinder.sa/en/plp/buy/apartment-for-sale-makkah-al-mukarramah-jeddah-ash-sharafiyah-52173408.html",
+    "reference": "1904s",
+    "listed_date": "2026-09-23T10:12:52Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+966126900099",
+      "link": "tel:+966126900099",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+966118080988",
+      "link": "https://api.whatsapp.com/send?phone=+966118080988&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+1904s%0AType%3A+Apartment%0APrice%3A+1%2C150%2C000+SAR+%0ALocation%3A+Ash+Sharafiyah+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.sa%2Fto%2F52173408%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 10,
+    "amenities": [
+     "SN",
+     "EL",
+     "WT"
+    ],
+    "completion_status": "completed_primary",
+    "furnished": "NO",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "7201089525",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": true,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "featured",
+    "listing_level_label": "smart_ad",
+    "location_tree": [
+     {
+      "id": "11",
+      "name": "Makkah Al Mukarramah",
+      "type": "REGION",
+      "slug": "makkah-al-mukarramah",
+      "slug_en": "makkah-al-mukarramah",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "2658",
+      "name": "Jeddah",
+      "type": "CITY",
+      "slug": "jeddah",
+      "slug_en": "jeddah",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "5060",
+      "name": "Ash Sharafiyah",
+      "type": "DISTRICT",
+      "slug": "jeddah-ash-sharafiyah",
+      "slug_en": "jeddah-ash-sharafiyah",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "2 Bedroom apartment on 3rd floor Bayat Plaza Towers with 3.5 m high, floor-to-ceiling glazing, looking out over the skyline of Jeddah, with neutral and contemporary floor tiles and finishing to act as a canvass to decorate on. The thoughtfully planned kitchens come fully equipped with integrated oven, glass-ceramic cooktop, microwave, dishwasher, refrigerator and washing machine. Each bathroom is finished with the highest standard mosaic tiling and white goods, complimenting the interior design throughout the apartment whilst full height doors provide a sense of magnificence, worthy of Bayat Plaza luxury.",
+    "amenity_names": [
+     "Sanitation",
+     "Electricity",
+     "Waters"
+    ],
+    "payment_method": [],
+    "lead_value": 100,
+    "details_path": "/en/plp/buy/apartment-for-sale-makkah-al-mukarramah-jeddah-ash-sharafiyah-52173408.html",
+    "rank_score": 0,
+    "bedrooms_value": 2,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "GB635PM10ZBRPJV2KRRZ29PTS0",
+    "client": {
+     "id": "450",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/450/c0bff5b5-65f2-4ae0-84b2-7810c13fbf0e/260x200.jpg",
+     "name": "شركة سلونس السعودية للعقارات المحدودة",
+     "address": "Office 1, Building -, Jeddah Eslamic Seaport, حي الخالدية -شارع صاري - مبنى جدة 101 للأعمال, Jeddah, PO Box -",
+     "email": "ali@sabbangroup.com",
+     "phone": "+966126900099",
+     "slug": "شركة-منازل-لاعمال-التنمية-والتسويق-1126"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": {
+     "price": 10267,
+     "unit": "sqm"
+    },
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 1,
+   "aggregated_position": 1,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "51663908",
+    "category_id": 1,
+    "property_type": "Apartment",
+    "price": {
+     "value": 750000,
+     "currency": "SAR",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Apartment for sale in Laban, Riyadh, 750,000",
+    "location": {
+     "id": "8379",
+     "full_name": "Dhahrat Laban, Riyadh, Ar Riyadh",
+     "coordinates": {
+      "lat": 24.606061935424805,
+      "lon": 46.50670623779297
+     },
+     "slug": "dhahrat-laban",
+     "path": "4.8216.8379",
+     "type": "DISTRICT",
+     "name": "Dhahrat Laban",
+     "path_name": "Ar Riyadh, Riyadh",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/8665JVS0T1M6MD7EJA5759H7SR/56408f5b-383e-42cd-ae23-4face314be9d/416x272.jpg?v=d38afb1af3cffa2ed2c40035290f1c9f",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/8665JVS0T1M6MD7EJA5759H7SR/56408f5b-383e-42cd-ae23-4face314be9d/668x452.jpg?v=21ee1566924f7074dabd408ceba7ff01",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/8665JVS0T1M6MD7EJA5759H7SR/87bf5430-cbdb-495b-bf4f-d36aec906942/416x272.jpg?v=42908754ca132a7b32eb46984e11bafa",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/8665JVS0T1M6MD7EJA5759H7SR/87bf5430-cbdb-495b-bf4f-d36aec906942/668x452.jpg?v=858609966e2d87cdace449e89187273a",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/8665JVS0T1M6MD7EJA5759H7SR/089c1be1-ca99-40ce-a412-c56b974ec2c6/416x272.jpg?v=a54d21c1c4b3c9dcb5f9b7ca790064ab",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/8665JVS0T1M6MD7EJA5759H7SR/089c1be1-ca99-40ce-a412-c56b974ec2c6/668x452.jpg?v=cbff40a4161bd868d523682d00b091d2",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "19844",
+     "image": "",
+     "is_super_agent": false,
+     "name": "فهد عبدالله",
+     "user_id": 21973,
+     "email": "",
+     "languages": [],
+     "slug": "فهد-عبدالله"
+    },
+    "broker": {
+     "id": "4669",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4669/cee22f2b-dc40-4bd8-840a-e58ae7923af5/260x200.jpg",
+     "name": "شركة ستيم العربية للتطوير والاستثمار العقاري",
+     "address": "Office 6438, Building 3603, Downtown Riyadh, شارع التحلية, Riyadh, PO Box 12241",
+     "email": "info@steam-realestate.com",
+     "phone": "+966537443353",
+     "slug": "شركة-ستيم-العربية-للتطوير-والاستثمار-العقاري-5345"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "size": {
+     "value": 124,
+     "unit": "sqm"
+    },
+    "share_url": "https://www.propertyfinder.sa/en/plp/buy/apartment-for-sale-ar-riyadh-dhahrat-laban-51663908.html",
+    "reference": "8665JVS0T1M6MD7EJA5759H7SR",
+    "listed_date": "2026-06-16T14:29:18Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+966537443353",
+      "link": "tel:+966537443353",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+966537443353",
+      "link": "https://api.whatsapp.com/send?phone=+966537443353&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+8665JVS0T1M6MD7EJA5759H7SR%0AType%3A+Apartment%0APrice%3A+750%2C000+SAR+%0ALocation%3A+Dhahrat+Laban+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.sa%2Fto%2F51663908%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 20,
+    "amenities": [
+     "EL",
+     "WT",
+     "SN",
+     "PH"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "7201006280",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": true,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "smart_ad",
+    "location_tree": [
+     {
+      "id": "4",
+      "name": "Ar Riyadh",
+      "type": "REGION",
+      "slug": "ar-riyadh",
+      "slug_en": "ar-riyadh",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "8216",
+      "name": "Riyadh",
+      "type": "CITY",
+      "slug": "riyadh",
+      "slug_en": "riyadh",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "8379",
+      "name": "Dhahrat Laban",
+      "type": "DISTRICT",
+      "slug": "dhahrat-laban",
+      "slug_en": "dhahrat-laban",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "For Sale: Distinctive Apartment in Al-Laban Al-Gharbi District, Riyadh, for SAR 750,000**\n\nAn opportunity to own an apartment in a prime location in Al-Laban Al-Gharbi, one of the most sought-after residential areas in western Riyadh.\n\nSpecifications: 3 bedrooms + living room + 3 bathrooms. It is conveniently located near Najd Street, the main artery of Al-Laban Al-Gharbi, and is away from traffic congestion and close to all government and commercial services. - **Area:** 124.97 m²\n- **Price:** 750,000 SAR\n- **Location:** Al-Laban Al-Gharbi District, Riyadh\n- **Suitable for Residential and Investment**\n- **Prime Location Close to Services and Main Roads**\n\n For inquiries, please contact the following numbers:\n\n 0559658309 - 0537443353 - 0533540220\n Steam Arabia Real Estate Development Company welcomes your real estate offers and requests. We have representatives in all banks to complete your financial transactions.\n\nWe provide you with the best financial calculations for financing.",
+    "amenity_names": [
+     "Electricity",
+     "Waters",
+     "Sanitation",
+     "Fixed Phone"
+    ],
+    "payment_method": [],
+    "lead_value": 100,
+    "details_path": "/en/plp/buy/apartment-for-sale-ar-riyadh-dhahrat-laban-51663908.html",
+    "rank_score": 0,
+    "bedrooms_value": 4,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "8665JVS0T1M6MD7EJA5759H7SR",
+    "client": {
+     "id": "4669",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4669/cee22f2b-dc40-4bd8-840a-e58ae7923af5/260x200.jpg",
+     "name": "شركة ستيم العربية للتطوير والاستثمار العقاري",
+     "address": "Office 6438, Building 3603, Downtown Riyadh, شارع التحلية, Riyadh, PO Box 12241",
+     "email": "info@steam-realestate.com",
+     "phone": "+966537443353",
+     "slug": "شركة-ستيم-العربية-للتطوير-والاستثمار-العقاري-5345"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": {
+     "price": 6048,
+     "unit": "sqm"
+    },
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 2,
+   "aggregated_position": 2,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "52411338",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 2650000,
+     "currency": "SAR",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Elegant Villa for Sale in Sidra – ROSHN | 300 SQM",
+    "location": {
+     "id": "8302",
+     "full_name": "سدرة, Riyadh, Ar Riyadh",
+     "coordinates": {
+      "lat": 24.854888916015625,
+      "lon": 46.74779510498047
+     },
+     "slug": "ar-الرياض-سدرة",
+     "path": "4.8216.8302",
+     "type": "DISTRICT",
+     "name": "سدرة",
+     "path_name": "Ar Riyadh, Riyadh",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/X2GABQE72A3AH3A8N9P8955KDC/0c5aa522-8254-479f-97cb-fa5b2d612522/416x272.jpg?v=5b4829f3f24d8fd9f5eba3aac09d0528",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/X2GABQE72A3AH3A8N9P8955KDC/0c5aa522-8254-479f-97cb-fa5b2d612522/668x452.jpg?v=bc10698619c4abdc6290e22525f8bd9f",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/X2GABQE72A3AH3A8N9P8955KDC/180716c6-402c-44d2-8e98-a3575aa6ffee/416x272.jpg?v=6f5983ac3af2ab59fea3d6c7c27b6b43",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/X2GABQE72A3AH3A8N9P8955KDC/180716c6-402c-44d2-8e98-a3575aa6ffee/668x452.jpg?v=873910f06a09e82dae5700b5780bf56a",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/X2GABQE72A3AH3A8N9P8955KDC/d2bcfc59-5518-466b-85c9-16fe2d4ecec9/416x272.jpg?v=e8f14f0ee3999114f8a9727171acced4",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/X2GABQE72A3AH3A8N9P8955KDC/d2bcfc59-5518-466b-85c9-16fe2d4ecec9/668x452.jpg?v=b5abbb08fa42ad6ea4be035ddc744f52",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "19996",
+     "image": "https://static.shared.propertyfinder.sa/media/images/agent_image/19996/bed26c44-ded9-4df1-85e6-be146c2b7f05/260x200.jpg?v=39820581880a6d9b811a234167ce45db",
+     "is_super_agent": false,
+     "name": "Saleh Aloglan",
+     "user_id": 22152,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "saleh-aloglan"
+    },
+    "broker": {
+     "id": "4858",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4858/dae46e35-ace6-4a9a-8b97-0147f3d7aa01/260x200.jpg?v=a7af631d3dad30241f8503fece49acad",
+     "name": "saleh property EST",
+     "address": "Office -, Building -, North Riyadh, -, Riyadh, PO Box -",
+     "email": "saleh_aloglan@hotmail.com",
+     "phone": "+971504363731",
+     "slug": "saleh-property-est-5534"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": true,
+    "is_premium": false,
+    "is_new_insert": true,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "4",
+    "bathrooms": "6",
+    "size": {
+     "value": 300,
+     "unit": "sqm"
+    },
+    "share_url": "https://www.propertyfinder.sa/en/plp/buy/villa-for-sale-ar-riyadh-ar-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%B3%D8%AF%D8%B1%D8%A9-52411338.html",
+    "reference": "RUHI1419",
+    "listed_date": "2026-11-06T08:25:42Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971504363731",
+      "link": "tel:+971504363731",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+966118080988",
+      "link": "https://api.whatsapp.com/send?phone=+966118080988&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+RUHI1419%0AType%3A+Villa%0APrice%3A+2%2C650%2C000+SAR+%0ALocation%3A+%D8%B3%D8%AF%D8%B1%D8%A9+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.sa%2Fto%2F52411338%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 15,
+    "amenities": [
+     "PH",
+     "WT",
+     "SN",
+     "EL"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 59.233036,
+    "rss": 59.233036,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "7201193281",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "featured",
+    "listing_level_label": "featured",
+    "location_tree": [
+     {
+      "id": "4",
+      "name": "Ar Riyadh",
+      "type": "REGION",
+      "slug": "ar-riyadh",
+      "slug_en": "ar-riyadh",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "8216",
+      "name": "Riyadh",
+      "type": "CITY",
+      "slug": "riyadh",
+      "slug_en": "riyadh",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "8302",
+      "name": "سدرة",
+      "type": "DISTRICT",
+      "slug": "ar-الرياض-سدرة",
+      "slug_en": "ar-الرياض-سدرة",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Elegant Villa for Sale in Sidra – ROSHN | 300 SQM\n\nA luxurious modern villa offering spacious interiors, privacy and contemporary design.\n\nGround Floor:\n\n* Two shaded parking spaces.\n* Separate guest and family entrances.\n* Guest majlis with bathroom.\n* Spacious living and dining area.\n* Fully equipped kitchen.\n* Laundry room and storage.\n* Maid’s room with bathroom.\n* Private garden.\n\nFirst Floor:\n\n* Family living room.\n* Master bedroom with walk-in closet and ensuite bathroom.\n* One bedroom with private bathroom.\n* Two bedrooms with a shared bathroom.\n\nFeatures:\n\n* Smart AC system.\n* Solar-powered water heater.\n* Fire alarm system.\n* EV charger.\n* Building and appliances warranties.\n\nPrime Location near King Salman International Airport, Expo 2030, Princess Nourah University and ROSHN Front.\n\nContact: 0504363731",
+    "amenity_names": [
+     "Fixed Phone",
+     "Waters",
+     "Sanitation",
+     "Electricity"
+    ],
+    "payment_method": [],
+    "lead_value": 100,
+    "details_path": "/en/plp/buy/villa-for-sale-ar-riyadh-ar-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%B3%D8%AF%D8%B1%D8%A9-52411338.html",
+    "rank_score": 59.233036041259766,
+    "bedrooms_value": 4,
+    "bathrooms_value": 6,
+    "is_pf_exclusive": false,
+    "listing_id": "X2GABQE72A3AH3A8N9P8955KDC",
+    "client": {
+     "id": "4858",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4858/dae46e35-ace6-4a9a-8b97-0147f3d7aa01/260x200.jpg?v=a7af631d3dad30241f8503fece49acad",
+     "name": "saleh property EST",
+     "address": "Office -, Building -, North Riyadh, -, Riyadh, PO Box -",
+     "email": "saleh_aloglan@hotmail.com",
+     "phone": "+971504363731",
+     "slug": "saleh-property-est-5534"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": {
+     "price": 8833,
+     "unit": "sqm",
+     "plot": 8833.333333333334
+    },
+    "view_360": "",
+    "plot_size": 300,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 3,
+   "aggregated_position": 3,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "52406105",
+    "category_id": 1,
+    "property_type": "Villa",
+    "price": {
+     "value": 2500000,
+     "currency": "SAR",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Elegant Villa for Sale in Sidra – ROSHN | 300 SQM",
+    "location": {
+     "id": "8302",
+     "full_name": "سدرة, Riyadh, Ar Riyadh",
+     "coordinates": {
+      "lat": 24.85369873046875,
+      "lon": 46.74260711669922
+     },
+     "slug": "ar-الرياض-سدرة",
+     "path": "4.8216.8302",
+     "type": "DISTRICT",
+     "name": "سدرة",
+     "path_name": "Ar Riyadh, Riyadh",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/4PDPC0RG3G4ZZYRPTZ8NTMTTD4/a60ad1e4-b3cc-4afb-b161-01244911a917/416x272.jpg?v=c0ea074e84c97d8dcbfb631f66bc1fc0",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/4PDPC0RG3G4ZZYRPTZ8NTMTTD4/a60ad1e4-b3cc-4afb-b161-01244911a917/668x452.jpg?v=9e639084d8c9bfd5c4b23b2ffb84175a",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/4PDPC0RG3G4ZZYRPTZ8NTMTTD4/c7e4d9d6-5456-4a6c-9b27-f22d3d60b4d3/416x272.jpg?v=a192f709b4ab0f97d64790026f5b1be6",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/4PDPC0RG3G4ZZYRPTZ8NTMTTD4/c7e4d9d6-5456-4a6c-9b27-f22d3d60b4d3/668x452.jpg?v=3453e3876e2716891c8f6c77e952f1c3",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/4PDPC0RG3G4ZZYRPTZ8NTMTTD4/ad1d54cb-5b32-4621-b94c-519174803e3f/416x272.jpg?v=7351239c554ab33f76aadf860da060e2",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/4PDPC0RG3G4ZZYRPTZ8NTMTTD4/ad1d54cb-5b32-4621-b94c-519174803e3f/668x452.jpg?v=164c748ae6c95e09e8e29666ca5fce69",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "19996",
+     "image": "https://static.shared.propertyfinder.sa/media/images/agent_image/19996/bed26c44-ded9-4df1-85e6-be146c2b7f05/260x200.jpg?v=39820581880a6d9b811a234167ce45db",
+     "is_super_agent": false,
+     "name": "Saleh Aloglan",
+     "user_id": 22152,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "saleh-aloglan"
+    },
+    "broker": {
+     "id": "4858",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4858/dae46e35-ace6-4a9a-8b97-0147f3d7aa01/260x200.jpg?v=a7af631d3dad30241f8503fece49acad",
+     "name": "saleh property EST",
+     "address": "Office -, Building -, North Riyadh, -, Riyadh, PO Box -",
+     "email": "saleh_aloglan@hotmail.com",
+     "phone": "+971504363731",
+     "slug": "saleh-property-est-5534"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": true,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "4",
+    "bathrooms": "6",
+    "size": {
+     "value": 300,
+     "unit": "sqm"
+    },
+    "share_url": "https://www.propertyfinder.sa/en/plp/buy/villa-for-sale-ar-riyadh-ar-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%B3%D8%AF%D8%B1%D8%A9-52406105.html",
+    "reference": "RUHK1346",
+    "listed_date": "2026-11-05T13:47:02Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971504363731",
+      "link": "tel:+971504363731",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+966118080988",
+      "link": "https://api.whatsapp.com/send?phone=+966118080988&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+RUHK1346%0AType%3A+Villa%0APrice%3A+2%2C500%2C000+SAR+%0ALocation%3A+%D8%B3%D8%AF%D8%B1%D8%A9+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.sa%2Fto%2F52406105%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 19,
+    "amenities": [
+     "SN",
+     "PH",
+     "WT",
+     "EL"
+    ],
+    "completion_status": "completed",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 58.711174,
+    "rss": 58.711174,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "7201212879",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "featured",
+    "listing_level_label": "featured",
+    "location_tree": [
+     {
+      "id": "4",
+      "name": "Ar Riyadh",
+      "type": "REGION",
+      "slug": "ar-riyadh",
+      "slug_en": "ar-riyadh",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "8216",
+      "name": "Riyadh",
+      "type": "CITY",
+      "slug": "riyadh",
+      "slug_en": "riyadh",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "8302",
+      "name": "سدرة",
+      "type": "DISTRICT",
+      "slug": "ar-الرياض-سدرة",
+      "slug_en": "ar-الرياض-سدرة",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Elegant Villa for Sale in Sidra – ROSHN | 300 SQM\n\nA modern villa combining luxury, comfort and privacy.\n\nGround Floor:\n\n* Two shaded parking spaces.\n* Separate guest and family entrances.\n* Guest majlis with bathroom.\n* Spacious living and dining areas.\n* Fully equipped kitchen.\n* Laundry area and storage room.\n* Maid’s room with bathroom.\n* Private garden.\n\nFirst Floor:\n\n* Family lounge.\n* Master bedroom with walk-in closet and ensuite.\n* One bedroom with private bathroom.\n* Two bedrooms sharing a bathroom.\n\nFeatures:\n\n* Smart AC system.\n* Solar-powered water heater.\n* Fire alarm system.\n* EV charger.\n* Building and appliance warranties.\n\nPrime Location: Near King Salman Airport, Expo 2030, Princess Nourah University and ROSHN Front.\n\nContact: 0504363731",
+    "amenity_names": [
+     "Sanitation",
+     "Fixed Phone",
+     "Waters",
+     "Electricity"
+    ],
+    "payment_method": [],
+    "lead_value": 100,
+    "details_path": "/en/plp/buy/villa-for-sale-ar-riyadh-ar-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%B3%D8%AF%D8%B1%D8%A9-52406105.html",
+    "rank_score": 58.71117401123047,
+    "bedrooms_value": 4,
+    "bathrooms_value": 6,
+    "is_pf_exclusive": false,
+    "listing_id": "4PDPC0RG3G4ZZYRPTZ8NTMTTD4",
+    "client": {
+     "id": "4858",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4858/dae46e35-ace6-4a9a-8b97-0147f3d7aa01/260x200.jpg?v=a7af631d3dad30241f8503fece49acad",
+     "name": "saleh property EST",
+     "address": "Office -, Building -, North Riyadh, -, Riyadh, PO Box -",
+     "email": "saleh_aloglan@hotmail.com",
+     "phone": "+971504363731",
+     "slug": "saleh-property-est-5534"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": {
+     "price": 8333,
+     "unit": "sqm",
+     "plot": 8333.333333333334
+    },
+    "view_360": "",
+    "plot_size": 300,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": true,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 4,
+   "aggregated_position": 4,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "52382655",
+    "category_id": 1,
+    "property_type": "Apartment",
+    "price": {
+     "value": 650000,
+     "currency": "SAR",
+     "period": "sell",
+     "is_hidden": false
+    },
+    "title": "Apartment for sale in Al-Khadra District, Makkah C",
+    "location": {
+     "id": "9096",
+     "full_name": "الخضراء, مكة المكرمة, Makkah Al Mukarramah",
+     "coordinates": {
+      "lat": 21.45967674255371,
+      "lon": 39.917903900146484
+     },
+     "slug": "ar-مكة-المكرمة-الخضراء",
+     "path": "11.8952.9096",
+     "type": "DISTRICT",
+     "name": "الخضراء",
+     "path_name": "Makkah Al Mukarramah, مكة المكرمة",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/YW9NPB50JQRNGMQETB9BQCHZ8G/5634a427-e961-402b-b8f8-cd367cff6632/416x272.jpg?v=9c05da6519636cbf3d60a326ad2e14fd",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/YW9NPB50JQRNGMQETB9BQCHZ8G/5634a427-e961-402b-b8f8-cd367cff6632/668x452.jpg?v=e7b05f7d5900da44a3fae7da5e532c9f",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/YW9NPB50JQRNGMQETB9BQCHZ8G/c8af49cb-98f2-430d-bb97-1c55cb8e581e/416x272.jpg?v=acc23fd5d9db7a8442d6f60d119cca72",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/YW9NPB50JQRNGMQETB9BQCHZ8G/c8af49cb-98f2-430d-bb97-1c55cb8e581e/668x452.jpg?v=0e5cd237f3a909d6d7f7798bd31770e9",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.sa/media/images/listing/YW9NPB50JQRNGMQETB9BQCHZ8G/ea1f78a0-747a-4007-a762-515fac90c497/416x272.jpg?v=8be11461a1e49177358dda58de6c3871",
+      "medium": "https://static.shared.propertyfinder.sa/media/images/listing/YW9NPB50JQRNGMQETB9BQCHZ8G/ea1f78a0-747a-4007-a762-515fac90c497/668x452.jpg?v=af636ca516dc412096da2a9176216e16",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "21773",
+     "image": "https://static.shared.propertyfinder.sa/media/images/agent_image/21773/b4cb2b5c-eba5-474b-8be9-1165cf32800d/400x400.jpg?v=f7839dcf4fb00ba7138769a2613fc624",
+     "is_super_agent": false,
+     "name": "Abdulaziz Alguraybi MC. Jeddah",
+     "user_id": 0,
+     "email": "",
+     "languages": [],
+     "slug": "abdulaziz-alguraybi-mc-jeddah"
+    },
+    "broker": {
+     "id": "4920",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4920/ded1ba69-e0a8-4e9d-91d9-71aebe8cb68a/260x200.jpg",
+     "name": "كيلر ويليامز",
+     "address": "Office 13315, Building 6403, North Riyadh, King Fahd Branch Rd, Riyadh, PO Box 13315",
+     "email": "info@kwsaudiarabia.com",
+     "phone": "+966504421057",
+     "slug": "كيلر-ويليامز-5596"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": true,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "size": {
+     "value": 175,
+     "unit": "sqm"
+    },
+    "share_url": "https://www.propertyfinder.sa/en/plp/buy/apartment-for-sale-makkah-al-mukarramah-ar-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-52382655.html",
+    "reference": "6201134149/3",
+    "listed_date": "2026-11-01T08:59:11Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+966504421057",
+      "link": "tel:+966504421057",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+966118080988",
+      "link": "https://api.whatsapp.com/send?phone=+966118080988&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+6201134149%2F3%0AType%3A+Apartment%0APrice%3A+650%2C000+SAR+%0ALocation%3A+%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.sa%2Fto%2F52382655%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 15,
+    "amenities": [
+     "EL",
+     "SN",
+     "PH"
+    ],
+    "completion_status": "completed_primary",
+    "furnished": "NO",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 56.360218,
+    "rss": 56.360218,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "7201191809",
+    "offering_type": "Residential for Sale",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "featured",
+    "listing_level_label": "featured",
+    "location_tree": [
+     {
+      "id": "11",
+      "name": "Makkah Al Mukarramah",
+      "type": "REGION",
+      "slug": "makkah-al-mukarramah",
+      "slug_en": "makkah-al-mukarramah",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "8952",
+      "name": "مكة المكرمة",
+      "type": "CITY",
+      "slug": "ar-مكة-المكرمة",
+      "slug_en": "ar-مكة-المكرمة",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "9096",
+      "name": "الخضراء",
+      "type": "DISTRICT",
+      "slug": "ar-مكة-المكرمة-الخضراء",
+      "slug_en": "ar-مكة-المكرمة-الخضراء",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "To contact real estate agent Abdulaziz Al-Gharibi: +966 510455550\n\nLuxury Apartment for Sale in Al-Khadra District (Large-Unit Model)\nAn exceptional residential and investment opportunity | A modern apartment for sale in Al-Khadra district, located near a mosque and schools.\nExperience refined living in a property that combines high-quality construction, contemporary design, and a prime, vibrant location in Al-Khadra district—close to a mosque, schools, essential services, commercial outlets, and medical facilities.\nApartment Details:\nLocation: Top floor – Apartment No. (6)\nView: Direct view of the main street\nTotal Area: 175 m²\nInterior Layout:\nTwo independent entrances to ensure privacy.\nGuest reception area (Majlis) and a formal dining room.\n5 bedrooms (including one master bedroom).\n3 bathrooms featuring modern finishes, tempered glass, and rain showers.\nAn open-plan kitchen/bar area integrated with the living space, designed in a contemporary style.\nUtility/service room.\nPre-installed American-standard piping for split air conditioning units, with designated spaces for outdoor units to facilitate easy installation and maintenance.\nFeatures and Luxury Finishes:\nFinishes and Flooring: High-end finishes throughout, featuring elegant white ceramic flooring that enhances the sense of space and brightness. Includes modern gypsum board ceilings with sophisticated spotlighting.\nDoors: Sturdy, insulated wooden doors in a warm-toned finish.\nPrivacy: Apartment entrances on the floor are strategically positioned and spaced apart to ensure maximum privacy for residents. General Building Features and Amenities:\nA luxurious façade crafted from premium-grade Riyadh stone, accented with G.R.C. (Glass Reinforced Concrete) cornices and decorative lighting.\nExterior windows equipped with shutters for sun protection and enhanced privacy.\nComprehensive American-standard plumbing and electrical infrastructure, backed by a one-year warranty covering circuit breakers and electrical out",
+    "amenity_names": [
+     "Electricity",
+     "Sanitation",
+     "Fixed Phone"
+    ],
+    "payment_method": [],
+    "lead_value": 100,
+    "details_path": "/en/plp/buy/apartment-for-sale-makkah-al-mukarramah-ar-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-52382655.html",
+    "rank_score": 56.3602180480957,
+    "bedrooms_value": 5,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "YW9NPB50JQRNGMQETB9BQCHZ8G",
+    "client": {
+     "id": "4920",
+     "logo": "https://static.shared.propertyfinder.sa/media/images/client_logos/4920/ded1ba69-e0a8-4e9d-91d9-71aebe8cb68a/260x200.jpg",
+     "name": "كيلر ويليامز",
+     "address": "Office 13315, Building 6403, North Riyadh, King Fahd Branch Rd, Riyadh, PO Box 13315",
+     "email": "info@kwsaudiarabia.com",
+     "phone": "+966504421057",
+     "slug": "كيلر-ويليامز-5596"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": {
+     "price": 3714,
+     "unit": "sqm"
+    },
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": true,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 5,
+   "aggregated_position": 5,
+   "project_expert": null
+  }
+ ],
+ "similar_listings": [],
+ "meta": {
+  "page": 1,
+  "total_count": 3461,
+  "new_properties_count": 2,
+  "per_page": 3,
+  "page_count": 1154,
+  "min_max_price": {
+   "min": 349,
+   "max": 2183845500
+  },
+  "location_tree": []
+ },
+ "filter_errors": []
+}

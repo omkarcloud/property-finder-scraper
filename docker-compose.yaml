@@ -1,0 +1,10 @@
+services:
+  property-finder-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional: only for heavy, sustained traffic.
+      # - PROPERTY_FINDER_PROXY=http://user:pass@host:port

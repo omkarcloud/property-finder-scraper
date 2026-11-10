@@ -1,0 +1,286 @@
+{
+ "axisLabel": "AED/Sqft",
+ "graph": {
+  "1Y": [
+   {
+    "date": "2025-11-01T00:00:00Z",
+    "communityPrice": 2152,
+    "towerPrice": 2451,
+    "period": "Nov 2025",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2025-12-01T00:00:00Z",
+    "communityPrice": 2140,
+    "towerPrice": 2438,
+    "period": "Dec 2025",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-01-01T00:00:00Z",
+    "communityPrice": 2156,
+    "towerPrice": 2439,
+    "period": "Jan 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-02-01T00:00:00Z",
+    "communityPrice": 2169,
+    "towerPrice": 2375,
+    "period": "Feb 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-03-01T00:00:00Z",
+    "communityPrice": 2199,
+    "towerPrice": 2334,
+    "period": "Mar 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-04-01T00:00:00Z",
+    "communityPrice": 2234,
+    "towerPrice": 2306,
+    "period": "Apr 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-05-01T00:00:00Z",
+    "communityPrice": 2231,
+    "towerPrice": 2222,
+    "period": "May 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-06-01T00:00:00Z",
+    "communityPrice": 2213,
+    "towerPrice": 2206,
+    "period": "Jun 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-07-01T00:00:00Z",
+    "communityPrice": 2154,
+    "towerPrice": 2155,
+    "period": "Jul 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-08-01T00:00:00Z",
+    "communityPrice": 2108,
+    "towerPrice": 2112,
+    "period": "Aug 2026",
+    "timeFrame": "1Y"
+   },
+   {
+    "date": "2026-09-01T00:00:00Z",
+    "communityPrice": 2065,
+    "towerPrice": 2086,
+    "period": "Sep 2026",
+    "timeFrame": "1Y"
+   }
+  ],
+  "2Y": [
+   {
+    "date": "2024-11-01T00:00:00Z",
+    "communityPrice": 1953,
+    "towerPrice": 2104,
+    "period": "Nov 2024",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2024-12-01T00:00:00Z",
+    "communityPrice": 1969,
+    "towerPrice": 2060,
+    "period": "Dec 2024",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-01-01T00:00:00Z",
+    "communityPrice": 1960,
+    "towerPrice": 1931,
+    "period": "Jan 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-02-01T00:00:00Z",
+    "communityPrice": 1957,
+    "towerPrice": 1937,
+    "period": "Feb 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-03-01T00:00:00Z",
+    "communityPrice": 1974,
+    "towerPrice": 2032,
+    "period": "Mar 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-04-01T00:00:00Z",
+    "communityPrice": 1990,
+    "towerPrice": 2023,
+    "period": "Apr 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-05-01T00:00:00Z",
+    "communityPrice": 2017,
+    "towerPrice": 2091,
+    "period": "May 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-06-01T00:00:00Z",
+    "communityPrice": 2053,
+    "towerPrice": 2121,
+    "period": "Jun 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-07-01T00:00:00Z",
+    "communityPrice": 2094,
+    "towerPrice": 2153,
+    "period": "Jul 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-08-01T00:00:00Z",
+    "communityPrice": 2129,
+    "towerPrice": 2330,
+    "period": "Aug 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-09-01T00:00:00Z",
+    "communityPrice": 2145,
+    "towerPrice": 2451,
+    "period": "Sep 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-10-01T00:00:00Z",
+    "communityPrice": 2150,
+    "towerPrice": 2451,
+    "period": "Oct 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-11-01T00:00:00Z",
+    "communityPrice": 2152,
+    "towerPrice": 2451,
+    "period": "Nov 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2025-12-01T00:00:00Z",
+    "communityPrice": 2140,
+    "towerPrice": 2438,
+    "period": "Dec 2025",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-01-01T00:00:00Z",
+    "communityPrice": 2156,
+    "towerPrice": 2439,
+    "period": "Jan 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-02-01T00:00:00Z",
+    "communityPrice": 2169,
+    "towerPrice": 2375,
+    "period": "Feb 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-03-01T00:00:00Z",
+    "communityPrice": 2199,
+    "towerPrice": 2334,
+    "period": "Mar 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-04-01T00:00:00Z",
+    "communityPrice": 2234,
+    "towerPrice": 2306,
+    "period": "Apr 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-05-01T00:00:00Z",
+    "communityPrice": 2231,
+    "towerPrice": 2222,
+    "period": "May 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-06-01T00:00:00Z",
+    "communityPrice": 2213,
+    "towerPrice": 2206,
+    "period": "Jun 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-07-01T00:00:00Z",
+    "communityPrice": 2154,
+    "towerPrice": 2155,
+    "period": "Jul 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-08-01T00:00:00Z",
+    "communityPrice": 2108,
+    "towerPrice": 2112,
+    "period": "Aug 2026",
+    "timeFrame": "2Y"
+   },
+   {
+    "date": "2026-09-01T00:00:00Z",
+    "communityPrice": 2065,
+    "towerPrice": 2086,
+    "period": "Sep 2026",
+    "timeFrame": "2Y"
+   }
+  ],
+  "5Y": [
+   {
+    "date": "2022-01-01T00:00:00Z",
+    "communityPrice": 1148,
+    "towerPrice": 1093,
+    "period": "2022",
+    "timeFrame": "5Y"
+   },
+   {
+    "date": "2023-01-01T00:00:00Z",
+    "communityPrice": 1411,
+    "towerPrice": 1415,
+    "period": "2023",
+    "timeFrame": "5Y"
+   },
+   {
+    "date": "2024-01-01T00:00:00Z",
+    "communityPrice": 1798,
+    "towerPrice": 1861,
+    "period": "2024",
+    "timeFrame": "5Y"
+   },
+   {
+    "date": "2025-01-01T00:00:00Z",
+    "communityPrice": 2063,
+    "towerPrice": 2201,
+    "period": "2025",
+    "timeFrame": "5Y"
+   },
+   {
+    "date": "2026-01-01T00:00:00Z",
+    "communityPrice": 2170,
+    "towerPrice": 2248,
+    "period": "2026",
+    "timeFrame": "5Y"
+   }
+  ]
+ },
+ "communityName": "The Springs",
+ "towerName": "Springs 8"
+}

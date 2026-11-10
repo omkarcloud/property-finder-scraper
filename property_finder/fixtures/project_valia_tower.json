@@ -1,0 +1,1418 @@
+{
+ "id": "d1294890-1250-48b7-99e3-4f34a371b967",
+ "pf_portal_legacy_id": null,
+ "dld_id": "4448",
+ "developer": {
+  "id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+  "pf_client_id": "1803",
+  "pf_portal_legacy_id": "5",
+  "sf_account_number": "118333",
+  "communication": {
+   "direct": {
+    "primary_phone_number": "9710585573022",
+    "additional_phone_numbers": [
+     ""
+    ],
+    "primary_email": "hassaan.aslam@propertyfinder.ae",
+    "additional_emails": [
+     ""
+    ]
+   },
+   "lead": {
+    "primary_phone_number": "971503073759",
+    "additional_phone_numbers": [
+     ""
+    ],
+    "primary_email": "m.umar@emaar.ae",
+    "additional_emails": [
+     ""
+    ]
+   },
+   "website": "",
+   "whatsapp_links": null
+  },
+  "media": {
+   "gallery": [
+    {
+     "id": "2c3b71e5-2825-4eca-b632-c8007c628836",
+     "entity_id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+     "entity_type": "developer",
+     "name": "original",
+     "category": "image",
+     "locator": "gallery",
+     "ext": ".webp",
+     "src": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/original.webp",
+     "attach_order": 0,
+     "variants": {
+      "big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+      "fullscreen": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/fullscreen.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/medium.webp",
+      "small": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/small.webp",
+      "src_big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+      "thumbnail": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/thumbnail.webp"
+     }
+    },
+    {
+     "id": "55e1a84a-b252-4679-ab1a-5a4506c5ea12",
+     "entity_id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+     "entity_type": "developer",
+     "name": "original",
+     "category": "image",
+     "locator": "gallery",
+     "ext": ".webp",
+     "src": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/original.webp",
+     "attach_order": 0,
+     "variants": {
+      "big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+      "fullscreen": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/fullscreen.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/medium.webp",
+      "small": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/small.webp",
+      "src_big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/big.webp",
+      "thumbnail": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/gallery/image/h6WzyTCzjRb_E1gaglhXxt7P5ymBz_eidLtYk1qY0E4=/thumbnail.webp"
+     }
+    }
+   ],
+   "logo": [
+    {
+     "id": "956ca72d-fa0a-41d1-8f9a-9d66b85f0cbe",
+     "entity_id": "79ca4333-9975-4672-b05f-bb7329de75e9",
+     "entity_type": "developer",
+     "name": "original",
+     "category": "image",
+     "locator": "logo",
+     "ext": ".png",
+     "src": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/original.png",
+     "attach_order": 0,
+     "variants": {
+      "big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/big.webp",
+      "fullscreen": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/fullscreen.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/medium.webp",
+      "small": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/small.webp",
+      "src_big": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/big.png",
+      "thumbnail": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/thumbnail.webp"
+     }
+    }
+   ]
+  },
+  "dev_page_enabled": true,
+  "name": {
+   "en": "Emaar Properties",
+   "ar": "إعمار العقارية"
+  },
+  "slug": "emaar-properties",
+  "description": {
+   "en": "<p><span style=\"color: rgb(0, 0, 0);\">Emaar, a real estate giant </span><span style=\"color: rgb(51, 51, 51);\">founded in 1997</span><span style=\"color: rgb(0, 0, 0);\">, is renowned for Burj Khalifa and Dubai Mall. Emaar offers different properties built to the highest standards.</span><span style=\"color: rgb(51, 51, 51);\"> Their mission is to shape the future for everyone.</span></p>",
+   "ar": "<p>اكتشف إعمار، المطور العقاري الشهير وراء برج خليفة ودبي مول. تقدم إعمار فللًا وشققًا مصممة بأعلى المعايير. منذ تأسيسها عام 1997، كان هدفها المساهمة في تشكيل المستقبل.</p>"
+  },
+  "num_projects_delivered": null,
+  "num_projects_online": 0,
+  "hq_country": null,
+  "operation_countries": [],
+  "average_building_weeks": null,
+  "building_types": [],
+  "development_classes": [
+   ""
+  ],
+  "established_since": "1997-01-03T00:00:00Z",
+  "license_number": "500353"
+ },
+ "hotness_level": 89,
+ "map_to_listings": true,
+ "project_type": "project",
+ "weight_ranking": 100,
+ "communication": {
+  "direct": {
+   "primary_phone_number": "971543434369",
+   "additional_phone_numbers": [
+    ""
+   ],
+   "primary_email": "hassaan.aslam@propertyfinder.ae",
+   "additional_emails": [
+    ""
+   ]
+  },
+  "lead": {
+   "primary_phone_number": "971503073759",
+   "additional_phone_numbers": [
+    ""
+   ],
+   "primary_email": "",
+   "additional_emails": [
+    ""
+   ]
+  },
+  "website": "",
+  "whatsapp_links": {
+   "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Valia+Tower+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Femaar-properties%2Fvalia-tower%0A",
+   "ar": "https://wa.me/97145560345?text=%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+%D9%85%D9%87%D8%AA%D9%85+%D8%A8%D9%85%D8%B9%D8%B1%D9%81%D8%A9+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF+%D8%B9%D9%86+%D8%A8%D8%B1%D8%AC+%D9%81%D8%A7%D9%84%D9%8A%D8%A7+%D8%A7%D9%84%D8%B0%D9%8A+%D9%88%D8%AC%D8%AF%D8%AA%D9%87+%D9%81%D9%8A+Property+Finder.++%D8%B1%D8%A7%D8%A8%D8%B7+%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Femaar-properties%2Fvalia-tower%0A"
+  }
+ },
+ "media": {
+  "brochure": [
+   {
+    "id": "cfed0cf6-481d-4e46-947c-9927e5ee99df",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "application",
+    "locator": "brochure",
+    "ext": ".pdf",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/brochure/application/yO6sog2GsPh8CuQgU-evJ7oC0En8BaBOHPmPGdDy78Q=/original.pdf",
+    "attach_order": 0
+   }
+  ],
+  "gallery": [
+   {
+    "id": "135fa19b-5663-4f77-8aa7-db7de73095ce",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "gallery",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/thumbnail.webp"
+    }
+   },
+   {
+    "id": "9fc8f5d6-2916-4c3e-a0f1-cc504588eef1",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "video",
+    "locator": "gallery",
+    "ext": ".mp4",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/video/VD2zVFP0dQzLtGQ0fcFO8lsdzvnAIlvLniDsvnv3tpk=/original.mp4",
+    "attach_order": 0
+   },
+   {
+    "id": "d973c7ae-42dc-4090-b5bd-4efaef27f908",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "gallery",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/thumbnail.webp"
+    }
+   },
+   {
+    "id": "689794b2-6e88-481d-8884-659f8207b62f",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "gallery",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/thumbnail.webp"
+    }
+   },
+   {
+    "id": "1fbdd5a7-c4b9-4a7d-921c-2dc85431e5c5",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "gallery",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/thumbnail.webp"
+    }
+   }
+  ],
+  "logo": [
+   {
+    "id": "3451efc5-fe42-439c-af4f-d1e829feafd4",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "logo",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/logo/image/8xOymhhT9wSa-v5FyaF0rvhNl_4UgE4CGSusF0YUxPQ=/thumbnail.webp"
+    }
+   }
+  ],
+  "master_plan": [
+   {
+    "id": "8c2262ce-4ae3-4031-920f-db041362d6e9",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "master_plan",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/master_plan/image/_Nhn6bnRHKILGgCeedri-hp6E93e5g8nnu8RZkP2lF0=/thumbnail.webp"
+    }
+   }
+  ],
+  "mobile_image": [
+   {
+    "id": "7e9efeb4-1661-47e3-beb6-ae03c9952e17",
+    "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "entity_type": "project",
+    "name": "original",
+    "category": "image",
+    "locator": "mobile_image",
+    "ext": ".jpg",
+    "src": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/original.jpg",
+    "attach_order": 0,
+    "variants": {
+     "big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/big.webp",
+     "fullscreen": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/fullscreen.webp",
+     "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/medium.webp",
+     "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/small.webp",
+     "src_big": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/big.jpg",
+     "thumbnail": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/thumbnail.webp"
+    }
+   }
+  ]
+ },
+ "amenities": [
+  {
+   "id": "237c6327-c5ba-412a-a858-7ee7e730572f",
+   "slug": "indoor-swimming-pool",
+   "pf_portal_legacy_id": "keyword-241",
+   "category": "Well-being and Fitness",
+   "name": {
+    "en": "Indoor Swimming Pool",
+    "ar": "مسبح داخلي"
+   },
+   "details": {
+    "en": "",
+    "ar": ""
+   },
+   "allowed_for_commercial": false,
+   "allowed_for_residential": true,
+   "media": null
+  },
+  {
+   "id": "510baec5-379a-4f5e-938e-6f50844783d0",
+   "slug": "landscaped-gardens",
+   "pf_portal_legacy_id": "keyword-157",
+   "category": "Social and Community",
+   "name": {
+    "en": "Landscaped Gardens",
+    "ar": "حدائق طبيعية"
+   },
+   "details": {
+    "en": "",
+    "ar": ""
+   },
+   "allowed_for_commercial": false,
+   "allowed_for_residential": true,
+   "media": null
+  },
+  {
+   "id": "40f375da-620c-4985-950e-3b8544ac21d1",
+   "slug": "cctv-security",
+   "pf_portal_legacy_id": "keyword-21",
+   "category": "Essentials",
+   "name": {
+    "en": "CCTV Security",
+    "ar": "كاميرات المراقبة"
+   },
+   "details": {
+    "en": "",
+    "ar": ""
+   },
+   "allowed_for_commercial": false,
+   "allowed_for_residential": true,
+   "media": null
+  },
+  {
+   "id": "cbc21f91-08f2-4346-b9c6-9ed6918df574",
+   "slug": "gymnasium",
+   "pf_portal_legacy_id": "keyword-3",
+   "category": "Well-being and Fitness",
+   "name": {
+    "en": "Gymnasium",
+    "ar": "صالة رياضية"
+   },
+   "details": {
+    "en": "",
+    "ar": ""
+   },
+   "allowed_for_commercial": false,
+   "allowed_for_residential": true,
+   "media": null
+  },
+  {
+   "id": "3ad3ccac-d2b6-4a2b-89da-e9009dd2ecae",
+   "slug": "restaurants",
+   "pf_portal_legacy_id": "keyword-219",
+   "category": "Leisure and Entertainment",
+   "name": {
+    "en": "Restaurants",
+    "ar": "مطاعم"
+   },
+   "details": {
+    "en": "",
+    "ar": ""
+   },
+   "allowed_for_commercial": false,
+   "allowed_for_residential": true,
+   "media": null
+  },
+  {
+   "id": "943e5583-1379-4afb-9ff9-fab79e93c59c",
+   "slug": "childrens-play-area",
+   "pf_portal_legacy_id": "28",
+   "category": "Social and Community",
+   "name": {
+    "en": "Children's Play Area",
+    "ar": "منطقة لعب الاطفال"
+   },
+   "details": {
+    "en": "",
+    "ar": ""
+   },
+   "allowed_for_commercial": false,
+   "allowed_for_residential": true,
+   "media": null
+  }
+ ],
+ "buildings": [],
+ "building_inventory": null,
+ "phases_per_category": {
+  "construction": [
+   {
+    "id": "c2fc3dfc-7e84-4874-94df-a24e62fe69d7",
+    "title": {
+     "en": "Construction Started",
+     "ar": "بدأ البناء"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "construction",
+    "phase_group_key": "under_construction",
+    "phase_key": "under_construction",
+    "mile_stone": "",
+    "progress_percentage": 0,
+    "estimated_at": "2026-06-07T14:52:00Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": true
+   },
+   {
+    "id": "ac6c7f5c-3797-4a43-a769-b91176fac82e",
+    "title": {
+     "en": "Expected Completion",
+     "ar": "تاريخ التسليم المتوقع"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "construction",
+    "phase_group_key": "completed",
+    "phase_key": "completed",
+    "mile_stone": "",
+    "progress_percentage": 100,
+    "estimated_at": "2030-08-31T14:55:00Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": false
+   }
+  ],
+  "payment": [
+   {
+    "id": "640ff98a-35ce-468f-96fd-2fb5f49eedd7",
+    "title": {
+     "en": "Standard",
+     "ar": "Standard"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "payment",
+    "phase_group_key": "during_construction",
+    "phase_key": "installment",
+    "mile_stone": "",
+    "progress_percentage": 20,
+    "estimated_at": "2026-08-12T10:38:23.418Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": false
+   },
+   {
+    "id": "cdbae24c-035a-45dd-a104-06d2f16459e4",
+    "title": {
+     "en": "Standard",
+     "ar": "Standard"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "payment",
+    "phase_group_key": "down_payment",
+    "phase_key": "installment",
+    "mile_stone": "",
+    "progress_percentage": 20,
+    "estimated_at": "2026-08-12T10:38:23.434Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": false
+   },
+   {
+    "id": "4aa31d2c-ffc3-4aeb-8888-6413a4b7a569",
+    "title": {
+     "en": "Standard",
+     "ar": "Standard"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "payment",
+    "phase_group_key": "during_construction",
+    "phase_key": "installment",
+    "mile_stone": "",
+    "progress_percentage": 20,
+    "estimated_at": "2026-08-12T10:46:04.714Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": false
+   },
+   {
+    "id": "ec6c6ad1-d4da-490f-a73e-4ed083801def",
+    "title": {
+     "en": "Standard",
+     "ar": "Standard"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "payment",
+    "phase_group_key": "during_construction",
+    "phase_key": "installment",
+    "mile_stone": "",
+    "progress_percentage": 20,
+    "estimated_at": "2026-08-12T10:46:08.618Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": false
+   },
+   {
+    "id": "759e7e1d-3382-4b80-9ecf-c4d22cfa8a0a",
+    "title": {
+     "en": "Standard",
+     "ar": "Standard"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "payment",
+    "phase_group_key": "on_handover",
+    "phase_key": "installment",
+    "mile_stone": "",
+    "progress_percentage": 20,
+    "estimated_at": "2026-08-12T10:46:21.561Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": true
+   }
+  ],
+  "sales": [
+   {
+    "id": "07983ced-372c-46e3-a607-1b7514946a47",
+    "title": {
+     "en": "Expected Booking Date",
+     "ar": "تاريخ الحجز المتوقع"
+    },
+    "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "phase_category": "sales",
+    "phase_group_key": "waiting_for_sales_start",
+    "phase_key": "waiting_for_sales_start",
+    "mile_stone": "",
+    "progress_percentage": 0,
+    "estimated_at": "2026-06-06T14:55:00Z",
+    "estimated_at_type": "full_date",
+    "transitioned_at": null,
+    "extra_attributes": null,
+    "current": true
+   }
+  ]
+ },
+ "construction_completed_date": "2030-08-31T14:55:00Z",
+ "construction_phase_key": "under_construction",
+ "sales_start_date": null,
+ "sales_phase_key": "waiting_for_sales_start",
+ "permits": [],
+ "ad_campaigns_exposure_status": "open_competition",
+ "contact_options": [
+  {
+   "type": "whatsapp",
+   "links": {
+    "en": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Valia+Tower+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Femaar-properties%2Fvalia-tower%0A",
+    "ar": "https://wa.me/97145560345?text=%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+%D9%85%D9%87%D8%AA%D9%85+%D8%A8%D9%85%D8%B9%D8%B1%D9%81%D8%A9+%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF+%D8%B9%D9%86+%D8%A8%D8%B1%D8%AC+%D9%81%D8%A7%D9%84%D9%8A%D8%A7+%D8%A7%D9%84%D8%B0%D9%8A+%D9%88%D8%AC%D8%AF%D8%AA%D9%87+%D9%81%D9%8A+Property+Finder.++%D8%B1%D8%A7%D8%A8%D8%B7+%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Far%2Fnew-projects%2Femaar-properties%2Fvalia-tower%0A"
+   }
+  }
+ ],
+ "campaign_type": "project",
+ "faqs": [
+  {
+   "id": "11eac77d-023f-4be0-945b-1eb809976d5c",
+   "attach_order": 0,
+   "question": {
+    "en": "Is Valia Tower a good investment?",
+    "ar": "هل برج فاليا استثمار جيد؟"
+   },
+   "answer": {
+    "en": "<p>Valia Tower is a strong investment due to its location in Dubai Creek Harbour, one of Emaar’s prime waterfront developments with consistent long-term demand. The tower consists of 53 residential floors and around 491 apartments, supported by podium levels that concentrate lifestyle amenities within the building.</p><p>The design focuses on glass façades and open layouts that maximize natural light and deliver direct views of Dubai Creek, surrounding greenery, and the city skyline. This visual advantage increases both rental appeal and resale value.</p><p>Residents benefit from integrated amenities located on the podium levels, creating a self-contained environment that supports daily living, leisure, and social interaction without leaving the tower. The development includes structured communal spaces, recreational zones, and wellness-focused facilities that enhance occupancy stability.</p><p>Its position within Dubai Creek Harbour links it to a waterfront master community known for planned infrastructure, retail access, and open public spaces. The combination of high-rise design, panoramic views, branded developer credibility, and amenity-rich living conditions positions Valia Tower as a viable long-term property investment with strong rental potential.</p>",
+    "ar": "<p><span style=\"color: rgb(0, 0, 0);\">يُعدّ برج فاليا استثمارًا مُجديًا بفضل موقعه المتميز في خور دبي، أحد أبرز مشاريع إعمار العقارية على الواجهة البحرية، والذي يشهد طلبًا مُستدامًا على المدى الطويل. يتألف البرج من 53 طابقًا سكنيًا، تضم حوالي 491 شقة، مدعومة بطوابق علوية تُركّز على مرافق وخدمات عصرية داخل المبنى.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">يتميز التصميم بواجهات زجاجية وتخطيطات مفتوحة تُعزز الإضاءة الطبيعية وتُتيح إطلالات مباشرة على خور دبي والمساحات الخضراء المحيطة وأفق المدينة. هذه الميزة البصرية تُزيد من جاذبية المشروع للإيجار وقيمته عند إعادة البيع.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">يستفيد السكان من مرافق متكاملة في الطوابق العلوية، مما يُوفر بيئة مُتكاملة تُسهّل الحياة اليومية والترفيه والتواصل الاجتماعي دون الحاجة لمغادرة البرج. يضم المشروع مساحات مشتركة مُنظمة، ومناطق ترفيهية، ومرافق تُركز على الصحة والرفاهية، مما يُعزز استقرار الإشغال.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">يُتيح موقعه في خور دبي الوصول إلى مُجمع سكني متكامل على الواجهة البحرية، يتميز ببنية تحتية مُخططة، ومتاجر مُتاحة، ومساحات عامة مفتوحة. إن الجمع بين التصميم الشاهق، والإطلالات البانورامية، ومصداقية المطور ذي العلامة التجارية، وظروف المعيشة الغنية بوسائل الراحة، يجعل من برج فاليا استثمارًا عقاريًا طويل الأجل قابلاً للتطبيق مع إمكانات تأجير قوية.</span></p>"
+   },
+   "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "entity_type": "project"
+  },
+  {
+   "id": "1f8c51d7-00d6-4cb3-b87b-f25b06cee8f3",
+   "attach_order": 0,
+   "question": {
+    "en": "Where is Valia Tower Located?",
+    "ar": "أين يقع برج فاليا؟"
+   },
+   "answer": {
+    "en": "<p>Valia Tower is located in Dubai Creek Harbour (The Lagoons), Dubai, a waterfront community with skyline views and modern infrastructure.</p>",
+    "ar": "<p><span style=\"color: rgb(0, 0, 0);\">يقع برج فاليا في خور دبي (البحيرات)، دبي، وهو مجمع سكني على الواجهة البحرية يتميز بإطلالات على أفق المدينة وبنية تحتية حديثة.</span></p>"
+   },
+   "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "entity_type": "project"
+  },
+  {
+   "id": "18102aee-2482-4923-ab2a-844dcec03fa7",
+   "attach_order": 0,
+   "question": {
+    "en": "Who is the owner of Valia Tower?",
+    "ar": "من هو مالك برج فاليا؟"
+   },
+   "answer": {
+    "en": "<p>Valia Tower is developed and owned by Emaar Properties. Emaar manages the full project scope, including planning, design execution, construction oversight, and final delivery within Dubai Creek Harbour. The company ensures that Valia Tower follows its established standards for high-rise residential developments, focusing on quality construction, efficient layouts, and integration within a master-planned waterfront community in Dubai.</p>",
+    "ar": "<p><span style=\"color: rgb(0, 0, 0);\">برج فاليا هو مشروع مطوّر ومملوك لشركة إعمار العقارية. تتولى إعمار إدارة المشروع بالكامل، بدءًا من التخطيط والتصميم والتنفيذ، مرورًا بالإشراف على أعمال البناء، وصولًا إلى التسليم النهائي ضمن مشروع خور دبي. وتضمن الشركة التزام برج فاليا بمعاييرها المعتمدة في تطوير الأبراج السكنية، مع التركيز على جودة البناء، والتصاميم الفعّالة، والاندماج ضمن مجتمع متكامل الخدمات على الواجهة البحرية في دبي.</span></p>"
+   },
+   "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "entity_type": "project"
+  },
+  {
+   "id": "4a078d6c-ac4d-4b06-ab29-ab655cdb2f2c",
+   "attach_order": 0,
+   "question": {
+    "en": "What are the housing options of Valia Tower?",
+    "ar": "ما هي خيارات السكن في برج فاليا؟"
+   },
+   "answer": {
+    "en": "<p>Valia Tower offers apartment units designed across multiple configurations within Dubai Creek Harbour. The project includes 1-bedroom, 2-bedroom, 3-bedroom, and 4-bedroom apartments, covering a range of residential needs from compact living to larger family layouts.</p><p>The 1-bedroom apartments are designed for individual residents or couples, focusing on efficient layouts that maximize internal space and natural light. The 2-bedroom units provide additional living capacity, making them suitable for small families or residents who require extra rooms for work or guests. The 3-bedroom apartments expand further in size and functionality, offering distinct living, dining, and sleeping zones that support family-oriented living.</p><p>The 4-bedroom apartments represent the largest residential option in the tower. These units are designed for larger households, providing multiple bedrooms with enhanced privacy, larger living areas, and wider interior layouts that support long-term family occupancy.</p><p>At this stage, pricing for all unit types is not announced and remains marked as “coming soon.” This indicates that final pricing will be released closer to the official sales phase.</p><p>All apartments in Valia Tower are part of a high-rise waterfront development that prioritizes open views, modern interiors, and access to podium-level amenities within Dubai Creek Harbour, supporting both residential comfort and long-term investment value.</p>",
+    "ar": "<p><span style=\"color: rgb(0, 0, 0);\">يُقدّم برج فاليا شققًا سكنية بتصاميم متنوعة ضمن مشروع خور دبي. يضم المشروع شققًا بغرفة نوم واحدة، وغرفتين، وثلاث غرف، وأربع غرف، لتلبية مختلف الاحتياجات السكنية، بدءًا من الشقق الصغيرة وصولًا إلى الشقق العائلية الكبيرة.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">صُممت شقق غرفة النوم الواحدة للأفراد أو الأزواج، مع التركيز على التصميمات العملية التي تُحسّن استغلال المساحة الداخلية والإضاءة الطبيعية. أما شقق غرفتي النوم، فتُوفّر مساحة معيشة إضافية، مما يجعلها مناسبة للعائلات الصغيرة أو لمن يحتاجون إلى غرف إضافية للعمل أو لاستقبال الضيوف. وتتميز شقق ثلاث غرف نوم بمساحة أكبر ووظائف عملية أكثر، حيث تُقدّم مناطق معيشة وتناول طعام ونوم منفصلة تُناسب نمط الحياة العائلي.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">وتُمثّل شقق أربع غرف النوم الخيار السكني الأكبر في البرج. صُممت هذه الشقق للعائلات الكبيرة، حيث تُوفّر غرف نوم متعددة مع خصوصية مُعزّزة، ومساحات معيشة أوسع، وتصميمات داخلية أكثر اتساعًا تُناسب الإقامة العائلية طويلة الأمد.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">في هذه المرحلة، لم يتم الإعلان عن أسعار جميع أنواع الوحدات، وما زالت مُصنّفة على أنها \"قريبًا\". وهذا يعني أنه سيتم الإعلان عن الأسعار النهائية مع اقتراب موعد بدء البيع الرسمي.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">جميع الشقق في برج فاليا جزء من مشروع سكني شاهق على الواجهة البحرية، يتميز بإطلالات بانورامية، وتصميمات داخلية عصرية، وإمكانية الوصول إلى مرافق راقية في خور دبي، مما يدعم راحة السكان ويعزز قيمة الاستثمار على المدى الطويل.</span></p>"
+   },
+   "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "entity_type": "project"
+  },
+  {
+   "id": "ac7a37ab-af2b-42ef-8f74-63e834f13e1b",
+   "attach_order": 0,
+   "question": {
+    "en": "When is Valia Tower's Delivery date?",
+    "ar": "متى موعد تسليم برج فاليا؟"
+   },
+   "answer": {
+    "en": "<p>Valia Tower is scheduled for delivery in August 2030. This date marks the completion of construction and the official handover of residential units to buyers. By this time, all building works, interior finishing, and podium-level amenities within Dubai Creek Harbour are expected to be fully completed and operational for residents.</p>",
+    "ar": "<p><span style=\"color: rgb(0, 0, 0);\">من المقرر تسليم برج فاليا في أغسطس 2030. ويمثل هذا التاريخ اكتمال أعمال البناء والتسليم الرسمي للوحدات السكنية للمشترين. وبحلول ذلك الوقت، من المتوقع أن تكون جميع أعمال البناء والتشطيبات الداخلية والمرافق الموجودة في الطابق الأرضي ضمن مشروع خور دبي قد اكتملت بالكامل وجاهزة للاستخدام من قبل السكان.</span></p>"
+   },
+   "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "entity_type": "project"
+  },
+  {
+   "id": "82ec894c-e0c4-4b9c-b32b-5667deb8a2a1",
+   "attach_order": 0,
+   "question": {
+    "en": "Is Valia Tower Freehold or leasehold?",
+    "ar": "هل برج فاليا نظام التملك الحر أم نظام الإيجار؟"
+   },
+   "answer": {
+    "en": "<p>Valia Tower is a freehold property in Dubai, offering full ownership rights to buyers with long-term investment security and control.</p>",
+    "ar": "<p><span style=\"color: rgb(0, 0, 0);\">برج فاليا هو عقار تمليك حر في دبي، يوفر حقوق ملكية كاملة للمشترين مع ضمان أمان الاستثمار والتحكم على المدى الطويل.</span></p>"
+   },
+   "entity_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "entity_type": "project"
+  }
+ ],
+ "construction_progress": null,
+ "last_inspection_date": null,
+ "recommendation": {
+  "indirect_leads_eligible": true
+ },
+ "title": {
+  "en": "Valia Tower",
+  "ar": "برج فاليا"
+ },
+ "slug": "emaar-properties/valia-tower",
+ "description": {
+  "en": "<p><br></p><h3>Project Description</h3><p><br></p><p>Valia Tower is a striking high-rise residential development by Emaar Properties, rising above the vibrant waterfront of Dubai Creek Harbour. Comprising 491 premium residential units spread across 53 storeys, two podium levels, a ground floor, and two basement levels — all crowned by a rooftop — Valia Tower is designed for those who seek refined urban living without compromise.</p><p><br></p><p>Every element of the tower reflects a deliberate commitment to quality. From the carefully curated interiors to the sweeping views of Dubai Creek and the surrounding natural landscape, the project creates a living environment where comfort, elegance, and modern convenience coexist effortlessly. Valia Tower is not simply a place to live — it is an address that reflects a discerning sense of taste and ambition.</p><p><br></p><h3>Prime Location: Dubai, Dubai Creek Harbour (The Lagoons)</h3><p><br></p><p>Situated within Dubai Creek Harbour — one of the city's most sought-after waterfront destinations — Valia Tower occupies a prime position in The Lagoons district. This master-planned community is thoughtfully developed to balance the energy of urban Dubai with the serenity of natural surroundings, offering residents direct access to open water, lush green spaces, and a growing retail and dining scene along the creek's edge.</p><p><br></p><p>Dubai Creek Harbour represents a new chapter in the city's evolution — a place where contemporary architecture meets ecological preservation. The nearby Ras Al Khor Wildlife Sanctuary adds a rare, natural dimension to what is otherwise a dynamic metropolitan neighborhood, making the location genuinely distinctive among Dubai's residential offerings.</p><p><br></p><h3>Connectivity and Accessibility to Key Locations</h3><p><br></p><p>Valia Tower's location ensures that residents remain well-connected to the city's most important destinations without sacrificing the tranquility of waterfront living.</p><p><br></p><ul><li>10 minutes to Ras Al Khor Wildlife Sanctuary</li><li>12 minutes to Downtown Dubai</li><li>15 minutes to Dubai International Airport</li><li>15 minutes to Business Bay</li><li>20 minutes to Dubai Marina</li></ul><p><br></p><p>Whether commuting to work, catching an international flight, or heading out for an evening in Downtown Dubai, Valia Tower's strategic positioning makes every journey efficient and straightforward.</p><p><br></p><h3>Property Types and Sizes</h3><p><br></p><p>Valia Tower offers a well-rounded selection of apartment configurations to suit a range of lifestyles and household sizes. Current availability and pricing details are as follows:</p><p><br></p><ul><li>1-Bedroom Apartments — Coming Soon</li><li>2-Bedroom Apartments — Coming Soon</li><li>3-Bedroom Apartments — Coming Soon</li><li>4-Bedroom Apartments — Available Now</li></ul><p><br></p><p>Each unit is designed to make the most of its floor plan, with intelligent layouts that prioritize natural light, ventilation, and a seamless connection between indoor living spaces and the broader views beyond the glass facade.</p><p><br></p><h3>Detailed Amenities and Facilities</h3><p><br></p><p>Valia Tower's podium levels host a comprehensive range of lifestyle and leisure amenities that cater to residents of all ages and preferences:</p><p><br></p><ul><li>Podium-level lifestyle and leisure spaces for relaxation and social gatherings</li><li>Swimming pools and sun decks with scenic surroundings</li><li>Fully equipped fitness center for health and wellness routines</li><li>Landscaped gardens and outdoor seating areas</li><li>Children's play zones designed for safe, engaging recreation</li><li>Multi-purpose community spaces for events and shared activities</li><li>Retail and dining outlets conveniently located within the development</li><li>24/7 security and smart access systems for peace of mind</li><li>Covered parking and dedicated service facilities</li></ul><p><br></p><p>Together, these amenities create a self-contained residential community where everyday needs and leisure pursuits are addressed within the same address.</p><p><br></p><h3>Unique Architectural Features and Design Elements</h3><p><br></p><p>Valia Tower's architectural identity is built around clarity, proportion, and the intelligent use of glass. The tower's clean vertical form allows for expansive glazing across its facade, flooding interiors with natural light throughout the day while framing uninterrupted views of the creek, the nature reserve, and the Dubai skyline.</p><p><br></p><p>Interiors have been finished to a high standard, with materials and detailing selected to complement the tower's overall aesthetic rather than contrast it. The result is a cohesive residential experience that feels considered and composed — a home that looks and feels as impressive on the inside as it appears from the outside.</p><p><br></p><h3>Lifestyle and Community Aspects</h3><p><br></p><p>Living at Valia Tower means becoming part of a well-rounded, modern community. Dubai Creek Harbour is a neighborhood designed for people who value both activity and quietude — where you can start the morning with a waterfront walk, spend an afternoon in the fitness center or pool, and enjoy a meal at one of the on-site dining outlets without ever needing to leave the development.</p><p><br></p><ul><li>A walkable waterfront environment ideal for active daily routines</li><li>A growing community of like-minded residents in a premium planned district</li><li>Proximity to nature through the nearby wildlife sanctuary</li><li>Retail and dining at your doorstep for added convenience</li><li>Shared social spaces designed to foster genuine community connection</li></ul><p><br></p><p>For families, professionals, and investors alike, Valia Tower offers a lifestyle that is both aspirational and genuinely livable.</p><p><br></p><h3>Investment Potential and Market Value</h3><p><br></p><p>Dubai Creek Harbour is one of Dubai's most actively developing districts, and properties within it have consistently demonstrated strong capital appreciation alongside healthy rental demand. Valia Tower, developed by one of the region's most trusted names in real estate, carries the added advantage of brand credibility and build quality that investors have come to rely on when making long-term decisions.</p><p><br></p><p>The combination of a prime waterfront location, a reputable developer, thoughtfully designed units, and Dubai's continued growth as a global hub for business and tourism makes Valia Tower a compelling consideration for those looking to invest in the city's residential market. With several unit types still to be announced, early interest positions buyers advantageously ahead of broader market availability.</p><p><br></p><h3>Developer Profile: Emaar Properties</h3><p><br></p><p>Emaar Properties is one of the most recognized real estate developers in the world, headquartered in Dubai and responsible for shaping much of the city's modern built environment. The company's portfolio includes the Burj Khalifa, The Dubai Mall, Dubai Marina, and a wide range of premium residential, commercial, and hospitality projects across the UAE and internationally.</p><p><br></p><p>With decades of experience and a consistent track record of delivering projects that exceed expectations in both quality and design, Emaar brings significant confidence to any investment decision. Valia Tower is the latest expression of that legacy — a thoughtfully conceived development in a location that reflects exactly the kind of forward-thinking urban vision that has defined the company's approach from the beginning.</p>",
+  "ar": "<div class=\"relative w-full overflow-visible\">\n<section class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:ea76ea42-9f61-4f52-9498-8b5420fb5302-34\" data-turn-id-container=\"request-WEB:ea76ea42-9f61-4f52-9498-8b5420fb5302-34\" data-testid=\"conversation-turn-70\" data-scroll-anchor=\"false\" data-turn=\"assistant\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex max-w-full flex-col gap-4 grow\">\n<div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\" dir=\"auto\" tabindex=\"0\" data-message-author-role=\"assistant\" data-message-id=\"6ac71702-bd40-4470-afd7-094bbb7fe071\" data-message-model-slug=\"gpt-5-3-mini\" data-turn-start-message=\"true\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\n<div class=\"markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling\">\n<p data-start=\"52\" data-end=\"437\">يُعد مشروع برج فاليا من تطوير شركة إعمار العقارية واحدًا من أبرز الأبراج السكنية الحديثة في منطقة دبي كريك هاربور المطلة على الواجهة المائية. يضم المشروع 491 وحدة سكنية موزعة على 53 طابقًا، بالإضافة إلى طابقين للمنصات، وطابق أرضي، ومستويين سفليين، مع سطح علوي يضيف بُعدًا معماريًا مميزًا. تم تصميم البرج ليقدم أسلوب حياة حضري متكامل يجمع بين الراحة والتخطيط العصري والإطلالات المفتوحة.</p>\n<p data-start=\"52\" data-end=\"437\">&nbsp;</p>\n<p data-start=\"439\" data-end=\"728\">يعكس المشروع اهتمامًا واضحًا بجودة التفاصيل، حيث تتكامل التشطيبات الداخلية المختارة بعناية مع الإطلالات الواسعة على خور دبي والمساحات الطبيعية المحيطة. ويقدم برج فاليا تجربة سكنية تعتمد على التوازن بين الأناقة والعملية، ليكون عنوانًا يعكس أسلوب حياة راقٍ في واحدة من أكثر مناطق دبي تطورًا.</p>\n<p data-start=\"439\" data-end=\"728\">&nbsp;</p>\n<hr data-start=\"730\" data-end=\"733\" />\n<h3 data-start=\"735\" data-end=\"778\"><strong data-start=\"735\" data-end=\"778\">الموقع: دبي، دبي كريك هاربور (اللاجونز)</strong></h3>\n<p data-start=\"735\" data-end=\"778\">&nbsp;</p>\n<p data-start=\"780\" data-end=\"1071\">يقع برج فاليا داخل دبي كريك هاربور، وتحديدًا في منطقة اللاجونز، وهي واحدة من أبرز الوجهات السكنية المطلة على الماء في المدينة. يتميز هذا المخطط الرئيسي بتوازن واضح بين الحياة الحضرية والمساحات الطبيعية، حيث يضم ممرات مائية مفتوحة، وحدائق واسعة، ومناطق مخصصة للتسوق والمطاعم على امتداد الخور.</p>\n<p data-start=\"780\" data-end=\"1071\">&nbsp;</p>\n<p data-start=\"1073\" data-end=\"1311\">تمثل دبي كريك هاربور امتدادًا جديدًا في تطور دبي العمراني، حيث يلتقي التصميم الحديث مع الحفاظ على البيئة. كما تضيف محمية رأس الخور للحياة الفطرية عنصرًا طبيعيًا فريدًا يعزز من قيمة الموقع ويجعله مختلفًا عن باقي المناطق السكنية في الإمارة.</p>\n<hr data-start=\"1313\" data-end=\"1316\" />\n<h3 data-start=\"1318\" data-end=\"1365\"><strong data-start=\"1318\" data-end=\"1365\">وسائل الاتصال وسهولة الوصول إلى أهم المواقع</strong></h3>\n<p data-start=\"1318\" data-end=\"1365\">&nbsp;</p>\n<p data-start=\"1367\" data-end=\"1475\">يتميز برج فاليا بموقع يضمن سهولة الوصول إلى أبرز الوجهات الحيوية في دبي دون التأثير على هدوء الحياة السكنية:</p>\n<p data-start=\"1367\" data-end=\"1475\">&nbsp;</p>\n<p data-start=\"1477\" data-end=\"1636\">10 دقائق إلى محمية رأس الخور للحياة الفطرية<br data-start=\"1520\" data-end=\"1523\" /> 12 دقيقة إلى وسط مدينة دبي<br data-start=\"1549\" data-end=\"1552\" /> 15 دقيقة إلى مطار دبي الدولي<br data-start=\"1580\" data-end=\"1583\" /> 15 دقيقة إلى الخليج التجاري<br data-start=\"1610\" data-end=\"1613\" /> 20 دقيقة إلى مرسى دبي</p>\n<p data-start=\"1638\" data-end=\"1730\">هذا القرب من أهم مراكز المدينة يجعل التنقل اليومي أكثر سهولة سواء للعمل أو السفر أو الترفيه.</p>\n<hr data-start=\"1732\" data-end=\"1735\" />\n<h3 data-start=\"1737\" data-end=\"1764\"><strong data-start=\"1737\" data-end=\"1764\">أنواع الوحدات والمساحات</strong></h3>\n<p data-start=\"1737\" data-end=\"1764\">&nbsp;</p>\n<p data-start=\"1766\" data-end=\"1854\">يوفر برج فاليا مجموعة متنوعة من الشقق السكنية التي تناسب مختلف الاحتياجات وأنماط الحياة:</p>\n<p data-start=\"1766\" data-end=\"1854\">&nbsp;</p>\n<p data-start=\"1856\" data-end=\"1971\">شقق غرفة نوم واحدة &mdash; قريبًا<br data-start=\"1883\" data-end=\"1886\" /> شقق غرفتين نوم &mdash; قريبًا<br data-start=\"1909\" data-end=\"1912\" /> شقق ثلاث غرف نوم &mdash; قريبًا<br data-start=\"1937\" data-end=\"1940\" /> شقق أربع غرف نوم &mdash; متاحة الآن</p>\n<p data-start=\"1973\" data-end=\"2150\">تم تصميم جميع الوحدات بطريقة تركز على الاستفادة من المساحات الداخلية، مع توزيع ذكي يسمح بدخول الإضاءة الطبيعية وتحقيق تهوية جيدة، إضافة إلى إطلالات مفتوحة عبر الواجهات الزجاجية.</p>\n<hr data-start=\"2152\" data-end=\"2155\" />\n<h3 data-start=\"2157\" data-end=\"2177\"><strong data-start=\"2157\" data-end=\"2177\">المرافق والخدمات</strong></h3>\n<p data-start=\"2157\" data-end=\"2177\">&nbsp;</p>\n<p data-start=\"2179\" data-end=\"2268\">يقدم برج فاليا مجموعة متكاملة من المرافق التي تدعم أسلوب حياة متوازن داخل المجتمع السكني:</p>\n<p data-start=\"2179\" data-end=\"2268\">&nbsp;</p>\n<p data-start=\"2270\" data-end=\"2501\">مسابح ومناطق تشمس<br data-start=\"2287\" data-end=\"2290\" /> صالة رياضية مجهزة بالكامل<br data-start=\"2315\" data-end=\"2318\" /> حدائق ومساحات خارجية منسقة<br data-start=\"2344\" data-end=\"2347\" /> مناطق مخصصة للأطفال<br data-start=\"2366\" data-end=\"2369\" /> مساحات متعددة الاستخدامات<br data-start=\"2394\" data-end=\"2397\" /> محلات تجارية ومطاعم داخل المشروع<br data-start=\"2429\" data-end=\"2432\" /> أنظمة أمن ومراقبة على مدار الساعة<br data-start=\"2465\" data-end=\"2468\" /> مواقف سيارات مغطاة وخدمات داعمة</p>\n<p data-start=\"2503\" data-end=\"2596\">توفر هذه المرافق بيئة سكنية متكاملة تقلل الحاجة إلى مغادرة المشروع لتلبية الاحتياجات اليومية.</p>\n<hr data-start=\"2598\" data-end=\"2601\" />\n<h3 data-start=\"2603\" data-end=\"2640\"><strong data-start=\"2603\" data-end=\"2640\">التصميم المعماري والخصائص المميزة</strong></h3>\n<p data-start=\"2603\" data-end=\"2640\">&nbsp;</p>\n<p data-start=\"2642\" data-end=\"2865\">يعتمد تصميم برج فاليا على البساطة الهندسية واستخدام الواجهات الزجاجية بشكل واسع لتعزيز الإطلالات والإضاءة الطبيعية داخل الوحدات. يعكس الشكل الخارجي للبرج طابعًا رأسيًا واضحًا يبرز انسجامه مع البيئة العمرانية الحديثة في دبي.</p>\n<p data-start=\"2642\" data-end=\"2865\">&nbsp;</p>\n<p data-start=\"2867\" data-end=\"3065\">أما التصميم الداخلي فيتميز بتشطيبات عالية الجودة وخامات متناسقة تعزز من الشعور بالراحة والاستمرارية في الهوية المعمارية. ويأتي التصميم ليخدم الوظيفة اليومية للمساحات بدلًا من الاعتماد على الشكل فقط.</p>\n<hr data-start=\"3067\" data-end=\"3070\" />\n<h3 data-start=\"3072\" data-end=\"3102\"><strong data-start=\"3072\" data-end=\"3102\">نمط الحياة والمجتمع السكني</strong></h3>\n<p data-start=\"3072\" data-end=\"3102\">&nbsp;</p>\n<p data-start=\"3104\" data-end=\"3235\">يوفر برج فاليا بيئة سكنية متكاملة داخل دبي كريك هاربور، حيث يمكن للسكان الاستفادة من نمط حياة يجمع بين النشاط والهدوء في نفس الوقت:</p>\n<p data-start=\"3104\" data-end=\"3235\">&nbsp;</p>\n<p data-start=\"3237\" data-end=\"3395\">ممرات مشاة مطلة على الماء<br data-start=\"3262\" data-end=\"3265\" /> مجتمع سكني مخطط بعناية<br data-start=\"3287\" data-end=\"3290\" /> قرب مباشر من محمية طبيعية<br data-start=\"3315\" data-end=\"3318\" /> مساحات تجارية ومطاعم ضمن المشروع<br data-start=\"3350\" data-end=\"3353\" /> مناطق اجتماعية لتعزيز التواصل بين السكان</p>\n<p data-start=\"3397\" data-end=\"3471\">هذا النمط يجعل الحياة اليومية أكثر سهولة وتنظيمًا داخل بيئة حضرية متوازنة.</p>\n<hr data-start=\"3473\" data-end=\"3476\" />\n<h3 data-start=\"3478\" data-end=\"3511\"><strong data-start=\"3478\" data-end=\"3511\">فرص الاستثمار والقيمة السوقية</strong></h3>\n<p data-start=\"3478\" data-end=\"3511\">&nbsp;</p>\n<p data-start=\"3513\" data-end=\"3783\">يُعد دبي كريك هاربور من المناطق السكنية التي تشهد نموًا مستمرًا في الطلب الاستثماري والسكني، مع تسجيل معدلات قوية في التأجير وزيادة في قيمة العقارات العقارية مع مرور الوقت. ويستفيد برج فاليا من موقعه المتميز ومن تطوير شركة إعمار العقارية، مما يعزز من جاذبيته للمستثمرين.</p>\n<p data-start=\"3785\" data-end=\"3934\">يمثل المشروع فرصة مناسبة للراغبين في التملك أو الاستثمار، خاصة مع استمرار تطوير المنطقة وزيادة الطلب على الوحدات المطلة على الواجهة المائية داخل دبي.</p>\n<hr data-start=\"3936\" data-end=\"3939\" />\n<h3 data-start=\"3941\" data-end=\"3975\"><strong data-start=\"3941\" data-end=\"3975\">نبذة عن المطور: إعمار العقارية</strong></h3>\n<p data-start=\"3941\" data-end=\"3975\">&nbsp;</p>\n<p data-start=\"3977\" data-end=\"4245\">تُعد إعمار العقارية واحدة من أبرز شركات التطوير العقاري على مستوى العالم، وقد ساهمت بشكل كبير في تشكيل المشهد العمراني الحديث في دبي. تمتلك الشركة محفظة مشاريع ضخمة تشمل برج خليفة، ودبي مول، ومرسى دبي، إلى جانب العديد من المشاريع السكنية والتجارية في الإمارات وخارجها.</p>\n<p data-start=\"4247\" data-end=\"4422\" data-is-last-node=\"\" data-is-only-node=\"\">يعكس برج فاليا استمرار نهج الشركة في تطوير مشاريع تجمع بين الجودة العالية والتخطيط العمراني المتقدم، مع التركيز على تقديم قيمة طويلة الأمد للسكان والمستثمرين في السوق العقاري.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"z-0 flex min-h-[46px] justify-start\">&nbsp;</div>\n<div class=\"mt-3 w-full empty:hidden\">&nbsp;</div>\n</div>\n</div>\n</section>\n<div class=\"contents\">&nbsp;</div>\n</div>\n<div class=\"pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]\">&nbsp;</div>"
+ },
+ "master_plan_description": {
+  "en": "<p>Valia Tower is a high-rise residential development by Emaar Properties at Dubai Creek Harbour, comprising 491 premium apartments across 53 storeys, 2 podium levels, and a rooftop, standing as a refined addition to Dubai's skyline.</p><p><br></p><p>As a part of Dubai Creek Harbour (The Lagoons) masterplan, Valia Tower masterplan is thoughtfully positioned to offer residents seamless access to the waterfront community's lifestyle offerings. The tower's glass-dominant façade maximizes natural light and frames uninterrupted views of Dubai Creek, the natural landscape, and the city skyline. Podium levels host curated lifestyle amenities, fostering a self-contained community built around comfort and connectivity. Located in the prestigious Dubai Creek Harbour (The Lagoons) masterplan, Valia Tower represents contemporary waterfront living at its most refined.</p><p><br></p><h3>Key Features</h3><p><br></p><h4>Location &amp; Nearby Attractions</h4><p><br></p><ul><li>10 minutes to Dubai Festival City</li><li>15 minutes to Downtown Dubai and Burj Khalifa</li><li>18 minutes to Dubai International Airport (DXB)</li><li>20 minutes to Ras Al Khor Wildlife Sanctuary</li><li>25 minutes to Dubai Marina</li></ul><p><br></p><h4>Amenities &amp; Services</h4><p><br></p><ul><li>Swimming pool and leisure deck</li><li>Professional fitness centre</li><li>Children's play area</li><li>Landscaped gardens</li><li>BBQ and picnic areas</li><li>Retail and dining outlets</li><li>Community clubhouse</li><li>Walking and cycling paths</li><li>Panoramic Creek and skyline views from upper floors</li><li>Direct access to Dubai Creek Harbour waterfront promenade</li></ul>",
+  "ar": "<p>برج فاليا مشروع سكني شاهق من تطوير شركة إعمار العقارية، يقع في دبي كريك هاربر، ويضم 491 شقة سكنية فاخرة موزعة على 53 طابقاً، ومستويين للبودوم، وسطح علوي، ليُشكّل إضافة راقية إلى أفق دبي.</p>  <br>  <p>بوصفه جزءاً من المخطط الرئيسي لدبي كريك هاربر (ذا لاغونز)، يحتل برج فاليا موقعاً مدروساً يتيح للسكان الوصول المباشر إلى مقومات الحياة في هذا المجتمع الساحلي المتكامل. تعتمد واجهة البرج على الزجاج بشكل رئيسي لاستقطاب أقصى قدر من الضوء الطبيعي، مع إطلالات متواصلة على خور دبي والمناظر الطبيعية وأفق المدينة. تحتضن مستويات البودوم مرافق أسلوب حياة منتقاة بعناية، مما يُوفّر مجتمعاً سكنياً متكاملاً يجمع بين الراحة والتواصل الاجتماعي، ضمن المخطط الرئيسي المرموق لدبي كريك هاربر (ذا لاغونز).</p>  <br><h3>المزايا الرئيسية</h3><br>  <h4>الموقع والمعالم القريبة</h4>  <br><ul> <li>10 دقائق إلى دبي فستيفال سيتي</li> <li>15 دقيقة إلى وسط مدينة دبي وبرج خليفة</li> <li>18 دقيقة إلى مطار دبي الدولي (DXB)</li> <li>20 دقيقة إلى محمية رأس الخور للحياة البرية</li> <li>25 دقيقة إلى مرسى دبي</li> </ul><br>  <h4>المرافق والخدمات</h4>  <br><ul> <li>حمام سباحة وسطح ترفيهي</li> <li>مركز لياقة بدنية احترافي</li> <li>منطقة ألعاب للأطفال</li> <li>حدائق مشجرة</li> <li>مناطق شواء ونزهة</li> <li>محلات تجارية ومطاعم</li> <li>نادي مجتمعي</li> <li>مسارات للمشي وركوب الدراجات</li> <li>إطلالات بانورامية على الخور وأفق المدينة من الطوابق العليا</li> <li>وصول مباشر إلى كورنيش دبي كريك هاربر</li> </ul><br>"
+ },
+ "meta_title": {
+  "en": "",
+  "ar": ""
+ },
+ "meta_description": {
+  "en": "",
+  "ar": ""
+ },
+ "starting_price": "2060000",
+ "ownership_type": "freehold",
+ "min_resale_price": null,
+ "effective_price": "2060000",
+ "extra_attributes": {
+  "additionalProp1": ""
+ },
+ "has_active_campaign": true,
+ "inspections": [],
+ "units": [
+  {
+   "id": "f8c7d769-0ebf-47d5-b65f-cc2f8313f752",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type C2",
+   "title": {
+    "en": "Type C2",
+    "ar": "Type C2"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 3,
+   "bathrooms": 4,
+   "area": "157.37774976",
+   "starting_price": "4110000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "329855b5-4850-448f-ba97-ffc9111e53f3",
+      "entity_id": "f8c7d769-0ebf-47d5-b65f-cc2f8313f752",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/f8c7d769-0ebf-47d5-b65f-cc2f8313f752/floor_plan/image/VYbARH4JNBZ-zmvZs_wFkICoQkoR75u3mryn50wubZE=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "786cd1eb-b71c-41cc-bbbb-0e4c49b355bc",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A1",
+   "title": {
+    "en": "Type A1",
+    "ar": "Type A1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 1,
+   "bathrooms": 2,
+   "area": "77.01662016",
+   "starting_price": "2060000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "7fe01e33-bd09-49a8-99f1-7e4c3c2e05b9",
+      "entity_id": "786cd1eb-b71c-41cc-bbbb-0e4c49b355bc",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/786cd1eb-b71c-41cc-bbbb-0e4c49b355bc/floor_plan/image/ehKmewl_0Z19sGrPnPxWnlmhV4ABaM_OHCzxCX51s3Q=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "bcabfdc0-fb68-41c8-8350-896be658d5f2",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A2",
+   "title": {
+    "en": "Type A2",
+    "ar": "Type A2"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "area": "76.27339584",
+   "starting_price": "2060000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "922894d8-1005-46d2-ac32-299a28d00761",
+      "entity_id": "bcabfdc0-fb68-41c8-8350-896be658d5f2",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/bcabfdc0-fb68-41c8-8350-896be658d5f2/floor_plan/image/s0kkeU_4rLfu5wyI3ZjDqEuA8rLwbN-3Zwz3Ai6vE3Y=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "1691f61d-ef50-4ff0-86b6-b34a67d980d7",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A2",
+   "title": {
+    "en": "Type A2",
+    "ar": "Type A2"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 4,
+   "bathrooms": 5,
+   "area": "237.8317824",
+   "starting_price": "6470000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "25af68cd-ea09-4d9c-8da0-cc77f8023926",
+      "entity_id": "1691f61d-ef50-4ff0-86b6-b34a67d980d7",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/1691f61d-ef50-4ff0-86b6-b34a67d980d7/floor_plan/image/_5iwRbpETYfPsNxzpB9NIieuLVJ208tWLDg28pDK1lo=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "c585adbd-69f2-4626-a2b0-6120d86a4e67",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type B",
+   "title": {
+    "en": "Type B",
+    "ar": "Type B"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "area": "75.80888064",
+   "starting_price": "2060000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "1a654d94-d309-46d1-bea9-c96e94a2d3e3",
+      "entity_id": "c585adbd-69f2-4626-a2b0-6120d86a4e67",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/c585adbd-69f2-4626-a2b0-6120d86a4e67/floor_plan/image/8FzeMMEmOL5PgZVOblGpvihH82-Cs1NrKY0L7dwNfAU=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "25dd0a61-9d98-44ee-aa8f-e040762c0609",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "villa",
+    "ar": "فيلا"
+   },
+   "layout_type": "Type B2",
+   "title": {
+    "en": "Type B2",
+    "ar": "Type B2"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 2,
+   "bathrooms": 3,
+   "area": "115.6642848",
+   "starting_price": "0",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "677eff1d-ed0e-4075-88d6-bd17ae699277",
+      "entity_id": "25dd0a61-9d98-44ee-aa8f-e040762c0609",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/25dd0a61-9d98-44ee-aa8f-e040762c0609/floor_plan/image/4RnRJA_wxKCIL6irxE3hvHx2KlXeug8seRMmOyqwZf0=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "2e7c1597-6119-48d0-83bb-218bf2946c48",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type B",
+   "title": {
+    "en": "Type B",
+    "ar": "Type B"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 3,
+   "bathrooms": 4,
+   "area": "153.47582208",
+   "starting_price": "4110000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "eb946748-548b-4c8e-946d-cccb13a6f678",
+      "entity_id": "2e7c1597-6119-48d0-83bb-218bf2946c48",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/2e7c1597-6119-48d0-83bb-218bf2946c48/floor_plan/image/fbXeEnYXy7i18BhQALBN9LZFouPocbho6ZfemUv6HwM=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "9458a08d-4d33-44d5-aeb7-e3f7290189ac",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "villa",
+    "ar": "فيلا"
+   },
+   "layout_type": "Type B1",
+   "title": {
+    "en": "Type B1",
+    "ar": "Type B1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 2,
+   "bathrooms": 3,
+   "area": "115.29267264",
+   "starting_price": "0",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "16ee6636-62da-43a6-8298-774b3ea8e5e3",
+      "entity_id": "9458a08d-4d33-44d5-aeb7-e3f7290189ac",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/9458a08d-4d33-44d5-aeb7-e3f7290189ac/floor_plan/image/ANJiuyhuIcmVKafOnACjOQOiBbZEbAV9XosvaH_Vht8=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "ef8b01ea-a1bb-4492-819e-b145bec1aa09",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type C1",
+   "title": {
+    "en": "Type C1",
+    "ar": "Type C1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 3,
+   "bathrooms": 4,
+   "area": "157.28484672",
+   "starting_price": "4110000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "65cbda07-b322-4cb0-ba28-0152e4a518a6",
+      "entity_id": "ef8b01ea-a1bb-4492-819e-b145bec1aa09",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/ef8b01ea-a1bb-4492-819e-b145bec1aa09/floor_plan/image/M_ucrgzLHUrWaMUIAoqBJ9YuBT8jRHIlsM4TNAPRlkU=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "dbe2f7d7-000c-4261-a662-da2a7151d353",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A1",
+   "title": {
+    "en": "Type A1",
+    "ar": "Type A1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 4,
+   "bathrooms": 5,
+   "area": "237.92468544",
+   "starting_price": "6470000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "42c0fa61-b936-40f5-b6d8-fd8cadc9b0ab",
+      "entity_id": "dbe2f7d7-000c-4261-a662-da2a7151d353",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/dbe2f7d7-000c-4261-a662-da2a7151d353/floor_plan/image/_9yRZseEBQlN9RG6T4vWs74bN-xLOjIKPPZTDsum2RQ=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "72eb2320-8382-4bee-a808-a54d56b98a1d",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "villa",
+    "ar": "فيلا"
+   },
+   "layout_type": "Type B2",
+   "title": {
+    "en": "Type B2",
+    "ar": "Type B2"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 2,
+   "bathrooms": 3,
+   "area": "116.40750912",
+   "starting_price": "0",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "e003fec6-a9cb-4a65-a686-a490453b8be1",
+      "entity_id": "72eb2320-8382-4bee-a808-a54d56b98a1d",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/72eb2320-8382-4bee-a808-a54d56b98a1d/floor_plan/image/pgJe5naPa7FJH5ljOfb5GNBTOGd2EiEuCGyLjTb3GwE=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "acb50e97-8a15-43bf-8e16-d81c9998fd3d",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A1",
+   "title": {
+    "en": "Type A1",
+    "ar": "Type A1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 2,
+   "bathrooms": 3,
+   "area": "116.31460608",
+   "starting_price": "3060000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "5cdf49d3-7146-4746-a395-abe504a7b453",
+      "entity_id": "acb50e97-8a15-43bf-8e16-d81c9998fd3d",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/acb50e97-8a15-43bf-8e16-d81c9998fd3d/floor_plan/image/9AbItIbY5p8mfIt8Clla59wT4O-IDwxyb-rEk-yNn0k=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "90f6fee1-4c58-43a2-9ac0-dc2540f91d11",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A1",
+   "title": {
+    "en": "Type A1",
+    "ar": "Type A1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 3,
+   "bathrooms": 4,
+   "area": "155.24097984",
+   "starting_price": "4110000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "202bb15e-479c-4fcd-b533-4d897d8e0e64",
+      "entity_id": "90f6fee1-4c58-43a2-9ac0-dc2540f91d11",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/90f6fee1-4c58-43a2-9ac0-dc2540f91d11/floor_plan/image/eKJyno0azYTqUMD5QkyVYZa_ja4N-tkAohkh1kK8bn0=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "a9e2767e-38e5-4b45-8e3f-d66df0c21f87",
+   "project_id": "d1294890-1250-48b7-99e3-4f34a371b967",
+   "property_type": {
+    "en": "apartment",
+    "ar": "شقة"
+   },
+   "layout_type": "Type A1",
+   "title": {
+    "en": "Type A1",
+    "ar": "Type A1"
+   },
+   "description": {
+    "en": "",
+    "ar": ""
+   },
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "area": "76.27339584",
+   "starting_price": "2060000",
+   "view": "",
+   "stock_status": "available",
+   "media": {
+    "floor_plan": [
+     {
+      "id": "00e5c6ab-0863-49b5-8589-4fedb018eb69",
+      "entity_id": "a9e2767e-38e5-4b45-8e3f-d66df0c21f87",
+      "entity_type": "unit",
+      "name": "original",
+      "category": "image",
+      "locator": "floor_plan",
+      "ext": ".png",
+      "src": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/original.png",
+      "attach_order": 0,
+      "variants": {
+       "big": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/big.webp",
+       "fullscreen": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/fullscreen.webp",
+       "medium": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/medium.webp",
+       "small": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/small.webp",
+       "src_big": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/big.png",
+       "thumbnail": "https://new-projects-media.propertyfinder.com/unit/a9e2767e-38e5-4b45-8e3f-d66df0c21f87/floor_plan/image/NChhRu3tnf80xhVUgcgi_GH1zyCRfC46_Gn9u9nNTXc=/thumbnail.webp"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "location": {
+  "id": 19813,
+  "type": "TOWER",
+  "name": {
+   "en": "Valia Tower",
+   "ar": "برج فاليا"
+  },
+  "slug": "dubai-creek-harbour-the-lagoons-valia-tower",
+  "full_name": {
+   "en": "Dubai,Dubai Creek Harbour (The Lagoons),Valia Tower",
+   "ar": "دبي,مرسى خور دبي,برج فاليا"
+  },
+  "path": "1.48.19813",
+  "level": 2,
+  "location_tree": [
+   {
+    "id": 1,
+    "type": "CITY",
+    "path": "1",
+    "name": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   {
+    "id": 48,
+    "type": "COMMUNITY",
+    "path": "1.48",
+    "name": {
+     "en": "Dubai Creek Harbour (The Lagoons)",
+     "ar": "مرسى خور دبي"
+    }
+   },
+   {
+    "id": 19813,
+    "type": "TOWER",
+    "path": "1.48.19813",
+    "name": {
+     "en": "Valia Tower",
+     "ar": "برج فاليا"
+    }
+   }
+  ],
+  "geo_json": {
+   "features": [
+    {
+     "type": "Feature",
+     "geometry": {
+      "type": "Point",
+      "coordinates": [
+       55.359167,
+       25.194722
+      ]
+     },
+     "properties": null
+    }
+   ],
+   "type": "FeatureCollection"
+  }
+ }
+}

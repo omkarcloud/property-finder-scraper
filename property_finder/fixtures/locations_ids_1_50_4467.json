@@ -1,0 +1,1282 @@
+{
+ "items": [
+  {
+   "alias": null,
+   "id": "50",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [
+     {
+      "id": 2,
+      "name": "Apartments and villas"
+     },
+     {
+      "id": 3,
+      "name": "Well connected"
+     },
+     {
+      "id": 1,
+      "name": "Luxury"
+     }
+    ],
+    "center_points": {
+     "lat": 25.079532623291016,
+     "lon": 55.13990783691406
+    },
+    "children_count": 278,
+    "coordinates": {
+     "lat": 25.078367,
+     "lon": 55.14041
+    },
+    "current_language_slug": "dubai-marina",
+    "floors": 0,
+    "id": 50,
+    "image_token": "",
+    "images": [
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/fe958072c19871405dab8f02be4a567c/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/fe958072c19871405dab8f02be4a567c/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/13f7d127715f4200485ccdae208b6c4b/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/13f7d127715f4200485ccdae208b6c4b/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/c3ab3a71e53ee9e4096cb7db5ffdd898/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/c3ab3a71e53ee9e4096cb7db5ffdd898/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/a84ff08affdc2767d2736f5ad6f4611f/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/a84ff08affdc2767d2736f5ad6f4611f/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/c9ef849d9c2587d77f130d6bd7bcf3ea/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/c9ef849d9c2587d77f130d6bd7bcf3ea/thumb.jpeg"
+     },
+     {
+      "category_name": "Nearby Attractions",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/424c877a700e6d7572aec3e3aa40d641/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/424c877a700e6d7572aec3e3aa40d641/thumb.jpeg"
+     },
+     {
+      "category_name": "Nearby Attractions",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/6f7fe8f72fed214f063d59d949ce5a10/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/6f7fe8f72fed214f063d59d949ce5a10/thumb.jpeg"
+     },
+     {
+      "category_name": "Facilities",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/065eee030e0e4805a620ed9ab5bf9a09/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/065eee030e0e4805a620ed9ab5bf9a09/thumb.jpeg"
+     },
+     {
+      "category_name": "Facilities",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/8b01c1002a0b7f9b510ddad99c4ac3fd/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/8b01c1002a0b7f9b510ddad99c4ac3fd/thumb.jpeg"
+     },
+     {
+      "category_name": "Religious Places",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/abe1a844ba9dce4ca3c0d37233bdf4d0/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/abe1a844ba9dce4ca3c0d37233bdf4d0/thumb.jpeg"
+     }
+    ],
+    "insights_url": "/en/area-insights/dubai/dubai-marina",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 1,
+    "links": {
+     "community_entry_image": "https://graph-images.propertyfinder.ae/ae/community/50/c9ef849d9c2587d77f130d6bd7bcf3ea/thumb.jpeg",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "COMMUNITY",
+    "name": "Dubai Marina",
+    "path": "1.50",
+    "path_name": "Dubai",
+    "polygon": [
+     [
+      [
+       55.138496,
+       25.071302
+      ],
+      [
+       55.137305,
+       25.06995
+      ],
+      [
+       55.136667,
+       25.069227
+      ],
+      [
+       55.13584,
+       25.068289
+      ],
+      [
+       55.13549378629676,
+       25.067895750582075
+      ],
+      [
+       55.135032,
+       25.067372
+      ],
+      [
+       55.132272,
+       25.064264
+      ],
+      [
+       55.130094,
+       25.065967
+      ],
+      [
+       55.126946,
+       25.068434
+      ],
+      [
+       55.123673632845794,
+       25.071019020628665
+      ],
+      [
+       55.12449,
+       25.071953
+      ],
+      [
+       55.124744,
+       25.071786
+      ],
+      [
+       55.124869,
+       25.071951
+      ],
+      [
+       55.125755,
+       25.071285
+      ],
+      [
+       55.1262,
+       25.070963
+      ],
+      [
+       55.126607,
+       25.07074
+      ],
+      [
+       55.126639,
+       25.070823
+      ],
+      [
+       55.126741,
+       25.071046
+      ],
+      [
+       55.126859,
+       25.071228
+      ],
+      [
+       55.126927,
+       25.071305
+      ],
+      [
+       55.126739,
+       25.071394
+      ],
+      [
+       55.126569,
+       25.071501
+      ],
+      [
+       55.126626,
+       25.071578
+      ],
+      [
+       55.126566,
+       25.07169
+      ],
+      [
+       55.126547,
+       25.071722
+      ],
+      [
+       55.126499,
+       25.071772
+      ],
+      [
+       55.125604,
+       25.072457
+      ],
+      [
+       55.125371,
+       25.072625
+      ],
+      [
+       55.125323,
+       25.07268
+      ],
+      [
+       55.125286,
+       25.072764
+      ],
+      [
+       55.125264,
+       25.072865
+      ],
+      [
+       55.125257,
+       25.072967
+      ],
+      [
+       55.125259,
+       25.073062
+      ],
+      [
+       55.12525,
+       25.073172
+      ],
+      [
+       55.125233,
+       25.073304
+      ],
+      [
+       55.125227,
+       25.073428
+      ],
+      [
+       55.125238,
+       25.073514
+      ],
+      [
+       55.125273,
+       25.073681
+      ],
+      [
+       55.125358,
+       25.073978
+      ],
+      [
+       55.125582,
+       25.073916
+      ],
+      [
+       55.125951,
+       25.073817
+      ],
+      [
+       55.126186,
+       25.07378
+      ],
+      [
+       55.126343,
+       25.073823
+      ],
+      [
+       55.126424,
+       25.073749
+      ],
+      [
+       55.126825,
+       25.073059
+      ],
+      [
+       55.127834,
+       25.072259
+      ],
+      [
+       55.128454,
+       25.072208
+      ],
+      [
+       55.128292,
+       25.072046
+      ],
+      [
+       55.128796,
+       25.07195
+      ],
+      [
+       55.129084,
+       25.071898
+      ],
+      [
+       55.129832,
+       25.071762
+      ],
+      [
+       55.130129,
+       25.071765
+      ],
+      [
+       55.130417,
+       25.071796
+      ],
+      [
+       55.130797,
+       25.071927
+      ],
+      [
+       55.1312,
+       25.072137
+      ],
+      [
+       55.131631,
+       25.072484
+      ],
+      [
+       55.131826,
+       25.072744
+      ],
+      [
+       55.131992,
+       25.072953
+      ],
+      [
+       55.13209,
+       25.073201
+      ],
+      [
+       55.132156,
+       25.073584
+      ],
+      [
+       55.132284,
+       25.07437
+      ],
+      [
+       55.132446,
+       25.07469
+      ],
+      [
+       55.13263,
+       25.074953
+      ],
+      [
+       55.132782,
+       25.07514
+      ],
+      [
+       55.132956,
+       25.075314
+      ],
+      [
+       55.13322,
+       25.075517
+      ],
+      [
+       55.133647,
+       25.075761
+      ],
+      [
+       55.133941,
+       25.075858
+      ],
+      [
+       55.134708,
+       25.076034
+      ],
+      [
+       55.134954,
+       25.076091
+      ],
+      [
+       55.135466,
+       25.076311
+      ],
+      [
+       55.135778,
+       25.076543
+      ],
+      [
+       55.136122,
+       25.07694
+      ],
+      [
+       55.136248,
+       25.077176
+      ],
+      [
+       55.136358,
+       25.077448
+      ],
+      [
+       55.136445,
+       25.077704
+      ],
+      [
+       55.13649,
+       25.0779
+      ],
+      [
+       55.136569,
+       25.07812
+      ],
+      [
+       55.136776,
+       25.078478
+      ],
+      [
+       55.137184,
+       25.079014
+      ],
+      [
+       55.13752,
+       25.079336
+      ],
+      [
+       55.137658,
+       25.079445
+      ],
+      [
+       55.138041,
+       25.079713
+      ],
+      [
+       55.138484,
+       25.07997
+      ],
+      [
+       55.138974,
+       25.08024
+      ],
+      [
+       55.139741,
+       25.08069
+      ],
+      [
+       55.139929,
+       25.080819
+      ],
+      [
+       55.140125,
+       25.080963
+      ],
+      [
+       55.140358,
+       25.081156
+      ],
+      [
+       55.140574,
+       25.081365
+      ],
+      [
+       55.140794,
+       25.081604
+      ],
+      [
+       55.140999,
+       25.081864
+      ],
+      [
+       55.141191,
+       25.082122
+      ],
+      [
+       55.14137,
+       25.082364
+      ],
+      [
+       55.141316,
+       25.082398
+      ],
+      [
+       55.141105,
+       25.082542
+      ],
+      [
+       55.140881,
+       25.082712
+      ],
+      [
+       55.140366,
+       25.083102
+      ],
+      [
+       55.140284,
+       25.083166
+      ],
+      [
+       55.139584,
+       25.083668
+      ],
+      [
+       55.138188,
+       25.084935
+      ],
+      [
+       55.137459,
+       25.08558
+      ],
+      [
+       55.136522,
+       25.086349
+      ],
+      [
+       55.136593,
+       25.086514
+      ],
+      [
+       55.136769,
+       25.087001
+      ],
+      [
+       55.136825,
+       25.087155
+      ],
+      [
+       55.136915,
+       25.087671
+      ],
+      [
+       55.13692,
+       25.087987
+      ],
+      [
+       55.136913,
+       25.088106
+      ],
+      [
+       55.136868,
+       25.088388
+      ],
+      [
+       55.13683,
+       25.088566
+      ],
+      [
+       55.13675,
+       25.088726
+      ],
+      [
+       55.136702,
+       25.088813
+      ],
+      [
+       55.136633,
+       25.088907
+      ],
+      [
+       55.136548,
+       25.089007
+      ],
+      [
+       55.136458,
+       25.089087
+      ],
+      [
+       55.136335,
+       25.089012
+      ],
+      [
+       55.136128,
+       25.088892
+      ],
+      [
+       55.136058,
+       25.08885
+      ],
+      [
+       55.135912,
+       25.088784
+      ],
+      [
+       55.135794,
+       25.088738
+      ],
+      [
+       55.135669,
+       25.088711
+      ],
+      [
+       55.1355,
+       25.088693
+      ],
+      [
+       55.135362,
+       25.08869
+      ],
+      [
+       55.135183,
+       25.088707
+      ],
+      [
+       55.13499,
+       25.088747
+      ],
+      [
+       55.134836,
+       25.088801
+      ],
+      [
+       55.134623,
+       25.088887
+      ],
+      [
+       55.13447,
+       25.088965
+      ],
+      [
+       55.13431,
+       25.08906
+      ],
+      [
+       55.134087,
+       25.089212
+      ],
+      [
+       55.133871,
+       25.089346
+      ],
+      [
+       55.133823,
+       25.089377
+      ],
+      [
+       55.133779,
+       25.089426
+      ],
+      [
+       55.133756,
+       25.089482
+      ],
+      [
+       55.13374,
+       25.089539
+      ],
+      [
+       55.133734,
+       25.089588
+      ],
+      [
+       55.133742,
+       25.08963
+      ],
+      [
+       55.133758,
+       25.089664
+      ],
+      [
+       55.133787,
+       25.089706
+      ],
+      [
+       55.133847,
+       25.089763
+      ],
+      [
+       55.133895,
+       25.08979
+      ],
+      [
+       55.133947,
+       25.089825
+      ],
+      [
+       55.133992,
+       25.089873
+      ],
+      [
+       55.134026,
+       25.089931
+      ],
+      [
+       55.134051,
+       25.089988
+      ],
+      [
+       55.134071,
+       25.090069
+      ],
+      [
+       55.134086,
+       25.090167
+      ],
+      [
+       55.134084,
+       25.090241
+      ],
+      [
+       55.134078,
+       25.090323
+      ],
+      [
+       55.134055,
+       25.090417
+      ],
+      [
+       55.134034,
+       25.090505
+      ],
+      [
+       55.133934,
+       25.090695
+      ],
+      [
+       55.133851,
+       25.090852
+      ],
+      [
+       55.133768,
+       25.090994
+      ],
+      [
+       55.133745,
+       25.091032
+      ],
+      [
+       55.133737,
+       25.091076
+      ],
+      [
+       55.133731,
+       25.091117
+      ],
+      [
+       55.133739,
+       25.091174
+      ],
+      [
+       55.133794,
+       25.091295
+      ],
+      [
+       55.133847,
+       25.091411
+      ],
+      [
+       55.133895,
+       25.091498
+      ],
+      [
+       55.133932,
+       25.091565
+      ],
+      [
+       55.133987,
+       25.091656
+      ],
+      [
+       55.134007,
+       25.091696
+      ],
+      [
+       55.134055,
+       25.091768
+      ],
+      [
+       55.134093,
+       25.091846
+      ],
+      [
+       55.134123,
+       25.091893
+      ],
+      [
+       55.134162,
+       25.091951
+      ],
+      [
+       55.134201,
+       25.091987
+      ],
+      [
+       55.134268,
+       25.092021
+      ],
+      [
+       55.134421,
+       25.092056
+      ],
+      [
+       55.134729,
+       25.092122
+      ],
+      [
+       55.134834,
+       25.092138
+      ],
+      [
+       55.13511,
+       25.092174
+      ],
+      [
+       55.135413,
+       25.092172
+      ],
+      [
+       55.135669,
+       25.092168
+      ],
+      [
+       55.135969,
+       25.092144
+      ],
+      [
+       55.136198,
+       25.092114
+      ],
+      [
+       55.13647,
+       25.09206
+      ],
+      [
+       55.136674,
+       25.092014
+      ],
+      [
+       55.137026,
+       25.091911
+      ],
+      [
+       55.137557,
+       25.091696
+      ],
+      [
+       55.137771,
+       25.091545
+      ],
+      [
+       55.138102,
+       25.091254
+      ],
+      [
+       55.138361,
+       25.091031
+      ],
+      [
+       55.138352,
+       25.090992
+      ],
+      [
+       55.138663,
+       25.090746
+      ],
+      [
+       55.142087,
+       25.088026
+      ],
+      [
+       55.14298,
+       25.087301
+      ],
+      [
+       55.143212,
+       25.087492
+      ],
+      [
+       55.143521,
+       25.087718
+      ],
+      [
+       55.14392,
+       25.087886
+      ],
+      [
+       55.144281,
+       25.088001
+      ],
+      [
+       55.144552,
+       25.08804
+      ],
+      [
+       55.144794,
+       25.088049
+      ],
+      [
+       55.144934,
+       25.088004
+      ],
+      [
+       55.145054,
+       25.087942
+      ],
+      [
+       55.145342,
+       25.088082
+      ],
+      [
+       55.145516,
+       25.088214
+      ],
+      [
+       55.146059,
+       25.088743
+      ],
+      [
+       55.146535,
+       25.08929
+      ],
+      [
+       55.146723,
+       25.089524
+      ],
+      [
+       55.147238,
+       25.090034
+      ],
+      [
+       55.147905,
+       25.090724
+      ],
+      [
+       55.14899,
+       25.091835
+      ],
+      [
+       55.149485,
+       25.091427
+      ],
+      [
+       55.15138217908021,
+       25.089914163233452
+      ],
+      [
+       55.151621,
+       25.089723
+      ],
+      [
+       55.15172944824741,
+       25.089636753755993
+      ],
+      [
+       55.151834949685394,
+       25.08955229350116
+      ],
+      [
+       55.152459,
+       25.089052
+      ],
+      [
+       55.153023,
+       25.0886
+      ],
+      [
+       55.153052,
+       25.088577
+      ],
+      [
+       55.153467,
+       25.088244
+      ],
+      [
+       55.155143,
+       25.086904
+      ],
+      [
+       55.151845,
+       25.084085
+      ],
+      [
+       55.149202,
+       25.081847
+      ],
+      [
+       55.143962,
+       25.077324
+      ],
+      [
+       55.143341,
+       25.07671
+      ],
+      [
+       55.141918,
+       25.075183
+      ],
+      [
+       55.139783,
+       25.072762
+      ],
+      [
+       55.138496,
+       25.071302
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 1138,
+     "score": 3.9,
+     "url": ""
+    },
+    "top_location_id": null,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina",
+    "url_slug_value": {
+     "ar": "دبي-مارينا",
+     "en": "dubai-marina"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "4467",
+   "location": {
+    "abbreviation": "",
+    "age": 21,
+    "categories": [],
+    "center_points": {
+     "lat": 25.06058692932129,
+     "lon": 55.188392639160156
+    },
+    "children_count": 0,
+    "coordinates": {
+     "lat": 25.06059,
+     "lon": 55.187971
+    },
+    "current_language_slug": "the-springs-springs-8",
+    "floors": 0,
+    "id": 4467,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/dubai/the-springs-springs-8",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": true,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/the-springs",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": "/en/area-insights/dubai/the-springs-springs-8"
+    },
+    "location_type": "SUBCOMMUNITY",
+    "name": "Springs 8",
+    "path": "1.89.4467",
+    "path_name": "Dubai, The Springs",
+    "polygon": [
+     [
+      [
+       55.185938,
+       25.061411
+      ],
+      [
+       55.186264,
+       25.060681
+      ],
+      [
+       55.186664,
+       25.059809
+      ],
+      [
+       55.186726,
+       25.059603
+      ],
+      [
+       55.186794,
+       25.059411
+      ],
+      [
+       55.186912,
+       25.059123
+      ],
+      [
+       55.187082,
+       25.058758
+      ],
+      [
+       55.187334,
+       25.058424
+      ],
+      [
+       55.187593,
+       25.058176
+      ],
+      [
+       55.187818,
+       25.058039
+      ],
+      [
+       55.187899,
+       25.058044
+      ],
+      [
+       55.188184,
+       25.05834
+      ],
+      [
+       55.190039,
+       25.06046
+      ],
+      [
+       55.191603,
+       25.062161
+      ],
+      [
+       55.191038,
+       25.062545
+      ],
+      [
+       55.190756,
+       25.062682
+      ],
+      [
+       55.190459,
+       25.062682
+      ],
+      [
+       55.190205,
+       25.062549
+      ],
+      [
+       55.189278,
+       25.061466
+      ],
+      [
+       55.189146,
+       25.061146
+      ],
+      [
+       55.18916,
+       25.060967
+      ],
+      [
+       55.18947,
+       25.060649
+      ],
+      [
+       55.189017,
+       25.060198
+      ],
+      [
+       55.188612,
+       25.060531
+      ],
+      [
+       55.187592,
+       25.061746
+      ],
+      [
+       55.18793,
+       25.062009
+      ],
+      [
+       55.187489,
+       25.062514
+      ],
+      [
+       55.186771,
+       25.061917
+      ],
+      [
+       55.185938,
+       25.061411
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 0,
+     "score": 0,
+     "url": "/en/building-reviews/dubai/the-springs-springs-8.html"
+    },
+    "top_location_id": 89,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "the-springs-springs-8",
+    "url_slug_value": {
+     "ar": "الينابيع-الينابيع-8",
+     "en": "the-springs-springs-8"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "1",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 13488,
+    "coordinates": {
+     "lat": 25.119581,
+     "lon": 55.266774
+    },
+    "current_language_slug": "dubai",
+    "floors": 0,
+    "id": 1,
+    "image_token": "",
+    "images": [],
+    "insights_url": "",
+    "is_community_insights_visible": false,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 0,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "CITY",
+    "name": "Dubai",
+    "path": "1",
+    "path_name": "",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 1470,
+     "score": 3.9,
+     "url": ""
+    },
+    "top_location_id": null,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai",
+    "url_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    }
+   },
+   "type": "location"
+  }
+ ],
+ "meta": {
+  "pages": 1,
+  "total": 3
+ }
+}

@@ -1,0 +1,3675 @@
+{
+ "listings": [
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164591772",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 150000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Luxury Furnished | Creek View | Spacious Layout",
+    "location": {
+     "id": "11967",
+     "full_name": "Harbour Gate Tower 1, Harbour Gate, Dubai Creek Harbour (The Lagoons), Dubai",
+     "coordinates": {
+      "lat": 25.208187103271484,
+      "lon": 55.34687423706055
+     },
+     "slug": "dubai-creek-harbour-the-lagoons-harbour-gate-harbour-gate-tower-1",
+     "path": "1.48.8963.11967",
+     "type": "TOWER",
+     "name": "Harbour Gate Tower 1",
+     "path_name": "Dubai, Dubai Creek Harbour (The Lagoons), Harbour Gate",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/a023ddf2-a057-4a59-af69-dfce453bdd7b/416x272.jpg?v=a37c422886cdf3263417de2450f125b0",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/a023ddf2-a057-4a59-af69-dfce453bdd7b/668x452.jpg?v=0bf530b69d9702ba3c44d25aeccc5513",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/6b32a93d-b65b-4005-bca5-b1afcfea2b9f/416x272.jpg?v=a65619e67703489d3ffb09337d6179b0",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/6b32a93d-b65b-4005-bca5-b1afcfea2b9f/668x452.jpg?v=009ed370a341282a3d696009a7331552",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/dc051a71-cd02-4003-9a47-8c25b834863b/416x272.jpg?v=51bff4448009a604012656710c391d87",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/dc051a71-cd02-4003-9a47-8c25b834863b/668x452.jpg?v=cbf6e6ae0436f1fc7446a4a4db3b5f97",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/2d1bc2ab-fb76-460f-9855-e3fc4a7f2747/416x272.jpg?v=96f721648419022251f06a9198662d27",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/60M59GVTEPVVMNNNHEBPHRG0T4/2d1bc2ab-fb76-460f-9855-e3fc4a7f2747/668x452.jpg?v=b4159946ce3596f28df0ddc715b53429",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "474764",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/474764/d2a99543-27e3-497c-a095-fb3b533a3870/400x400.jpg?v=451d6dcfd808018b728ae3e7eab04745",
+     "is_super_agent": true,
+     "name": "Paloma Iriondo",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English",
+      "Spanish"
+     ],
+     "slug": "paloma-iriondo"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1151,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-harbour-gate-harbour-gate-tower-1-164591772.html",
+    "reference": "PB-R-40860-2",
+    "listed_date": "2026-10-26T11:47:06Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-40860-2%0AType%3A+Apartment%0APrice%3A+150%2C000+AED%2Fyear+%0ALocation%3A+Harbour+Gate+Tower+1+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164591772%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 18,
+    "amenities": [
+     "AC",
+     "CP"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": true,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "48",
+      "name": "Dubai Creek Harbour (The Lagoons)",
+      "type": "COMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons",
+      "slug_en": "dubai-creek-harbour-the-lagoons",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "8963",
+      "name": "Harbour Gate",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons-harbour-gate",
+      "slug_en": "dubai-creek-harbour-the-lagoons-harbour-gate",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "11967",
+      "name": "Harbour Gate Tower 1",
+      "type": "TOWER",
+      "slug": "dubai-creek-harbour-the-lagoons-harbour-gate-harbour-gate-tower-1",
+      "slug_en": "dubai-creek-harbour-the-lagoons-harbour-gate-harbour-gate-tower-1",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is proud to offer this furnished 2-bedroom apartment for rent in the prestigious Harbour Gate Tower 1, located in the heart of Dubai Creek Harbour. Offering elegant contemporary interiors, generous living spaces, and breathtaking Creek views, this home is ideal for those seeking a premium waterfront lifestyle.\n\nDesigned with comfort and functionality in mind, the apartment features a bright open-plan living and dining area, a modern fully equipped kitchen, two spacious bedrooms with built-in wardrobes, and floor-to-ceiling windows that fill the home with natural light while showcasing stunning views of Dubai Creek.\n\nProperty:\n* 2 Bedrooms\n* 2 Bathrooms\n* Built-Up Area: 1,151 sq. ft.\n* Fully Furnished\n* Creek View\n* Mid Floor\n* Modern Open Kitchen\n* Built-in Wardrobes\n* Floor-to-Ceiling Windows\n* Bright and Spacious Layout\n* Covered Parking\n* Available from October 17\n\nAmenities:\n* Infinity Swimming Pool with Creek Views\n* Children's Swimming Pool\n* Fully Equipped Gymnasium\n* Landscaped Leisure Deck\n* Children's Play Area\n* Outdoor Seating Areas\n* Multi-purpose Room\n* 24/7 Security\n* Concierge Services\n* Covered Parking\n* Pet-Friendly Community\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a  viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Central A/C",
+     "Covered Parking"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-harbour-gate-harbour-gate-tower-1-164591772.html",
+    "rank_score": 0,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "60M59GVTEPVVMNNNHEBPHRG0T4",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/8afba533bc5ed720971b237c1cbf9f91/e67d5106-682b-49cb-9b5f-37c22eedb2f6/watermarked.png",
+      "floor_number": 0,
+      "area": 1149,
+      "id": "Dubai_Dubai Creek Harbour (the Lagoons)_Harbour Gate Tower 1_2BD_02_309_10672"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "number_of_cheques": 1,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 13975
+    },
+    "is_great_value": false,
+    "is_high_demand": true,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 1,
+   "aggregated_position": 1,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "167879760",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 850000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "4BR + MAIDS | AVAILABLE | PRIME LOCATION",
+    "location": {
+     "id": "10704",
+     "full_name": "Cluster 12, Islamic Clusters, Jumeirah Islands, Dubai",
+     "coordinates": {
+      "lat": 25.06052017211914,
+      "lon": 55.154232025146484
+     },
+     "slug": "jumeirah-islands-islamic-clusters-cluster-12",
+     "path": "1.70.949.10704",
+     "type": "SUBCOMMUNITY",
+     "name": "Cluster 12",
+     "path_name": "Dubai, Jumeirah Islands, Islamic Clusters",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/5b1159d7-bb20-40b7-a3c8-fef8e403d1ec/416x272.jpg?v=215dfc65a1c74b9b5fdf44382b902783",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/5b1159d7-bb20-40b7-a3c8-fef8e403d1ec/668x452.jpg?v=ce7bd17b609ef5882fe8bd084132f38b",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/956030fa-c686-44e0-87f1-640e936629ac/416x272.jpg?v=9366161f4500276dabb87acb9e80203c",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/956030fa-c686-44e0-87f1-640e936629ac/668x452.jpg?v=18274efc61a3341f8c18c972df906580",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/8b749351-35f6-4e17-a767-8346b79b5a6a/416x272.jpg?v=242c99463dc9ecc54b6a904e19bcb21f",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/8b749351-35f6-4e17-a767-8346b79b5a6a/668x452.jpg?v=212a7715afff510284d5e1ddae05e646",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/ca7ad9cd-7a16-4fe7-89e3-14daa26894ef/416x272.jpg?v=de7c49d3a5cb45f95811ec79d7e01e9d",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YA2KDEE6W3G0AT0DW8BVK1930R/ca7ad9cd-7a16-4fe7-89e3-14daa26894ef/668x452.jpg?v=275e55ac05d7edbd966ae38c344bc1e1",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "221185",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/221185/048717e7-c677-4683-b5d9-bbb6f52c1510/400x400.jpg?v=244ca7271704c1907d3c940e20c9970d",
+     "is_super_agent": true,
+     "name": "Christian Curran",
+     "user_id": 79913,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "christian-curran"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "size": {
+     "value": 8801,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-jumeirah-islands-islamic-clusters-cluster-12-167879760.html",
+    "reference": "PB-R-38990-2",
+    "listed_date": "2026-11-02T09:17:14Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-38990-2%0AType%3A+Villa%0APrice%3A+850%2C000+AED%2Fyear+%0ALocation%3A+Cluster+12+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F167879760%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 30,
+    "amenities": [],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": true,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "70",
+      "name": "Jumeirah Islands",
+      "type": "COMMUNITY",
+      "slug": "jumeirah-islands",
+      "slug_en": "jumeirah-islands",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "949",
+      "name": "Islamic Clusters",
+      "type": "SUBCOMMUNITY",
+      "slug": "jumeirah-islands-islamic-clusters",
+      "slug_en": "jumeirah-islands-islamic-clusters",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "10704",
+      "name": "Cluster 12",
+      "type": "SUBCOMMUNITY",
+      "slug": "jumeirah-islands-islamic-clusters-cluster-12",
+      "slug_en": "jumeirah-islands-islamic-clusters-cluster-12",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES International Realty is proud to present this exquisite 4-bedroom villa in Jumeirah Islands.\n\nProperty Features:\n- Available\n- 8,801.11 SqFt\n- Spacious Open-Plan Living & Dining Areas\n- Fully Fitted Modern Kitchen\n- Private Balcony with Lake Views\n- Luxurious Master Suite with Walk-in Closet\n- Private Swimming Pool & Landscaped Garden\n- High-End Finishes Throughout\n- Maid’s Room & Storage Area\n\nThis stunning villa boasts grand living and dining areas, beautifully enhanced with large windows that flood the interiors with natural light and offer panoramic views of the lush landscaping and shimmering waterways. The fully equipped modern kitchen is fitted with top-quality appliances, elegant cabinetry, and ample space, making it ideal for family living and entertaining guests.\n\nThe villa offers multiple outdoor spaces, including a private garden, large terrace, and a swimming pool, perfect for relaxing, entertaining, or simply enjoying Dubai’s beautiful weather. The design seamlessly blends indoor and outdoor living, creating a harmonious and inviting atmosphere throughout.\n\nResidents of Jumeirah Islands enjoy an unparalleled lifestyle surrounded by picturesque lakes, jogging tracks, children’s play areas, and exclusive leisure facilities. The community is also strategically located, offering easy access to Dubai Marina, JLT, Sheikh Zayed Road, and major shopping and dining destinations\n\nFor more information and details contact: Christian at Arabian Estates",
+    "amenity_names": [],
+    "payment_method": [
+     "cash",
+     "installments"
+    ],
+    "lead_value": 432.55,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-jumeirah-islands-islamic-clusters-cluster-12-167879760.html",
+    "rank_score": 0,
+    "bedrooms_value": 4,
+    "bathrooms_value": 5,
+    "is_pf_exclusive": false,
+    "listing_id": "YA2KDEE6W3G0AT0DW8BVK1930R",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 8801,
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 2,
+   "aggregated_position": 2,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "165501549",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 90000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Highest Floor l Brand New l Exclusive",
+    "location": {
+     "id": "12393",
+     "full_name": "Palace Residence North, Dubai Creek Harbour (The Lagoons), Dubai",
+     "coordinates": {
+      "lat": 25.20538902282715,
+      "lon": 55.34794235229492
+     },
+     "slug": "dubai-creek-harbour-the-lagoons-palace-residence-north",
+     "path": "1.48.12393",
+     "type": "TOWER",
+     "name": "Palace Residence North",
+     "path_name": "Dubai, Dubai Creek Harbour (The Lagoons)",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/03755713-47a6-47ce-83cc-4bd674098a31/416x272.jpg?v=e622c5304ae65be7f195ab4d2438cc74",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/03755713-47a6-47ce-83cc-4bd674098a31/668x452.jpg?v=5b82c57fd94fd9c0a888469bf964bad6",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/8168baf6-9ffc-498d-84ed-dd4a8b43e603/416x272.jpg?v=375c6f1b028794200d25888249b57b48",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/8168baf6-9ffc-498d-84ed-dd4a8b43e603/668x452.jpg?v=6cf5e9276601ddaa1d57e3bbfbb22ffc",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/ffd53def-92fa-4761-a51c-8c4c74c9fb47/416x272.jpg?v=d514b243cf5ab62f186b31a4e716715a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/ffd53def-92fa-4761-a51c-8c4c74c9fb47/668x452.jpg?v=f0e41a7b3105417b6b2cb5466ce4ce47",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/effe9758-aebb-4ece-bff5-19cb0ad8a616/416x272.jpg?v=2e44eb1a2208ddb97c850aca5a2753ed",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/4C9PPXYA54F9D2NV2YA9DTZYSR/effe9758-aebb-4ece-bff5-19cb0ad8a616/668x452.jpg?v=f8818b2fa77ce4f3f3d96ab797e217f5",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "383900",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/383900/e53900ec-636b-43c4-b14e-aac71ad77b6f/260x200.jpg?v=8bf966db3d0e8202130f523a742f5829",
+     "is_super_agent": true,
+     "name": "Aakanksha Chhoda",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English",
+      "Hindi",
+      "Italian",
+      "Sindhi"
+     ],
+     "slug": "aakanksha-chhoda"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "size": {
+     "value": 644,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-palace-residence-north-165501549.html",
+    "reference": "PB-R-42663",
+    "listed_date": "2026-10-28T07:25:49Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-42663%0AType%3A+Apartment%0APrice%3A+90%2C000+AED%2Fyear+%0ALocation%3A+Palace+Residence+North+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F165501549%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 10,
+    "amenities": [
+     "AC",
+     "CP"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": true,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "48",
+      "name": "Dubai Creek Harbour (The Lagoons)",
+      "type": "COMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons",
+      "slug_en": "dubai-creek-harbour-the-lagoons",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "12393",
+      "name": "Palace Residence North",
+      "type": "TOWER",
+      "slug": "dubai-creek-harbour-the-lagoons-palace-residence-north",
+      "slug_en": "dubai-creek-harbour-the-lagoons-palace-residence-north",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Experience modern waterfront living in this bright and spacious 1-bedroom apartment, ideally positioned on a high floor with beautiful community views. Featuring a well-planned layout and contemporary interiors, this vacant residence is ready for immediate occupancy.\n\nProperty Features:\n\n* 1 spacious bedroom\n* 1 bathroom\n* Unfurnished\n* High-floor position\n* Community views\n* Private balcony\n* Open-plan kitchen\n* Built-in wardrobes\n* Bright living and dining area\n* 1 covered parking space\n* Vacant and ready to move in\n\nBuilding Amenities:\n\n* Infinity swimming pool\n* Fully equipped gymnasium\n* Children’s play area\n* BBQ area\n* Waterfront promenade\n* 24-hour security and concierge\n* Direct access to Creek Marina\n\nLocation Highlights:\n\n* Approximately 10 minutes from Downtown Dubai\n* Approximately 15 minutes from Dubai International Airport\n* Close to Creek Beach and Central Park\n* Convenient access to major roads\n\nAn excellent rental opportunity for individuals or couples seeking a modern home and premium waterfront lifestyle in one of Dubai’s most sought",
+    "amenity_names": [
+     "Central A/C",
+     "Covered Parking"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-palace-residence-north-165501549.html",
+    "rank_score": 0,
+    "bedrooms_value": 1,
+    "bathrooms_value": 1,
+    "is_pf_exclusive": false,
+    "listing_id": "4C9PPXYA54F9D2NV2YA9DTZYSR",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/e368f61edc9763550b4d6bea9c0c6a9e/fd90b748-67e3-46ca-b80b-c062870043cf/watermarked.png",
+      "floor_number": 0,
+      "area": 641,
+      "id": "Dubai_Dubai Creek Harbour (the Lagoons)_Palace Residences North_1BD_03__59550848"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 8100
+    },
+    "is_great_value": true,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 3,
+   "aggregated_position": 3,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "168803409",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 110000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Park/Creek View, Fully Furnished with Appliances",
+    "location": {
+     "id": "11513",
+     "full_name": "Creek Horizon Tower 1, Creek Horizon, Dubai Creek Harbour (The Lagoons), Dubai",
+     "coordinates": {
+      "lat": 25.20656967163086,
+      "lon": 55.34516525268555
+     },
+     "slug": "dubai-creek-harbour-the-lagoons-creek-horizon-creek-horizon-tower-1",
+     "path": "1.48.8586.11513",
+     "type": "TOWER",
+     "name": "Creek Horizon Tower 1",
+     "path_name": "Dubai, Dubai Creek Harbour (The Lagoons), Creek Horizon",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/3d6494ba-24b3-4d4a-b655-b5b8f738621b/416x272.jpg?v=b262d06828d6a8cccf178bfd9f3b2a7a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/3d6494ba-24b3-4d4a-b655-b5b8f738621b/668x452.jpg?v=f44ea9a2e19e65983d88109bff0889e7",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/63b989e4-0b1c-4db2-a933-0045d735293f/416x272.jpg?v=410dd8d3d662dfafba50c0503e944cde",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/63b989e4-0b1c-4db2-a933-0045d735293f/668x452.jpg?v=ffda57223649bc4f1d42ac683ffdef66",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/644610fe-6aaf-4e7f-b60b-c33c9db6003b/416x272.jpg?v=3aa3470bd4eea8e855b7e54b6976e81d",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/644610fe-6aaf-4e7f-b60b-c33c9db6003b/668x452.jpg?v=9e4411ec8d1516d3729ab6da456a7e3a",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/3b9986f8-3015-43c6-aebf-11732e34966c/416x272.jpg?v=087f18986cb44bf9803aaab1f45ad47e",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YYQED5ZKX19BJHWRD4GSHTQ9BW/3b9986f8-3015-43c6-aebf-11732e34966c/668x452.jpg?v=eca59e378404e17661f2364e86cede59",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "474764",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/474764/d2a99543-27e3-497c-a095-fb3b533a3870/400x400.jpg?v=451d6dcfd808018b728ae3e7eab04745",
+     "is_super_agent": true,
+     "name": "Paloma Iriondo",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English",
+      "Spanish"
+     ],
+     "slug": "paloma-iriondo"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "size": {
+     "value": 753,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-creek-horizon-creek-horizon-tower-1-168803409.html",
+    "reference": "PB-R-14405",
+    "listed_date": "2026-11-04T10:07:24Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-14405%0AType%3A+Apartment%0APrice%3A+110%2C000+AED%2Fyear+%0ALocation%3A+Creek+Horizon+Tower+1+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F168803409%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 17,
+    "amenities": [
+     "AC",
+     "CP"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": true,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "48",
+      "name": "Dubai Creek Harbour (The Lagoons)",
+      "type": "COMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons",
+      "slug_en": "dubai-creek-harbour-the-lagoons",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "8586",
+      "name": "Creek Horizon",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons-creek-horizon",
+      "slug_en": "dubai-creek-harbour-the-lagoons-creek-horizon",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "11513",
+      "name": "Creek Horizon Tower 1",
+      "type": "TOWER",
+      "slug": "dubai-creek-harbour-the-lagoons-creek-horizon-creek-horizon-tower-1",
+      "slug_en": "dubai-creek-harbour-the-lagoons-creek-horizon-creek-horizon-tower-1",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "Barnes Dubai is proud to present this beautiful 1 bedroom apartment located in Creek Horizon, Dubai Creek Harbour (The Lagoons). The apartment has magnificent views of the greenery of the park.\n\nUnit Details:\n\n* Park View\n* Furnished with appliances\n* Open kitchen\n* Spacious living room\n* 1 Bathroom\n*Laundry room\n*752.50 square feet\n* Balcony\n* Covered parking\n* Built in wardrobes\n* Swimming pool\n* Gym\n* Concierge Service\n* 24/7 Security\n*Kid's play area\n*Multipurpose hall\n*Ready to move in\n\nCommunity Features:\n\n* Beautiful Marina\n* Walking Tracks\n* Park\n* Playing Area for kids\n* Nursery\n* Numerous Restaurants\n* Multiple Retails outlets including Spinneys, Geant etc.\n* Hotels and Bars\n* Walking Distance to Beach\n* Huge Underground Visitor's Parking\n\nCreek Horizon is one of two buildings in the area that has an observatory on the rooftop. The finishing in this building is of higher standards than some of the other buildings in the area.\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a  viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Central A/C",
+     "Covered Parking"
+    ],
+    "payment_method": [
+     "cash",
+     "installments"
+    ],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-creek-horizon-creek-horizon-tower-1-168803409.html",
+    "rank_score": 0,
+    "bedrooms_value": 1,
+    "bathrooms_value": 1,
+    "is_pf_exclusive": false,
+    "listing_id": "YYQED5ZKX19BJHWRD4GSHTQ9BW",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/515410b4b3abc09fab2be2f4da5b8d1f/74135056-2cfc-49d8-abd0-90235f5a302a/watermarked.png",
+      "floor_number": 0,
+      "area": 753,
+      "id": "Dubai_Dubai Creek Harbour (the Lagoons)_Creek Horizon Tower 1_1BD_01_1006_6991"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "number_of_cheques": 1,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 10248.33
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 4,
+   "aggregated_position": 4,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "168346979",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 278000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Exclusive | High Floor | Palm View",
+    "location": {
+     "id": "13091",
+     "full_name": "Grand Bleu Tower 2, Grand Bleu, Emaar Beachfront, Dubai Harbour, Dubai",
+     "coordinates": {
+      "lat": 25.100208282470703,
+      "lon": 55.14115905761719
+     },
+     "slug": "dubai-harbour-emaar-beachfront-grand-bleu-grand-bleu-tower-2",
+     "path": "1.9754.9755.19429.13091",
+     "type": "TOWER",
+     "name": "Grand Bleu Tower 2",
+     "path_name": "Dubai, Dubai Harbour, Emaar Beachfront, Grand Bleu",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/1034a534-5b79-45c9-8171-c5e730d97034/416x272.jpg?v=85a5b16fe6ee4980eb774066b3eed634",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/1034a534-5b79-45c9-8171-c5e730d97034/668x452.jpg?v=cf7ba3d568979f9a5875d5a5a656cf3f",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/b5bdd6d4-479d-4f88-82ac-851fdff59205/416x272.jpg?v=acaf8e19eb767f9bbb55f0145ed9468a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/b5bdd6d4-479d-4f88-82ac-851fdff59205/668x452.jpg?v=b887579141afb1c26da4b93f25a22fef",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/e6ee32cb-b46d-4ed8-abcc-05f7853755aa/416x272.jpg?v=09efc209fb12c6284f932ef577eba430",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/e6ee32cb-b46d-4ed8-abcc-05f7853755aa/668x452.jpg?v=60a751addabc4c24fdf8fc05bf6d341d",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/f176cf70-e7f5-4fdd-98ce-77ef00e123bd/416x272.jpg?v=c26f5981b8bb29566b0e901482a8c90a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YVJTV9K7NF3P9GTTBAAE5E2PAW/f176cf70-e7f5-4fdd-98ce-77ef00e123bd/668x452.jpg?v=07c4b3c819f0ea19f2e320a3f97645ab",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "440704",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/440704/24655f48-8ca6-4757-b974-ed56509c284e/260x200.jpg?v=ddcc5383c933ab75a0b0de04e1ce7abc",
+     "is_super_agent": true,
+     "name": "Sarkar  Sadik",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English",
+      "Arabic",
+      "Dutch",
+      "Kurdi"
+     ],
+     "slug": "sarkar-sadik"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "size": {
+     "value": 1163,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-harbour-emaar-beachfront-grand-bleu-grand-bleu-tower-2-168346979.html",
+    "reference": "PB-R-42947",
+    "listed_date": "2026-11-03T10:14:30Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-42947%0AType%3A+Apartment%0APrice%3A+278%2C000+AED%2Fyear+%0ALocation%3A+Grand+Bleu+Tower+2+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F168346979%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 12,
+    "amenities": [
+     "AC",
+     "BA",
+     "SP",
+     "SS",
+     "SY",
+     "CP",
+     "VW",
+     "BW",
+     "BK",
+     "SE",
+     "LB"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 0,
+    "rss": 0,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": true,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "9754",
+      "name": "Dubai Harbour",
+      "type": "COMMUNITY",
+      "slug": "dubai-harbour",
+      "slug_en": "dubai-harbour",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "9755",
+      "name": "Emaar Beachfront",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-harbour-emaar-beachfront",
+      "slug_en": "dubai-harbour-emaar-beachfront",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "19429",
+      "name": "Grand Bleu",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-harbour-emaar-beachfront-grand-bleu",
+      "slug_en": "dubai-harbour-emaar-beachfront-grand-bleu",
+      "level": "3",
+      "insights_url": ""
+     },
+     {
+      "id": "13091",
+      "name": "Grand Bleu Tower 2",
+      "type": "TOWER",
+      "slug": "dubai-harbour-emaar-beachfront-grand-bleu-grand-bleu-tower-2",
+      "slug_en": "dubai-harbour-emaar-beachfront-grand-bleu-grand-bleu-tower-2",
+      "level": "4",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES International Realty is proud to offer this fully furnished 2-bedroom apartment in Grand Bleu Tower 2, Emaar Beachfront, an exclusive waterfront residence combining contemporary design with an exceptional coastal lifestyle.\n\nThis elegant apartment features a spacious and thoughtfully designed layout, complemented by stylish furnishings and modern finishes. The residence offers two well-proportioned bedrooms, a bright living and dining area, a fully equipped kitchen, and contemporary bathrooms. Large windows create a light-filled atmosphere, while the furnished interiors provide a comfortable, ready-to-move-in home.\n\nProperty Features:\n- 2 Bedrooms\n- Fully Furnished\n- Spacious Living & Dining Area\n- Fully Equipped Kitchen\n- Built-in Wardrobes\n- Modern Bathrooms\n- Contemporary Finishes\n- Covered Parking\n\nBuilding & Location:\n\nGrand Bleu Tower 2 by Elie Saab is located within Emaar Beachfront, a prestigious waterfront community in Dubai Harbour. Inspired by sophisticated coastal living, the development combines elegant architecture with a prime beachfront setting.\n\nResidents can enjoy access to a private beach, swimming pools, fitness facilities, landscaped areas, and a range of nearby dining and leisure options. The community also offers convenient access to Dubai Marina, Palm Jumeirah, JBR, and other key destinations across Dubai.\n\nAt BARNES International Realty, we are committed to trust, excellence, elegance, and vision. Through transparent and discreet service, exceptional standards, and international expertise, we deliver refined client experiences and build lasting relationships.\n\nDon’t miss this opportunity. Contact BARNES International Realty today to arrange a viewing and experience premium waterfront living at Emaar Beachfront.",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Shared Pool",
+     "Shared Spa",
+     "Shared Gym",
+     "Covered Parking",
+     "View of Water",
+     "Built in Wardrobes",
+     "Kitchen Appliances",
+     "Security",
+     "Lobby in Building"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-harbour-emaar-beachfront-grand-bleu-grand-bleu-tower-2-168346979.html",
+    "rank_score": 0,
+    "bedrooms_value": 2,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "YVJTV9K7NF3P9GTTBAAE5E2PAW",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "number_of_cheques": 4,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 24498.75
+    },
+    "is_great_value": false,
+    "is_high_demand": true,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 5,
+   "aggregated_position": 5,
+   "project_expert": null
+  },
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "b4126743-fb23-4daa-b08c-5632f1d7418a",
+    "name": "Podium Villas",
+    "slug": "nakheel/podium-villas",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/5ae9e276-6bfc-473e-a6ff-30747aebc950/logo/image/PvllxFXTcHieg34bwb5FuJPcZ_1pE6M6fuubNu8YURg=/original.png",
+     "name": "Nakheel",
+     "id": "5ae9e276-6bfc-473e-a6ff-30747aebc950"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "11914",
+       "name": "Dubai,Palm Jumeirah,Palm Beach Towers",
+       "type": "SUBCOMMUNITY"
+      }
+     ],
+     "full_name": "Dubai,Palm Jumeirah,Palm Beach Towers"
+    },
+    "bedrooms": [
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "from": 5300000
+    },
+    "delivery_date": "2027-01-01T04:24:00Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/b4126743-fb23-4daa-b08c-5632f1d7418a/gallery/image/5IcsYeevT9OhXy5NYSq_yzMENzeds72xFXLg1dq8Xec=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/b4126743-fb23-4daa-b08c-5632f1d7418a/gallery/image/5IcsYeevT9OhXy5NYSq_yzMENzeds72xFXLg1dq8Xec=/medium.webp",
+      "mobile": "https://new-projects-media.propertyfinder.com/project/b4126743-fb23-4daa-b08c-5632f1d7418a/mobile_image/image/5IcsYeevT9OhXy5NYSq_yzMENzeds72xFXLg1dq8Xec=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971543434369",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Podium+Villas+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fnakheel%2Fpodium-villas%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": true,
+    "hotness_level": 92,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [],
+    "effective_price": 5300000,
+    "property_type": "villa",
+    "min_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "dcbeb564-86f2-44c1-8334-105abc41001d",
+     "pf_client_id": "6425",
+     "agents": [
+      {
+       "id": "230594",
+       "name": "RIKIN BHAVSAR",
+       "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/230594/724a1d16-e532-446c-8d7a-39a3c4f72ccc/260x200.jpg?v=a5373050085484a24361760c5e76b733",
+       "is_super_agent": true,
+       "avg_score": 4.3,
+       "review_count": 4,
+       "languages": [
+        "English",
+        "Hindi",
+        "Gujarati"
+       ],
+       "total_properties": 26,
+       "detail_url": "/en/agent/rikin-bhavsar-230594",
+       "position": "CEO",
+       "years_of_experience": 11,
+       "broker": {
+        "id": "6425",
+        "name": "Gaj Properties LLC",
+        "slug": "gaj-properties-llc-6551",
+        "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/6425/22b606e4-6b6f-4bf9-a3b4-0d992f5f16ae/260x200.jpg",
+        "is_exclusive": false
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 6,
+   "aggregated_position": 6,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "168330892",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 260000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "EXCLUSIVE | Renovated | Private Pool | Large Plot",
+    "location": {
+     "id": "4469",
+     "full_name": "Springs 10, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.0573787689209,
+      "lon": 55.18102264404297
+     },
+     "slug": "the-springs-springs-10",
+     "path": "1.89.4469",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 10",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/N1W1C71RSMMMDSAAV3WY98JASC/e05b05f5-cfe9-4f8f-90b1-22865f8eaee3/416x272.jpg?v=0c4209e46e77014aa5e40d7548504df3",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/N1W1C71RSMMMDSAAV3WY98JASC/e05b05f5-cfe9-4f8f-90b1-22865f8eaee3/668x452.jpg?v=dd20b6dcfa5b3521695d7e247901d4e1",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/N1W1C71RSMMMDSAAV3WY98JASC/202f6a9d-39de-469f-89fe-1c1210a85b3c/416x272.jpg?v=7ca53e775f521482c2c2c1362b814055",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/N1W1C71RSMMMDSAAV3WY98JASC/202f6a9d-39de-469f-89fe-1c1210a85b3c/668x452.jpg?v=a48e8dc470344960db6ff5a7adadced8",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/N1W1C71RSMMMDSAAV3WY98JASC/9cd1a66c-b20e-42bc-8715-58d4bf33b00e/416x272.jpg?v=9390e1f2c6b2ab10c18f66146720037c",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/N1W1C71RSMMMDSAAV3WY98JASC/9cd1a66c-b20e-42bc-8715-58d4bf33b00e/668x452.jpg?v=ec687dddf0ee8850a6ea4b31281fb742",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "295710",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/295710/291ba512-0783-4c6c-a379-deca43e9e9c5/260x200.jpg?v=c8b8d6f7000c24b51fe2bbe40dd5601d",
+     "is_super_agent": true,
+     "name": "Simone Adlington",
+     "user_id": 143734,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "simone-adlington"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "size": {
+     "value": 2228,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-the-springs-springs-10-168330892.html",
+    "reference": "PB-R-28629-4",
+    "listed_date": "2026-11-03T07:22:18Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-28629-4%0AType%3A+Villa%0APrice%3A+260%2C000+AED%2Fyear+%0ALocation%3A+Springs+10+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F168330892%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 18,
+    "amenities": [
+     "AC",
+     "BA",
+     "SP",
+     "CP",
+     "PA",
+     "ST",
+     "PG",
+     "PP",
+     "BW",
+     "BK",
+     "PR",
+     "BR",
+     "SE"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 77.62878,
+    "rss": 77.62878,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4469",
+      "name": "Springs 10",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-10",
+      "slug_en": "the-springs-springs-10",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai are proud to present this beautifully renovated villa in the highly desirable Springs 10 community. Finished to an exceptional standard, this home has undergone a complete renovation, offering modern finishes, high-quality fixtures, and a private swimming pool.\n\nProperty Features:\nSprings 10\nType 4M\nFull Renovation\nKitchen Appliances Included\nGround Floor En-Suite Bedroom/Study\n2 Bedrooms\n3 Bathrooms\nSwimming Pool\nLargest Plot\nBack-to-Back Location\n2,228.34 sq.ft Plot\n1,646 sq.ft BUA\nVacant Now\n\nThe ground floor offers a bright & spacious open-plan living/dining area, a contemporary kitchen complete with built-in appliances, a separate laundry area, guest powder room, the ground floor study has been converted into a spacious en-suite bedroom, providing flexibility or can used as a home office. Large doors open onto the landscaped garden, where the private pool creates the perfect space for relaxing or entertaining.\n\nUpstairs, both bedrooms are fully upgraded with built-in wardrobes, en-suite bathrooms & balconies, creating comfortable & stylish living space.",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "Pets Allowed",
+     "Study",
+     "Private Garden",
+     "Private Pool",
+     "Built in Wardrobes",
+     "Kitchen Appliances",
+     "Children's Play Area",
+     "Barbecue Area",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-the-springs-springs-10-168330892.html",
+    "rank_score": 77.62877655029297,
+    "bedrooms_value": 2,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "N1W1C71RSMMMDSAAV3WY98JASC",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/e3ddcee031f1334e62431afb5dd3c4c9/682e0683-7da0-429e-997f-2fade2e58453/watermarked.png",
+      "floor_number": 0,
+      "area": 2228,
+      "id": "Dubai_the_springs_the springs_10_2BD_01__21524"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 2228,
+    "number_of_cheques": 1,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 24223.33
+    },
+    "is_great_value": false,
+    "is_high_demand": true,
+    "built_up_area": 1646,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 7,
+   "aggregated_position": 7,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "169264312",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 300000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Vacant Now | Type 3E | Fully Renovated | Lake View",
+    "location": {
+     "id": "4463",
+     "full_name": "Springs 4, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.060333251953125,
+      "lon": 55.179264068603516
+     },
+     "slug": "the-springs-springs-4",
+     "path": "1.89.4463",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 4",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/0CKMSZGHX77F40S8ZT32BZ5T9M/c0556663-8aff-43b3-9a4e-c7f26ff23de9/416x272.jpg?v=2db0311012a2373812d79b753feb3dcd",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/0CKMSZGHX77F40S8ZT32BZ5T9M/c0556663-8aff-43b3-9a4e-c7f26ff23de9/668x452.jpg?v=e0bc9e9b8cf16f38e625872ce8d27df4",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/0CKMSZGHX77F40S8ZT32BZ5T9M/5f1c1d14-67f6-4ec8-b741-e8770d0df944/416x272.jpg?v=0d31478a25e0978551d59a12ec8b257b",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/0CKMSZGHX77F40S8ZT32BZ5T9M/5f1c1d14-67f6-4ec8-b741-e8770d0df944/668x452.jpg?v=4d71133193810ac211d85681719cb37d",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/0CKMSZGHX77F40S8ZT32BZ5T9M/e95ca7ae-4a11-45d2-bd69-6f8cc3895cd5/416x272.jpg?v=a4a5eca37afaad0e2761a7158bdc1b59",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/0CKMSZGHX77F40S8ZT32BZ5T9M/e95ca7ae-4a11-45d2-bd69-6f8cc3895cd5/668x452.jpg?v=cd7acacfc9cc0beb2ace7269f3670fc3",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "447669",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/447669/ac6b8200-1227-49f4-b88b-95d8cceee4b0/260x200.jpg?v=474be2fe14f72850a19aeb15f179ac90",
+     "is_super_agent": true,
+     "name": "Gray Foster",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "gray-foster"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "size": {
+     "value": 3773,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-the-springs-springs-4-169264312.html",
+    "reference": "PB-R-42468-1",
+    "listed_date": "2026-11-05T10:27:01Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-42468-1%0AType%3A+Villa%0APrice%3A+300%2C000+AED%2Fyear+%0ALocation%3A+Springs+4+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F169264312%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 24,
+    "amenities": [
+     "AC",
+     "BA",
+     "SP",
+     "CP",
+     "VW",
+     "PA",
+     "ST",
+     "PG",
+     "BW",
+     "PR",
+     "CO",
+     "BR",
+     "SE"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 72.63538,
+    "rss": 72.63538,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4463",
+      "name": "Springs 4",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-4",
+      "slug_en": "the-springs-springs-4",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is proud to present this fully renovated Type 3E villa offering a full lake view in the sought-after community of Springs 4 offering generous living space and excellent flexibility for family living.\n\nThe ground floor features a spacious living & dining area, kitchen, powder room, study, laundry room & storage closet. Upstairs, the property offers three well-proportioned bedrooms, a family bathroom. The master bedroom benefits from an en-suite bathroom and balcony.\n\nProperty Features:\n- Springs 4\n- Type 3E\n- 3 Bedroom + Study\n- 3 Bathroom\n- Renovated\n- Full Lake View\n- Large Plot\n- Back to Back\n- 2,305 Sq.Ft BUA\n- 3,773 Sq.Ft Plot\n- Vacant Now\n- Secure, Gated Community\n\nIdeally located within walking distance of the communal parks & pool on the lake and just a short drive from both the Meadows Souk & The Springs Souk with restaurants, shops, cafes, gyms etc. The property is perfectly positioned for families looking to enjoy the convenience and peaceful surroundings that The Springs has to offer.\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a  viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "View of Water",
+     "Pets Allowed",
+     "Study",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Children's Play Area",
+     "Children's Pool",
+     "Barbecue Area",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-the-springs-springs-4-169264312.html",
+    "rank_score": 72.63538360595703,
+    "bedrooms_value": 3,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "0CKMSZGHX77F40S8ZT32BZ5T9M",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 3773,
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 27000
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "built_up_area": 2305,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 8,
+   "aggregated_position": 8,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "167895882",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 520000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Elegant Villa | Golf View | Vacant",
+    "location": {
+     "id": "9430",
+     "full_name": "Veneto at Damac Hills, Damac Hills, Dubai",
+     "coordinates": {
+      "lat": 25.02866554260254,
+      "lon": 55.25847244262695
+     },
+     "slug": "damac-hills-veneto-at-damac-hills",
+     "path": "1.129.9430",
+     "type": "SUBCOMMUNITY",
+     "name": "Veneto at Damac Hills",
+     "path_name": "Dubai, Damac Hills",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/8SYVMM8S6T5Y446BXVNYS6HFV0/ad13cbf0-2837-41ad-b3a8-2d22066733dd/416x272.jpg?v=94501c40d112d64a6c68b5ca222ba3c0",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/8SYVMM8S6T5Y446BXVNYS6HFV0/ad13cbf0-2837-41ad-b3a8-2d22066733dd/668x452.jpg?v=19aa4d1ad10f48baaeaecbdf02002a6c",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/8SYVMM8S6T5Y446BXVNYS6HFV0/1d7af122-a21d-4155-86d2-42da0f9fd7d0/416x272.jpg?v=84342c8cd5f88498f04176f0410b8039",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/8SYVMM8S6T5Y446BXVNYS6HFV0/1d7af122-a21d-4155-86d2-42da0f9fd7d0/668x452.jpg?v=515a20b9569a95fe2ade2bca6d137d05",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/8SYVMM8S6T5Y446BXVNYS6HFV0/28307c6d-1779-4068-95ac-cf28f2d3b2cf/416x272.jpg?v=0c4bbad2ba8722a1a8556f3815831173",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/8SYVMM8S6T5Y446BXVNYS6HFV0/28307c6d-1779-4068-95ac-cf28f2d3b2cf/668x452.jpg?v=963891233844355f3f2620e8162e37fc",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "378309",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/378309/7513862e-fdc8-4728-ac48-8709b8fb43d3/260x200.jpg?v=19177b51d72527c8c02427d143659215",
+     "is_super_agent": true,
+     "name": "Muneeb  Quraishi",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "muneeb-quraishi"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "size": {
+     "value": 4309,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-damac-hills-veneto-at-damac-hills-167895882.html",
+    "reference": "PB-R-42200-1",
+    "listed_date": "2026-11-02T12:00:12Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-42200-1%0AType%3A+Villa%0APrice%3A+520%2C000+AED%2Fyear+%0ALocation%3A+Veneto+at+Damac+Hills+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F167895882%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 12,
+    "amenities": [
+     "BA",
+     "BR",
+     "BW",
+     "AC",
+     "CP",
+     "PG"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 70.80286,
+    "rss": 70.80286,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "129",
+      "name": "Damac Hills",
+      "type": "COMMUNITY",
+      "slug": "damac-hills",
+      "slug_en": "damac-hills",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "9430",
+      "name": "Veneto at Damac Hills",
+      "type": "SUBCOMMUNITY",
+      "slug": "damac-hills-veneto-at-damac-hills",
+      "slug_en": "damac-hills-veneto-at-damac-hills",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is proud to present this spacious 5-bedroom villa in Veneto, DAMAC Hills, offering 4,600 sq. ft. of built-up area on an impressive 6,000 sq. ft. plot, with a desirable golf view.\n\nThe villa offers a well-planned layout designed for comfortable family living, with one bedroom conveniently located on the ground floor and four additional bedrooms upstairs, along with a spacious living area on the upper floor.\n\nThe ground floor features generous living and dining spaces, a modern kitchen, and seamless access to the outdoor areas. Large windows and glass doors allow plenty of natural light into the interiors while creating a strong connection between the indoor and outdoor spaces.\n\nUpstairs, the property offers four well-proportioned bedrooms along with an additional living space, providing an ideal private family area. The villa also benefits from a generous terrace overlooking the surrounding green spaces and golf-facing outlook.\n\nOutside, the property features a private swimming pool, landscaped garden, spacious terrace, and outdoor entertaining area, making the 6,000 sq. ft. plot particularly well suited for family gatherings and outdoor living.\n\nProperty Features\n5 Bedrooms\n1 Bedroom on Ground Floor\n4 Bedrooms Upstairs\nUpstairs Living Area\n4,600 sq. ft. BUA\n6,000 sq. ft. Plot\nGolf View\nPrivate Swimming Pool\nLandscaped Garden\nSpacious Terrace\nOutdoor Entertainment Area\nModern Kitchen\nSpacious Living & Dining Areas\nVeneto, DAMAC Hills",
+    "amenity_names": [
+     "Balcony",
+     "Barbecue Area",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Covered Parking",
+     "Private Garden"
+    ],
+    "payment_method": [],
+    "lead_value": 432.55,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-damac-hills-veneto-at-damac-hills-167895882.html",
+    "rank_score": 70.8028564453125,
+    "bedrooms_value": 5,
+    "bathrooms_value": 6,
+    "is_pf_exclusive": false,
+    "listing_id": "8SYVMM8S6T5Y446BXVNYS6HFV0",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 4309,
+    "number_of_cheques": 4,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "price_change": -9,
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": true
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 9,
+   "aggregated_position": 9,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "165500906",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 300000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Well Maintained | Great Location | Corner Plot",
+    "location": {
+     "id": "4551",
+     "full_name": "Zulal 2, Zulal, The Lakes, Dubai",
+     "coordinates": {
+      "lat": 25.07863998413086,
+      "lon": 55.171287536621094
+     },
+     "slug": "the-lakes-zulal-zulal-2",
+     "path": "1.93.1270.4551",
+     "type": "TOWER",
+     "name": "Zulal 2",
+     "path_name": "Dubai, The Lakes, Zulal",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/H7N022MMAKQZK5ZQ9A9SDHA43M/c34bc678-ab8c-4bf0-95b4-c96a23d4236c/416x272.jpg?v=3f47c1097624aa4014d0c1347b9bcc8e",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/H7N022MMAKQZK5ZQ9A9SDHA43M/c34bc678-ab8c-4bf0-95b4-c96a23d4236c/668x452.jpg?v=10a7fea2e965a403a8b51a1d7894cef6",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/H7N022MMAKQZK5ZQ9A9SDHA43M/8cda552b-3984-4883-8d6d-debc3309448b/416x272.jpg?v=8307ecfc09ce5da99231deef00042fe4",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/H7N022MMAKQZK5ZQ9A9SDHA43M/8cda552b-3984-4883-8d6d-debc3309448b/668x452.jpg?v=9dc155961420a2cb8075f2c1e7748c4a",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/H7N022MMAKQZK5ZQ9A9SDHA43M/33725e38-f67b-43f8-bcae-479990360535/416x272.jpg?v=ce58a0f3352d1d52ddafe3282f93b5eb",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/H7N022MMAKQZK5ZQ9A9SDHA43M/33725e38-f67b-43f8-bcae-479990360535/668x452.jpg?v=b249dfee17ca34a5b4d986f8b5c09c41",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "447669",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/447669/ac6b8200-1227-49f4-b88b-95d8cceee4b0/260x200.jpg?v=474be2fe14f72850a19aeb15f179ac90",
+     "is_super_agent": true,
+     "name": "Gray Foster",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "gray-foster"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "size": {
+     "value": 3990,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-the-lakes-zulal-zulal-2-165500906.html",
+    "reference": "PB-R-41718-1",
+    "listed_date": "2026-10-28T07:16:40Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-41718-1%0AType%3A+Villa%0APrice%3A+300%2C000+AED%2Fyear+%0ALocation%3A+Zulal+2+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F165500906%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 24,
+    "amenities": [
+     "AC",
+     "MR",
+     "BA",
+     "SP",
+     "CP",
+     "PA",
+     "PG",
+     "BW",
+     "SE"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 68.70307,
+    "rss": 68.70307,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "93",
+      "name": "The Lakes",
+      "type": "COMMUNITY",
+      "slug": "the-lakes",
+      "slug_en": "the-lakes",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "1270",
+      "name": "Zulal",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-lakes-zulal",
+      "slug_en": "the-lakes-zulal",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "4551",
+      "name": "Zulal 2",
+      "type": "TOWER",
+      "slug": "the-lakes-zulal-zulal-2",
+      "slug_en": "the-lakes-zulal-zulal-2",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is proud to present this spacious 3-bedroom villa with a study and maid's room, ideally positioned on a corner plot in the prestigious The Lakes community. Offering generous living spaces, a family-friendly layout, and a prime location, this home is perfect for those seeking a peaceful lifestyle in one of Dubai's most established gated communities.\n\nWell located making it an excellent opportunity for families looking to move into a ready home in a premium neighborhood.\n\nProperty Details:\n- 3 Bedrooms\n- Study Room\n- Maid's Room\n- Corner Plot\n- Spacious Living & Dining Area\n- Built-in Wardrobes\n- Private Garden\n- Covered Parking\n- Bright & Well-Maintained\n\n\nThe Lakes is one of Dubai's most sought-after villa communities, renowned for its tranquil surroundings, lush landscaping, and family-oriented lifestyle. With excellent connectivity to major business districts and leisure destinations, this villa offers the perfect balance of comfort, convenience, and community living.\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a  viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Central A/C",
+     "Maids Room",
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "Pets Allowed",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 432.55,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-the-lakes-zulal-zulal-2-165500906.html",
+    "rank_score": 68.70307159423828,
+    "bedrooms_value": 3,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "H7N022MMAKQZK5ZQ9A9SDHA43M",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 3990,
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 27000
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 10,
+   "aggregated_position": 10,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164589563",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 160000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Well Maintained | Close to Pool & Lake | November",
+    "location": {
+     "id": "4471",
+     "full_name": "Springs 12, The Springs, Dubai",
+     "coordinates": {
+      "lat": 25.055492401123047,
+      "lon": 55.18327331542969
+     },
+     "slug": "the-springs-springs-12",
+     "path": "1.89.4471",
+     "type": "SUBCOMMUNITY",
+     "name": "Springs 12",
+     "path_name": "Dubai, The Springs",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JTYRHKFFVDDPZJJW85VZVVC094/4eb02182-af7e-4948-8fab-acb2884539fb/416x272.jpg?v=45504b377766008dd536d927decce624",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JTYRHKFFVDDPZJJW85VZVVC094/4eb02182-af7e-4948-8fab-acb2884539fb/668x452.jpg?v=3d1e17b73e31aa48594598195bf400f1",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JTYRHKFFVDDPZJJW85VZVVC094/bfe4ecb6-33a7-41aa-b476-29f90b654ade/416x272.jpg?v=4021e3a28d400cbc01bc4723afae4912",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JTYRHKFFVDDPZJJW85VZVVC094/bfe4ecb6-33a7-41aa-b476-29f90b654ade/668x452.jpg?v=1f6f1877336335936aa7c2320350c475",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JTYRHKFFVDDPZJJW85VZVVC094/b1c4611c-366a-475f-b624-29d1d88d409b/416x272.jpg?v=c28a1360d1c1006264ed96fec3593409",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JTYRHKFFVDDPZJJW85VZVVC094/b1c4611c-366a-475f-b624-29d1d88d409b/668x452.jpg?v=bf1c93bff974623dedb7c672f07d0414",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "447669",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/447669/ac6b8200-1227-49f4-b88b-95d8cceee4b0/260x200.jpg?v=474be2fe14f72850a19aeb15f179ac90",
+     "is_super_agent": true,
+     "name": "Gray Foster",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "gray-foster"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "size": {
+     "value": 2003,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-the-springs-springs-12-164589563.html",
+    "reference": "PB-R-42562",
+    "listed_date": "2026-10-26T11:25:41Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-42562%0AType%3A+Villa%0APrice%3A+160%2C000+AED%2Fyear+%0ALocation%3A+Springs+12+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164589563%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 11,
+    "amenities": [
+     "BA",
+     "BR",
+     "BW",
+     "AC",
+     "CP",
+     "PG"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 68.10345,
+    "rss": 68.10345,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "89",
+      "name": "The Springs",
+      "type": "COMMUNITY",
+      "slug": "the-springs",
+      "slug_en": "the-springs",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "4471",
+      "name": "Springs 12",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-springs-springs-12",
+      "slug_en": "the-springs-springs-12",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai are pleased to present this well maintained 2 bedroom villa in the highly sought-after community of Springs 12. Ideally located opposite the large lake and just walking distance from the community pool and park. The ground floor features a bright open-plan living & dining area with an open kitchen, guest powder room, laundry area, and study room. Upstairs there are 2 bedrooms both with en-suite bedrooms and balconies.\n\nProperty Highlights:\n- Springs 12\n- Type 4M\n- 2 Bed + Study\n- Unfurnished\n- Well Maintained\n- Large Plot\n- Walking Distance To Pool\n- 1,650 sq.ft BUA\n- 2,003 sq.ft Plot\n- Vacant Mid November\n- Secure, Gated Community\n\nSprings 12 is a serene, gated sub-community within The Springs by Emaar Properties. Picturesque lakes, lush landscaped gardens, and tree-lined walkways define everyday life here, making it one of Dubai's most sought-after family communities with The Springs Souk and Meadows Souk just moments away offering supermarkets fashion outlets, cinema, cafes, gyms and a range of daily conveniences.\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a  viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Balcony",
+     "Barbecue Area",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Covered Parking",
+     "Private Garden"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-the-springs-springs-12-164589563.html",
+    "rank_score": 68.10344696044922,
+    "bedrooms_value": 2,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "JTYRHKFFVDDPZJJW85VZVVC094",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 2003,
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 14400
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 11,
+   "aggregated_position": 11,
+   "project_expert": null
+  },
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "78d964ad-8c5c-4a1b-b145-47fa0b8d41e5",
+    "name": "Naseem At The Wilds",
+    "slug": "aldar-properties-pjsc/naseem-at-the-wilds",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/original.png",
+     "name": "Aldar Properties PJSC",
+     "id": "d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "18921",
+       "name": "Dubai,The Wilds by Aldar,Naseem",
+       "type": "SUBCOMMUNITY"
+      }
+     ],
+     "full_name": "Dubai,The Wilds by Aldar,Naseem"
+    },
+    "bedrooms": [
+     4,
+     5,
+     6
+    ],
+    "price": {
+     "from": 9300000,
+     "down_payment_percentage": 10
+    },
+    "delivery_date": "2029-12-01T12:17:11Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/QcartJzHkFsywGLlZJGxcVNhzgQHyJdNzs7bshWYnVk=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/QcartJzHkFsywGLlZJGxcVNhzgQHyJdNzs7bshWYnVk=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/1XbZRt_Xmmy5U2yOpPWxkJTbnWNqXJkHms_q59wMiuU=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/1XbZRt_Xmmy5U2yOpPWxkJTbnWNqXJkHms_q59wMiuU=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/oLWK2R0K91bBFQnQS5jOC44Jqm8hRoa8OFS4T77HcxA=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/oLWK2R0K91bBFQnQS5jOC44Jqm8hRoa8OFS4T77HcxA=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/jSOSEUGMTzpB3FaQVeyzwrJ2ESMC6-t2-X6ad0S7Osk=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/jSOSEUGMTzpB3FaQVeyzwrJ2ESMC6-t2-X6ad0S7Osk=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971543434369",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Naseem+At+The+Wilds+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Faldar-properties-pjsc%2Fnaseem-at-the-wilds%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": true,
+    "hotness_level": 90,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [
+     {
+      "title": "Standard",
+      "summary": {
+       "down_payment": 10,
+       "during_construction": 55,
+       "handover": 35,
+       "after_handover": 0
+      }
+     }
+    ],
+    "effective_price": 9300000,
+    "property_type": "villa",
+    "min_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "4ff203f0-7996-42c9-b352-06232293af5d",
+     "pf_client_id": "193366",
+     "agents": [
+      {
+       "id": "480955",
+       "name": "NAZRUL ALAM KABIR NURUL ISLAM",
+       "image": "",
+       "is_super_agent": false,
+       "languages": [],
+       "total_properties": 0,
+       "detail_url": "/en/agent/nazrul-alam-kabir-nurul-islam-480955",
+       "position": "",
+       "broker": {
+        "id": "193366",
+        "name": "Credence Realtor Real Estate Brokerage",
+        "slug": "credence-realtor-real-estate-brokerage-v2-193366",
+        "logo": "",
+        "is_exclusive": false
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 12,
+   "aggregated_position": 12,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164588174",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 340000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "EXCLUSIVE | Upgraded | 3 Bed + Maids | Near Pool",
+    "location": {
+     "id": "4550",
+     "full_name": "Zulal 1, Zulal, The Lakes, Dubai",
+     "coordinates": {
+      "lat": 25.079137802124023,
+      "lon": 55.1738395690918
+     },
+     "slug": "the-lakes-zulal-zulal-1",
+     "path": "1.93.1270.4550",
+     "type": "TOWER",
+     "name": "Zulal 1",
+     "path_name": "Dubai, The Lakes, Zulal",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/NJA9R03DKDYW7DHCQAJMNHYHEC/c9299694-5602-432d-8588-b909a2b2ab76/416x272.jpg?v=19d6c1a999c60655dbf05f997cc9e2cb",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/NJA9R03DKDYW7DHCQAJMNHYHEC/c9299694-5602-432d-8588-b909a2b2ab76/668x452.jpg?v=b748fd1cf4c417826ae3ad30774f1344",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/NJA9R03DKDYW7DHCQAJMNHYHEC/a5db7378-bf25-4e7b-8296-f968e96449f0/416x272.jpg?v=f35bb22ae58e8804165916b8005d1ab7",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/NJA9R03DKDYW7DHCQAJMNHYHEC/a5db7378-bf25-4e7b-8296-f968e96449f0/668x452.jpg?v=b26232e5f9a4f41a337669c0448bdebc",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/NJA9R03DKDYW7DHCQAJMNHYHEC/d3e8d06a-c6f8-4589-b5d3-b04443e13835/416x272.jpg?v=5c8af2809038349d22054bff431e3f74",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/NJA9R03DKDYW7DHCQAJMNHYHEC/d3e8d06a-c6f8-4589-b5d3-b04443e13835/668x452.jpg?v=196557de408a30a51454dea4ecabebee",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "447669",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/447669/ac6b8200-1227-49f4-b88b-95d8cceee4b0/260x200.jpg?v=474be2fe14f72850a19aeb15f179ac90",
+     "is_super_agent": true,
+     "name": "Gray Foster",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "gray-foster"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "size": {
+     "value": 2240,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-the-lakes-zulal-zulal-1-164588174.html",
+    "reference": "PB-R-14244-3",
+    "listed_date": "2026-10-26T11:06:52Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-14244-3%0AType%3A+Villa%0APrice%3A+340%2C000+AED%2Fyear+%0ALocation%3A+Zulal+1+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164588174%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 21,
+    "amenities": [
+     "AC",
+     "MR",
+     "BA",
+     "SP",
+     "CP",
+     "ST",
+     "PG",
+     "BW",
+     "BK",
+     "PR",
+     "BR",
+     "SE"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 68.09945,
+    "rss": 68.09945,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "93",
+      "name": "The Lakes",
+      "type": "COMMUNITY",
+      "slug": "the-lakes",
+      "slug_en": "the-lakes",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "1270",
+      "name": "Zulal",
+      "type": "SUBCOMMUNITY",
+      "slug": "the-lakes-zulal",
+      "slug_en": "the-lakes-zulal",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "4550",
+      "name": "Zulal 1",
+      "type": "TOWER",
+      "slug": "the-lakes-zulal-zulal-1",
+      "slug_en": "the-lakes-zulal-zulal-1",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai are delighted to present exclusively this tastefully renovated and unique 3 bedroom villa in the heart of the sought after community The Lakes. Situated on a quiet internal road a short walk from Reform restaurant & 2 communal pools & parks. A perfect family home in a peaceful community\n\n- Zulal 1, The Lakes\n- Type D End\n- Ready Mid December\n- Fully Renovated\n- 3 Bedroom + Study\n- Maids Room Added\n- Large Plot\n- Backing Quiet Internal Road\n- 2,240 sq.ft BUA\n- 3,503.55 sq.ft Plot\n- Walking Distance to Reform\n- Walking Distance to Pools\n\nThe property has been fully renovated and sits on a large plot. The ground floor comprises of an open plan living/dining area off the kitchen with integrated appliances, study room, power room, laundry & maids room. Upstairs you will find 3 bedrooms and a family bathroom. The master bedroom has a balcony & en-suite bathroom with walk in shower and free standing bath\n\nOutside there is a lovely landscaped garden with outdoor kitchen/BBQ area.\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a  viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Central A/C",
+     "Maids Room",
+     "Balcony",
+     "Shared Pool",
+     "Covered Parking",
+     "Study",
+     "Private Garden",
+     "Built in Wardrobes",
+     "Kitchen Appliances",
+     "Children's Play Area",
+     "Barbecue Area",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 432.55,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-the-lakes-zulal-zulal-1-164588174.html",
+    "rank_score": 68.09944915771484,
+    "bedrooms_value": 3,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "NJA9R03DKDYW7DHCQAJMNHYHEC",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 2240,
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 30600
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 13,
+   "aggregated_position": 13,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164595980",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 195000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Back to Back | Vacant | Park & Pool Facing",
+    "location": {
+     "id": "10796",
+     "full_name": "Elan, Tilal Al Ghaf, Dubai",
+     "coordinates": {
+      "lat": 25.026487350463867,
+      "lon": 55.234195709228516
+     },
+     "slug": "tilal-al-ghaf-elan",
+     "path": "1.9885.10796",
+     "type": "SUBCOMMUNITY",
+     "name": "Elan",
+     "path_name": "Dubai, Tilal Al Ghaf",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/B2TX4H8RYDV7JDBJWSVPBZYK38/3543cba1-acba-47c5-91c8-657c8bf2492e/416x272.jpg?v=5ff9d67708c0b1640a61187ef6721859",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/B2TX4H8RYDV7JDBJWSVPBZYK38/3543cba1-acba-47c5-91c8-657c8bf2492e/668x452.jpg?v=dfa06bd87d534bba5db7cabae1273725",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/B2TX4H8RYDV7JDBJWSVPBZYK38/273bd789-80d2-4f37-9a94-b7b0019d8c60/416x272.jpg?v=461967de89350f0469bae148c8976008",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/B2TX4H8RYDV7JDBJWSVPBZYK38/273bd789-80d2-4f37-9a94-b7b0019d8c60/668x452.jpg?v=4feb97217927fec66b3ff0b422a97623",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/B2TX4H8RYDV7JDBJWSVPBZYK38/8eef6793-e173-415c-8740-df96455e574b/416x272.jpg?v=079066d065c9953ffc684d5b13c9dd65",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/B2TX4H8RYDV7JDBJWSVPBZYK38/8eef6793-e173-415c-8740-df96455e574b/668x452.jpg?v=97f0cba242e6a1764f9f4ad34416844d",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "372565",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/372565/b21b319c-24c7-410d-a253-ccf2266d9464/260x200.jpg?v=c171754b7bf3a6b672b28ab5914fcb10",
+     "is_super_agent": true,
+     "name": "Faizal Mulla",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "faizal-mulla"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "size": {
+     "value": 2634,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-tilal-al-ghaf-elan-164595980.html",
+    "reference": "PB-R-41660-1",
+    "listed_date": "2026-10-26T12:39:35Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-41660-1%0AType%3A+Villa%0APrice%3A+195%2C000+AED%2Fyear+%0ALocation%3A+Elan+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164595980%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 23,
+    "amenities": [
+     "BA"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 68.08653,
+    "rss": 68.08653,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "9885",
+      "name": "Tilal Al Ghaf",
+      "type": "COMMUNITY",
+      "slug": "tilal-al-ghaf",
+      "slug_en": "tilal-al-ghaf",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "10796",
+      "name": "Elan",
+      "type": "SUBCOMMUNITY",
+      "slug": "tilal-al-ghaf-elan",
+      "slug_en": "tilal-al-ghaf-elan",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is pleased to present this beautifully positioned villa, ideally located directly opposite the community pool and park.\n\nOffering approximately 1,512 sq. ft., this vacant townhouse features a bright and spacious layout designed for comfortable family living. The property enjoys excellent natural light throughout, generous living spaces, built-in wardrobes, and a private garden.\n\nIts back-to-back position offers a peaceful residential setting, while the pool and park being directly opposite provide exceptional convenience and easy access to the community’s recreational facilities.\n\nProperty Features:\n- Approx. 1,512 sq. ft.\n- Vacant Soon\n- Back-to-back\n- Directly opposite the community pool and park\n- Bright and spacious interiors\n- Excellent natural light\n- Built-in wardrobes\n- Private garden\n- Family-friendly location\n- Walking distance to community amenities\n\nPerfectly suited for families seeking a well-located home within a vibrant and convenient community, this townhouse represents an excellent opportunity for both end users and investors.\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Balcony"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-tilal-al-ghaf-elan-164595980.html",
+    "rank_score": 68.08653259277344,
+    "bedrooms_value": 3,
+    "bathrooms_value": 4,
+    "is_pf_exclusive": false,
+    "listing_id": "B2TX4H8RYDV7JDBJWSVPBZYK38",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 2634,
+    "number_of_cheques": 4,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 17184.38
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 14,
+   "aggregated_position": 14,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164595725",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 1200000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Retreat | Park backing | Available Soon",
+    "location": {
+     "id": "11609",
+     "full_name": "Alaya, Tilal Al Ghaf, Dubai",
+     "coordinates": {
+      "lat": 25.02652931213379,
+      "lon": 55.224830627441406
+     },
+     "slug": "tilal-al-ghaf-alaya",
+     "path": "1.9885.11609",
+     "type": "SUBCOMMUNITY",
+     "name": "Alaya",
+     "path_name": "Dubai, Tilal Al Ghaf",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/VVS82RCMDMQ7D9ANQ5KAFJ6AAM/c7645b25-06e8-4994-af14-cef71881a541/416x272.jpg?v=43ba208a3df76ffcafddeec052e9ce84",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/VVS82RCMDMQ7D9ANQ5KAFJ6AAM/c7645b25-06e8-4994-af14-cef71881a541/668x452.jpg?v=bad7753d122c59e856254a94a62c1d67",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/VVS82RCMDMQ7D9ANQ5KAFJ6AAM/6b69db16-e314-4ef6-b016-953e516901b8/416x272.jpg?v=18a87df108b80be9c57f71ba2316c3c2",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/VVS82RCMDMQ7D9ANQ5KAFJ6AAM/6b69db16-e314-4ef6-b016-953e516901b8/668x452.jpg?v=1a2ced764603462440a0beaebef4e1f4",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/VVS82RCMDMQ7D9ANQ5KAFJ6AAM/706cd883-9266-4198-a922-a9a6ccad96b3/416x272.jpg?v=9934177a48fa2b3d31f7765144cf86c6",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/VVS82RCMDMQ7D9ANQ5KAFJ6AAM/706cd883-9266-4198-a922-a9a6ccad96b3/668x452.jpg?v=350b2c35e24a6fcd924672988577204e",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "372565",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/372565/b21b319c-24c7-410d-a253-ccf2266d9464/260x200.jpg?v=c171754b7bf3a6b672b28ab5914fcb10",
+     "is_super_agent": true,
+     "name": "Faizal Mulla",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "faizal-mulla"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "size": {
+     "value": 7890,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-tilal-al-ghaf-alaya-164595725.html",
+    "reference": "PB-R-40970-1",
+    "listed_date": "2026-10-26T12:35:34Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-40970-1%0AType%3A+Villa%0APrice%3A+1%2C200%2C000+AED%2Fyear+%0ALocation%3A+Alaya+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164595725%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 25,
+    "amenities": [
+     "AC",
+     "MR",
+     "BA",
+     "PA",
+     "ST",
+     "PG",
+     "WC",
+     "SE"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 68.08568,
+    "rss": 68.08568,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "9885",
+      "name": "Tilal Al Ghaf",
+      "type": "COMMUNITY",
+      "slug": "tilal-al-ghaf",
+      "slug_en": "tilal-al-ghaf",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "11609",
+      "name": "Alaya",
+      "type": "SUBCOMMUNITY",
+      "slug": "tilal-al-ghaf-alaya",
+      "slug_en": "tilal-al-ghaf-alaya",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is proud to present this exceptional five-bedroom Retreat Mansion in Alaya, Tilal Al Ghaf, an exclusive residential community renowned for its refined architecture, resort-inspired lifestyle, and beautifully landscaped surroundings.\n\nOccupying a substantial corner plot in a highly desirable position, this brand-new residence enjoys an enviable setting within walking distance of the private lagoon, beach club, community swimming pool, and park.\n\nArranged across three impressive floors, the villa offers approximately 8,149 sq. ft. of built-up area, combining generous proportions with elegant Mediterranean-inspired architecture and sophisticated contemporary finishes. Designed to maximise space, comfort, and natural flow, the residence presents exceptional opportunities for both family living and entertaining, with seamless connections between indoor and outdoor spaces.\n\nProperty Features:\n- Five spacious bedrooms\n- Mediterranean-style Retreat Mansion\n- Type A – Option 1\n- Approx. 8,149 sq. ft. built-up area\n- Generous corner plot\n- Brand-new residence\n- Developer warranty\n- Private swimming pool\n- Landscaped private garden\n- Private elevator\n- Three-floor layout\n- Expansive living and entertaining areas\n- Premium community amenities\n- Walking distance to the private lagoon and beach club\n\nAt BARNES, as the leading player in international luxury real estate, we take pride built on trust, excellence, elegance, vision, and global support, delivering transparent and discreet service, exceptional standards, refined client experiences, sustainable long-term partnerships, and seamless local and international expertise.\n\nDon’t miss this exceptional opportunity. Contact us today to arrange a viewing and experience everything this property has to offer.",
+    "amenity_names": [
+     "Central A/C",
+     "Maids Room",
+     "Balcony",
+     "Pets Allowed",
+     "Study",
+     "Private Garden",
+     "Walk-in Closet",
+     "Security"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-tilal-al-ghaf-alaya-164595725.html",
+    "rank_score": 68.08567810058594,
+    "bedrooms_value": 5,
+    "bathrooms_value": 6,
+    "is_pf_exclusive": false,
+    "listing_id": "VVS82RCMDMQ7D9ANQ5KAFJ6AAM",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 7890,
+    "number_of_cheques": 2,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 15,
+   "aggregated_position": 15,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "164594897",
+    "category_id": 2,
+    "property_type": "Villa",
+    "price": {
+     "value": 1800000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "Single Row | Maia Collection | Genuine Listing",
+    "location": {
+     "id": "11763",
+     "full_name": "Elysian Mansions, Tilal Al Ghaf, Dubai",
+     "coordinates": {
+      "lat": 25.02191734313965,
+      "lon": 55.225215911865234
+     },
+     "slug": "tilal-al-ghaf-elysian-mansions",
+     "path": "1.9885.11763",
+     "type": "SUBCOMMUNITY",
+     "name": "Elysian Mansions",
+     "path_name": "Dubai, Tilal Al Ghaf",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/TC07841ZYGJC45ACNV2YT0M7C0/82a63ac8-ee10-4c92-8cd0-e09727b22272/416x272.jpg?v=08110f698fc952ab2bf7893b34aae51c",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/TC07841ZYGJC45ACNV2YT0M7C0/82a63ac8-ee10-4c92-8cd0-e09727b22272/668x452.jpg?v=698067594a977ce62e22a2ad4b50a8d7",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/TC07841ZYGJC45ACNV2YT0M7C0/c1798b3c-0957-4ac9-a0a8-d8b42fc3e0ee/416x272.jpg?v=09e7a54e30b4870121035a16e146a36c",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/TC07841ZYGJC45ACNV2YT0M7C0/c1798b3c-0957-4ac9-a0a8-d8b42fc3e0ee/668x452.jpg?v=2e39772555da301d2198dcecdb97a87e",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/TC07841ZYGJC45ACNV2YT0M7C0/8b1153c7-34db-4ff1-854b-f14c87a3d1b3/416x272.jpg?v=5ec8d31729847c737c038e6c32d5a35d",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/TC07841ZYGJC45ACNV2YT0M7C0/8b1153c7-34db-4ff1-854b-f14c87a3d1b3/668x452.jpg?v=4ee8929ce8e462e1b856e19d1e369754",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "372565",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/372565/b21b319c-24c7-410d-a253-ccf2266d9464/260x200.jpg?v=c171754b7bf3a6b672b28ab5914fcb10",
+     "is_super_agent": true,
+     "name": "Faizal Mulla",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "faizal-mulla"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "5",
+    "bathrooms": "6",
+    "size": {
+     "value": 14662,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-tilal-al-ghaf-elysian-mansions-164594897.html",
+    "reference": "PB-R-41582-1",
+    "listed_date": "2026-10-26T12:27:55Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-41582-1%0AType%3A+Villa%0APrice%3A+1%2C800%2C000+AED%2Fyear+%0ALocation%3A+Elysian+Mansions+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F164594897%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 24,
+    "amenities": [
+     "BA",
+     "CP",
+     "PG",
+     "PR",
+     "BR"
+    ],
+    "completion_status": "",
+    "furnished": "NO",
+    "property_type_id": 35,
+    "has_view_360": false,
+    "rsp": 68.084045,
+    "rss": 68.084045,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "9885",
+      "name": "Tilal Al Ghaf",
+      "type": "COMMUNITY",
+      "slug": "tilal-al-ghaf",
+      "slug_en": "tilal-al-ghaf",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "11763",
+      "name": "Elysian Mansions",
+      "type": "SUBCOMMUNITY",
+      "slug": "tilal-al-ghaf-elysian-mansions",
+      "slug_en": "tilal-al-ghaf-elysian-mansions",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "BARNES Dubai is delighted to present this exceptional 5-bedroom Maia Mansion for rent in the prestigious Elysian Mansions, Tilal Al Ghaf.\n\nSpanning approximately 11,300 sq ft of luxurious living space, this outstanding residence features a private swimming pool, beautifully landscaped outdoor areas, and a highly desirable single row position, offering an exceptional combination of privacy, space and sophistication.\n\nProperty Features\n5-bedroom Maia Mansion\nElysian Mansions, Tilal Al Ghaf\nApprox. 11,300 sq ft BUA\nSingle row\nPrivate swimming pool\nExpansive living and dining areas\nMultiple family and entertainment spaces\nSpacious ensuite bedrooms\nFloor-to-ceiling windows\nHigh-end contemporary finishes\nShow and preparation kitchens\nMaid’s and driver’s accommodation\nLandscaped outdoor spaces\nCovered parking for multiple vehicles\n\nThe Maia layout is designed for refined family living and impressive entertaining, with generous proportions, high ceilings and an abundance of natural light throughout. Multiple reception, family and entertainment areas provide exceptional flexibility for both everyday living and hosting guests.\n\nThe outdoor space is equally impressive, with a private swimming pool and landscaped gardens creating a peaceful and secluded environment.\n\nSituated within Elysian Mansions at Tilal Al Ghaf, residents benefit from a prestigious community surrounded by lush landscaping, walking trails and a range of exceptional lifestyle amenities.\n\n\nFor further information or to arrange a private viewing, please contact Faizal at BARNES Dubai",
+    "amenity_names": [
+     "Balcony",
+     "Covered Parking",
+     "Private Garden",
+     "Children's Play Area",
+     "Barbecue Area"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/villa-for-rent-dubai-tilal-al-ghaf-elysian-mansions-164594897.html",
+    "rank_score": 68.08404541015625,
+    "bedrooms_value": 5,
+    "bathrooms_value": 6,
+    "is_pf_exclusive": false,
+    "listing_id": "TC07841ZYGJC45ACNV2YT0M7C0",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "plot_size": 14662,
+    "number_of_cheques": 1,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": true,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 16,
+   "aggregated_position": 16,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "161420378",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 95000,
+     "currency": "AED",
+     "period": "yearly",
+     "is_hidden": false
+    },
+    "title": "EXCLUSIVE l BEST PRICE l VACANT",
+    "location": {
+     "id": "8482",
+     "full_name": "Creekside 18 B, Creekside 18, Dubai Creek Harbour (The Lagoons), Dubai",
+     "coordinates": {
+      "lat": 25.20368194580078,
+      "lon": 55.344505310058594
+     },
+     "slug": "dubai-creek-harbour-the-lagoons-creekside-18-creekside-18-b",
+     "path": "1.48.689.8482",
+     "type": "TOWER",
+     "name": "Creekside 18 B",
+     "path_name": "Dubai, Dubai Creek Harbour (The Lagoons), Creekside 18",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/88RD77TKYCKEW1K7E6NG3ZX14W/a8d99bef-56e3-4d17-a0d8-d4d09df245fb/416x272.jpg?v=02e98a74556e63bf85491eb62c3ba635",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/88RD77TKYCKEW1K7E6NG3ZX14W/a8d99bef-56e3-4d17-a0d8-d4d09df245fb/668x452.jpg?v=aee6eb41a4d5b1245b94bb3630da18fe",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/88RD77TKYCKEW1K7E6NG3ZX14W/0e04d379-24bc-4dad-b572-802b9c0658de/416x272.jpg?v=e22fe9b43ab4244bf885a536e0ab7888",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/88RD77TKYCKEW1K7E6NG3ZX14W/0e04d379-24bc-4dad-b572-802b9c0658de/668x452.jpg?v=1ff62e22420018563fc2e1226e69c7b5",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/88RD77TKYCKEW1K7E6NG3ZX14W/275ed800-47ec-4818-bc68-96a1272eec6c/416x272.jpg?v=a3f7316d517ee22672ccb389626790f2",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/88RD77TKYCKEW1K7E6NG3ZX14W/275ed800-47ec-4818-bc68-96a1272eec6c/668x452.jpg?v=b136f17cb3360be932c03174e70ceb48",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "383900",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/383900/e53900ec-636b-43c4-b14e-aac71ad77b6f/260x200.jpg?v=8bf966db3d0e8202130f523a742f5829",
+     "is_super_agent": true,
+     "name": "Aakanksha Chhoda",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English",
+      "Hindi",
+      "Italian",
+      "Sindhi"
+     ],
+     "slug": "aakanksha-chhoda"
+    },
+    "broker": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_verified": true,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": true,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "size": {
+     "value": 675,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-creekside-18-creekside-18-b-161420378.html",
+    "reference": "PB-R-4401-2",
+    "listed_date": "2026-10-19T10:51:47Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971585566633",
+      "link": "tel:+971585566633",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+PB-R-4401-2%0AType%3A+Apartment%0APrice%3A+95%2C000+AED%2Fyear+%0ALocation%3A+Creekside+18+B+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F161420378%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 13,
+    "amenities": [
+     "AC",
+     "BA",
+     "SP",
+     "SY",
+     "CP",
+     "VW",
+     "BL",
+     "PA",
+     "BW",
+     "SE"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 67.43021,
+    "rss": 67.43021,
+    "qs": 100,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "premium",
+    "listing_level_label": "premium",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "48",
+      "name": "Dubai Creek Harbour (The Lagoons)",
+      "type": "COMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons",
+      "slug_en": "dubai-creek-harbour-the-lagoons",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "689",
+      "name": "Creekside 18",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-creek-harbour-the-lagoons-creekside-18",
+      "slug_en": "dubai-creek-harbour-the-lagoons-creekside-18",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "8482",
+      "name": "Creekside 18 B",
+      "type": "TOWER",
+      "slug": "dubai-creek-harbour-the-lagoons-creekside-18-creekside-18-b",
+      "slug_en": "dubai-creek-harbour-the-lagoons-creekside-18-creekside-18-b",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "Arabian Estates if proud to offer this beautifully 1BR furnished apartment located in the prestigious Creekside 18B, Dubai Creek Harbour. Positioned on a high floor, this elegant residence offers abundant natural light, sophisticated interiors, and a peaceful atmosphere, making it the perfect home for professionals, couples, or small families.\n\nThoughtfully designed with high-quality furnishings and modern finishes, the apartment is move-in ready, allowing you to enjoy a seamless lifestyle in one of Dubai's most sought-after communities.\n\nProperty Features:\n- 1 Bed\n- 1 Bath\n- Fully furnished\n- High-floor unit\n- Bright and spacious layout\n- Floor-to-ceiling windows\n- Modern open-plan kitchen\n- Built-in wardrobes\n- Premium finishes\n- Covered parking\n- Ready to move in\n\n\nCommunity Amenities:\n- Temperature-controlled swimming pool\n- Fully equipped gymnasium\n- Children's play area\n- Landscaped gardens\n- Multi-purpose room\n- BBQ area\n- 24/7 security and concierge\n- Direct access to the Creek Marina promenade\n- Cafés, restaurants, and retail outlets within walking distance\n\nNestled in the heart of Dubai Creek Harbour, Creekside 18B offers a vibrant waterfront lifestyle just minutes from Downtown Dubai and Dubai International Airport. Residents enjoy scenic walking paths, lush parks, breathtaking skyline views, and a tranquil community atmosphere while remaining close to the city's key destinations.\n\nContact us today to arrange a viewing and discover your next home at Dubai Creek Harbour.",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Shared Pool",
+     "Shared Gym",
+     "Covered Parking",
+     "View of Water",
+     "View of Landmark",
+     "Pets Allowed",
+     "Built in Wardrobes",
+     "Security"
+    ],
+    "payment_method": [
+     "cash",
+     "installments"
+    ],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-creek-harbour-the-lagoons-creekside-18-creekside-18-b-161420378.html",
+    "rank_score": 67.43020629882812,
+    "bedrooms_value": 1,
+    "bathrooms_value": 1,
+    "is_pf_exclusive": false,
+    "listing_id": "88RD77TKYCKEW1K7E6NG3ZX14W",
+    "client": {
+     "id": "4338",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+     "name": "Barnes International Realty",
+     "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+     "email": "danial@arabianestates.ae",
+     "phone": "+971585566633",
+     "slug": "barnes-international-realty-v2-4338"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/5e358faa35834788bdc2370c6f3f80dc/b99c3272-268f-4159-9e8f-49b22c4c0bcf/watermarked.png",
+      "floor_number": 0,
+      "area": 673,
+      "id": "Dubai_Dubai Creek Harbour (the Lagoons)_Creekside 18 Tower B_1BD_01_2007_6257"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "number_of_cheques": 1,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": true,
+     "monthly_payment": 8850.83
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 17,
+   "aggregated_position": 17,
+   "project_expert": null
+  }
+ ],
+ "similar_listings": [],
+ "meta": {
+  "page": 1,
+  "total_count": 474,
+  "new_properties_count": 27,
+  "per_page": 10,
+  "page_count": 48,
+  "min_max_price": {
+   "min": 58000,
+   "max": 5999999
+  },
+  "location_tree": []
+ },
+ "filter_errors": []
+}

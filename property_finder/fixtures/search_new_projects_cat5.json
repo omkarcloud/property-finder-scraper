@@ -1,0 +1,571 @@
+{
+ "listings": [
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "b4126743-fb23-4daa-b08c-5632f1d7418a",
+    "name": "Podium Villas",
+    "slug": "nakheel/podium-villas",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/5ae9e276-6bfc-473e-a6ff-30747aebc950/logo/image/PvllxFXTcHieg34bwb5FuJPcZ_1pE6M6fuubNu8YURg=/original.png",
+     "name": "Nakheel",
+     "id": "5ae9e276-6bfc-473e-a6ff-30747aebc950"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "11914",
+       "name": "Dubai,Palm Jumeirah,Palm Beach Towers",
+       "type": "SUBCOMMUNITY"
+      }
+     ],
+     "full_name": "Dubai,Palm Jumeirah,Palm Beach Towers"
+    },
+    "bedrooms": [
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "from": 5300000
+    },
+    "delivery_date": "2027-01-01T04:24:00Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/b4126743-fb23-4daa-b08c-5632f1d7418a/gallery/image/5IcsYeevT9OhXy5NYSq_yzMENzeds72xFXLg1dq8Xec=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/b4126743-fb23-4daa-b08c-5632f1d7418a/gallery/image/5IcsYeevT9OhXy5NYSq_yzMENzeds72xFXLg1dq8Xec=/medium.webp",
+      "mobile": "https://new-projects-media.propertyfinder.com/project/b4126743-fb23-4daa-b08c-5632f1d7418a/mobile_image/image/5IcsYeevT9OhXy5NYSq_yzMENzeds72xFXLg1dq8Xec=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971543434369",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Podium+Villas+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fnakheel%2Fpodium-villas%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": false,
+    "hotness_level": 92,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [],
+    "effective_price": 5300000,
+    "property_type": "villa",
+    "min_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "dcbeb564-86f2-44c1-8334-105abc41001d",
+     "pf_client_id": "6425",
+     "agents": [
+      {
+       "id": "230594",
+       "name": "RIKIN BHAVSAR",
+       "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/230594/724a1d16-e532-446c-8d7a-39a3c4f72ccc/260x200.jpg?v=a5373050085484a24361760c5e76b733",
+       "is_super_agent": true,
+       "avg_score": 4.3,
+       "review_count": 4,
+       "languages": [
+        "English",
+        "Hindi",
+        "Gujarati"
+       ],
+       "total_properties": 26,
+       "detail_url": "/en/agent/rikin-bhavsar-230594",
+       "position": "CEO",
+       "years_of_experience": 11,
+       "broker": {
+        "id": "6425",
+        "name": "Gaj Properties LLC",
+        "slug": "gaj-properties-llc-6551",
+        "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/6425/22b606e4-6b6f-4bf9-a3b4-0d992f5f16ae/260x200.jpg",
+        "is_exclusive": false
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 1,
+   "aggregated_position": 1,
+   "project_expert": null
+  },
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "78d964ad-8c5c-4a1b-b145-47fa0b8d41e5",
+    "name": "Naseem At The Wilds",
+    "slug": "aldar-properties-pjsc/naseem-at-the-wilds",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d/logo/image/k1MoKKBF5CIZjwQ0XbOWkxs3heXc0pV6lcQMvgLaKws=/original.png",
+     "name": "Aldar Properties PJSC",
+     "id": "d0853b8e-c92f-4b7e-a4e2-a5b67955ba7d"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "18921",
+       "name": "Dubai,The Wilds by Aldar,Naseem",
+       "type": "SUBCOMMUNITY"
+      }
+     ],
+     "full_name": "Dubai,The Wilds by Aldar,Naseem"
+    },
+    "bedrooms": [
+     4,
+     5,
+     6
+    ],
+    "price": {
+     "from": 9300000,
+     "down_payment_percentage": 10
+    },
+    "delivery_date": "2029-12-01T12:17:11Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/QcartJzHkFsywGLlZJGxcVNhzgQHyJdNzs7bshWYnVk=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/QcartJzHkFsywGLlZJGxcVNhzgQHyJdNzs7bshWYnVk=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/1XbZRt_Xmmy5U2yOpPWxkJTbnWNqXJkHms_q59wMiuU=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/1XbZRt_Xmmy5U2yOpPWxkJTbnWNqXJkHms_q59wMiuU=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/oLWK2R0K91bBFQnQS5jOC44Jqm8hRoa8OFS4T77HcxA=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/oLWK2R0K91bBFQnQS5jOC44Jqm8hRoa8OFS4T77HcxA=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/jSOSEUGMTzpB3FaQVeyzwrJ2ESMC6-t2-X6ad0S7Osk=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/78d964ad-8c5c-4a1b-b145-47fa0b8d41e5/gallery/image/jSOSEUGMTzpB3FaQVeyzwrJ2ESMC6-t2-X6ad0S7Osk=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971543434369",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Naseem+At+The+Wilds+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Faldar-properties-pjsc%2Fnaseem-at-the-wilds%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": false,
+    "hotness_level": 90,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [
+     {
+      "title": "Standard",
+      "summary": {
+       "down_payment": 10,
+       "during_construction": 55,
+       "handover": 35,
+       "after_handover": 0
+      }
+     }
+    ],
+    "effective_price": 9300000,
+    "property_type": "villa",
+    "min_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "4ff203f0-7996-42c9-b352-06232293af5d",
+     "pf_client_id": "193366",
+     "agents": [
+      {
+       "id": "480955",
+       "name": "NAZRUL ALAM KABIR NURUL ISLAM",
+       "image": "",
+       "is_super_agent": false,
+       "languages": [],
+       "total_properties": 0,
+       "detail_url": "/en/agent/nazrul-alam-kabir-nurul-islam-480955",
+       "position": "",
+       "broker": {
+        "id": "193366",
+        "name": "Credence Realtor Real Estate Brokerage",
+        "slug": "credence-realtor-real-estate-brokerage-v2-193366",
+        "logo": "",
+        "is_exclusive": false
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 2,
+   "aggregated_position": 2,
+   "project_expert": null
+  },
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "dfa45ff8-5482-4148-97b9-0a6c3a4ebe3a",
+    "name": "Faro At The Heights",
+    "slug": "emaar-properties/faro-at-the-heights",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/original.png",
+     "name": "Emaar Properties",
+     "id": "79ca4333-9975-4672-b05f-bb7329de75e9"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "21118",
+       "name": "Dubai,The Heights Country Club & Wellness,Faro by Emaar",
+       "type": "SUBCOMMUNITY"
+      }
+     ],
+     "full_name": "Dubai,The Heights Country Club & Wellness,Faro by Emaar"
+    },
+    "bedrooms": [
+     4,
+     5,
+     6
+    ],
+    "price": {
+     "from": 2400000,
+     "down_payment_percentage": 10
+    },
+    "delivery_date": "2030-06-30T12:00:00Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/dfa45ff8-5482-4148-97b9-0a6c3a4ebe3a/gallery/image/u0a_VBhn8uRepPcqcQw6TBPBRBF5hNxGKr3EA3iWpHQ=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/dfa45ff8-5482-4148-97b9-0a6c3a4ebe3a/gallery/image/u0a_VBhn8uRepPcqcQw6TBPBRBF5hNxGKr3EA3iWpHQ=/medium.webp",
+      "mobile": "https://new-projects-media.propertyfinder.com/project/dfa45ff8-5482-4148-97b9-0a6c3a4ebe3a/mobile_image/image/u0a_VBhn8uRepPcqcQw6TBPBRBF5hNxGKr3EA3iWpHQ=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971543434369",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Faro+At+The+Heights+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Femaar-properties%2Ffaro-at-the-heights%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": false,
+    "sales_phase_key": "waiting_for_sales_start",
+    "hotness_level": 89,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [
+     {
+      "title": "Standard",
+      "summary": {
+       "down_payment": 10,
+       "during_construction": 60,
+       "handover": 20,
+       "after_handover": 0
+      }
+     }
+    ],
+    "effective_price": 2400000,
+    "property_type": "villa",
+    "min_size": {
+     "value": 325.16064,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 510.97022002912894,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "c0dd2d2b-90ad-4a3c-b2c0-32d389858ec6",
+     "pf_client_id": "11074",
+     "agents": [
+      {
+       "id": "301452",
+       "name": "Kasim Khokhar",
+       "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/301452/50fb1de4-b0b1-4da5-97bb-b43b3a2300a6/260x200.jpg?v=3208ba67c385e2021b508fe009bd7414",
+       "is_super_agent": true,
+       "avg_score": 5,
+       "review_count": 5,
+       "languages": [
+        "English",
+        "Urdu",
+        "Punjabi"
+       ],
+       "total_properties": 93,
+       "detail_url": "/en/agent/kasim-khokhar-301452",
+       "position": "CEO",
+       "years_of_experience": 5,
+       "broker": {
+        "id": "11074",
+        "name": "HOUSINOVA REAL ESTATE L.L.C",
+        "slug": "housinova-real-estate-l-l-c-11200",
+        "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/11074/d3f3e8a4-90cb-4f34-94e4-d287d838b51a/260x200.jpg",
+        "is_exclusive": true
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 3,
+   "aggregated_position": 3,
+   "project_expert": null
+  },
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "d1294890-1250-48b7-99e3-4f34a371b967",
+    "name": "Valia Tower",
+    "slug": "emaar-properties/valia-tower",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/79ca4333-9975-4672-b05f-bb7329de75e9/logo/image/SXDm9h3dbO4shNsEGYyX31DwTU98MpFSxR1sEuT7LsE=/original.png",
+     "name": "Emaar Properties",
+     "id": "79ca4333-9975-4672-b05f-bb7329de75e9"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "19813",
+       "name": "Dubai,Dubai Creek Harbour (The Lagoons),Valia Tower",
+       "type": "TOWER"
+      }
+     ],
+     "full_name": "Dubai,Dubai Creek Harbour (The Lagoons),Valia Tower"
+    },
+    "bedrooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "from": 2060000,
+     "down_payment_percentage": 20
+    },
+    "delivery_date": "2030-08-31T14:55:00Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/medium.webp",
+      "mobile": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/mobile_image/image/-77BotVvpGZNGijEvKa-J7OyajSoL0bNa9amEoqB_RM=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/raZdg5f68XfnR1NqM5R7pzq6yDkh_WXlto6g9x9DeMs=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/_xkU6AlAAnN3KsIwek9A7SuUS1crYN4kDJLcuoAdAkw=/medium.webp"
+     },
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/d1294890-1250-48b7-99e3-4f34a371b967/gallery/image/-hKxDW_5mostlqOn7pqqiEZLw0H0LQfoxWJcLKy4Noc=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971503073759",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Valia+Tower+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Femaar-properties%2Fvalia-tower%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": false,
+    "sales_phase_key": "waiting_for_sales_start",
+    "hotness_level": 89,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [
+     {
+      "title": "Standard",
+      "summary": {
+       "down_payment": 20,
+       "during_construction": 60,
+       "handover": 20,
+       "after_handover": 0
+      }
+     }
+    ],
+    "effective_price": 2060000,
+    "property_type": "multiple",
+    "min_size": {
+     "value": 75.80888064,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 237.92468544,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "f42c323e-3173-4aff-9b21-72224c3559f0",
+     "pf_client_id": "181002",
+     "agents": [
+      {
+       "id": "440146",
+       "name": "Demetra Lacheva",
+       "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/440146/62e6dc3e-5a89-4505-b828-0d5ee8b26ddb/260x200.jpg?v=a182dc82906b50bfd296d325cba6f655",
+       "is_super_agent": true,
+       "avg_score": 5,
+       "review_count": 2,
+       "languages": [
+        "English",
+        "Bulgarian"
+       ],
+       "total_properties": 13,
+       "detail_url": "/en/agent/demetra-lacheva-440146",
+       "position": "Senior Property Investment Consultant",
+       "years_of_experience": 3,
+       "broker": {
+        "id": "181002",
+        "name": "NORTHWAY REAL ESTATE L.L.C",
+        "slug": "northway-real-estate-l-l-c-v2-181002",
+        "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/181002/75e7299b-ec8b-4799-ade9-b0735569353b/260x200.jpg?v=aed7cb8fc20aa200a9dce26d3cb08c9c",
+        "is_exclusive": true
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 4,
+   "aggregated_position": 4,
+   "project_expert": null
+  },
+  {
+   "listing_type": "project",
+   "property": null,
+   "project": {
+    "id": "5af6bc9f-8e9a-4522-a0bc-d141c6ca9902",
+    "name": "Bahamas",
+    "slug": "damac-properties/bahamas",
+    "developer": {
+     "logo": "https://new-projects-media.propertyfinder.com/developer/1063a07c-d94f-496b-9a24-5ea7409fe3d1/logo/image/O3p2VHWzQX9-Duzqi1vbOjp2tSlHIwJ1sjRjvTA7h68=/original.png",
+     "name": "Damac Properties",
+     "id": "1063a07c-d94f-496b-9a24-5ea7409fe3d1"
+    },
+    "location": {
+     "tree": [
+      {
+       "id": "17775",
+       "name": "Dubai,Damac Islands 2,Bahamas,Bahamas 1",
+       "type": "SUBCOMMUNITY"
+      }
+     ],
+     "full_name": "Dubai,Damac Islands 2,Bahamas,Bahamas 1"
+    },
+    "bedrooms": [
+     4,
+     5,
+     6
+    ],
+    "price": {
+     "from": 3913000,
+     "down_payment_percentage": 20
+    },
+    "delivery_date": "2030-06-30T08:26:00Z",
+    "images": [
+     {
+      "small": "https://new-projects-media.propertyfinder.com/project/5af6bc9f-8e9a-4522-a0bc-d141c6ca9902/gallery/image/_FkdKPvAivG6qvWIkKbWB0RyahDSwj_r4gwWla60fUA=/small.webp",
+      "medium": "https://new-projects-media.propertyfinder.com/project/5af6bc9f-8e9a-4522-a0bc-d141c6ca9902/gallery/image/_FkdKPvAivG6qvWIkKbWB0RyahDSwj_r4gwWla60fUA=/medium.webp",
+      "mobile": "https://new-projects-media.propertyfinder.com/project/5af6bc9f-8e9a-4522-a0bc-d141c6ca9902/mobile_image/image/_FkdKPvAivG6qvWIkKbWB0RyahDSwj_r4gwWla60fUA=/medium.webp"
+     }
+    ],
+    "contact_options": [
+     {
+      "type": "whatsapp",
+      "value": "971543434369",
+      "link": "https://wa.me/97145560345?text=Hello%2C+I+am+interested+in+learning+more+about+Bahamas+which+I+found+on+Property+Finder.+Project+link%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fen%2Fnew-projects%2Fdamac-properties%2Fbahamas%0A"
+     }
+    ],
+    "construction_phase_key": "under_construction",
+    "is_sponsored": false,
+    "sales_phase_key": "waiting_for_sales_start",
+    "hotness_level": 82,
+    "campaign_type": "project",
+    "stock_availability": "available",
+    "payment_plans": [
+     {
+      "title": "Standard",
+      "summary": {
+       "down_payment": 20,
+       "during_construction": 55,
+       "handover": 25,
+       "after_handover": 0
+      }
+     }
+    ],
+    "effective_price": 3913000,
+    "property_type": "multiple",
+    "min_size": {
+     "value": 0,
+     "unit": "sqm"
+    },
+    "max_size": {
+     "value": 293.39012633341247,
+     "unit": "sqm"
+    },
+    "agent_preview": {
+     "campaign_id": "ea565ae5-42e6-49d0-ac50-c70dcc5fe2a8",
+     "pf_client_id": "10820",
+     "agents": [
+      {
+       "id": "344307",
+       "name": "Klaudia Podgórska",
+       "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/344307/d136d2af-a67b-43db-a3fa-deafa6c94985/260x200.jpg?v=80fbcb3635871ba2c0defa9a4ccf7812",
+       "is_super_agent": false,
+       "avg_score": 5,
+       "review_count": 3,
+       "languages": [
+        "English",
+        "Polish"
+       ],
+       "total_properties": 26,
+       "detail_url": "/en/agent/klaudia-podgorska-344307",
+       "position": "Chief Operating Officer",
+       "years_of_experience": 5,
+       "broker": {
+        "id": "10820",
+        "name": "JAXTOX REAL ESTATE BROKERAGE L.L.C",
+        "slug": "jaxtox-real-estate-brokerage-l-l-c-10946",
+        "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/10820/c353d1b6-77c2-4790-b2a5-7ca9550d0579/260x200.jpg",
+        "is_exclusive": false
+       }
+      }
+     ]
+    }
+   },
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 5,
+   "aggregated_position": 5,
+   "project_expert": null
+  }
+ ],
+ "similar_listings": [],
+ "meta": {
+  "page": 1,
+  "total_count": 790,
+  "new_properties_count": 0,
+  "per_page": 5,
+  "page_count": 158,
+  "location_tree": []
+ },
+ "filter_errors": []
+}

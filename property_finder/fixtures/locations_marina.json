@@ -1,0 +1,2166 @@
+{
+ "items": [
+  {
+   "alias": null,
+   "id": "50",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [
+     {
+      "id": 2,
+      "name": "Apartments and villas"
+     },
+     {
+      "id": 3,
+      "name": "Well connected"
+     },
+     {
+      "id": 1,
+      "name": "Luxury"
+     }
+    ],
+    "center_points": {
+     "lat": 25.079532623291016,
+     "lon": 55.13990783691406
+    },
+    "children_count": 278,
+    "coordinates": {
+     "lat": 25.078367,
+     "lon": 55.14041
+    },
+    "current_language_slug": "dubai-marina",
+    "floors": 0,
+    "id": 50,
+    "image_token": "",
+    "images": [
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/fe958072c19871405dab8f02be4a567c/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/fe958072c19871405dab8f02be4a567c/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/13f7d127715f4200485ccdae208b6c4b/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/13f7d127715f4200485ccdae208b6c4b/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/c3ab3a71e53ee9e4096cb7db5ffdd898/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/c3ab3a71e53ee9e4096cb7db5ffdd898/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/a84ff08affdc2767d2736f5ad6f4611f/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/a84ff08affdc2767d2736f5ad6f4611f/thumb.jpeg"
+     },
+     {
+      "category_name": "Community Overview",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/c9ef849d9c2587d77f130d6bd7bcf3ea/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/c9ef849d9c2587d77f130d6bd7bcf3ea/thumb.jpeg"
+     },
+     {
+      "category_name": "Nearby Attractions",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/424c877a700e6d7572aec3e3aa40d641/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/424c877a700e6d7572aec3e3aa40d641/thumb.jpeg"
+     },
+     {
+      "category_name": "Nearby Attractions",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/6f7fe8f72fed214f063d59d949ce5a10/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/6f7fe8f72fed214f063d59d949ce5a10/thumb.jpeg"
+     },
+     {
+      "category_name": "Facilities",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/065eee030e0e4805a620ed9ab5bf9a09/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/065eee030e0e4805a620ed9ab5bf9a09/thumb.jpeg"
+     },
+     {
+      "category_name": "Facilities",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/8b01c1002a0b7f9b510ddad99c4ac3fd/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/8b01c1002a0b7f9b510ddad99c4ac3fd/thumb.jpeg"
+     },
+     {
+      "category_name": "Religious Places",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/community/50/abe1a844ba9dce4ca3c0d37233bdf4d0/watermark.jpeg",
+      "location_id": 50,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/community/50/abe1a844ba9dce4ca3c0d37233bdf4d0/thumb.jpeg"
+     }
+    ],
+    "insights_url": "/en/area-insights/dubai/dubai-marina",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 1,
+    "links": {
+     "community_entry_image": "https://graph-images.propertyfinder.ae/ae/community/50/c9ef849d9c2587d77f130d6bd7bcf3ea/thumb.jpeg",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "COMMUNITY",
+    "name": "Dubai Marina",
+    "path": "1.50",
+    "path_name": "Dubai",
+    "polygon": [
+     [
+      [
+       55.138496,
+       25.071302
+      ],
+      [
+       55.137305,
+       25.06995
+      ],
+      [
+       55.136667,
+       25.069227
+      ],
+      [
+       55.13584,
+       25.068289
+      ],
+      [
+       55.13549378629676,
+       25.067895750582075
+      ],
+      [
+       55.135032,
+       25.067372
+      ],
+      [
+       55.132272,
+       25.064264
+      ],
+      [
+       55.130094,
+       25.065967
+      ],
+      [
+       55.126946,
+       25.068434
+      ],
+      [
+       55.123673632845794,
+       25.071019020628665
+      ],
+      [
+       55.12449,
+       25.071953
+      ],
+      [
+       55.124744,
+       25.071786
+      ],
+      [
+       55.124869,
+       25.071951
+      ],
+      [
+       55.125755,
+       25.071285
+      ],
+      [
+       55.1262,
+       25.070963
+      ],
+      [
+       55.126607,
+       25.07074
+      ],
+      [
+       55.126639,
+       25.070823
+      ],
+      [
+       55.126741,
+       25.071046
+      ],
+      [
+       55.126859,
+       25.071228
+      ],
+      [
+       55.126927,
+       25.071305
+      ],
+      [
+       55.126739,
+       25.071394
+      ],
+      [
+       55.126569,
+       25.071501
+      ],
+      [
+       55.126626,
+       25.071578
+      ],
+      [
+       55.126566,
+       25.07169
+      ],
+      [
+       55.126547,
+       25.071722
+      ],
+      [
+       55.126499,
+       25.071772
+      ],
+      [
+       55.125604,
+       25.072457
+      ],
+      [
+       55.125371,
+       25.072625
+      ],
+      [
+       55.125323,
+       25.07268
+      ],
+      [
+       55.125286,
+       25.072764
+      ],
+      [
+       55.125264,
+       25.072865
+      ],
+      [
+       55.125257,
+       25.072967
+      ],
+      [
+       55.125259,
+       25.073062
+      ],
+      [
+       55.12525,
+       25.073172
+      ],
+      [
+       55.125233,
+       25.073304
+      ],
+      [
+       55.125227,
+       25.073428
+      ],
+      [
+       55.125238,
+       25.073514
+      ],
+      [
+       55.125273,
+       25.073681
+      ],
+      [
+       55.125358,
+       25.073978
+      ],
+      [
+       55.125582,
+       25.073916
+      ],
+      [
+       55.125951,
+       25.073817
+      ],
+      [
+       55.126186,
+       25.07378
+      ],
+      [
+       55.126343,
+       25.073823
+      ],
+      [
+       55.126424,
+       25.073749
+      ],
+      [
+       55.126825,
+       25.073059
+      ],
+      [
+       55.127834,
+       25.072259
+      ],
+      [
+       55.128454,
+       25.072208
+      ],
+      [
+       55.128292,
+       25.072046
+      ],
+      [
+       55.128796,
+       25.07195
+      ],
+      [
+       55.129084,
+       25.071898
+      ],
+      [
+       55.129832,
+       25.071762
+      ],
+      [
+       55.130129,
+       25.071765
+      ],
+      [
+       55.130417,
+       25.071796
+      ],
+      [
+       55.130797,
+       25.071927
+      ],
+      [
+       55.1312,
+       25.072137
+      ],
+      [
+       55.131631,
+       25.072484
+      ],
+      [
+       55.131826,
+       25.072744
+      ],
+      [
+       55.131992,
+       25.072953
+      ],
+      [
+       55.13209,
+       25.073201
+      ],
+      [
+       55.132156,
+       25.073584
+      ],
+      [
+       55.132284,
+       25.07437
+      ],
+      [
+       55.132446,
+       25.07469
+      ],
+      [
+       55.13263,
+       25.074953
+      ],
+      [
+       55.132782,
+       25.07514
+      ],
+      [
+       55.132956,
+       25.075314
+      ],
+      [
+       55.13322,
+       25.075517
+      ],
+      [
+       55.133647,
+       25.075761
+      ],
+      [
+       55.133941,
+       25.075858
+      ],
+      [
+       55.134708,
+       25.076034
+      ],
+      [
+       55.134954,
+       25.076091
+      ],
+      [
+       55.135466,
+       25.076311
+      ],
+      [
+       55.135778,
+       25.076543
+      ],
+      [
+       55.136122,
+       25.07694
+      ],
+      [
+       55.136248,
+       25.077176
+      ],
+      [
+       55.136358,
+       25.077448
+      ],
+      [
+       55.136445,
+       25.077704
+      ],
+      [
+       55.13649,
+       25.0779
+      ],
+      [
+       55.136569,
+       25.07812
+      ],
+      [
+       55.136776,
+       25.078478
+      ],
+      [
+       55.137184,
+       25.079014
+      ],
+      [
+       55.13752,
+       25.079336
+      ],
+      [
+       55.137658,
+       25.079445
+      ],
+      [
+       55.138041,
+       25.079713
+      ],
+      [
+       55.138484,
+       25.07997
+      ],
+      [
+       55.138974,
+       25.08024
+      ],
+      [
+       55.139741,
+       25.08069
+      ],
+      [
+       55.139929,
+       25.080819
+      ],
+      [
+       55.140125,
+       25.080963
+      ],
+      [
+       55.140358,
+       25.081156
+      ],
+      [
+       55.140574,
+       25.081365
+      ],
+      [
+       55.140794,
+       25.081604
+      ],
+      [
+       55.140999,
+       25.081864
+      ],
+      [
+       55.141191,
+       25.082122
+      ],
+      [
+       55.14137,
+       25.082364
+      ],
+      [
+       55.141316,
+       25.082398
+      ],
+      [
+       55.141105,
+       25.082542
+      ],
+      [
+       55.140881,
+       25.082712
+      ],
+      [
+       55.140366,
+       25.083102
+      ],
+      [
+       55.140284,
+       25.083166
+      ],
+      [
+       55.139584,
+       25.083668
+      ],
+      [
+       55.138188,
+       25.084935
+      ],
+      [
+       55.137459,
+       25.08558
+      ],
+      [
+       55.136522,
+       25.086349
+      ],
+      [
+       55.136593,
+       25.086514
+      ],
+      [
+       55.136769,
+       25.087001
+      ],
+      [
+       55.136825,
+       25.087155
+      ],
+      [
+       55.136915,
+       25.087671
+      ],
+      [
+       55.13692,
+       25.087987
+      ],
+      [
+       55.136913,
+       25.088106
+      ],
+      [
+       55.136868,
+       25.088388
+      ],
+      [
+       55.13683,
+       25.088566
+      ],
+      [
+       55.13675,
+       25.088726
+      ],
+      [
+       55.136702,
+       25.088813
+      ],
+      [
+       55.136633,
+       25.088907
+      ],
+      [
+       55.136548,
+       25.089007
+      ],
+      [
+       55.136458,
+       25.089087
+      ],
+      [
+       55.136335,
+       25.089012
+      ],
+      [
+       55.136128,
+       25.088892
+      ],
+      [
+       55.136058,
+       25.08885
+      ],
+      [
+       55.135912,
+       25.088784
+      ],
+      [
+       55.135794,
+       25.088738
+      ],
+      [
+       55.135669,
+       25.088711
+      ],
+      [
+       55.1355,
+       25.088693
+      ],
+      [
+       55.135362,
+       25.08869
+      ],
+      [
+       55.135183,
+       25.088707
+      ],
+      [
+       55.13499,
+       25.088747
+      ],
+      [
+       55.134836,
+       25.088801
+      ],
+      [
+       55.134623,
+       25.088887
+      ],
+      [
+       55.13447,
+       25.088965
+      ],
+      [
+       55.13431,
+       25.08906
+      ],
+      [
+       55.134087,
+       25.089212
+      ],
+      [
+       55.133871,
+       25.089346
+      ],
+      [
+       55.133823,
+       25.089377
+      ],
+      [
+       55.133779,
+       25.089426
+      ],
+      [
+       55.133756,
+       25.089482
+      ],
+      [
+       55.13374,
+       25.089539
+      ],
+      [
+       55.133734,
+       25.089588
+      ],
+      [
+       55.133742,
+       25.08963
+      ],
+      [
+       55.133758,
+       25.089664
+      ],
+      [
+       55.133787,
+       25.089706
+      ],
+      [
+       55.133847,
+       25.089763
+      ],
+      [
+       55.133895,
+       25.08979
+      ],
+      [
+       55.133947,
+       25.089825
+      ],
+      [
+       55.133992,
+       25.089873
+      ],
+      [
+       55.134026,
+       25.089931
+      ],
+      [
+       55.134051,
+       25.089988
+      ],
+      [
+       55.134071,
+       25.090069
+      ],
+      [
+       55.134086,
+       25.090167
+      ],
+      [
+       55.134084,
+       25.090241
+      ],
+      [
+       55.134078,
+       25.090323
+      ],
+      [
+       55.134055,
+       25.090417
+      ],
+      [
+       55.134034,
+       25.090505
+      ],
+      [
+       55.133934,
+       25.090695
+      ],
+      [
+       55.133851,
+       25.090852
+      ],
+      [
+       55.133768,
+       25.090994
+      ],
+      [
+       55.133745,
+       25.091032
+      ],
+      [
+       55.133737,
+       25.091076
+      ],
+      [
+       55.133731,
+       25.091117
+      ],
+      [
+       55.133739,
+       25.091174
+      ],
+      [
+       55.133794,
+       25.091295
+      ],
+      [
+       55.133847,
+       25.091411
+      ],
+      [
+       55.133895,
+       25.091498
+      ],
+      [
+       55.133932,
+       25.091565
+      ],
+      [
+       55.133987,
+       25.091656
+      ],
+      [
+       55.134007,
+       25.091696
+      ],
+      [
+       55.134055,
+       25.091768
+      ],
+      [
+       55.134093,
+       25.091846
+      ],
+      [
+       55.134123,
+       25.091893
+      ],
+      [
+       55.134162,
+       25.091951
+      ],
+      [
+       55.134201,
+       25.091987
+      ],
+      [
+       55.134268,
+       25.092021
+      ],
+      [
+       55.134421,
+       25.092056
+      ],
+      [
+       55.134729,
+       25.092122
+      ],
+      [
+       55.134834,
+       25.092138
+      ],
+      [
+       55.13511,
+       25.092174
+      ],
+      [
+       55.135413,
+       25.092172
+      ],
+      [
+       55.135669,
+       25.092168
+      ],
+      [
+       55.135969,
+       25.092144
+      ],
+      [
+       55.136198,
+       25.092114
+      ],
+      [
+       55.13647,
+       25.09206
+      ],
+      [
+       55.136674,
+       25.092014
+      ],
+      [
+       55.137026,
+       25.091911
+      ],
+      [
+       55.137557,
+       25.091696
+      ],
+      [
+       55.137771,
+       25.091545
+      ],
+      [
+       55.138102,
+       25.091254
+      ],
+      [
+       55.138361,
+       25.091031
+      ],
+      [
+       55.138352,
+       25.090992
+      ],
+      [
+       55.138663,
+       25.090746
+      ],
+      [
+       55.142087,
+       25.088026
+      ],
+      [
+       55.14298,
+       25.087301
+      ],
+      [
+       55.143212,
+       25.087492
+      ],
+      [
+       55.143521,
+       25.087718
+      ],
+      [
+       55.14392,
+       25.087886
+      ],
+      [
+       55.144281,
+       25.088001
+      ],
+      [
+       55.144552,
+       25.08804
+      ],
+      [
+       55.144794,
+       25.088049
+      ],
+      [
+       55.144934,
+       25.088004
+      ],
+      [
+       55.145054,
+       25.087942
+      ],
+      [
+       55.145342,
+       25.088082
+      ],
+      [
+       55.145516,
+       25.088214
+      ],
+      [
+       55.146059,
+       25.088743
+      ],
+      [
+       55.146535,
+       25.08929
+      ],
+      [
+       55.146723,
+       25.089524
+      ],
+      [
+       55.147238,
+       25.090034
+      ],
+      [
+       55.147905,
+       25.090724
+      ],
+      [
+       55.14899,
+       25.091835
+      ],
+      [
+       55.149485,
+       25.091427
+      ],
+      [
+       55.15138217908021,
+       25.089914163233452
+      ],
+      [
+       55.151621,
+       25.089723
+      ],
+      [
+       55.15172944824741,
+       25.089636753755993
+      ],
+      [
+       55.151834949685394,
+       25.08955229350116
+      ],
+      [
+       55.152459,
+       25.089052
+      ],
+      [
+       55.153023,
+       25.0886
+      ],
+      [
+       55.153052,
+       25.088577
+      ],
+      [
+       55.153467,
+       25.088244
+      ],
+      [
+       55.155143,
+       25.086904
+      ],
+      [
+       55.151845,
+       25.084085
+      ],
+      [
+       55.149202,
+       25.081847
+      ],
+      [
+       55.143962,
+       25.077324
+      ],
+      [
+       55.143341,
+       25.07671
+      ],
+      [
+       55.141918,
+       25.075183
+      ],
+      [
+       55.139783,
+       25.072762
+      ],
+      [
+       55.138496,
+       25.071302
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 1138,
+     "score": 3.9,
+     "url": ""
+    },
+    "top_location_id": null,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina",
+    "url_slug_value": {
+     "ar": "دبي-مارينا",
+     "en": "dubai-marina"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "733",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 25.086833953857422,
+     "lon": 55.14714813232422
+    },
+    "children_count": 4,
+    "coordinates": {
+     "lat": 25.086634,
+     "lon": 55.147312
+    },
+    "current_language_slug": "dubai-marina-marina-gate",
+    "floors": 0,
+    "id": 733,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-marina-gate",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "SUBCOMMUNITY",
+    "name": "Marina Gate",
+    "path": "1.50.733",
+    "path_name": "Dubai, Dubai Marina",
+    "polygon": [
+     [
+      [
+       55.146365,
+       25.0872
+      ],
+      [
+       55.146489,
+       25.08703
+      ],
+      [
+       55.146529,
+       25.086913
+      ],
+      [
+       55.146518,
+       25.086768
+      ],
+      [
+       55.146458,
+       25.086476
+      ],
+      [
+       55.146486,
+       25.08643
+      ],
+      [
+       55.146628,
+       25.086432
+      ],
+      [
+       55.146752,
+       25.08644
+      ],
+      [
+       55.146931,
+       25.086403
+      ],
+      [
+       55.147154,
+       25.086301
+      ],
+      [
+       55.147296,
+       25.086243
+      ],
+      [
+       55.147503,
+       25.08626
+      ],
+      [
+       55.147766,
+       25.086357
+      ],
+      [
+       55.147918,
+       25.08634
+      ],
+      [
+       55.148168,
+       25.086607
+      ],
+      [
+       55.146746,
+       25.087654
+      ],
+      [
+       55.146365,
+       25.0872
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 14,
+     "score": 3.6,
+     "url": "/en/building-reviews/dubai/dubai-marina-marina-gate.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-marina-gate",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-مارينا-جيت",
+     "en": "dubai-marina-marina-gate"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "1198",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 25.113582611083984,
+     "lon": 55.136417388916016
+    },
+    "children_count": 6,
+    "coordinates": {
+     "lat": 25.114376,
+     "lon": 55.135895
+    },
+    "current_language_slug": "palm-jumeirah-marina-residences",
+    "floors": 0,
+    "id": 1198,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/dubai/palm-jumeirah-marina-residences",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/palm-jumeirah",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "SUBCOMMUNITY",
+    "name": "Marina Residences",
+    "path": "1.86.1198",
+    "path_name": "Dubai, Palm Jumeirah",
+    "polygon": [
+     [
+      [
+       55.13548,
+       25.113567
+      ],
+      [
+       55.135496,
+       25.113481
+      ],
+      [
+       55.13555,
+       25.113405
+      ],
+      [
+       55.13561,
+       25.11336
+      ],
+      [
+       55.135726,
+       25.113374
+      ],
+      [
+       55.13574,
+       25.113327
+      ],
+      [
+       55.135825,
+       25.113336
+      ],
+      [
+       55.135869,
+       25.11321
+      ],
+      [
+       55.135946,
+       25.113067
+      ],
+      [
+       55.135927,
+       25.112997
+      ],
+      [
+       55.135944,
+       25.112925
+      ],
+      [
+       55.136028,
+       25.112925
+      ],
+      [
+       55.13612,
+       25.112794
+      ],
+      [
+       55.136219,
+       25.112687
+      ],
+      [
+       55.136162,
+       25.112628
+      ],
+      [
+       55.136198,
+       25.112577
+      ],
+      [
+       55.136129,
+       25.112509
+      ],
+      [
+       55.136146,
+       25.112443
+      ],
+      [
+       55.136178,
+       25.112382
+      ],
+      [
+       55.136245,
+       25.112317
+      ],
+      [
+       55.136333,
+       25.112278
+      ],
+      [
+       55.136418,
+       25.11227
+      ],
+      [
+       55.136497,
+       25.112322
+      ],
+      [
+       55.136538,
+       25.11229
+      ],
+      [
+       55.136605,
+       25.11233
+      ],
+      [
+       55.136734,
+       25.112234
+      ],
+      [
+       55.136884,
+       25.112144
+      ],
+      [
+       55.136933,
+       25.111925
+      ],
+      [
+       55.137587,
+       25.112574
+      ],
+      [
+       55.137506,
+       25.112674
+      ],
+      [
+       55.137472,
+       25.112802
+      ],
+      [
+       55.137504,
+       25.112944
+      ],
+      [
+       55.137467,
+       25.112974
+      ],
+      [
+       55.137299,
+       25.113099
+      ],
+      [
+       55.137124,
+       25.11326
+      ],
+      [
+       55.137016,
+       25.113393
+      ],
+      [
+       55.136908,
+       25.11357
+      ],
+      [
+       55.136834,
+       25.113718
+      ],
+      [
+       55.136774,
+       25.113937
+      ],
+      [
+       55.136745,
+       25.114103
+      ],
+      [
+       55.13673,
+       25.114299
+      ],
+      [
+       55.136695,
+       25.114617
+      ],
+      [
+       55.136667,
+       25.114798
+      ],
+      [
+       55.136615,
+       25.114964
+      ],
+      [
+       55.135926,
+       25.115237
+      ],
+      [
+       55.135827,
+       25.115036
+      ],
+      [
+       55.135597,
+       25.115042
+      ],
+      [
+       55.135606,
+       25.115009
+      ],
+      [
+       55.135576,
+       25.114974
+      ],
+      [
+       55.135534,
+       25.11493
+      ],
+      [
+       55.135492,
+       25.114854
+      ],
+      [
+       55.135492,
+       25.114773
+      ],
+      [
+       55.135518,
+       25.114677
+      ],
+      [
+       55.135601,
+       25.114636
+      ],
+      [
+       55.135588,
+       25.114594
+      ],
+      [
+       55.135688,
+       25.114552
+      ],
+      [
+       55.135668,
+       25.114408
+      ],
+      [
+       55.135652,
+       25.114247
+      ],
+      [
+       55.135599,
+       25.114204
+      ],
+      [
+       55.135598,
+       25.114144
+      ],
+      [
+       55.135648,
+       25.114107
+      ],
+      [
+       55.135656,
+       25.113974
+      ],
+      [
+       55.135671,
+       25.113804
+      ],
+      [
+       55.135594,
+       25.11378
+      ],
+      [
+       55.135609,
+       25.113721
+      ],
+      [
+       55.135509,
+       25.11369
+      ],
+      [
+       55.135486,
+       25.113625
+      ],
+      [
+       55.13548,
+       25.113567
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 28,
+     "score": 4.1,
+     "url": "/en/building-reviews/dubai/palm-jumeirah-marina-residences.html"
+    },
+    "top_location_id": 86,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "palm-jumeirah-marina-residences",
+    "url_slug_value": {
+     "ar": "نخلة-جميرا-مساكن-المارينا",
+     "en": "palm-jumeirah-marina-residences"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "11873",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "building_details": {
+     "avg_balcony_area_sqm": 11,
+     "car_parks": 553,
+     "completion_year": 2026,
+     "developer_name": "EMAAR PROPERTIES (P.J.S.C)",
+     "elevators": 8,
+     "master_developer_name": "EMAAR PROPERTIES (P.J.S.C)",
+     "swimming_pools": 1
+    },
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 0,
+    "coordinates": {
+     "lat": 25.082665,
+     "lon": 55.143545
+    },
+    "current_language_slug": "dubai-marina-marina-shores",
+    "floors": 55,
+    "id": 11873,
+    "image_token": "",
+    "images": [
+     {
+      "category_name": "Children Play Area",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/11873/56f19133a98b6cda6fcc119cd4161c01/watermark.jpeg",
+      "location_id": 11873,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/11873/56f19133a98b6cda6fcc119cd4161c01/thumb.jpeg"
+     }
+    ],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-marina-shores",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": true,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "https://graph-images.propertyfinder.ae/ae/building/11873/56f19133a98b6cda6fcc119cd4161c01/thumb.jpeg",
+     "tower_insights_page_link": "/en/area-insights/dubai/dubai-marina-marina-shores"
+    },
+    "location_type": "TOWER",
+    "name": "Marina Shores",
+    "path": "1.50.11873",
+    "path_name": "Dubai, Dubai Marina",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 0,
+     "score": 0,
+     "url": "/en/building-reviews/dubai/dubai-marina-marina-shores.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-marina-shores",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-مارينا-شورز",
+     "en": "dubai-marina-marina-shores"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "8995",
+   "location": {
+    "abbreviation": "",
+    "age": 4,
+    "building_details": {
+     "avg_balcony_area_sqm": 19,
+     "car_parks": 562,
+     "completion_year": 2022,
+     "developer_name": "EMAAR DEVELOPMENT P.J.S.C.",
+     "elevators": 17,
+     "master_developer_name": "EMAAR PROPERTIES (P.J.S.C)",
+     "swimming_pools": 1
+    },
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 0,
+    "coordinates": {
+     "lat": 25.072375,
+     "lon": 55.136286
+    },
+    "current_language_slug": "dubai-marina-vida-residences-dubai-marina",
+    "floors": 60,
+    "id": 8995,
+    "image_token": "",
+    "images": [
+     {
+      "category_name": "Building Exterior",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/f6cc499e9a5b17859241ee9988c744d8/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/f6cc499e9a5b17859241ee9988c744d8/thumb.jpeg"
+     },
+     {
+      "category_name": "Lobby",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/37c8b2600823d03fb0ee54e9e15cdb3f/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/37c8b2600823d03fb0ee54e9e15cdb3f/thumb.jpeg"
+     },
+     {
+      "category_name": "Lobby",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/12f0a956d6b7353ac110e85090aba7d4/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/12f0a956d6b7353ac110e85090aba7d4/thumb.jpeg"
+     },
+     {
+      "category_name": "Adults Swimming Pool",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/1ffd081eb033b74340106faddbe1d9ca/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/1ffd081eb033b74340106faddbe1d9ca/thumb.jpeg"
+     },
+     {
+      "category_name": "Adults Swimming Pool",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/df709ea0519af14d6fde2f507c8c412a/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/df709ea0519af14d6fde2f507c8c412a/thumb.jpeg"
+     },
+     {
+      "category_name": "Adults Swimming Pool",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/ed1b252659b1efe02c4455160b6cb91f/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/ed1b252659b1efe02c4455160b6cb91f/thumb.jpeg"
+     },
+     {
+      "category_name": "Gym",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/d62a4620d2edb9f7e8da4ee8e90f7d56/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/d62a4620d2edb9f7e8da4ee8e90f7d56/thumb.jpeg"
+     },
+     {
+      "category_name": "Gym",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/d7d7a5a3cdab07c1bf8dad318a12de1e/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/d7d7a5a3cdab07c1bf8dad318a12de1e/thumb.jpeg"
+     },
+     {
+      "category_name": "Children Play Area",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/31df5ceb9252be5f6df694d5cff8a509/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/31df5ceb9252be5f6df694d5cff8a509/thumb.jpeg"
+     },
+     {
+      "category_name": "Children Play Area",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/8995/aa5715f6edcbf387b6ba0e00b99eda77/watermark.jpeg",
+      "location_id": 8995,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/8995/aa5715f6edcbf387b6ba0e00b99eda77/thumb.jpeg"
+     }
+    ],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-vida-residences-dubai-marina",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": true,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "https://graph-images.propertyfinder.ae/ae/building/8995/f6cc499e9a5b17859241ee9988c744d8/thumb.jpeg",
+     "tower_insights_page_link": "/en/area-insights/dubai/dubai-marina-vida-residences-dubai-marina"
+    },
+    "location_type": "TOWER",
+    "name": "Vida Residences Dubai Marina",
+    "path": "1.50.8995",
+    "path_name": "Dubai, Dubai Marina",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 3,
+     "score": 4.1,
+     "url": "/en/building-reviews/dubai/dubai-marina-vida-residences-dubai-marina.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-vida-residences-dubai-marina",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-فيدا-ريزيدنس-دبي-مارينا",
+     "en": "dubai-marina-vida-residences-dubai-marina"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "721",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 25.07516860961914,
+     "lon": 55.13488006591797
+    },
+    "children_count": 8,
+    "coordinates": {
+     "lat": 25.074813,
+     "lon": 55.133214
+    },
+    "current_language_slug": "dubai-marina-marina-promenade",
+    "floors": 0,
+    "id": 721,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-marina-promenade",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "SUBCOMMUNITY",
+    "name": "Marina Promenade",
+    "path": "1.50.721",
+    "path_name": "Dubai, Dubai Marina",
+    "polygon": [
+     [
+      [
+       55.134864,
+       25.075174
+      ],
+      [
+       55.13487,
+       25.075155
+      ],
+      [
+       55.134898,
+       25.075162
+      ],
+      [
+       55.134892,
+       25.075181
+      ],
+      [
+       55.134864,
+       25.075174
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 34,
+     "score": 4.4,
+     "url": "/en/building-reviews/dubai/dubai-marina-marina-promenade.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-marina-promenade",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-مارينا-بروموناد",
+     "en": "dubai-marina-marina-promenade"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "732",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 13,
+    "coordinates": {
+     "lat": 25.084935,
+     "lon": 55.148908
+    },
+    "current_language_slug": "dubai-marina-dubai-marina-towers",
+    "floors": 0,
+    "id": 732,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-dubai-marina-towers",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "SUBCOMMUNITY",
+    "name": "Dubai Marina Towers",
+    "path": "1.50.732",
+    "path_name": "Dubai, Dubai Marina",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 22,
+     "score": 4.7,
+     "url": "/en/building-reviews/dubai/dubai-marina-dubai-marina-towers.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-dubai-marina-towers",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-ابراج-مارينا",
+     "en": "dubai-marina-dubai-marina-towers"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "11729",
+   "location": {
+    "abbreviation": "",
+    "age": 1,
+    "building_details": {
+     "avg_balcony_area_sqm": 15,
+     "car_parks": 288,
+     "completion_year": 2025,
+     "developer_name": "L I V REAL ESTATE DEVELOPMENT L.L.C",
+     "elevators": 6,
+     "master_developer_name": "DUBAI MARINA PHASE1 (L.L.C)",
+     "swimming_pools": 1
+    },
+    "categories": [],
+    "center_points": {
+     "lat": 25.08097267150879,
+     "lon": 55.1407585144043
+    },
+    "children_count": 0,
+    "coordinates": {
+     "lat": 25.08488,
+     "lon": 55.144373
+    },
+    "current_language_slug": "dubai-marina-liv-marina",
+    "floors": 47,
+    "id": 11729,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-liv-marina",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": true,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": "/en/area-insights/dubai/dubai-marina-liv-marina"
+    },
+    "location_type": "TOWER",
+    "name": "LIV Marina",
+    "path": "1.50.11729",
+    "path_name": "Dubai, Dubai Marina",
+    "polygon": [
+     [
+      [
+       55.140459,
+       25.080961
+      ],
+      [
+       55.140904,
+       25.080625
+      ],
+      [
+       55.140973,
+       25.080699
+      ],
+      [
+       55.140897,
+       25.080885
+      ],
+      [
+       55.140885,
+       25.081102
+      ],
+      [
+       55.140913,
+       25.08126
+      ],
+      [
+       55.140818,
+       25.081322
+      ],
+      [
+       55.140459,
+       25.080961
+      ]
+     ]
+    ],
+    "published": true,
+    "review": {
+     "count": 0,
+     "score": 0,
+     "url": "/en/building-reviews/dubai/dubai-marina-liv-marina.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-liv-marina",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-ليف-مارينا",
+     "en": "dubai-marina-liv-marina"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "1876",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 15,
+    "coordinates": {
+     "lat": 24.489316,
+     "lon": 54.395439
+    },
+    "current_language_slug": "al-reem-island-marina-square",
+    "floors": 0,
+    "id": 1876,
+    "image_token": "",
+    "images": [],
+    "insights_url": "/en/area-insights/abu-dhabi/al-reem-island-marina-square",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/abu-dhabi/al-reem-island",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "SUBCOMMUNITY",
+    "name": "Marina Square",
+    "path": "6.279.1876",
+    "path_name": "Abu Dhabi, Al Reem Island",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 21,
+     "score": 3.9,
+     "url": "/en/building-reviews/abu-dhabi/al-reem-island-marina-square.html"
+    },
+    "top_location_id": 279,
+    "url_city_slug": "abu-dhabi",
+    "url_city_slug_value": {
+     "ar": "أبوظبي",
+     "en": "abu-dhabi"
+    },
+    "url_slug": "al-reem-island-marina-square",
+    "url_slug_value": {
+     "ar": "جزيرة-الريم-مارينا-سكوير",
+     "en": "al-reem-island-marina-square"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "9086",
+   "location": {
+    "abbreviation": "",
+    "age": 6,
+    "building_details": {
+     "avg_balcony_area_sqm": 11,
+     "car_parks": 729,
+     "completion_year": 2020,
+     "developer_name": "SELECT GLOBAL DEVELOPMENT L.L.C",
+     "elevators": 12,
+     "master_developer_name": "DUBAI MARINA PHASE1 (L.L.C)",
+     "swimming_pools": 2
+    },
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 0,
+    "coordinates": {
+     "lat": 25.087279,
+     "lon": 55.146872
+    },
+    "current_language_slug": "dubai-marina-marina-gate-jumeirah-living-marina-gate",
+    "floors": 61,
+    "id": 9086,
+    "image_token": "",
+    "images": [
+     {
+      "category_name": "Building Exterior",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/fcbae0b34d3c37ab2247780f0d2dcf0f/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/fcbae0b34d3c37ab2247780f0d2dcf0f/thumb.jpeg"
+     },
+     {
+      "category_name": "Building Exterior",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/53ececd3667b33e9662732fa596b03bf/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/53ececd3667b33e9662732fa596b03bf/thumb.jpeg"
+     },
+     {
+      "category_name": "Lobby",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/9ee34fb3664194f5fb989f81e16835ac/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/9ee34fb3664194f5fb989f81e16835ac/thumb.jpeg"
+     },
+     {
+      "category_name": "Lobby",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/f2cc3ada8b0ad3ee725a21ba02ae3452/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/f2cc3ada8b0ad3ee725a21ba02ae3452/thumb.jpeg"
+     },
+     {
+      "category_name": "Adults Swimming Pool",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/6d9164d290153feb4a3285e3633c8ea0/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/6d9164d290153feb4a3285e3633c8ea0/thumb.jpeg"
+     },
+     {
+      "category_name": "Adults Swimming Pool",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/79e86fbdcb9b018c8c24981ac8ab4c27/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/79e86fbdcb9b018c8c24981ac8ab4c27/thumb.jpeg"
+     },
+     {
+      "category_name": "Children Swimming Pool",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/a25da6a89cd75e5bb79e75feedde61a8/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/a25da6a89cd75e5bb79e75feedde61a8/thumb.jpeg"
+     },
+     {
+      "category_name": "Gym",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/deccc27d2dc4b2a43448d1939950c4af/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/deccc27d2dc4b2a43448d1939950c4af/thumb.jpeg"
+     },
+     {
+      "category_name": "Gym",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/071558567786dddabde9c6257b9117de/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/071558567786dddabde9c6257b9117de/thumb.jpeg"
+     },
+     {
+      "category_name": "Children Play Area",
+      "full_url": "https://graph-images.propertyfinder.ae/ae/building/9086/8ab08be1eb2a46f5fdadcbc4fdbd9562/watermark.jpeg",
+      "location_id": 9086,
+      "thumb_url": "https://graph-images.propertyfinder.ae/ae/building/9086/8ab08be1eb2a46f5fdadcbc4fdbd9562/thumb.jpeg"
+     }
+    ],
+    "insights_url": "/en/area-insights/dubai/dubai-marina-marina-gate-jumeirah-living-marina-gate",
+    "is_community_insights_visible": true,
+    "is_explore_section_visible": true,
+    "is_in_cms": true,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": true,
+    "level": 3,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "/en/area-insights/dubai/dubai-marina",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "https://graph-images.propertyfinder.ae/ae/building/9086/fcbae0b34d3c37ab2247780f0d2dcf0f/thumb.jpeg",
+     "tower_insights_page_link": "/en/area-insights/dubai/dubai-marina-marina-gate-jumeirah-living-marina-gate"
+    },
+    "location_type": "TOWER",
+    "name": "Jumeirah Living Marina Gate",
+    "path": "1.50.733.9086",
+    "path_name": "Dubai, Dubai Marina, Marina Gate",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 5,
+     "score": 3.7,
+     "url": "/en/building-reviews/dubai/dubai-marina-marina-gate-jumeirah-living-marina-gate.html"
+    },
+    "top_location_id": 50,
+    "url_city_slug": "dubai",
+    "url_city_slug_value": {
+     "ar": "دبي",
+     "en": "dubai"
+    },
+    "url_slug": "dubai-marina-marina-gate-jumeirah-living-marina-gate",
+    "url_slug_value": {
+     "ar": "دبي-مارينا-مارينا-جيت-جميرا-ليفينج-مارينا-جات",
+     "en": "dubai-marina-marina-gate-jumeirah-living-marina-gate"
+    }
+   },
+   "type": "location"
+  }
+ ],
+ "meta": {
+  "pages": 51,
+  "total": 504
+ }
+}

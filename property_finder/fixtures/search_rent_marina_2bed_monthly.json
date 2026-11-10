@@ -1,0 +1,2350 @@
+{
+ "listings": [
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "135146604",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 10000,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Birds - eye view over Dubai Marina 2 BR.",
+    "location": {
+     "id": "3141",
+     "full_name": "Bay Central Tower Central, Bay Central, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.078445434570312,
+      "lon": 55.137962341308594
+     },
+     "slug": "dubai-marina-bay-central-bay-central-tower-central",
+     "path": "1.50.719.3141",
+     "type": "TOWER",
+     "name": "Bay Central Tower Central",
+     "path_name": "Dubai, Dubai Marina, Bay Central",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/DKQB9HWV436SXFCYT4M1DPSSN4/53f28cc6-7dfc-4ae7-aca2-c6b63c03ec9c/416x272.jpg?v=30785eb8c53804f288e00e9d5db5bfa5",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/DKQB9HWV436SXFCYT4M1DPSSN4/53f28cc6-7dfc-4ae7-aca2-c6b63c03ec9c/668x452.jpg?v=9e73ebda8d4457c7b345a2c512356198",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/DKQB9HWV436SXFCYT4M1DPSSN4/bb290e9d-8b47-442b-a504-0bd60923ade2/416x272.jpg?v=b1285390bbf0484587b007c8e54cf4e0",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/DKQB9HWV436SXFCYT4M1DPSSN4/bb290e9d-8b47-442b-a504-0bd60923ade2/668x452.jpg?v=ca1477ec31581be596c1b630d0c5be8f",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/DKQB9HWV436SXFCYT4M1DPSSN4/662e8509-c3d1-4bf0-999d-486bc88ce391/416x272.jpg?v=c6e701d33d103cb8d898bd49c2089108",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/DKQB9HWV436SXFCYT4M1DPSSN4/662e8509-c3d1-4bf0-999d-486bc88ce391/668x452.jpg?v=f8c60df96e9bc6108a0e4ae311248f10",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "124390",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/124390/fa02929b-f3ba-4ef4-961e-89abdac9d6c1/260x200.jpg?v=ff288f696c819c32e8d3a631c9aca98f",
+     "is_super_agent": false,
+     "name": "Hometown Holiday Homes",
+     "user_id": 12510,
+     "email": "",
+     "languages": [
+      "English",
+      "Russian",
+      "Urdu",
+      "Tagalog"
+     ],
+     "slug": "hometown-holiday-homes"
+    },
+    "broker": {
+     "id": "2071",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/2071/3376fa03-c921-45db-be99-8873a2a294cf/260x200.jpg",
+     "name": "Hometown Holiday Homes rental l.l.c",
+     "address": "Office 28th Floor, Building The H Hotel, Dubai World Central, Dubai World Central, Dubai, PO Box 0000",
+     "email": "shehroze@hometown.ae",
+     "phone": "+971557447705",
+     "slug": "hometown-holiday-homes-2199"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1076,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-bay-central-bay-central-tower-central-135146604.html",
+    "reference": "DKQB9HWV436SXFCYT4M1DPSSN4",
+    "listed_date": "2026-08-24T07:31:04Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971557447705",
+      "link": "tel:+971557447705",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+DKQB9HWV436SXFCYT4M1DPSSN4%0AType%3A+Apartment%0APrice%3A+10%2C000+AED%2Fmonth+%0ALocation%3A+Bay+Central+Tower+Central+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F135146604%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 11,
+    "amenities": [
+     "AC",
+     "BA",
+     "SP",
+     "SE",
+     "CS",
+     "MS",
+     "CP",
+     "BK",
+     "VW",
+     "BL",
+     "SY"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 19.79786,
+    "rss": 19.79786,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "719",
+      "name": "Bay Central",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-marina-bay-central",
+      "slug_en": "dubai-marina-bay-central",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "3141",
+      "name": "Bay Central Tower Central",
+      "type": "TOWER",
+      "slug": "dubai-marina-bay-central-bay-central-tower-central",
+      "slug_en": "dubai-marina-bay-central-bay-central-tower-central",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "Experience elevated living in the most happening spot of Dubai Marina. You are invited to feel the energy vibes of the truly exceptional neighborhood in the truly exceptional high-rise Residential Tower with unmatched facilities. \n\nUnique location gives you peace and tranquility, yet youre only minutes away from the beach, clubs, restaurants, bars and Marina Mall. The Tower is also conveniently located in the close vicinity to metro, tram (right at your doorstep!) and bus  station which makes commute easy; taxis are plentiful throughout the day. \n\nExperience elevated living in the most happening spot of Dubai Marina. You are invited to feel the energy vibes of the truly exceptional neighborhood in the truly exceptional high-rise Residential Tower with unmatched facilities. \n\nUnique location gives you peace and tranquility, yet youre only minutes away from the beach, clubs, restaurants, bars and Marina Mall. The Tower is also conveniently located in the close vicinity to metro, tram (right at your doorstep!) and bus  station which makes commute easy; taxis are plentiful throughout the day. \n\nHometown Features:\n\n-Sleeps up to 6 in two bedroom plus double sofa bed in the living room area. \n-A large flat screen TV.\n-Free WIFI internet access\n-Full set of kitchen appliances, cooking utensils, cutlery and kitchenware set\n-Full set of towels, linens and bed covers with spares,\n-Weekly full housekeeping service\n-Baby/child crib upon request\n-Access to all building facilities, gym and pool\n-Allocated Parking space\n-Additional housekeeping service and airport pick-up service is available at extra cost",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Shared Pool",
+     "Security",
+     "Concierge",
+     "Maid Service",
+     "Covered Parking",
+     "Kitchen Appliances",
+     "View of Water",
+     "View of Landmark",
+     "Shared Gym"
+    ],
+    "payment_method": [],
+    "lead_value": 10,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-bay-central-bay-central-tower-central-135146604.html",
+    "rank_score": 19.79785919189453,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "DKQB9HWV436SXFCYT4M1DPSSN4",
+    "client": {
+     "id": "2071",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/2071/3376fa03-c921-45db-be99-8873a2a294cf/260x200.jpg",
+     "name": "Hometown Holiday Homes rental l.l.c",
+     "address": "Office 28th Floor, Building The H Hotel, Dubai World Central, Dubai World Central, Dubai, PO Box 0000",
+     "email": "shehroze@hometown.ae",
+     "phone": "+971557447705",
+     "slug": "hometown-holiday-homes-2199"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 1,
+   "aggregated_position": 1,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "132518592",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 12500,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Exclusive Winter Rate | City Life | Marina Style |",
+    "location": {
+     "id": "3027",
+     "full_name": "Escan Tower, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.0682373046875,
+      "lon": 55.13309860229492
+     },
+     "slug": "dubai-marina-escan-tower",
+     "path": "1.50.3027",
+     "type": "TOWER",
+     "name": "Escan Tower",
+     "path_name": "Dubai, Dubai Marina",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/664EGJVDGBTPFAS2QX4BK6XFP4/22d46a33-e10f-4f9d-87ac-bfaf7c067696/416x272.jpg?v=fbc9306d786f3d5e3f0063641bcd6f8a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/664EGJVDGBTPFAS2QX4BK6XFP4/22d46a33-e10f-4f9d-87ac-bfaf7c067696/668x452.jpg?v=c9941764469ca6c4e1f439ce23962113",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/664EGJVDGBTPFAS2QX4BK6XFP4/6dfb9118-d7e2-46db-b716-9a712a7f7db7/416x272.jpg?v=abf29dce21581a1d3610328e9e5013cf",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/664EGJVDGBTPFAS2QX4BK6XFP4/6dfb9118-d7e2-46db-b716-9a712a7f7db7/668x452.jpg?v=d61f5c57e84762c5649ef4323c2ff4bb",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/664EGJVDGBTPFAS2QX4BK6XFP4/5071d66f-49cc-4019-b765-f8e37713f6aa/416x272.jpg?v=880fd6c11bb277923636285b2c9f79a8",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/664EGJVDGBTPFAS2QX4BK6XFP4/5071d66f-49cc-4019-b765-f8e37713f6aa/668x452.jpg?v=f87b9421072fb88c1bdbaadf29b73acf",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "273965",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/273965/718c0ad2-d1a7-4986-8975-574861af56c9/260x200.jpg?v=75615fdff714ffbd9ab8a00c44bd9a81",
+     "is_super_agent": false,
+     "name": "Maybelyn Bago",
+     "user_id": 125111,
+     "email": "",
+     "languages": [],
+     "slug": "maybelyn-bago"
+    },
+    "broker": {
+     "id": "8479",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/8479/f08809b9-4b9b-4225-b88b-f342c03ef75a/260x200.jpg",
+     "name": "RAINE AND HORNE VACATION HOMES RENTAL L.L.C. ",
+     "address": "",
+     "email": "",
+     "phone": "",
+     "slug": "raine-horne-holiday-home-8605"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1169,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-escan-tower-132518592.html",
+    "reference": "RNHH-R-1089",
+    "listed_date": "2026-08-19T13:59:09Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+0000000000",
+      "link": "tel:+0000000000",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+RNHH-R-1089%0AType%3A+Apartment%0APrice%3A+12%2C500+AED%2Fmonth+%0ALocation%3A+Escan+Tower+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F132518592%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 17,
+    "amenities": [
+     "AC",
+     "BA",
+     "BK",
+     "BW",
+     "CP",
+     "SP"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 34.84381,
+    "rss": 34.84381,
+    "qs": 92,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "3027",
+      "name": "Escan Tower",
+      "type": "TOWER",
+      "slug": "dubai-marina-escan-tower",
+      "slug_en": "dubai-marina-escan-tower",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "Welcome to your stylish home away from home in the heart of Dubai Marina! Whether you're here for business or leisure, this fully furnished two-bedroom apartment offers the perfect blend of comfort, convenience, and luxury. Enjoy stunning urban views, a cozy atmosphere, and all the essentials for a memorable stay in one of Dubai’s most vibrant neighborhoods. Just minutes from the Marina Walk, shopping malls, and world-class dining, beach this space puts you right where the action is.\n\nThis elegant two-bedroom apartment is designed with modern interiors and fully equipped for a comfortable stay. Whether you're staying for a short getaway or a longer visit, everything is thoughtfully arranged for your comfort and convenience.\n\nFeatures:\n\nTwo comfy bedrooms with queen beds, quality linens, wardrobes, and blackout curtains for a peaceful night\nWelcoming living space with soft seating, smart TV & a versatile dining/work area\nModern kitchen with all essentials for cooking & dining at home\nSparkling clean bathrooms with all essentials — towels, toiletries & hairdryer included\nStay connected with fast, reliable internet — perfect for work or play\n\n\nThe Amenities:\n \nDip into the pool for a refreshing experience.\nEnjoy the Convenience of Reserved Parking.\nCount on the 24x7 Security Service for Your Safety.\nRejoice in the Luxury of Free Weekly Cleaning Service.\nStay Connected with Free Wi-Fi Access Throughout Your Stay.\nOn-Call Maintenance Team, ready to assist whenever needed.\nSteps Away from Trendy Cafés, Restaurants & Supermarkets\nExcellent Connectivity to Public Transportation\n\nRates:\n5% VAT and 5%Service Charge Applicable.\nTourism Fee applicable \nWeekly free cleaning.\nFree Parking.\nAbove rates are subject to change without any notice.\nRefundable security deposit is required.\n\n\nInclusive Utilities:\nComplimentary Internet\nDEWA charges covered up to the area's average monthly bill.\nChiller charges covered up to the area's average monthly bill.\n\nFor more information and to arrange a viewing, please call Raine & Horne today!",
+    "amenity_names": [
+     "Central A/C",
+     "Balcony",
+     "Kitchen Appliances",
+     "Built in Wardrobes",
+     "Covered Parking",
+     "Shared Pool"
+    ],
+    "payment_method": [],
+    "lead_value": 10,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-escan-tower-132518592.html",
+    "rank_score": 34.84381103515625,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "664EGJVDGBTPFAS2QX4BK6XFP4",
+    "client": {
+     "id": "8479",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/8479/f08809b9-4b9b-4225-b88b-f342c03ef75a/260x200.jpg",
+     "name": "RAINE AND HORNE VACATION HOMES RENTAL L.L.C. ",
+     "address": "",
+     "email": "",
+     "phone": "",
+     "slug": "raine-horne-holiday-home-8605"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 2,
+   "aggregated_position": 2,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "85732627",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 12999,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "2 Bedroom  Stylish Fully Furnished Apartment",
+    "location": {
+     "id": "3146",
+     "full_name": "Marina Diamond 5, Marina Diamonds, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.081192016601562,
+      "lon": 55.14643478393555
+     },
+     "slug": "dubai-marina-marina-diamonds-marina-diamond-5",
+     "path": "1.50.720.3146",
+     "type": "TOWER",
+     "name": "Marina Diamond 5",
+     "path_name": "Dubai, Dubai Marina, Marina Diamonds",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/CSBSRPT35J6KA8YTM3WSJFBSPG/21ea5a17-667c-4bf6-b758-ec7789904d44/416x272.jpg",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/CSBSRPT35J6KA8YTM3WSJFBSPG/21ea5a17-667c-4bf6-b758-ec7789904d44/668x452.jpg",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/CSBSRPT35J6KA8YTM3WSJFBSPG/d580a958-634f-42a1-bbdf-3548bf6a6021/416x272.jpg",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/CSBSRPT35J6KA8YTM3WSJFBSPG/d580a958-634f-42a1-bbdf-3548bf6a6021/668x452.jpg",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/CSBSRPT35J6KA8YTM3WSJFBSPG/6dfec15f-a594-4242-baa8-8d1a8b2b3387/416x272.jpg",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/CSBSRPT35J6KA8YTM3WSJFBSPG/6dfec15f-a594-4242-baa8-8d1a8b2b3387/668x452.jpg",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "259993",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/259993/65c8ba62-b54c-4aef-8520-ece91a7026c9/400x400.jpg?v=f95ca69306b9157742bedb7e5bc7ceb8",
+     "is_super_agent": false,
+     "name": "Mohammed Hassan",
+     "user_id": 112851,
+     "email": "",
+     "languages": [
+      "English",
+      "Hindi",
+      "Urdu"
+     ],
+     "slug": "mohammed-hassan"
+    },
+    "broker": {
+     "id": "6264",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/6264/11b108a1-4b46-4ced-955f-dc94b85bf64f/260x200.jpg",
+     "name": "JSR Global Vacation Home Rentals LLC",
+     "address": "Office 410, Building Opal Tower, Business Bay, abraj street, Dubai, PO Box 1234",
+     "email": "sales@jsrgroup.ae",
+     "phone": "+971586317358",
+     "slug": "jsr-global-vacation-home-rentals-llc-6390"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1083,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-diamonds-marina-diamond-5-85732627.html",
+    "reference": "CSBSRPT35J6KA8YTM3WSJFBSPG",
+    "listed_date": "2026-05-06T07:06:23Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971586317358",
+      "link": "tel:+971586317358",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+CSBSRPT35J6KA8YTM3WSJFBSPG%0AType%3A+Apartment%0APrice%3A+12%2C999+AED%2Fmonth+%0ALocation%3A+Marina+Diamond+5+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F85732627%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 30,
+    "amenities": [
+     "BA",
+     "BW",
+     "AC",
+     "CP",
+     "SP",
+     "SE",
+     "CS",
+     "MS",
+     "LB"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 38.742737,
+    "rss": 38.742737,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "720",
+      "name": "Marina Diamonds",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-marina-marina-diamonds",
+      "slug_en": "dubai-marina-marina-diamonds",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "3146",
+      "name": "Marina Diamond 5",
+      "type": "TOWER",
+      "slug": "dubai-marina-marina-diamonds-marina-diamond-5",
+      "slug_en": "dubai-marina-marina-diamonds-marina-diamond-5",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "JSR Global Home Rentals takes immense pleasure in presenting this exceptional, fully furnished, well-equipped 2 Bedroom apartment located in the prestigious Diamond 5 Dubai Marina.\nDiscover the epitome of luxury living in this elegant 2-bedroom apartment in Dubai Marina. Boasting breathtaking waterfront views, this modern residence features spacious interiors, high-end finishes, and floor-to-ceiling windows. Enjoy world-class amenities including a state-of-the-art gym, swimming pool, and 24/7 concierge service. Perfectly located, you're just steps away from premier dining, shopping, and entertainment options. Experience the best of Dubai in this stunning apartment. Just a few steps to Tram and Metro Station and within a short walking distance to Marina Mall, Marina Walk and JBR beach.\nThe apartment is in a prime location, close to all major Malls, shops, bars and restaurants, entertainments for children and adults with free access to pool, gym, and outside BBQ.\n\nThe space.\n\nThis place is ideal for a small group of friends or family, couples, or business travelers.\n\n◆ 2 Bedroom\n◆ Fully air-conditioned\n◆ Flat screen Smart TV with basic channels.\n◆ Comfortable living area and excellent location\n◆ Free access to swimming pool, steam bath and sauna and gym\n◆ Outside BBQ near the swimming pool\n◆ 24/7 security and concierge service\n◆ Has Gas cooking facilities with a 4 ring gas cooker, cooking pots and pans are available\n◆ Can easily accommodate up to 4 adults or a family of 4\n◆ Free private parking space\n◆ Within a short walking distance to at least two 24/7 supermarkets\n◆ Public Transport (Dubai Tram and Dubai Metro) few minutes walk away\n\n\nGet in touch with us today to gather more details about this remarkable property and benefit from the expertise of our specialized agents.\n\n\n\nKindly take note: The price mentioned in the advertisement excludes a 10% Service Charge, 5% VAT, DTCM fee, and a security deposit required for reservations, all of which will be settled separat",
+    "amenity_names": [
+     "Balcony",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Covered Parking",
+     "Shared Pool",
+     "Security",
+     "Concierge",
+     "Maid Service",
+     "Lobby in Building"
+    ],
+    "payment_method": [],
+    "lead_value": 10,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-diamonds-marina-diamond-5-85732627.html",
+    "rank_score": 38.74273681640625,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "CSBSRPT35J6KA8YTM3WSJFBSPG",
+    "client": {
+     "id": "6264",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/6264/11b108a1-4b46-4ced-955f-dc94b85bf64f/260x200.jpg",
+     "name": "JSR Global Vacation Home Rentals LLC",
+     "address": "Office 410, Building Opal Tower, Business Bay, abraj street, Dubai, PO Box 1234",
+     "email": "sales@jsrgroup.ae",
+     "phone": "+971586317358",
+     "slug": "jsr-global-vacation-home-rentals-llc-6390"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 3,
+   "aggregated_position": 3,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "152355804",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13000,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Lovely Marina View | Charming | Great Facilities",
+    "location": {
+     "id": "8758",
+     "full_name": "Studio One, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.06861114501953,
+      "lon": 55.1287956237793
+     },
+     "slug": "dubai-marina-studio-one",
+     "path": "1.50.8758",
+     "type": "TOWER",
+     "name": "Studio One",
+     "path_name": "Dubai, Dubai Marina",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/NDA747VKWJ09FKE2GB6MJG5CRR/f624a069-d607-4f19-b31e-82d952eca14f/416x272.jpg?v=e8e2381d6eb7fdb637e96a8a2546ec0c",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/NDA747VKWJ09FKE2GB6MJG5CRR/f624a069-d607-4f19-b31e-82d952eca14f/668x452.jpg?v=0411c809e19c8ef65124ce0f6233e8e3",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/NDA747VKWJ09FKE2GB6MJG5CRR/97d3543a-b11c-41d5-b58e-cbc5d347f3b6/416x272.jpg?v=913d2aed619372b056260e4bad363c14",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/NDA747VKWJ09FKE2GB6MJG5CRR/97d3543a-b11c-41d5-b58e-cbc5d347f3b6/668x452.jpg?v=009922815a9200ea524a4e4ec0f794d5",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/NDA747VKWJ09FKE2GB6MJG5CRR/b2cde794-9936-4852-8ed8-c545c0aa53c9/416x272.jpg?v=e04e0847ce0660b3932e6b9e79e40916",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/NDA747VKWJ09FKE2GB6MJG5CRR/b2cde794-9936-4852-8ed8-c545c0aa53c9/668x452.jpg?v=1db7c8a6b01080f6a98d2b9ff4f360d5",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "309252",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/309252/fd101c27-b90d-403d-acff-4b1a7822460d/260x200.jpg?v=717b7cf38396fc1892e11fa7f737b6e3",
+     "is_super_agent": true,
+     "name": "Ritchie Azarcon",
+     "user_id": 148286,
+     "email": "",
+     "languages": [
+      "English",
+      "Tagalog"
+     ],
+     "slug": "ritchie-azarcon"
+    },
+    "broker": {
+     "id": "3496",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/3496/a3a56348-b9f4-49df-91f9-c1eade725f89/260x200.jpg",
+     "name": "haus & haus Holiday Rental",
+     "address": "Office R001, Building Building 7, Al Quoz, Emaar Gold & Diamond Park, Dubai, ",
+     "email": "emma.c@hausandhaus.com",
+     "phone": "+97143025800",
+     "slug": "haus-haus-holiday-rental-3622"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 834,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-studio-one-152355804.html",
+    "reference": "HH-R26-1905",
+    "listed_date": "2026-09-30T07:20:29Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+97143025800",
+      "link": "tel:+97143025800",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+HH-R26-1905%0AType%3A+Apartment%0APrice%3A+13%2C000+AED%2Fmonth+%0ALocation%3A+Studio+One+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F152355804%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 27,
+    "amenities": [
+     "BA",
+     "BW",
+     "AC",
+     "CP",
+     "BK",
+     "SE",
+     "LB",
+     "SY",
+     "SS",
+     "SP",
+     "VW"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 55.21918,
+    "rss": 55.21918,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "https://www.youtube.com/watch?v=cD2AvpbVuDA",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "8758",
+      "name": "Studio One",
+      "type": "TOWER",
+      "slug": "dubai-marina-studio-one",
+      "slug_en": "dubai-marina-studio-one",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "haus & haus holiday is pleased to offer this 2 Bedroom Apartment in Studio One situated in Dubai Marina, a bustling neighbourhood in Dubai.\n\nHighlights:\n• Lovely 2 Bedroom apartment suite\n• Cozy living space with plush seating and a smart TV\n• 1 Ensuite bathrooms, along with 1 guest toilet\n• Marina and Yacht Club view from the balcony\n• Well-appointed kitchen complete with quality appliances and utensils\n• Dining area with seating for 4 guests\n• Abundant built-in wardrobes and storage spaces\n• Access to beautiful pool and jacuzzi\n• Access to fully equipped gym\n• High-speed Wifi, iron, coffee maker, hairdryer, safe, toiletries, first-aid kit\n• Extra exit road on Al Seba Street in the direction of the intersection of Sheikh Zayed Road and Garn Al Sabkha Street\n\nWhat’s nearby (by car | by walk):\n• Near to Supermarket (a min walk)\n• Near to Beach (20 mins walk)\n• Near to Metro Station (16 mins walk)\n• Near to Marina Mall (26 mins walk)\n• Near to Burj Khalifa (20 mins drive)\n• Near to International Airport (30 mins drive)\n\nThings to know about Studio One:\n• Location - Well suited to young working professionals, Studio One is in the west end of Dubai Marina\n• Design - A 31-storey residential building, Studio One is made for busy millennials and young professionals who want to get the most out of the marina lifestyle\n• Features – Studio One offers full amenities and modern shopping and lifestyle destination for residents and visitors\n\nhaus & haus holiday provide personal check-ins for all guests and 24/7 customer support to make sure you have all the assistance you could need - a constant reminder that you are in good hands.\n\nImportant information:\n• Minimum rental of 3 nights applies\n• Prices will vary depending on season and availability\n• Tourism taxes are not included",
+    "amenity_names": [
+     "Balcony",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Covered Parking",
+     "Kitchen Appliances",
+     "Security",
+     "Lobby in Building",
+     "Shared Gym",
+     "Shared Spa",
+     "Shared Pool",
+     "View of Water"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-studio-one-152355804.html",
+    "rank_score": 55.219181060791016,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "NDA747VKWJ09FKE2GB6MJG5CRR",
+    "client": {
+     "id": "3496",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/3496/a3a56348-b9f4-49df-91f9-c1eade725f89/260x200.jpg",
+     "name": "haus & haus Holiday Rental",
+     "address": "Office R001, Building Building 7, Al Quoz, Emaar Gold & Diamond Park, Dubai, ",
+     "email": "emma.c@hausandhaus.com",
+     "phone": "+97143025800",
+     "slug": "haus-haus-holiday-rental-3622"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "price_change": 8,
+    "is_great_value": false,
+    "is_high_demand": true,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 4,
+   "aggregated_position": 4,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "11209399",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13000,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Spacious apartment with Sea View in Dubai Marina",
+    "location": {
+     "id": "3063",
+     "full_name": "Marina Arcade Tower, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.09013557434082,
+      "lon": 55.1503791809082
+     },
+     "slug": "dubai-marina-marina-arcade-tower",
+     "path": "1.50.3063",
+     "type": "TOWER",
+     "name": "Marina Arcade Tower",
+     "path_name": "Dubai, Dubai Marina",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/01JRT5GNBJ99ZN5ZE1ZW4HPE4J/ff597124-117e-45db-9d09-e3fb11002649/416x272.jpg",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/01JRT5GNBJ99ZN5ZE1ZW4HPE4J/ff597124-117e-45db-9d09-e3fb11002649/668x452.jpg",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/01JRT5GNBJ99ZN5ZE1ZW4HPE4J/112dfc88-0a8d-4ee9-90fe-faa8e5717bb7/416x272.jpg",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/01JRT5GNBJ99ZN5ZE1ZW4HPE4J/112dfc88-0a8d-4ee9-90fe-faa8e5717bb7/668x452.jpg",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/01JRT5GNBJ99ZN5ZE1ZW4HPE4J/83816f51-144a-492c-8c05-2c2f0d8dc5bb/416x272.jpg",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/01JRT5GNBJ99ZN5ZE1ZW4HPE4J/83816f51-144a-492c-8c05-2c2f0d8dc5bb/668x452.jpg",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "262909",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/262909/633105f4-7d36-4acc-9998-65e317e6ec99/260x200.jpg?v=b82bc733ef78a45affb7c220c4b96d10",
+     "is_super_agent": true,
+     "name": "Eissa Ahmed",
+     "user_id": 115456,
+     "email": "",
+     "languages": [
+      "English",
+      "Arabic"
+     ],
+     "slug": "eissa-ahmed"
+    },
+    "broker": {
+     "id": "4533",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4533/5cbf4b7b-01dd-4500-9fff-b5a3953ba3dd/260x200.jpg",
+     "name": "HASHTAG HOLIDAY HOME L.L.C",
+     "address": "Office -2101, Building B2B Tower, Downtown Dubai, Masari Drive, Dubai, PO Box 000",
+     "email": "anna@hashtag.ae",
+     "phone": "+971564023005",
+     "slug": "hashtag-holiday-home-l-l-c-4659"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "3",
+    "size": {
+     "value": 1598,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-arcade-tower-11209399.html",
+    "reference": "hashtagholidayhomellc-7875625",
+    "listed_date": "2024-09-04T07:02:28Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971564023005",
+      "link": "tel:+971564023005",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+hashtagholidayhomellc-7875625%0AType%3A+Apartment%0APrice%3A+13%2C000+AED%2Fmonth+%0ALocation%3A+Marina+Arcade+Tower+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F11209399%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 30,
+    "amenities": [
+     "MR",
+     "AC",
+     "BA",
+     "SP",
+     "SE",
+     "CS",
+     "CP",
+     "BW",
+     "BK",
+     "BL",
+     "SY",
+     "LB"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 53.9404,
+    "rss": 53.9404,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "3063",
+      "name": "Marina Arcade Tower",
+      "type": "TOWER",
+      "slug": "dubai-marina-marina-arcade-tower",
+      "slug_en": "dubai-marina-marina-arcade-tower",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "IMPORTANT — PLEASE READ BEFORE INQUIRING\n\nNO FIXED PRICES\n\nNO YEARLY RENTALS\n\nPlease keep this in mind before sending your inquiry.\n\nGuests will feel at home in this multi-functional 2-bedroom apartment by having everything needed for a comfortable stay. There is floor to ceiling windows which opens towards beautiful Dubai Marina views. The bedrooms are thoughtfully designed with high quality furniture and bed settings. The kitchen is fully equipped with all the appliances, refrigerator, dishwasher, microwave, oven, freezer, washing machine, waffle maker dishes/cutlery, kitchen utensils, coffee machine, toaster, kettle, vacuum. The property features modern bathroom filled with toiletries and storage facilities. The living room feels lush, vibrant, and cozy, with a large sofa, smart TV and dining area overseeing beautiful views of Marina. The soft sofa, artwork and coordinating cushions pull the living room together for a modern twist on a classic look. The guests can enjoy the spacious living room with a big dinning table fit for 6 people and an office corner , perfect for business travelers as well. The apartment is very cozy, spacious, and ready to move in, with all the appliances to ensure a smooth and perfect stay.\n\nProperty features:\n\n*Prime location\n*Dubai Marina views\n*Access to the pool and gym\n*Fresh linen and towels\n*Storage capacity\n*Office desk\n*Fully equipped kitchen and home appliances\n*Free parking spot \n*Study Table",
+    "amenity_names": [
+     "Maids Room",
+     "Central A/C",
+     "Balcony",
+     "Shared Pool",
+     "Security",
+     "Concierge",
+     "Covered Parking",
+     "Built in Wardrobes",
+     "Kitchen Appliances",
+     "View of Landmark",
+     "Shared Gym",
+     "Lobby in Building"
+    ],
+    "payment_method": [],
+    "lead_value": 10,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-arcade-tower-11209399.html",
+    "rank_score": 53.940399169921875,
+    "bedrooms_value": 2,
+    "bathrooms_value": 3,
+    "is_pf_exclusive": false,
+    "listing_id": "01JRT5GNBJ99ZN5ZE1ZW4HPE4J",
+    "client": {
+     "id": "4533",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/4533/5cbf4b7b-01dd-4500-9fff-b5a3953ba3dd/260x200.jpg",
+     "name": "HASHTAG HOLIDAY HOME L.L.C",
+     "address": "Office -2101, Building B2B Tower, Downtown Dubai, Masari Drive, Dubai, PO Box 000",
+     "email": "anna@hashtag.ae",
+     "phone": "+971564023005",
+     "slug": "hashtag-holiday-home-l-l-c-4659"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/b6074d547782e2a66e76a2eeeaa92fa6/523682d9-6603-4799-8278-ad045bcd6d35/watermarked.png",
+      "floor_number": 0,
+      "area": 1598,
+      "id": "Dubai_DubaiMarina_MarinaArcadeTower_2BD_03__14849"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 5,
+   "aggregated_position": 5,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "140131110",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13000,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Marina View | Fully Furnished | Fully Upgraded!",
+    "location": {
+     "id": "3027",
+     "full_name": "Escan Tower, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.0682373046875,
+      "lon": 55.13309860229492
+     },
+     "slug": "dubai-marina-escan-tower",
+     "path": "1.50.3027",
+     "type": "TOWER",
+     "name": "Escan Tower",
+     "path_name": "Dubai, Dubai Marina",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/GJAYYFSMRZNP91W5M82S87P1XG/acd36254-2f3a-4681-b69a-de18a7f4dad1/416x272.jpg?v=41e6831948fe08a8eab00d0a5d5ec5ac",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/GJAYYFSMRZNP91W5M82S87P1XG/acd36254-2f3a-4681-b69a-de18a7f4dad1/668x452.jpg?v=59b969f33893057cbab817190810c065",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/GJAYYFSMRZNP91W5M82S87P1XG/b1e5b05f-fb34-4149-b540-8af5caac176a/416x272.jpg?v=7c1ec572a3e0c52e75a73705a946c747",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/GJAYYFSMRZNP91W5M82S87P1XG/b1e5b05f-fb34-4149-b540-8af5caac176a/668x452.jpg?v=2e42220405c8ab5ebc4b7ee01fdf8f7c",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/GJAYYFSMRZNP91W5M82S87P1XG/9aeb9f52-8d7d-4e36-8432-9d6cb662914c/416x272.jpg?v=9741ac0e7b89896ddd713f08c63f8c22",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/GJAYYFSMRZNP91W5M82S87P1XG/9aeb9f52-8d7d-4e36-8432-9d6cb662914c/668x452.jpg?v=fd975403a4d3ae0fc12ee8c17a0d4562",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "313895",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/313895/200e377a-01de-41df-8764-1d9d445af09f/260x200.jpg?v=cae70a680da5637bda51a0ae2f481ebc",
+     "is_super_agent": true,
+     "name": "Muhammed  Javid",
+     "user_id": 0,
+     "email": "",
+     "languages": [
+      "English",
+      "Arabic",
+      "Hindi",
+      "Urdu",
+      "Malayalam",
+      "Telugu"
+     ],
+     "slug": "muhammed-javid"
+    },
+    "broker": {
+     "id": "10724",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/10724/dc7dc27a-5d69-4304-a1f8-2e9008842796/260x200.jpg",
+     "name": "T R P S VACATION HOMES RENTAL CO. L.L.C",
+     "address": "Office 1112, Building Park Lane Tower, Business Bay, ., Dubai, PO Box .",
+     "email": "info@trps.com",
+     "phone": "+971524049287",
+     "slug": "t-r-p-s-vacation-homes-rental-co-l-l-c-10850"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1187,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-escan-tower-140131110.html",
+    "reference": "GJAYYFSMRZNP91W5M82S87P1XG",
+    "listed_date": "2026-09-04T06:44:03Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971524049287",
+      "link": "tel:+971524049287",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+GJAYYFSMRZNP91W5M82S87P1XG%0AType%3A+Apartment%0APrice%3A+13%2C000+AED%2Fmonth+%0ALocation%3A+Escan+Tower+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F140131110%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 29,
+    "amenities": [
+     "BA",
+     "BW",
+     "AC",
+     "CP",
+     "BK",
+     "SP",
+     "VW",
+     "SE",
+     "SY",
+     "PR",
+     "LB",
+     "CO"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 52.723297,
+    "rss": 52.723297,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "3027",
+      "name": "Escan Tower",
+      "type": "TOWER",
+      "slug": "dubai-marina-escan-tower",
+      "slug_en": "dubai-marina-escan-tower",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "**THE ADVERTISED RATE IS APPLICABLE ONLY FOR MOVE-INS ON OR BEFORE THE 15TH OF THE CURRENT MONTH.**\t\t\n\n\t\t\t\t\t\nWelcome to a residence that offers comfort, style, and an exceptional waterfront lifestyle. This beautifully appointed 2-bedroom apartment in Escan Tower is set in the heart of Dubai Marina, offering a stunning Marina view and a fully furnished interior designed for modern urban living. Ready to move in, this home combines practicality, elegance, and convenience in one of Dubai’s most vibrant communities.\n\nProperty Details\n\n* Location: Escan Tower, Dubai Marina\n* Type: 2 Bedroom Apartment\n* Furnishing: Fully Furnished\n* View: Marina View\n* Status: Ready to Move In\n\nBuilding & Community Amenities\n\nResidents of Escan Tower enjoy access to a range of lifestyle amenities, including:\n\n* Swimming pool\n* Fully equipped gym\n* High-speed elevators\n* 24/7 security\n* Covered parking\n* Welcoming lobby area\n* Easy access to retail and dining outlets\n\nPrime Marina Location\n\nLocated in one of Dubai’s most desirable waterfront communities, the apartment offers convenient access to:\n\n* Dubai Marina Walk\n* JBR Beach\n* Marina Mall\n* Restaurants, cafés, and supermarkets\n* DMCC Metro Station\n* Sheikh Zayed Road\n* Bluewaters Island\n* Key business and leisure destinations across Dubai\n\nA Home That Completes the Marina Lifestyle\n\nWhether you are searching for a stylish new home or a smart investment, this fully furnished 2-bedroom apartment in Escan Tower presents an excellent opportunity in the heart of Dubai Marina. With its beautiful marina view, generous layout, and vibrant location, it offers the perfect balance of lifestyle and value.\n\nA prime location. A furnished home. A view to enjoy every day.\n\n\"Important Information\n\nThe refundable security deposit, agency fee, VAT, and Tourism Dirham fee are not included in the advertised rental rate.\nRental rates are subject to seasonal variations and may change depending on the period of stay.\"",
+    "amenity_names": [
+     "Balcony",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Covered Parking",
+     "Kitchen Appliances",
+     "Shared Pool",
+     "View of Water",
+     "Security",
+     "Shared Gym",
+     "Children's Play Area",
+     "Lobby in Building",
+     "Children's Pool"
+    ],
+    "payment_method": [],
+    "lead_value": 10,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-escan-tower-140131110.html",
+    "rank_score": 52.723297119140625,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "GJAYYFSMRZNP91W5M82S87P1XG",
+    "client": {
+     "id": "10724",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/10724/dc7dc27a-5d69-4304-a1f8-2e9008842796/260x200.jpg",
+     "name": "T R P S VACATION HOMES RENTAL CO. L.L.C",
+     "address": "Office 1112, Building Park Lane Tower, Business Bay, ., Dubai, PO Box .",
+     "email": "info@trps.com",
+     "phone": "+971524049287",
+     "slug": "t-r-p-s-vacation-homes-rental-co-l-l-c-10850"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "price_change": -10,
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": true
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 6,
+   "aggregated_position": 6,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "141917004",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13000,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "2 BR Apartment with Water Views in Dubai Marina",
+    "location": {
+     "id": "718",
+     "full_name": "Al Sahab, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.075645446777344,
+      "lon": 55.135379791259766
+     },
+     "slug": "dubai-marina-al-sahab",
+     "path": "1.50.718",
+     "type": "SUBCOMMUNITY",
+     "name": "Al Sahab",
+     "path_name": "Dubai, Dubai Marina",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JVTJ06EZ79XXPVY5TJYKRNTD88/9383d263-fe47-4df4-bf18-b151fc80b892/416x272.jpg?v=4c562f18a5d0ec2a1f4eb0cd553d9ac2",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JVTJ06EZ79XXPVY5TJYKRNTD88/9383d263-fe47-4df4-bf18-b151fc80b892/668x452.jpg?v=2885fb0a35ee3a0d99293474728b072f",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JVTJ06EZ79XXPVY5TJYKRNTD88/e750714d-4c6b-4893-8d0c-50cf23dc310a/416x272.jpg?v=8af45cab40d8d493bb2b41014f16c25a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JVTJ06EZ79XXPVY5TJYKRNTD88/e750714d-4c6b-4893-8d0c-50cf23dc310a/668x452.jpg?v=cf4355847bac365bdbe8820eee0832ea",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/JVTJ06EZ79XXPVY5TJYKRNTD88/8f19247b-ce78-411a-8fd6-2a9c51f584e5/416x272.jpg?v=0528f6e5be1c5b2f1324f4572320eb7e",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/JVTJ06EZ79XXPVY5TJYKRNTD88/8f19247b-ce78-411a-8fd6-2a9c51f584e5/668x452.jpg?v=cfb1ebd3ae6c1ee6a99a304e9d0db464",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "160827",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/160827/952f56da-ffbe-4265-97c5-07685ee4b5aa/260x200.jpg?v=46c6e2a7059cb99d7e93284e33a5c413",
+     "is_super_agent": false,
+     "name": "Rwaida Morcel",
+     "user_id": 31488,
+     "email": "",
+     "languages": [
+      "English",
+      "Arabic",
+      "French",
+      "Italian"
+     ],
+     "slug": "rwaida-morcel"
+    },
+    "broker": {
+     "id": "1563",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/1563/d071ee74-ea8f-4c4d-a64f-d1732cf33037/260x200.jpg",
+     "name": "Keys Please Holiday Homes Rental",
+     "address": "Office 9C7, Building I-Rise Tower, Barsha Heights (Tecom), Tecom, Dubai, PO Box 211169",
+     "email": "info@keysplease.ae",
+     "phone": "+971528116111",
+     "slug": "keys-please-holiday-homes-rental-1671"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1350,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-al-sahab-141917004.html",
+    "reference": "JVTJ06EZ79XXPVY5TJYKRNTD88",
+    "listed_date": "2026-09-08T11:17:26Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971528116111",
+      "link": "tel:+971528116111",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+JVTJ06EZ79XXPVY5TJYKRNTD88%0AType%3A+Apartment%0APrice%3A+13%2C000+AED%2Fmonth+%0ALocation%3A+Al+Sahab+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F141917004%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 25,
+    "amenities": [
+     "BA",
+     "BW",
+     "CP",
+     "BK",
+     "PA",
+     "SP",
+     "VW",
+     "SE",
+     "CS",
+     "SY",
+     "MS",
+     "WC",
+     "BL",
+     "PR",
+     "LB",
+     "CO"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 32.70916,
+    "rss": 32.70916,
+    "qs": 85,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "718",
+      "name": "Al Sahab",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-marina-al-sahab",
+      "slug_en": "dubai-marina-al-sahab",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "This 1,350 sqft apartment in Dubai Marina provides a direct view of the water and local landmarks. The layout includes two bedrooms and two bathrooms, offering a comfortable living environment for those seeking a residence in this high-rise district.\n\nThe interior comes fully furnished, allowing for an immediate move-in experience. The living area connects to a private balcony, which serves as a practical space for outdoor relaxation. The kitchen is equipped with essential appliances, while the bedrooms feature built-in wardrobes and a walk-in closet for organized storage. With two dedicated parking slots included, the unit supports a convenient daily routine. The floor plan is designed to maximize the available square footage, ensuring each room remains functional and easy to navigate.\n\nThe building provides a range of practical amenities for residents:\n- Balcony\n- Built-in wardrobes\n- Covered parking\n- Kitchen appliances\n- Pets allowed\n- Shared pool\n- Security\n- Concierge\n- Shared gym\n- Maid service\n- Walk-in closet\n- Children's play area\n- Lobby in building\n- Children's pool\n\nSituated in the heart of Dubai Marina, this home is positioned near the Dubai Marina Walk and various dining options like Baker And Spice Restaurant. Residents have easy access to local grocery stores such as Carrefour Market and nearby medical facilities including Nucleus Clinic.\n\nOffered at 170,000 AED annually. Contact us to schedule a viewing.",
+    "amenity_names": [
+     "Balcony",
+     "Built in Wardrobes",
+     "Covered Parking",
+     "Kitchen Appliances",
+     "Pets Allowed",
+     "Shared Pool",
+     "View of Water",
+     "Security",
+     "Concierge",
+     "Shared Gym",
+     "Maid Service",
+     "Walk-in Closet",
+     "View of Landmark",
+     "Children's Play Area",
+     "Lobby in Building",
+     "Children's Pool"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-al-sahab-141917004.html",
+    "rank_score": 32.70915985107422,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "JVTJ06EZ79XXPVY5TJYKRNTD88",
+    "client": {
+     "id": "1563",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/1563/d071ee74-ea8f-4c4d-a64f-d1732cf33037/260x200.jpg",
+     "name": "Keys Please Holiday Homes Rental",
+     "address": "Office 9C7, Building I-Rise Tower, Barsha Heights (Tecom), Tecom, Dubai, PO Box 211169",
+     "email": "info@keysplease.ae",
+     "phone": "+971528116111",
+     "slug": "keys-please-holiday-homes-rental-1671"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 7,
+   "aggregated_position": 7,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "169284064",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13399,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Spacious layout | Prime Marina location | Bright",
+    "location": {
+     "id": "3159",
+     "full_name": "Marina View Tower A, Marina View, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.079057693481445,
+      "lon": 55.14238357543945
+     },
+     "slug": "dubai-marina-marina-view-marina-view-tower-a",
+     "path": "1.50.723.3159",
+     "type": "TOWER",
+     "name": "Marina View Tower A",
+     "path_name": "Dubai, Dubai Marina, Marina View",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YV03CB1B2AKAR80NEEHG8P33JC/5ae79f77-4586-4f2d-9546-26e01486d8aa/416x272.jpg?v=c03a2a88c606cdcce703b6637b7ab9e5",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YV03CB1B2AKAR80NEEHG8P33JC/5ae79f77-4586-4f2d-9546-26e01486d8aa/668x452.jpg?v=624b0620c1f8d2848e547cbd8dbb1cbb",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YV03CB1B2AKAR80NEEHG8P33JC/2626dbad-ca6e-4401-a704-adb5861c98b8/416x272.jpg?v=4705a7b662396cd6bd1f3f8bf1a17ee9",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YV03CB1B2AKAR80NEEHG8P33JC/2626dbad-ca6e-4401-a704-adb5861c98b8/668x452.jpg?v=e518eab8a110e7e06ec2e9dc805d6300",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/YV03CB1B2AKAR80NEEHG8P33JC/eb8e2fd1-d432-4f43-a419-bf5304ab7eb3/416x272.jpg?v=3490d7a6710af5457688be19bdb9de56",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/YV03CB1B2AKAR80NEEHG8P33JC/eb8e2fd1-d432-4f43-a419-bf5304ab7eb3/668x452.jpg?v=2f5ffc84c7f02ecd97eeba2a6231593f",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "312528",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/312528/5243cbd6-28c3-40eb-9abd-a70abf3550f3/260x200.jpg?v=263a21254f0e492363f6588e040ba7a0",
+     "is_super_agent": false,
+     "name": "Ilnara Muzafiarova",
+     "user_id": 149278,
+     "email": "",
+     "languages": [
+      "English",
+      "Russian"
+     ],
+     "slug": "ilnara-muzafiarova"
+    },
+    "broker": {
+     "id": "5899",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/5899/d436b408-6975-45d0-b5dd-8f0058002de2/260x200.jpg",
+     "name": "Colife Vacation Homes LLC",
+     "address": "Office 6, Building Bahar, Jumeirah Beach Residence, Port Saeed, Dubai, ",
+     "email": "info@colife.ae",
+     "phone": "+971509257735",
+     "slug": "colife-vacation-homes-llc-6025"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 953,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-view-marina-view-tower-a-169284064.html",
+    "reference": "40.1",
+    "listed_date": "2026-11-05T14:45:24Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971509257735",
+      "link": "tel:+971509257735",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+40.1%0AType%3A+Apartment%0APrice%3A+13%2C399+AED%2Fmonth+%0ALocation%3A+Marina+View+Tower+A+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F169284064%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 15,
+    "amenities": [
+     "BA",
+     "BW",
+     "AC",
+     "BK",
+     "SP",
+     "SY",
+     "WC",
+     "VW"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 55.619427,
+    "rss": 55.619427,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "723",
+      "name": "Marina View",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-marina-marina-view",
+      "slug_en": "dubai-marina-marina-view",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "3159",
+      "name": "Marina View Tower A",
+      "type": "TOWER",
+      "slug": "dubai-marina-marina-view-marina-view-tower-a",
+      "slug_en": "dubai-marina-marina-view-marina-view-tower-a",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "*The price shown is for a one-month rental and includes a 10% discount. Contact us for more information.\n\n953 sqft, 6 floor\nSpacious layout | Prime Marina location | Bright interiors\n\nAll included!\n• DEWA, chiller, Wi-Fi\n• Maintenance\n• Tenant support\n*bills included if rented for less then a year\n\nApartment is fully-furnished!\n• 2 bedrooms\n• Living & dining area\n• Kitchen\n• 2 bathrooms\n• Balcony\n\nBuilding Amenities:\n• Swimming pool\n• Fully equipped gym\n• Sauna & steam rooms\n• Kids’ play area\n• 24/7 security & concierge service\n• Covered parking\n• High-speed elevators\n\nCommunity & Nearby (Dubai Marina):\n• Marina Walk – 2–3 min walk\n• DMCC Metro Station – 5–7 min walk\n• Dubai Marina Mall – 5–7 min walk\n• JBR Beach – 8–10 min walk\n• Bluewaters Island – 8–10 min drive\n• Mall of the Emirates – 15–18 min drive\n• Downtown Dubai / Burj Khalifa – 20–22 min drive\n\nAirports:\n• Dubai International Airport (DXB) – 25–30 min\n• Al Maktoum International Airport (DWC) – 30–35 min",
+    "amenity_names": [
+     "Balcony",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Kitchen Appliances",
+     "Shared Pool",
+     "Shared Gym",
+     "Walk-in Closet",
+     "View of Water"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-view-marina-view-tower-a-169284064.html",
+    "rank_score": 55.61942672729492,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "YV03CB1B2AKAR80NEEHG8P33JC",
+    "client": {
+     "id": "5899",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/5899/d436b408-6975-45d0-b5dd-8f0058002de2/260x200.jpg",
+     "name": "Colife Vacation Homes LLC",
+     "address": "Office 6, Building Bahar, Jumeirah Beach Residence, Port Saeed, Dubai, ",
+     "email": "info@colife.ae",
+     "phone": "+971509257735",
+     "slug": "colife-vacation-homes-llc-6025"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/bedbdcba62feb1507db9caff091a111c/0bfad432-fa35-4722-b9fe-b8ba67b9a437/watermarked.png",
+      "floor_number": 0,
+      "area": 953,
+      "id": "Dubai_DubaiMarina_MarinaViewTowerA_2BD_01__8854"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "number_of_cheques": 12,
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 8,
+   "aggregated_position": 8,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "150461194",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13500,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Magnificent Two Bedroom Beachfront",
+    "location": {
+     "id": "3163",
+     "full_name": "Marina Wharf 2, Marina Wharf, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.07239532470703,
+      "lon": 55.13238525390625
+     },
+     "slug": "dubai-marina-marina-wharf-marina-wharf-2",
+     "path": "1.50.724.3163",
+     "type": "TOWER",
+     "name": "Marina Wharf 2",
+     "path_name": "Dubai, Dubai Marina, Marina Wharf",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/Y9M5X2PH65G508YAG6ZFC0FWTW/58032a22-785c-4489-a456-17a0cb5a5388/416x272.jpg?v=abd54d949cae56112ee4c73e941b0fb2",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/Y9M5X2PH65G508YAG6ZFC0FWTW/58032a22-785c-4489-a456-17a0cb5a5388/668x452.jpg?v=d3a9995bb4dd2f0ea41625b9bf34ecfe",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/Y9M5X2PH65G508YAG6ZFC0FWTW/991abfac-d851-46ae-9a1b-56b55a6ea0c8/416x272.jpg?v=720884f5693df06dfa21ab4e220aa0cf",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/Y9M5X2PH65G508YAG6ZFC0FWTW/991abfac-d851-46ae-9a1b-56b55a6ea0c8/668x452.jpg?v=5df3f8d9ea1123f3d2d0335e225f639d",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/Y9M5X2PH65G508YAG6ZFC0FWTW/3f5a99b8-c54a-41e0-83d5-924573935902/416x272.jpg?v=74fdfd6979564df89812dca8003b3cd9",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/Y9M5X2PH65G508YAG6ZFC0FWTW/3f5a99b8-c54a-41e0-83d5-924573935902/668x452.jpg?v=ce45df81923686f8402ae1c55d9ef227",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "112151",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/112151/420328fe-a066-477c-a468-4f49d592b862/260x200.jpg?v=61bafc40417ee5d9ecab288749a4d9cf",
+     "is_super_agent": false,
+     "name": "Key One Holiday Homes",
+     "user_id": 10219,
+     "email": "",
+     "languages": [
+      "English"
+     ],
+     "slug": "key-one-holiday-homes"
+    },
+    "broker": {
+     "id": "3982",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/3982/cb9ec8ce-c0ff-4f66-b676-ddf46f9018a3/260x200.jpg",
+     "name": "Key One Holiday Homes",
+     "address": "Office 908, Building Tameem House, Barsha Heights (Tecom), Dubai, ",
+     "email": "ceo@keyone.com",
+     "phone": "+971563311944",
+     "slug": "key-one-holiday-homes-4108"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 759,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-wharf-marina-wharf-2-150461194.html",
+    "reference": "Y9M5MW1004",
+    "listed_date": "2026-09-26T05:41:12Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+971563311944",
+      "link": "tel:+971563311944",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+Y9M5MW1004%0AType%3A+Apartment%0APrice%3A+13%2C500+AED%2Fmonth+%0ALocation%3A+Marina+Wharf+2+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F150461194%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 30,
+    "amenities": [
+     "BA",
+     "BW",
+     "AC",
+     "CP",
+     "BK",
+     "SP",
+     "VW",
+     "SE",
+     "CS",
+     "SY",
+     "BL",
+     "PR",
+     "LB",
+     "CO"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 41.37516,
+    "rss": 41.37516,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "724",
+      "name": "Marina Wharf",
+      "type": "SUBCOMMUNITY",
+      "slug": "dubai-marina-marina-wharf",
+      "slug_en": "dubai-marina-marina-wharf",
+      "level": "2",
+      "insights_url": ""
+     },
+     {
+      "id": "3163",
+      "name": "Marina Wharf 2",
+      "type": "TOWER",
+      "slug": "dubai-marina-marina-wharf-marina-wharf-2",
+      "slug_en": "dubai-marina-marina-wharf-marina-wharf-2",
+      "level": "3",
+      "insights_url": ""
+     }
+    ],
+    "description": "Experience the perfect fusion of urban luxury and seaside serenity in this fully furnished 2-bedroom apartment just steps from JBR Beach. With contemporary interiors, panoramic marina and beach views, and access to an incredible array of on-site amenities, this is your ultimate Dubai getaway.\n\nThe Space\n• 2 Bedrooms | 2 Bathrooms\n• Spacious living room with 55” Smart TV (200+ channels)\n• Fully equipped kitchen with modern appliances, crockery & cutlery\n• Private balcony with stunning JBR beach views\n• 250mbps high-speed WiFi\n• Fresh linens, plush towels & hotel-style toiletries\n• One dedicated covered parking space\n• Fully furnished with warm, modern décor\n\nApartment Amenities\n• Central A/C\n• Full-sized Fridge\n• Microwave, Toaster, Kettle\n• Nespresso Machine\n• Dishwasher\n• Washing Machine\n• Crockery & Cutlery\n• Iron, Ironing Board, Hair Dryer\n\nBuilding Facilities\n• 24/7 Security & Concierge\n• Outdoor Swimming Pool (Adults & Kids)\n• State-of-the-Art Gym\n• Sauna, Steam Room & Spa\n• Podium Garden with Jogging Track\n• Speed Ball Court, Squash Court & Bowling Alley\n• Billiards Room\n• High-Speed Elevators\n• On-site Supermarket, Dining Outlets & Retail Stores\n\nNearby Attractions:\n• 5 min walk – Supermarkets & Bars\n• 10 min walk – JBR Beach, Restaurants & Sheikh Zayed Road\n• 10 min walk – DMCC Metro Station\n• 20 min walk – Marina Mall\n• 20 min drive – Dubai Mall, Downtown & Business Bay\n• 25 min drive – Dubai International Airport\n\nGuest Interaction\nA dedicated guest relations officer will assist you throughout your stay to ensure comfort and memorable experiences. Fresh bed linens, towels, and toiletries are provided upon arrival. Additional cleaning and linen changes can be arranged upon request (for an extra cost).\n\nNote: The short-term rental price is subject to seasonal change and includes all utility bills (DEWA, WiFi, chiller, and gas). Additional charges apply for taxes, fees, and a refundable security deposit.",
+    "amenity_names": [
+     "Balcony",
+     "Built in Wardrobes",
+     "Central A/C",
+     "Covered Parking",
+     "Kitchen Appliances",
+     "Shared Pool",
+     "View of Water",
+     "Security",
+     "Concierge",
+     "Shared Gym",
+     "View of Landmark",
+     "Children's Play Area",
+     "Lobby in Building",
+     "Children's Pool"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-wharf-marina-wharf-2-150461194.html",
+    "rank_score": 41.375160217285156,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "Y9M5X2PH65G508YAG6ZFC0FWTW",
+    "client": {
+     "id": "3982",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/3982/cb9ec8ce-c0ff-4f66-b676-ddf46f9018a3/260x200.jpg",
+     "name": "Key One Holiday Homes",
+     "address": "Office 908, Building Tameem House, Barsha Heights (Tecom), Dubai, ",
+     "email": "ceo@keyone.com",
+     "phone": "+971563311944",
+     "slug": "key-one-holiday-homes-4108"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/938872ec3797b1d709f93b2f70d0a686/5d0c8db9-d3d0-479e-a0c7-f3b21649cc71/watermarked.png",
+      "floor_number": 0,
+      "area": 759,
+      "id": "Dubai_DubaiMarina_MarinaWharf2_2BD_01__7053"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "price_change": 13,
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 9,
+   "aggregated_position": 9,
+   "project_expert": null
+  },
+  {
+   "listing_type": "property",
+   "property": {
+    "id": "51000071",
+    "category_id": 2,
+    "property_type": "Apartment",
+    "price": {
+     "value": 13500,
+     "currency": "AED",
+     "period": "monthly",
+     "is_hidden": false
+    },
+    "title": "Modern & Bright | Expansive 2-Bedroom",
+    "location": {
+     "id": "3094",
+     "full_name": "The Torch, Dubai Marina, Dubai",
+     "coordinates": {
+      "lat": 25.088132858276367,
+      "lon": 55.14760971069336
+     },
+     "slug": "dubai-marina-the-torch",
+     "path": "1.50.3094",
+     "type": "TOWER",
+     "name": "The Torch",
+     "path_name": "Dubai, Dubai Marina",
+     "insights_url": ""
+    },
+    "images": [
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/01K60R48P3Z905RRW8WJTJDJ7A/64693566-04e0-4dda-b972-ade3301c121a/416x272.jpg?v=8b0c1f13dac4dd72f89842fd46334081",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/01K60R48P3Z905RRW8WJTJDJ7A/64693566-04e0-4dda-b972-ade3301c121a/668x452.jpg?v=d9377a4048bd67e5be711229c42bfe34",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/01K60R48P3Z905RRW8WJTJDJ7A/ec26ba16-d889-447f-83ea-0e40389095dc/416x272.jpg?v=2adc60eb278c52485e0d7ce31d2b6c81",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/01K60R48P3Z905RRW8WJTJDJ7A/ec26ba16-d889-447f-83ea-0e40389095dc/668x452.jpg?v=20814ebc33d0abfe5492fc433170c1ef",
+      "classification_label": ""
+     },
+     {
+      "small": "https://static.shared.propertyfinder.ae/media/images/listing/01K60R48P3Z905RRW8WJTJDJ7A/06e55305-99a9-4cb8-a0f3-c89e40e26ee3/416x272.jpg?v=704cbd731119166052a3d45511b0670a",
+      "medium": "https://static.shared.propertyfinder.ae/media/images/listing/01K60R48P3Z905RRW8WJTJDJ7A/06e55305-99a9-4cb8-a0f3-c89e40e26ee3/668x452.jpg?v=8408559412a0780177fd68a73642aa59",
+      "classification_label": ""
+     }
+    ],
+    "agent": {
+     "id": "324152",
+     "image": "https://static.shared.propertyfinder.ae/media/images/agent_image/324152/76c490bc-6d16-4e92-986b-3f59cd6ab431/260x200.jpg?v=cb594f071b1a4daa942f7b46cd51735d",
+     "is_super_agent": false,
+     "name": "Francis David",
+     "user_id": 122587,
+     "email": "",
+     "languages": [
+      "English",
+      "Tagalog"
+     ],
+     "slug": "francis-david"
+    },
+    "broker": {
+     "id": "9036",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/9036/6581028f-6618-4691-9ceb-a200aebc8fc2/260x200.jpg",
+     "name": "Exclusive Links - Holiday Homes",
+     "address": "",
+     "email": "",
+     "phone": "",
+     "slug": "exclusive-links-holiday-homes-9162"
+    },
+    "is_verified": false,
+    "is_direct_from_developer": false,
+    "is_new_construction": false,
+    "is_available": true,
+    "is_featured": false,
+    "is_premium": false,
+    "is_new_insert": false,
+    "utilities_price_type": "notSelected",
+    "live_viewing": null,
+    "is_community_expert": false,
+    "is_cts": false,
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "size": {
+     "value": 1198,
+     "unit": "sqft"
+    },
+    "share_url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-the-torch-2Ok7tqHYRBg.html",
+    "reference": "VHDM-R-58831",
+    "listed_date": "2026-01-20T10:32:02Z",
+    "last_refreshed_at": null,
+    "contact_options": [
+     {
+      "type": "email",
+      "value": "",
+      "link": "mailto:",
+      "is_did": false
+     },
+     {
+      "type": "phone",
+      "value": "+0000000000",
+      "link": "tel:+0000000000",
+      "is_did": false
+     },
+     {
+      "type": "whatsapp",
+      "value": "+97145560345",
+      "link": "https://api.whatsapp.com/send?phone=+97145560345&text=Hello%2C%0AI+would+like+to+get+more+information+about+this+property%3A+%0A+%0AReference%3A+VHDM-R-58831%0AType%3A+Apartment%0APrice%3A+13%2C500+AED%2Fmonth+%0ALocation%3A+The+Torch+%0ALink%3A+https%3A%2F%2Fwww.propertyfinder.ae%2Fto%2F51000071%2Fen+%0A+%0AAny+changes+made+to+this+message+will+result+in+the+enquiry+not+being+sent+to+the+agent.",
+      "is_did": false
+     }
+    ],
+    "images_count": 24,
+    "amenities": [
+     "BA",
+     "SP",
+     "SS",
+     "SY",
+     "SE",
+     "CP"
+    ],
+    "completion_status": "",
+    "furnished": "YES",
+    "property_type_id": 1,
+    "has_view_360": false,
+    "rsp": 36.549294,
+    "rss": 36.549294,
+    "qs": 95,
+    "is_exclusive": false,
+    "is_broker_project_property": false,
+    "rera": "",
+    "offering_type": "Residential for Rent",
+    "video_url": "https://youtu.be/_-dR3UTRTUk",
+    "is_smart_ad": false,
+    "is_spotlight_listing": false,
+    "is_claimed_by_agent": false,
+    "is_under_offer_by_competitor": false,
+    "listing_level": "standard",
+    "listing_level_label": "standard",
+    "location_tree": [
+     {
+      "id": "1",
+      "name": "Dubai",
+      "type": "CITY",
+      "slug": "dubai",
+      "slug_en": "dubai",
+      "level": "0",
+      "insights_url": ""
+     },
+     {
+      "id": "50",
+      "name": "Dubai Marina",
+      "type": "COMMUNITY",
+      "slug": "dubai-marina",
+      "slug_en": "dubai-marina",
+      "level": "1",
+      "insights_url": ""
+     },
+     {
+      "id": "3094",
+      "name": "The Torch",
+      "type": "TOWER",
+      "slug": "dubai-marina-the-torch",
+      "slug_en": "dubai-marina-the-torch",
+      "level": "2",
+      "insights_url": ""
+     }
+    ],
+    "description": "This apartment offers breathtaking Marina views, an open-plan living and dining area, and two upgraded bedrooms with built-in wardrobes. Ideal for both business and leisure stays, it accommodates up to 4 adults with a minimum stay of 2 nights.\nSeasonal pricing applies-please ask for a quote.\nKey Features: Room Configuration: Bedroom 1: Queen-size bed with ensuite Bedroom 2: Two twin beds with ensuite Hybrid bathtub/shower bathrooms, balcony, fully equipped kitchen Wi-Fi, towels, essentials, and self-parking Guest Access: Check-in: 4:00 PM (self-check-in available) Check-out: 11:00 AM (self-check-out or assisted inspection) Note: Valid ID (passport or Emirates ID) required before check-in per DTCM regulations. Additional Features: Optional housekeeping services (extra fees apply) Convenient location near Sheikh Zayed Road, metro stations, and tram services Amenities: sauna, spa, pool, gym, secure parking, 24-hour security, concierge, children's play area, and BBQ deck Note: Availability and pricing vary by season. Contact us for details.\nWhy Stay With Us? Exclusive Links Vacation Homes offers premium accommodations, hotel-quality amenities, and 24/7 virtual support for a seamless stay. Choose from contact-free or assisted check-in options.\nContact us today for pricing, availability, or bookings!\nDTCM Permit Number: MAR-TOR-7WRMM",
+    "amenity_names": [
+     "Balcony",
+     "Shared Pool",
+     "Shared Spa",
+     "Shared Gym",
+     "Security",
+     "Covered Parking"
+    ],
+    "payment_method": [],
+    "lead_value": 1000,
+    "details_path": "/en/plp/rent/apartment-for-rent-dubai-dubai-marina-the-torch-2Ok7tqHYRBg.html",
+    "rank_score": 36.549293518066406,
+    "bedrooms_value": 2,
+    "bathrooms_value": 2,
+    "is_pf_exclusive": false,
+    "listing_id": "01K60R48P3Z905RRW8WJTJDJ7A",
+    "client": {
+     "id": "9036",
+     "logo": "https://static.shared.propertyfinder.ae/media/images/client_logos/9036/6581028f-6618-4691-9ceb-a200aebc8fc2/260x200.jpg",
+     "name": "Exclusive Links - Holiday Homes",
+     "address": "",
+     "email": "",
+     "phone": "",
+     "slug": "exclusive-links-holiday-homes-9162"
+    },
+    "is_fhm": false,
+    "travel_time_tags": [],
+    "floor_plans": [
+     {
+      "unit_number": "",
+      "dimension": "2d",
+      "image_url": "https://static.shared.propertyfinder.ae/media/images/floorplan/f7868d11685fafcb7a09384124b02ddf/bed77ff0-f6c4-4100-ab69-f2b97eef2849/watermarked.png",
+      "floor_number": 0,
+      "area": 1198,
+      "gltf_url": "https://propertyfinder.floorplan.aixsolutions.ai/gltf/?id=c2f5b620-cdac-40a6-ab49-5ea2a7266c11",
+      "id": "Dubai_DubaiMarina_The Torch_2BD_01__11134"
+     }
+    ],
+    "mortgage_cashback": 0,
+    "price_per_area": null,
+    "view_360": "",
+    "is_upgraded": false,
+    "is_extended": false,
+    "is_landscaped": false,
+    "rnpm": {
+     "enabled": false
+    },
+    "is_great_value": false,
+    "is_high_demand": false,
+    "is_luxe": false,
+    "rooms": null,
+    "rooms_value": null,
+    "is_price_drop": false
+   },
+   "project": null,
+   "project_carousel": [],
+   "project_unit": null,
+   "project_recommendation": null,
+   "position": 10,
+   "aggregated_position": 10,
+   "project_expert": null
+  }
+ ],
+ "similar_listings": [],
+ "meta": {
+  "page": 1,
+  "total_count": 170,
+  "new_properties_count": 3,
+  "per_page": 10,
+  "page_count": 17,
+  "min_max_price": {
+   "min": 10000,
+   "max": 45000
+  },
+  "location_tree": []
+ },
+ "filter_errors": []
+}

@@ -1,0 +1,194 @@
+{
+ "items": [
+  {
+   "alias": null,
+   "id": "8216",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 141,
+    "coordinates": {
+     "lat": 24,
+     "lon": 24
+    },
+    "current_language_slug": "riyadh",
+    "floors": 0,
+    "id": 8216,
+    "image_token": "",
+    "images": [],
+    "insights_url": "",
+    "is_community_insights_visible": false,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 1,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "CITY",
+    "name": "Riyadh",
+    "path": "4.8216",
+    "path_name": "Ar Riyadh",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 0,
+     "score": 0,
+     "url": ""
+    },
+    "top_location_id": null,
+    "url_city_slug": "الرياض",
+    "url_city_slug_value": {
+     "ar": "الرياض",
+     "en": "ar-riyadh"
+    },
+    "url_slug": "الرياض",
+    "url_slug_value": {
+     "ar": "الرياض",
+     "en": "riyadh"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "4",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 1239,
+    "coordinates": {
+     "lat": 24.65717,
+     "lon": 46.713947
+    },
+    "current_language_slug": "ar-riyadh",
+    "floors": 0,
+    "id": 4,
+    "image_token": "",
+    "images": [],
+    "insights_url": "",
+    "is_community_insights_visible": false,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 0,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "REGION",
+    "name": "Ar Riyadh",
+    "path": "4",
+    "path_name": "",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 0,
+     "score": 0,
+     "url": ""
+    },
+    "top_location_id": null,
+    "url_city_slug": "الرياض",
+    "url_city_slug_value": {
+     "ar": "الرياض",
+     "en": "ar-riyadh"
+    },
+    "url_slug": "الرياض",
+    "url_slug_value": {
+     "ar": "الرياض",
+     "en": "ar-riyadh"
+    }
+   },
+   "type": "location"
+  },
+  {
+   "alias": null,
+   "id": "5046",
+   "location": {
+    "abbreviation": "",
+    "age": 0,
+    "categories": [],
+    "center_points": {
+     "lat": 0,
+     "lon": 0
+    },
+    "children_count": 0,
+    "coordinates": {
+     "lat": 21.866534,
+     "lon": 39.185574
+    },
+    "current_language_slug": "jeddah-ar-riyadh",
+    "floors": 0,
+    "id": 5046,
+    "image_token": "",
+    "images": [],
+    "insights_url": "",
+    "is_community_insights_visible": false,
+    "is_explore_section_visible": true,
+    "is_in_cms": false,
+    "is_subcommunity_insights_visible": false,
+    "is_tower_insights_visible": false,
+    "level": 2,
+    "links": {
+     "community_entry_image": "",
+     "community_insights_page_link": "",
+     "image_location": "",
+     "subcommunity_entry_image": "",
+     "subcommunity_insights_page_link": "",
+     "tower_entry_image": "",
+     "tower_insights_page_link": ""
+    },
+    "location_type": "DISTRICT",
+    "name": "Ar Riyadh",
+    "path": "11.2658.5046",
+    "path_name": "Makkah Al Mukarramah, Jeddah",
+    "polygon": null,
+    "published": true,
+    "review": {
+     "count": 0,
+     "score": 0,
+     "url": ""
+    },
+    "top_location_id": null,
+    "url_city_slug": "مكة-المكرمة",
+    "url_city_slug_value": {
+     "ar": "مكة-المكرمة",
+     "en": "makkah-al-mukarramah"
+    },
+    "url_slug": "جدة-الرياض",
+    "url_slug_value": {
+     "ar": "جدة-الرياض",
+     "en": "jeddah-ar-riyadh"
+    }
+   },
+   "type": "location"
+  }
+ ],
+ "meta": {
+  "pages": 424,
+  "total": 1269
+ }
+}

@@ -1,0 +1,990 @@
+{
+ "rows": [
+  {
+   "id": 268327,
+   "slug": "alena-koshkina",
+   "name": "Alena Koshkina",
+   "userId": 120038,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 70,
+   "propertiesResidentialForRentCount": 40,
+   "propertiesResidentialForSaleCount": 26,
+   "propertiesCommercialForRentCount": 3,
+   "propertiesCommercialForSaleCount": 1,
+   "avgWhatsappResponseTime": 38,
+   "experienceSince": 2022,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/170x200.jpg?v=df654b27bd141daf918c7716bff67a8b",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/170x200.jpg?v=df654b27bd141daf918c7716bff67a8b",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/170x200.webp?v=fedd9cd2120fff1ce01a43f1507331e3",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/260x200.jpg?v=f3b78c31aecfe83c9448dfeb1d37d2b1",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/520x400.jpg?v=2c323d8f9909db1277a8ba9be5c66909",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/520x400.jpg?v=2c323d8f9909db1277a8ba9be5c66909",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/520x400.webp?v=762e6ff1b46d3622b1c794212c804ea9",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/260x200.jpg?v=f3b78c31aecfe83c9448dfeb1d37d2b1",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/260x200.webp?v=8716b638a67e5d24dee524f57fa2f0ae",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/130x100.jpg?v=38377d89eccd59f6fe6c797e4b805eb8",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/130x100.jpg?v=38377d89eccd59f6fe6c797e4b805eb8",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/130x100.webp?v=9ba503695cc708ceba3f6c0fbbf10697",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/38x38.jpg?v=45f1718690d7fe109a17e8a8416e3559",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/38x38.jpg?v=45f1718690d7fe109a17e8a8416e3559",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/268327/cd9c97bb-84e1-4883-b319-d93ca62f9988/38x38.webp?v=938fa09cdf783f8c2eb30bcc911a5b36"
+    }
+   },
+   "position": "Property Consultant",
+   "bio": "Welcome to the world of real estate, where dreams find their home! I'm Alyona Koshkina, your dedicated guide on the exciting journey of buying or selling your property. With a passion for helping people and a knack for negotiation, I've embarked on a mission to redefine real estate experiences. Backed by Blue Lagoons Real Estate cutting-edge resources and my commitment to excellence, I ensure every client receives personalized attention and top-notch service. My approach is built on transparency, integrity, and a deep understanding of market trends. With a finger on the pulse of the industry, I provide insightful guidance and strategic solutions tailored to your unique needs. Beyond transactions, I strive to build lasting relationships founded on trust and mutual respect. Your satisfaction is my goal, and I won't rest until we've achieved success together. Let's turn your real estate aspirations into reality. Get in touch today, and let's embark on this exciting journey together.",
+   "nationality": {
+    "code": "RU",
+    "name": "Russia"
+   },
+   "linkedinAddress": "https://www.linkedin.com/in/alyona-koshkina-bluelagoons/",
+   "licenseNumber": "69277",
+   "ranking": 78,
+   "isTransactionsVisible": true,
+   "transactionsCount": 36,
+   "listingLevel": 0,
+   "averageRating": 5,
+   "reviewCount": 10,
+   "medianListingQuality": 100,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 10
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    },
+    {
+     "id": 6,
+     "name": "Russian"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 71,
+     "name": "Jumeirah Lake Towers"
+    },
+    {
+     "id": 50,
+     "name": "Dubai Marina"
+    },
+    {
+     "id": 67,
+     "name": "Jumeirah Beach Residence"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 5,
+   "claimedTransactionsRent": 31,
+   "claimedTransactionsDealVolume": 13523000,
+   "claimedTransactionsSaleAVGAmount": 1512000,
+   "claimedTransactionsRentAVGAmount": 192354.84,
+   "claimedTransactionsRentTotalAmount": 5963000,
+   "claimedTransactionsSaleTotalAmount": 7560000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 140000,
+     "date": "2026-10-23",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.11644",
+      "community": "Dubai Marina",
+      "tower": "Dubai Marina Moon Tower"
+     },
+     "dealType": "Rent",
+     "price": 370000,
+     "date": "2026-10-17",
+     "propertyType": "Villa",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.9645",
+      "community": "Dubai Marina",
+      "tower": "Orra Harbour Residences and Hotel Apartments"
+     },
+     "dealType": "Rent",
+     "price": 200000,
+     "date": "2026-10-15",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.8317.12598",
+      "community": "Dubai Marina",
+      "tower": "5242 Tower 2"
+     },
+     "dealType": "Rent",
+     "price": 160000,
+     "date": "2026-10-14",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.9645",
+      "community": "Dubai Marina",
+      "tower": "Orra Harbour Residences and Hotel Apartments"
+     },
+     "dealType": "Rent",
+     "price": 95000,
+     "date": "2026-09-29",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.9645",
+      "community": "Dubai Marina",
+      "tower": "Orra Harbour Residences and Hotel Apartments"
+     },
+     "dealType": "Rent",
+     "price": 680000,
+     "date": "2026-09-22",
+     "propertyType": "Apartment",
+     "bedroom": "5"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 135000,
+     "date": "2026-09-12",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 165000,
+     "date": "2026-09-10",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.73.1014.3918",
+      "community": "Jumeirah Village Circle",
+      "tower": "Diamond Views 1"
+     },
+     "dealType": "Rent",
+     "price": 150000,
+     "date": "2026-09-08",
+     "propertyType": "Villa",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Sale",
+     "price": 2600000,
+     "date": "2026-09-05",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.9645",
+      "community": "Dubai Marina",
+      "tower": "Orra Harbour Residences and Hotel Apartments"
+     },
+     "dealType": "Rent",
+     "price": 100000,
+     "date": "2026-09-03",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 95000,
+     "date": "2026-09-01",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 175000,
+     "date": "2026-08-28",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.71.13972.18538.3795",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Armada Tower 3"
+     },
+     "dealType": "Rent",
+     "price": 85000,
+     "date": "2026-08-14",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 275000,
+     "date": "2026-08-13",
+     "propertyType": "Apartment",
+     "bedroom": "3"
+    },
+    {
+     "location": {
+      "path": "1.71.12521",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment"
+     },
+     "dealType": "Rent",
+     "price": 285000,
+     "date": "2026-08-05",
+     "propertyType": "Apartment",
+     "bedroom": "4"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 325000,
+     "date": "2026-07-14",
+     "propertyType": "Apartment",
+     "bedroom": "4"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 85000,
+     "date": "2026-06-23",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.36.2374",
+      "community": "Business Bay",
+      "tower": "Al Manara Tower"
+     },
+     "dealType": "Rent",
+     "price": 210000,
+     "date": "2026-06-12",
+     "propertyType": "Office Space",
+     "bedroom": "N/A"
+    },
+    {
+     "location": {
+      "path": "1.71.13980.961.3824",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Jumeirah Bay X2"
+     },
+     "dealType": "Rent",
+     "price": 200000,
+     "date": "2026-06-09",
+     "propertyType": "Shop",
+     "bedroom": "N/A"
+    },
+    {
+     "location": {
+      "path": "1.71.12521",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment"
+     },
+     "dealType": "Rent",
+     "price": 100000,
+     "date": "2026-06-02",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 155000,
+     "date": "2026-06-02",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.36.8450.8451",
+      "community": "Business Bay",
+      "tower": "Noura Tower"
+     },
+     "dealType": "Rent",
+     "price": 100000,
+     "date": "2026-06-01",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 180000,
+     "date": "2026-05-24",
+     "propertyType": "Apartment",
+     "bedroom": "3"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 85000,
+     "date": "2026-05-21",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.13972.18538.3795",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Armada Tower 3"
+     },
+     "dealType": "Sale",
+     "price": 1160000,
+     "date": "2026-05-18",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.12521",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment"
+     },
+     "dealType": "Rent",
+     "price": 170000,
+     "date": "2026-05-06",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.8758",
+      "community": "Dubai Marina",
+      "tower": "Studio One"
+     },
+     "dealType": "Sale",
+     "price": 1700000,
+     "date": "2026-05-01",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.71.12521",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment"
+     },
+     "dealType": "Rent",
+     "price": 170000,
+     "date": "2026-04-27",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.9645",
+      "community": "Dubai Marina",
+      "tower": "Orra Harbour Residences and Hotel Apartments"
+     },
+     "dealType": "Rent",
+     "price": 140000,
+     "date": "2026-02-16",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.13980.961.3824",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Jumeirah Bay X2"
+     },
+     "dealType": "Rent",
+     "price": 300000,
+     "date": "2026-02-06",
+     "propertyType": "Shop",
+     "bedroom": "N/A"
+    },
+    {
+     "location": {
+      "path": "1.66.915.9277.10100.11535.17695",
+      "community": "Jumeirah",
+      "tower": "La Sirene Building 3"
+     },
+     "dealType": "Rent",
+     "price": 140000,
+     "date": "2026-02-06",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.73.1037.12404",
+      "community": "Jumeirah Village Circle",
+      "tower": "Oakley Square Residences"
+     },
+     "dealType": "Rent",
+     "price": 123000,
+     "date": "2026-02-04",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.13972.18538.3795",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Armada Tower 3"
+     },
+     "dealType": "Sale",
+     "price": 1100000,
+     "date": "2026-01-16",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.13972.18538.3795",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Armada Tower 3"
+     },
+     "dealType": "Sale",
+     "price": 1000000,
+     "date": "2026-01-16",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.11644",
+      "community": "Dubai Marina",
+      "tower": "Dubai Marina Moon Tower"
+     },
+     "dealType": "Rent",
+     "price": 370000,
+     "date": "2025-12-18",
+     "propertyType": "Villa",
+     "bedroom": "2"
+    }
+   ],
+   "broker": {
+    "id": 7486,
+    "slug": "blue-lagoons-real-estate-7612",
+    "name": "Blue Lagoons Real Estate",
+    "logo": {
+     "token": "91ee411de238913f9292cb5907952928d1f4c7e1",
+     "path": "/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/original.jpg",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/260x200.jpg",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/520x400.jpg",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/520x400.jpg",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/520x400.webp?v=b125e2b98578ad246b3272327b888926",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/260x200.jpg",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/260x200.webp?v=bf082444bf8272fd74a257f20151e00c",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/178x98.jpg",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/178x98.jpg",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/178x98.webp?v=36faf89fff90395cd02c82ee9afeae67",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/130x100.jpg",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/130x100.jpg",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/7486/61d50a19-a212-4f8c-a9f5-7ddbd3dad735/130x100.webp?v=beb731a94495bd53c8efa0686cd75e7b"
+     }
+    },
+    "address": "Office 519, Building AB Centre, Al Barsha, Shaikh Zayed Road, Dubai, PO Box 453652",
+    "location": "Dubai",
+    "clientId": 7486
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "69277"
+    }
+   ],
+   "transactionsInLocation": 14,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 368774,
+   "slug": "angelina-zhunusova",
+   "name": "Angelina Zhunusova",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 34,
+   "propertiesResidentialForRentCount": 33,
+   "propertiesResidentialForSaleCount": 1,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 563,
+   "experienceSince": 2025,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/170x200.jpg?v=89e68bb5b10e2f1be7753dc153266e69",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/170x200.jpg?v=89e68bb5b10e2f1be7753dc153266e69",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/170x200.webp?v=531b6f4fb5cfdba51b06aa771e3214a2",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/260x200.jpg?v=11dd00d84933006170b1170200220fc1",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/520x400.jpg?v=d2859c504ca3fd52795040e3ad1c4514",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/520x400.jpg?v=d2859c504ca3fd52795040e3ad1c4514",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/520x400.webp?v=9b4525fa63aecaea2038ceb52cce51bd",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/260x200.jpg?v=11dd00d84933006170b1170200220fc1",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/260x200.webp?v=8fe3ceac069ccae3904c0545d2161a9b",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/130x100.jpg?v=0055cdc32711dfdf17dc5624d7911035",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/130x100.jpg?v=0055cdc32711dfdf17dc5624d7911035",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/130x100.webp?v=3f292d34efd7de3f2d22c3db116a1a1f",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/38x38.jpg?v=a0ce2f52de47b3941747d39edb9e481c",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/38x38.jpg?v=a0ce2f52de47b3941747d39edb9e481c",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/368774/c73073b2-f1ed-408a-aea1-2e0fd348a026/38x38.webp?v=ede5f2c14181f7b206835bd08fc71463"
+    }
+   },
+   "position": "Consultant - Secondary Sales",
+   "bio": "I am a dedicated real estate consultant based in Dubai, specializing in rentals and secondary market sales. I work closely with both landlords and tenants, providing strategic guidance, clear communication, and a results-oriented approach to every transaction.\n\nWith a strong understanding of market trends and client needs, I focus on maximizing value for property owners and helping clients find the right home or investment with confidence. I am fluent in English, Russian, and Kyrgyz, which allows me to work effectively with both local and international clients.\n\nI truly love what I do. Real estate for me is not just about closing deals — it’s about building long-term relationships, earning trust, and delivering a smooth and professional experience every step of the way.",
+   "nationality": {
+    "code": "RU",
+    "name": "Russia"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 76,
+   "isTransactionsVisible": true,
+   "transactionsCount": 9,
+   "listingLevel": 0,
+   "averageRating": 5,
+   "reviewCount": 6,
+   "medianListingQuality": 95,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 6
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    },
+    {
+     "id": 6,
+     "name": "Russian"
+    },
+    {
+     "id": 18,
+     "name": "Kyrgyz"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 71,
+     "name": "Jumeirah Lake Towers"
+    },
+    {
+     "id": 50,
+     "name": "Dubai Marina"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 0,
+   "claimedTransactionsRent": 9,
+   "claimedTransactionsDealVolume": 1043000,
+   "claimedTransactionsSaleAVGAmount": 0,
+   "claimedTransactionsRentAVGAmount": 115888.89,
+   "claimedTransactionsRentTotalAmount": 1043000,
+   "claimedTransactionsSaleTotalAmount": 0,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 235000,
+     "date": "2026-11-02",
+     "propertyType": "Apartment",
+     "bedroom": "3"
+    },
+    {
+     "location": {
+      "path": "1.71.12521.19153",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 93000,
+     "date": "2026-10-05",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3091",
+      "community": "Dubai Marina",
+      "tower": "The Point"
+     },
+     "dealType": "Rent",
+     "price": 75000,
+     "date": "2026-09-22",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 80000,
+     "date": "2026-09-08",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 80000,
+     "date": "2026-08-30",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.9645",
+      "community": "Dubai Marina",
+      "tower": "Orra Harbour Residences and Hotel Apartments"
+     },
+     "dealType": "Rent",
+     "price": 95000,
+     "date": "2026-08-25",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3111",
+      "community": "Dubai Marina",
+      "tower": "Orra Marina"
+     },
+     "dealType": "Rent",
+     "price": 125000,
+     "date": "2026-07-21",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.50.729.3175",
+      "community": "Dubai Marina",
+      "tower": "The Waves Tower A"
+     },
+     "dealType": "Rent",
+     "price": 80000,
+     "date": "2026-06-26",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.71.12521",
+      "community": "Jumeirah Lake Towers",
+      "tower": "Orra The Embankment"
+     },
+     "dealType": "Rent",
+     "price": 180000,
+     "date": "2026-05-15",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    }
+   ],
+   "broker": {
+    "id": 260,
+    "slug": "provident-real-estate-336",
+    "name": "Provident Real Estate",
+    "logo": {
+     "token": "f852d43e82bb21d4070c1d60dfc70836bf1fe58c",
+     "path": "/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/original.png?v=716199c26a3b19b07e0161735a8064b2",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/260x200.jpg?v=b937a2bb130543d31f3fc7bdfd67a342",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/520x400.jpg?v=bf620bcfbf29bdead6b43ce0f8e54d16",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/520x400.jpg?v=bf620bcfbf29bdead6b43ce0f8e54d16",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/520x400.webp?v=ddc9f2272db8bed0ac37251a327ec56c",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/260x200.jpg?v=b937a2bb130543d31f3fc7bdfd67a342",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/260x200.webp?v=dc9b05ed1333223cf320b868cff521ae",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/178x98.jpg?v=c3e56fefc314d6c1ba78a1d83f5fe071",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/178x98.jpg?v=c3e56fefc314d6c1ba78a1d83f5fe071",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/178x98.webp?v=a4ea0891dbdc527a84badbd86dfddb1f",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/130x100.jpg?v=5ff3c76be62fb29980957e26e0494f6c",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/130x100.jpg?v=5ff3c76be62fb29980957e26e0494f6c",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/260/7f6894de-572f-42a5-975c-4514773d9cf9/130x100.webp?v=477a5694efd6da9c14977b3d74aea935"
+     }
+    },
+    "address": "Office 1802, Building Marina Plaza, Dubai Marina, Marsa St, Dubai, ",
+    "location": "Dubai",
+    "clientId": 260
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "94691"
+    }
+   ],
+   "transactionsInLocation": 6,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 477747,
+   "slug": "ekaterina-knyazeva",
+   "name": "Ekaterina Knyazeva",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 31,
+   "propertiesResidentialForRentCount": 31,
+   "propertiesResidentialForSaleCount": 0,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 27,
+   "experienceSince": 2006,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/200x200.jpg?v=b6d0fc54a141af3bf382d6ace9cafa65",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/200x200.jpg?v=b6d0fc54a141af3bf382d6ace9cafa65",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/200x200.webp?v=3b70a79462082905225cad2ff9cdda91",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/400x400.jpg?v=5b518172939f14ca863d7df8a7a77142",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/520x520.jpg?v=a7d8d983f16a70c07b40f291e7cc9c46",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/520x520.jpg?v=a7d8d983f16a70c07b40f291e7cc9c46",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/520x520.webp?v=696a8606473614a10c565e7c3da81647",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/400x400.jpg?v=5b518172939f14ca863d7df8a7a77142",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/400x400.webp?v=6e7779a14a0cc1b06ac57546af735e46",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/130x130.jpg?v=da841d91fa9a93b994a8aaffe5d18776",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/130x130.jpg?v=da841d91fa9a93b994a8aaffe5d18776",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/130x130.webp?v=0d0054faaed0c78b1a6e64e694201be6",
+     "original": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/original.png?v=a5f0487aafdbaa0685ddd5e91754203e",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/38x38.jpg?v=9face9c922e445e62d81f944c9b97318",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/38x38.jpg?v=9face9c922e445e62d81f944c9b97318",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/477747/19dbab8f-1ebc-4f10-9bb1-ce3e72d162ff/38x38.webp?v=a8cd0a41ba5a477e395981718f255fc8"
+    }
+   },
+   "position": "Property Consultant",
+   "bio": "After completing her Bachelor’s degree in Economics, Ekaterina relocated to Dubai and began her real estate career in 2006. She worked with a leading real estate agency until 2009, before joining The First Group, a prominent property developer, where she spent four years gaining valuable experience in property sales and client management.\n\nEkaterina is currently a Leasing Consultant at McCone Properties, specialising in the Dubai Marina area, a location she is particularly passionate about. With extensive experience in the Dubai real estate market, she has developed a strong understanding of the local property sector, client needs, and the importance of building long-term professional relationships.\n\nWith 20 years of experience in Dubai real estate, Ekaterina brings a wealth of market knowledge, professionalism, and a client-focused approach to every transaction.",
+   "nationality": {
+    "code": "RU",
+    "name": "Russia"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 72,
+   "isTransactionsVisible": true,
+   "transactionsCount": 5,
+   "listingLevel": 0,
+   "averageRating": 5,
+   "reviewCount": 2,
+   "medianListingQuality": 100,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 2
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    },
+    {
+     "id": 6,
+     "name": "Russian"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 50,
+     "name": "Dubai Marina"
+    },
+    {
+     "id": 67,
+     "name": "Jumeirah Beach Residence"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 0,
+   "claimedTransactionsRent": 5,
+   "claimedTransactionsDealVolume": 463000,
+   "claimedTransactionsSaleAVGAmount": 0,
+   "claimedTransactionsRentAVGAmount": 92600,
+   "claimedTransactionsRentTotalAmount": 463000,
+   "claimedTransactionsSaleTotalAmount": 0,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.50.723.3159",
+      "community": "Dubai Marina",
+      "tower": "Marina View Tower A"
+     },
+     "dealType": "Rent",
+     "price": 85000,
+     "date": "2026-10-26",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.723.3160",
+      "community": "Dubai Marina",
+      "tower": "Marina View Tower B"
+     },
+     "dealType": "Rent",
+     "price": 88000,
+     "date": "2026-10-23",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3091",
+      "community": "Dubai Marina",
+      "tower": "The Point"
+     },
+     "dealType": "Rent",
+     "price": 90000,
+     "date": "2026-10-12",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.3091",
+      "community": "Dubai Marina",
+      "tower": "The Point"
+     },
+     "dealType": "Rent",
+     "price": 95000,
+     "date": "2026-10-12",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.50.717.3132",
+      "community": "Dubai Marina",
+      "tower": "Al Majara 2"
+     },
+     "dealType": "Rent",
+     "price": 105000,
+     "date": "2026-10-12",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    }
+   ],
+   "broker": {
+    "id": 911,
+    "slug": "mccone-properties-1012",
+    "name": "McCone Properties",
+    "logo": {
+     "token": "a836f21d2570cfabd5c59309a19f9e6953be2a16",
+     "path": "/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/original.jpg",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/260x200.jpg",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/520x400.jpg",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/520x400.jpg",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/520x400.webp?v=17338ec7551a85abb52c178be293caa4",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/260x200.jpg",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/260x200.webp?v=0151e9e63a342f86d0e7706785bb93e3",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/178x98.jpg",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/178x98.jpg",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/178x98.webp?v=d5519bcf4ad127bc98d86bf3450d57c0",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/130x100.jpg",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/130x100.jpg",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/911/8b27ba77-fbed-4146-bdb0-d2156103f6d3/130x100.webp?v=eb68c98bb3139a49450730d52f629cf3"
+     }
+    },
+    "address": "Office 305, Building Onyx Tower 2, The Greens, n/a, Dubai, ",
+    "location": "Dubai",
+    "clientId": 911
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "101034"
+    }
+   ],
+   "transactionsInLocation": 5,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  }
+ ],
+ "totals": {
+  "total": 125,
+  "total_pages": 42,
+  "page": 1
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": 4338,
+ "urlSlug": "barnes-international-realty-v2-4338",
+ "name": "Barnes International Realty",
+ "email": "danial@arabianestates.ae",
+ "phone": "+971585566633",
+ "ranking": 83.278984,
+ "isVerified": false,
+ "clientId": 4338,
+ "clientType": "broker",
+ "clientSegmentWeight": 4000,
+ "clientTierWeight": 0,
+ "totalProperties": 1064,
+ "propertiesResidentialForRentCount": 476,
+ "propertiesResidentialForSaleCount": 557,
+ "propertiesCommercialForRentCount": 29,
+ "propertiesCommercialForSaleCount": 2,
+ "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+ "licenseNumber": "26077",
+ "licenseLabel": "RERA",
+ "location": "Dubai",
+ "locationId": 1,
+ "description": "Barnes International Realty is a global expert in Dubai real estate. We specialize in helping private and commercial clients tap into the burgeoning UAE real estate market to reach their financial and lifestyle goals. We have decades of experience helping investors navigate the foreign complexities of the Dubai market to achieve long-term, sustainable, and profitable results. Our fingers remain on the pulse of the Dubai market, so our agents are always on top of the most recent changes. That means our clients get the most accurate and real-time assessments of the market for the most advantageous investments. It's our mission to provide clients with a competitive edge in the fast-growing Dubai real estate market by offering trustworthy, effective, and affordable access to this exciting space.\n\n",
+ "transactionsCount": 0,
+ "totalAgents": 73,
+ "totalSuperAgents": 70,
+ "logo": {
+  "token": "34647a85609699b0c65646fa15eacdf045055f84",
+  "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+  "links": {
+   "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+   "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+   "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+   "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+   "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+   "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+   "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+   "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+   "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+   "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+   "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+   "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+  }
+ },
+ "awards": [
+  "https://production-pf-strapi-cms.s3.ap-southeast-1.amazonaws.com/small_Artboard_1_copy_House_of_Super_Agents_2x_100_f2bfc024c1.jpg"
+ ],
+ "parentId": 0,
+ "isMainBranch": true,
+ "totalBranches": 0
+}

@@ -1,0 +1,115 @@
+{
+ "location_id": 5629,
+ "top_parent_location_id": 290,
+ "parent_location_id": 290,
+ "level": 2,
+ "is_top_level": false,
+ "name": {
+  "en": "Golden Beach Tower",
+  "ar": "برج جولدن بيتش"
+ },
+ "images": [],
+ "reviews": {
+  "count": 0,
+  "aggregate": null,
+  "page": 1,
+  "pageSize": 5,
+  "pageCount": 0,
+  "sort": "newest",
+  "reviews": []
+ },
+ "parent": {
+  "location_id": 290,
+  "top_parent_location_id": null,
+  "is_top_level": true,
+  "name": {
+   "en": "Corniche Road",
+   "ar": "شارع الكورنيش"
+  },
+  "reviews": {
+   "count": 1,
+   "aggregate": {
+    "overall_score": 3.9,
+    "connectivity_and_traffic": 3.7,
+    "peace_and_quiet": 3.7,
+    "parks_nearby": 5,
+    "family_friendly": 4,
+    "maintenance": 4.6,
+    "parking_area": 3.6,
+    "amenities": 3.4
+   },
+   "page": 1,
+   "pageSize": 5,
+   "pageCount": 1,
+   "sort": "newest",
+   "reviews": [
+    {
+     "id": "rllto1bwg9xts6ko9mwh13w1",
+     "body": {
+      "en": "Aaah the love I have for this place. I grew up here and have fond memories of outings with family and friends on the Corniche with its plethora of cafes and vibrant events. I've walked, cycled and swum here countless times and it's great to see that people are still drawn to this area's charm because it's still as lively as it was years ago. \n\nThere are also several parks, including a skatepark nearby, for when you want some greenery. All in all this is a great place for families and bachelors alike, as it's walkable, centrally located, and full of amenities.  \n\nThe only downside is that Corniche Road does not offer freehold properties, so expats can't buy here.",
+      "ar": "آآه كم أحب هذا المكان. لقد نشأت هنا ولدي ذكريات جميلة عن النزهات مع العائلة والأصدقاء على الكورنيش بما يحتويه من مقاهي وفيرة وفعاليات حيوية. لقد سرت وركبت الدراجة وسبحت هنا مرات لا تحصى، ويسرني أن أرى أن الناس ما زالوا ينجذبون إلى سحر هذه المنطقة لأنها لا تزال نابضة بالحياة كما كانت قبل سنوات.توفر المنطقة أيضًا العديد من المتنزهات، بما في ذلك حديقة تزلج قريبة، عندما ترغب في بعض المساحات الخضراء. بشكل عام، هذا مكان رائع للعائلات والعزاب على حد سواء، لأنه يمكن الوصول إليه سيرًا على الأقدام، ويقع في موقع مركزي، ومليء بالمرافق.الجانب السلبي الوحيد هو أن طريق الكورنيش لا يوفر عقارات التملك الحر، لذلك لا يمكن للمغتربين الشراء هنا."
+     },
+     "language": "en",
+     "review_date": "2026-03-12T12:03:10.252Z",
+     "persona": {
+      "en": "Resident",
+      "ar": "مقيم"
+     },
+     "user_name": {
+      "en": "Nada",
+      "ar": "Nada"
+     },
+     "scores": {
+      "overall_score": 4.5,
+      "connectivity_and_traffic": 5,
+      "peace_and_quiet": 3,
+      "parks_nearby": 5,
+      "family_friendly": 5,
+      "maintenance": 0,
+      "parking_area": 0,
+      "amenities": 0
+     },
+     "like_count": 0,
+     "liked": false,
+     "location": {
+      "location_id": 290,
+      "name": {
+       "en": "Corniche Road",
+       "ar": "شارع الكورنيش"
+      }
+     }
+    }
+   ]
+  }
+ },
+ "categories": {
+  "connectivity_and_traffic": {
+   "en": "Connectivity & Traffic",
+   "ar": "التنقل وحركة المرور"
+  },
+  "peace_and_quiet": {
+   "en": "Peace & Quiet",
+   "ar": "الهدوء والسكينة"
+  },
+  "parks_nearby": {
+   "en": "Parks Nearby",
+   "ar": "الحدائق القريبة"
+  },
+  "family_friendly": {
+   "en": "Family Friendly",
+   "ar": "مناسب للعائلات"
+  },
+  "maintenance": {
+   "en": "Maintenance",
+   "ar": "الصيانة"
+  },
+  "parking_area": {
+   "en": "Parking",
+   "ar": "مواقف السيارات"
+  },
+  "amenities": {
+   "en": "Amenities",
+   "ar": "المرافق"
+  }
+ }
+}

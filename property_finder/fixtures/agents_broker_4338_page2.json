@@ -1,0 +1,921 @@
+{
+ "rows": [
+  {
+   "id": 384002,
+   "slug": "worsha-adnan",
+   "name": "Worsha Adnan",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 13,
+   "propertiesResidentialForRentCount": 3,
+   "propertiesResidentialForSaleCount": 10,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 352,
+   "experienceSince": 2024,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/170x200.jpg?v=26b91020b22c4cca38d3cc18ca4d4b4b",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/170x200.jpg?v=26b91020b22c4cca38d3cc18ca4d4b4b",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/170x200.webp?v=0630d3c61e9f5edda076605eeb8197f1",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/260x200.jpg?v=6fcf131f64f1d52fb55ccc39bf236ebc",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/520x400.jpg?v=214fb48f420ecd40116cc3f20307c161",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/520x400.jpg?v=214fb48f420ecd40116cc3f20307c161",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/520x400.webp?v=f31ab1d2e9f1722c4fda3b646f0ef3c1",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/260x200.jpg?v=6fcf131f64f1d52fb55ccc39bf236ebc",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/260x200.webp?v=888cb50805cfedcd2544671436276e32",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/130x100.jpg?v=8faf945bb90f35569da52485d8d914af",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/130x100.jpg?v=8faf945bb90f35569da52485d8d914af",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/130x100.webp?v=41d508a8f32df187ebd2e2403871ac51",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/38x38.jpg?v=af6270629225730b26191deded67c643",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/38x38.jpg?v=af6270629225730b26191deded67c643",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/384002/376583a2-cb3c-4b70-b264-bc9d5b0d5ab7/38x38.webp?v=e61569bb02c4334b8227e2e16dd1dffd"
+    }
+   },
+   "position": "Sales Consultant",
+   "bio": "Worsha is a Dubai-based residential sales and investment specialist with over a decade of expertise in architecture and interior design, backed by a degree from a leading Canadian university.\n\nSince relocating to Dubai in 2024, she has brought a distinctive design-led perspective to real estate — helping buyers identify well-crafted homes and guiding investors toward value-driven opportunities in Dubai's residential market. She currently oversees multiple client portfolios each exceeding high value, with a sharp focus on diversification and long-term wealth creation.\n\nWhether buying the first home, upgrading, or growing an investment portfolio, Worsha combines strategic thinking with an eye for quality to deliver results centered around your goals.",
+   "nationality": {
+    "code": "CA",
+    "name": "Canada"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 95,
+   "isTransactionsVisible": true,
+   "transactionsCount": 3,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 1
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 125,
+     "name": "Damac Hills 2"
+    },
+    {
+     "id": 11559,
+     "name": "Damac Lagoons"
+    },
+    {
+     "id": 12523,
+     "name": "Expo City"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 3,
+   "claimedTransactionsRent": 0,
+   "claimedTransactionsDealVolume": 6150000,
+   "claimedTransactionsSaleAVGAmount": 2050000,
+   "claimedTransactionsRentAVGAmount": 0,
+   "claimedTransactionsRentTotalAmount": 0,
+   "claimedTransactionsSaleTotalAmount": 6150000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.125.9453",
+      "community": "Damac Hills 2",
+      "tower": "Hawthorn"
+     },
+     "dealType": "Sale",
+     "price": 2800000,
+     "date": "2026-10-04",
+     "propertyType": "Villa",
+     "bedroom": "4"
+    },
+    {
+     "location": {
+      "path": "1.12523.12534.20110",
+      "community": "Expo City",
+      "tower": "Mangrove Residences 3"
+     },
+     "dealType": "Sale",
+     "price": 2275000,
+     "date": "2026-08-09",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.73.1015.14229",
+      "community": "Jumeirah Village Circle",
+      "tower": "Binghatti Royale"
+     },
+     "dealType": "Sale",
+     "price": 1075000,
+     "date": "2026-05-07",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    }
+   ],
+   "broker": {
+    "id": 4338,
+    "slug": "barnes-international-realty-v2-4338",
+    "name": "Barnes International Realty",
+    "logo": {
+     "token": "34647a85609699b0c65646fa15eacdf045055f84",
+     "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+     }
+    },
+    "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+    "location": "Dubai",
+    "clientId": 4338
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "78329"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 259907,
+   "slug": "nils-brunsch",
+   "name": "Nils Brunsch",
+   "userId": 112783,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 10,
+   "propertiesResidentialForRentCount": 1,
+   "propertiesResidentialForSaleCount": 9,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 1042,
+   "experienceSince": 2022,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/170x200.jpg?v=2d8f439481b29f790741422456763168",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/170x200.jpg?v=2d8f439481b29f790741422456763168",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/170x200.webp?v=0ebb9e7f4bf8e01629fbe08e36290f32",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/260x200.jpg?v=61c7eb243541e70880a06eb585d272e7",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/520x400.jpg?v=3b4edf3d621f3b0fb649db08fbe56c78",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/520x400.jpg?v=3b4edf3d621f3b0fb649db08fbe56c78",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/520x400.webp?v=3519f242cf5ff28a64bc4e68c31f79a6",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/260x200.jpg?v=61c7eb243541e70880a06eb585d272e7",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/260x200.webp?v=568043d57a89bfaa27d1f4a0856051f5",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/130x100.jpg?v=30884171255b00873a8575d8975f518d",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/130x100.jpg?v=30884171255b00873a8575d8975f518d",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/130x100.webp?v=6ce9ad311a9b98ab251787dabcbe457b",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/38x38.jpg?v=8a9f405e4d72bd2871dc41cf5700a296",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/38x38.jpg?v=8a9f405e4d72bd2871dc41cf5700a296",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/259907/f5bb6659-5c10-4e2e-a512-f86525b65089/38x38.webp?v=36d5eec11dd71090787281e09a3bf5a4"
+    }
+   },
+   "position": "Off Plan Specialist",
+   "bio": "Meet Nils, he specialises in helping German investors buy and sell apartments across Dubai, leveraging his strong investor network and in-depth knowledge of the local real estate market.\n\nWith a focus on identifying the right opportunities, he guides clients towards properties that match their investment goals, whether maximising rental yields, achieving long-term capital appreciation, or finding a luxurious second home.\n\nAt BARNES Dubai, Nils is committed to providing personalised guidance and market insights to help investors make confident, informed property decisions.",
+   "nationality": {
+    "code": "DE",
+    "name": "Germany"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "56924",
+   "ranking": 94,
+   "isTransactionsVisible": true,
+   "transactionsCount": 3,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 1
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 50,
+     "name": "Dubai Marina"
+    },
+    {
+     "id": 9270,
+     "name": "Dubai Science Park"
+    },
+    {
+     "id": 12970,
+     "name": "Bukadra"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 3,
+   "claimedTransactionsRent": 0,
+   "claimedTransactionsDealVolume": 4414000,
+   "claimedTransactionsSaleAVGAmount": 1471333.4,
+   "claimedTransactionsRentAVGAmount": 0,
+   "claimedTransactionsRentTotalAmount": 0,
+   "claimedTransactionsSaleTotalAmount": 4414000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.9270.14509",
+      "community": "Dubai Science Park",
+      "tower": "Binghatti Hillviews"
+     },
+     "dealType": "Sale",
+     "price": 814000,
+     "date": "2026-02-17",
+     "propertyType": "Apartment",
+     "bedroom": "studio"
+    },
+    {
+     "location": {
+      "path": "1.10757.11645",
+      "community": "The Valley",
+      "tower": "Talia"
+     },
+     "dealType": "Sale",
+     "price": 2800000,
+     "date": "2026-02-04",
+     "propertyType": "Townhouse",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.9270.13734",
+      "community": "Dubai Science Park",
+      "tower": "Binghatti Hills"
+     },
+     "dealType": "Sale",
+     "price": 800000,
+     "date": "2025-11-10",
+     "propertyType": "Apartment",
+     "bedroom": "studio"
+    }
+   ],
+   "broker": {
+    "id": 4338,
+    "slug": "barnes-international-realty-v2-4338",
+    "name": "Barnes International Realty",
+    "logo": {
+     "token": "34647a85609699b0c65646fa15eacdf045055f84",
+     "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+     }
+    },
+    "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+    "location": "Dubai",
+    "clientId": 4338
+   },
+   "compliances": [
+    {
+     "type": "other",
+     "value": "939996"
+    },
+    {
+     "type": "brn",
+     "value": "56924"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 337572,
+   "slug": "shohrukh-bahromzoda",
+   "name": "Shohrukh Bahromzoda",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 19,
+   "propertiesResidentialForRentCount": 4,
+   "propertiesResidentialForSaleCount": 15,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 17,
+   "experienceSince": 2023,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/170x200.jpg?v=8fac464965628dc0b62cf294ef7b4e33",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/170x200.jpg?v=8fac464965628dc0b62cf294ef7b4e33",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/170x200.webp?v=fae56010e03dcf7da58ba68fecbcef78",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/260x200.jpg?v=fb2ca4d4a035a373eb8c12d2628a0cce",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/520x400.jpg?v=9b805bade655d55df1a0ace246b45c67",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/520x400.jpg?v=9b805bade655d55df1a0ace246b45c67",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/520x400.webp?v=068a3858aa39c278880c6ee98d9414a2",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/260x200.jpg?v=fb2ca4d4a035a373eb8c12d2628a0cce",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/260x200.webp?v=420f83746f9dff64fe5c4c0cc0d4c245",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/130x100.jpg?v=26930e9981aeb154bc4bbf38ea7db2b1",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/130x100.jpg?v=26930e9981aeb154bc4bbf38ea7db2b1",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/130x100.webp?v=37c860f20c7d71033f71cf27322cba18",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/38x38.jpg?v=8b9addb8029ab55b37d62ed7f2e85337",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/38x38.jpg?v=8b9addb8029ab55b37d62ed7f2e85337",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/337572/b4858f1d-1508-4fb7-8ab3-f6ffc3017f60/38x38.webp?v=87c780f5b931bb555d43e52c943cd2a7"
+    }
+   },
+   "position": "Sales Consultant",
+   "bio": "Meet Shohrukh, originally from Dushanbe, Tajikistan. He began his real estate career in 2023 after earning a degree in Diplomacy from one of Moscow’s top universities.\n\nToday, Shohrukh specializes in properties within Central Park, where he combines his analytical background with a deep understanding of Dubai’s real estate market. With extensive experience working with investors, he helps clients identify the best short-term investment opportunities while ensuring maximum returns.\n\nClients appreciate his commitment, market insight, and attention to detail, trusting him to never miss an opportunity and to always present the most valuable options available in Central Park.",
+   "nationality": {
+    "code": "TJ",
+    "name": "Tajikistan"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 94,
+   "isTransactionsVisible": true,
+   "transactionsCount": 10,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 1
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    },
+    {
+     "id": 6,
+     "name": "Russian"
+    },
+    {
+     "id": 11,
+     "name": "Persian/Farsi"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 33,
+     "name": "Al Wasl"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 10,
+   "claimedTransactionsRent": 0,
+   "claimedTransactionsDealVolume": 28396000,
+   "claimedTransactionsSaleAVGAmount": 2839600,
+   "claimedTransactionsRentAVGAmount": 0,
+   "claimedTransactionsRentTotalAmount": 0,
+   "claimedTransactionsSaleTotalAmount": 28396000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.33.9529.10368.11891",
+      "community": "Al Wasl",
+      "tower": "Castleton"
+     },
+     "dealType": "Sale",
+     "price": 2150000,
+     "date": "2026-10-08",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.11960",
+      "community": "Al Wasl",
+      "tower": "Laurel"
+     },
+     "dealType": "Sale",
+     "price": 2000000,
+     "date": "2026-09-08",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.12324",
+      "community": "Al Wasl",
+      "tower": "Erin"
+     },
+     "dealType": "Sale",
+     "price": 3663000,
+     "date": "2026-07-20",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.36.13828",
+      "community": "Business Bay",
+      "tower": "One By Binghatti"
+     },
+     "dealType": "Sale",
+     "price": 3675000,
+     "date": "2026-04-24",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.11891",
+      "community": "Al Wasl",
+      "tower": "Castleton"
+     },
+     "dealType": "Sale",
+     "price": 3650000,
+     "date": "2026-04-09",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.12324",
+      "community": "Al Wasl",
+      "tower": "Erin"
+     },
+     "dealType": "Sale",
+     "price": 2480000,
+     "date": "2026-02-20",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.11716.17020",
+      "community": "Al Wasl",
+      "tower": "Celadon 1"
+     },
+     "dealType": "Sale",
+     "price": 2435000,
+     "date": "2026-02-02",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.11764",
+      "community": "Al Wasl",
+      "tower": "Myrtle"
+     },
+     "dealType": "Sale",
+     "price": 2060000,
+     "date": "2025-12-08",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.11891",
+      "community": "Al Wasl",
+      "tower": "Castleton"
+     },
+     "dealType": "Sale",
+     "price": 2620000,
+     "date": "2025-12-04",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.33.9529.10368.12324",
+      "community": "Al Wasl",
+      "tower": "Erin"
+     },
+     "dealType": "Sale",
+     "price": 3663000,
+     "date": "2025-11-28",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    }
+   ],
+   "broker": {
+    "id": 4338,
+    "slug": "barnes-international-realty-v2-4338",
+    "name": "Barnes International Realty",
+    "logo": {
+     "token": "34647a85609699b0c65646fa15eacdf045055f84",
+     "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+     }
+    },
+    "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+    "location": "Dubai",
+    "clientId": 4338
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "89158"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 366650,
+   "slug": "hamza-malki",
+   "name": "Hamza Malki",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 20,
+   "propertiesResidentialForRentCount": 0,
+   "propertiesResidentialForSaleCount": 20,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 53,
+   "experienceSince": 2020,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/170x200.jpg?v=20556705dfac86e9cb2af1fac41d820b",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/170x200.jpg?v=20556705dfac86e9cb2af1fac41d820b",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/170x200.webp?v=846b00d14f7684076a9619001543b310",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/260x200.jpg?v=0577532ffc7e1804c297ae11d6097dbc",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/520x400.jpg?v=5454bfe5ced47aeca3e1876db34d3269",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/520x400.jpg?v=5454bfe5ced47aeca3e1876db34d3269",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/520x400.webp?v=1fd217434deb10e6a38131539e7caf67",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/260x200.jpg?v=0577532ffc7e1804c297ae11d6097dbc",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/260x200.webp?v=067e0e0dc7a4c43f8fe3602f67820ae2",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/130x100.jpg?v=b8c1542e27b5a97b82994a925e596473",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/130x100.jpg?v=b8c1542e27b5a97b82994a925e596473",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/130x100.webp?v=494b0d299e1ca7d473c700eeafdeca51",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/38x38.jpg?v=39b7001835fca57f7fe34b623c8dfff3",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/38x38.jpg?v=39b7001835fca57f7fe34b623c8dfff3",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/366650/aa47c603-98f3-4d9d-b1ff-b54979fd2e3d/38x38.webp?v=65235934e84eae6b32702d04d840b21b"
+    }
+   },
+   "position": "Sales Consultant",
+   "bio": "Born and raised in Gran Canaria, Spain, Hamza moved to Málaga–Marbella where he began his journey in real estate before relocating to the United Kingdom for five years. During his time in the UK, he also worked as a padel coach, strengthening his communication and client-focused skills.\n\nDriven by ambition and a passion for property, Hamza later moved to Dubai to elevate his real estate career. With over three years of experience in Dubai’s competitive market, he is recognized for his professionalism, market understanding, and commitment to delivering exceptional client service. He takes pride in guiding clients with transparency, dedication, and attention to detail to ensure the best outcomes.\n\nOutside of real estate, Hamza enjoys the gym, travelling, spending time at the beach, and making the most of time with family whenever the industry allows.\n",
+   "nationality": {
+    "code": "ES",
+    "name": "Spain"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 94,
+   "isTransactionsVisible": true,
+   "transactionsCount": 7,
+   "listingLevel": 0,
+   "averageRating": 4.9,
+   "reviewCount": 9,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 1,
+    "score5": 8
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    },
+    {
+     "id": 2,
+     "name": "Arabic"
+    },
+    {
+     "id": 10,
+     "name": "Spanish"
+    },
+    {
+     "id": 23,
+     "name": "Portuguese"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 94,
+     "name": "The Views"
+    },
+    {
+     "id": 60,
+     "name": "Greens"
+    },
+    {
+     "id": 103,
+     "name": "The Hills"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 6,
+   "claimedTransactionsRent": 1,
+   "claimedTransactionsDealVolume": 11400000,
+   "claimedTransactionsSaleAVGAmount": 1870000,
+   "claimedTransactionsRentAVGAmount": 180000,
+   "claimedTransactionsRentTotalAmount": 180000,
+   "claimedTransactionsSaleTotalAmount": 11220000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.60.854.3480",
+      "community": "Greens",
+      "tower": "Al Dhafra 4"
+     },
+     "dealType": "Sale",
+     "price": 770000,
+     "date": "2026-10-08",
+     "propertyType": "Apartment",
+     "bedroom": "studio"
+    },
+    {
+     "location": {
+      "path": "1.60.856.3486",
+      "community": "Greens",
+      "tower": "Al Ghozlan 2"
+     },
+     "dealType": "Sale",
+     "price": 1780000,
+     "date": "2026-06-09",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.60.854.3479",
+      "community": "Greens",
+      "tower": "Al Dhafra 3"
+     },
+     "dealType": "Sale",
+     "price": 1520000,
+     "date": "2026-06-01",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.60.854.3479",
+      "community": "Greens",
+      "tower": "Al Dhafra 3"
+     },
+     "dealType": "Sale",
+     "price": 1550000,
+     "date": "2026-04-21",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.94.1274",
+      "community": "The Views",
+      "tower": "Mosela"
+     },
+     "dealType": "Rent",
+     "price": 180000,
+     "date": "2026-02-27",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.94.1274",
+      "community": "The Views",
+      "tower": "Mosela"
+     },
+     "dealType": "Sale",
+     "price": 2150000,
+     "date": "2026-02-27",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.103.1314.4627",
+      "community": "The Hills",
+      "tower": "Vida Residences 1"
+     },
+     "dealType": "Sale",
+     "price": 3450000,
+     "date": "2026-02-27",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    }
+   ],
+   "broker": {
+    "id": 4338,
+    "slug": "barnes-international-realty-v2-4338",
+    "name": "Barnes International Realty",
+    "logo": {
+     "token": "34647a85609699b0c65646fa15eacdf045055f84",
+     "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+     }
+    },
+    "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+    "location": "Dubai",
+    "clientId": 4338
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "78718"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 481254,
+   "slug": "marija-shopova",
+   "name": "Marija Shopova",
+   "userId": 0,
+   "superagent": false,
+   "verified": true,
+   "totalProperties": 12,
+   "propertiesResidentialForRentCount": 10,
+   "propertiesResidentialForSaleCount": 2,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 601,
+   "experienceSince": 2024,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/200x200.jpg?v=65b07eb02a4fda79926cfc597a674236",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/200x200.jpg?v=65b07eb02a4fda79926cfc597a674236",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/200x200.webp?v=cc3dfc8d460f37b9dd89bc025abec7e1",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/400x400.jpg?v=d24ac51af22fa207280bc55e9291bb96",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/520x520.jpg?v=19c06dab5581dd71a0320987423fda94",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/520x520.jpg?v=19c06dab5581dd71a0320987423fda94",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/520x520.webp?v=87ad0709abe287497a38f6ce40066fc4",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/400x400.jpg?v=d24ac51af22fa207280bc55e9291bb96",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/400x400.webp?v=e0631e524fd3288b54c1a31effe41e7a",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/130x130.jpg?v=1ae7d5688968d103be0080e801091fcd",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/130x130.jpg?v=1ae7d5688968d103be0080e801091fcd",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/130x130.webp?v=7cca11f16651edad2f1eef250f77084c",
+     "original": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/original.png?v=ba7cda94db39f76a7dc3ce9be603233b",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/38x38.jpg?v=08f8e69e9bc47f8ab94f4392cf32d71b",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/38x38.jpg?v=08f8e69e9bc47f8ab94f4392cf32d71b",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/481254/2320edfc-5361-4c45-a1d5-b66e9a7d1565/38x38.webp?v=89eadf3f05b688c3d984ef63e03d21b2"
+    }
+   },
+   "position": "Leasing Consultant",
+   "bio": "Meet Marija, a dedicated real estate professional with extensive knowledge of Dubai’s property market and strong negotiation skills. She is committed to helping clients achieve the best possible results, whether buying, selling, or renting a property.\n\nWith a personalized approach and clear communication, Marija guides her clients through every step of the real estate journey. She takes the time to understand their unique needs, preferences, and investment goals, connecting them with properties that best suit their requirements.\n\nHer commitment to exceptional service ensures that every client feels supported, informed, and confident when making property decisions in Dubai’s dynamic real estate market.",
+   "nationality": {
+    "code": "MK",
+    "name": "North Macedonia"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 94,
+   "isTransactionsVisible": true,
+   "transactionsCount": 0,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 1,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 0
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 50,
+     "name": "Dubai Marina"
+    },
+    {
+     "id": 86,
+     "name": "Palm Jumeirah"
+    },
+    {
+     "id": 580,
+     "name": "Dubai Islands"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 0,
+   "claimedTransactionsRent": 0,
+   "claimedTransactionsDealVolume": 0,
+   "claimedTransactionsSaleAVGAmount": 0,
+   "claimedTransactionsRentAVGAmount": 0,
+   "claimedTransactionsRentTotalAmount": 0,
+   "claimedTransactionsSaleTotalAmount": 0,
+   "claimedTransactionsList": [],
+   "broker": {
+    "id": 4338,
+    "slug": "barnes-international-realty-v2-4338",
+    "name": "Barnes International Realty",
+    "logo": {
+     "token": "34647a85609699b0c65646fa15eacdf045055f84",
+     "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+     }
+    },
+    "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+    "location": "Dubai",
+    "clientId": 4338
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "82687"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  }
+ ],
+ "totals": {
+  "total": 73,
+  "total_pages": 15,
+  "page": 2
+ }
+}

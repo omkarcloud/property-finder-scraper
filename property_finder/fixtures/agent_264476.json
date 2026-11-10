@@ -1,0 +1,180 @@
+{
+ "id": 264476,
+ "slug": "nathan-blake",
+ "name": "Nathan Blake",
+ "email": "",
+ "phone": "",
+ "whatsappPhone": null,
+ "userId": 116810,
+ "superagent": true,
+ "verified": true,
+ "totalProperties": 7,
+ "propertiesResidentialForRentCount": 0,
+ "propertiesResidentialForSaleCount": 7,
+ "propertiesCommercialForRentCount": 0,
+ "propertiesCommercialForSaleCount": 0,
+ "avgWhatsappResponseTime": 19,
+ "experienceSince": 2016,
+ "image": {
+  "token": "",
+  "path": "",
+  "links": {
+   "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/170x200.jpg?v=ad192f467b8f46490dd2712a9ac4629a",
+   "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/170x200.jpg?v=ad192f467b8f46490dd2712a9ac4629a",
+   "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/170x200.webp?v=c9b152a1bdf47a11eefba52e74ac732d",
+   "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+   "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/520x400.jpg?v=4a12663a45751a92776b023a590e033f",
+   "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/520x400.jpg?v=4a12663a45751a92776b023a590e033f",
+   "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/520x400.webp?v=696b8b14b8789cb76f842d05ec794083",
+   "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.jpg?v=326564eb39a420b7afa00312a0f97e58",
+   "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/260x200.webp?v=9f51a1aa5e77233cf3a0a8992dc1860f",
+   "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/130x100.jpg?v=c5fcff97541e48db2c81525e39bfe1c3",
+   "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/130x100.jpg?v=c5fcff97541e48db2c81525e39bfe1c3",
+   "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/130x100.webp?v=19607f81a946e3a4670f570c50d85fe0",
+   "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/38x38.jpg?v=6d341faa6af958aa6baa25de58123096",
+   "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/38x38.jpg?v=6d341faa6af958aa6baa25de58123096",
+   "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/264476/ca94d8cc-b288-4dbb-a8e2-0e9e14d1aa09/38x38.webp?v=88e57e996b5ed65a85e5d907f5b2d2ca"
+  }
+ },
+ "position": "Area Manager Emirates Living",
+ "bio": "Nathan's journey from managing high-end vehicles at Mercedes Benz in the UK to a globetrotting adventure led him to Dubai's vibrant real estate scene. Headhunted for his expertise, Nathan embraced the opportunity, blending his passion for precision and quality service, becoming one of the leading agents in his area of Emirates Living. \nWith over 10 years of experience in the area, armed with a wealth of international experience and a deep understanding of Dubai's market nuances, Nathan is dedicated to helping clients find something to suit their needs, whether it's buying, selling, or investing. With Nathan, your property aspirations are in expert hands.",
+ "nationality": {
+  "code": "GB",
+  "name": "United Kingdom"
+ },
+ "linkedinAddress": "",
+ "licenseNumber": "",
+ "ranking": 78,
+ "isTransactionsVisible": true,
+ "transactionsCount": 5,
+ "listingLevel": 0,
+ "averageRating": 5,
+ "reviewCount": 4,
+ "medianListingQuality": 100,
+ "ratingDistribution": {
+  "score1": 0,
+  "score2": 0,
+  "score3": 0,
+  "score4": 0,
+  "score5": 4
+ },
+ "languages": [
+  {
+   "id": 1,
+   "name": "English"
+  }
+ ],
+ "topLocations": [
+  {
+   "id": 89,
+   "name": "The Springs"
+  },
+  {
+   "id": 76,
+   "name": "Meadows"
+  }
+ ],
+ "superAgentAwardImageUrl": "",
+ "claimedTransactionsSale": 5,
+ "claimedTransactionsRent": 0,
+ "claimedTransactionsDealVolume": 25230000,
+ "claimedTransactionsSaleAVGAmount": 5046000,
+ "claimedTransactionsRentAVGAmount": 0,
+ "claimedTransactionsRentTotalAmount": 0,
+ "claimedTransactionsSaleTotalAmount": 25230000,
+ "claimedTransactionsList": [
+  {
+   "location": {
+    "path": "1.89.4466",
+    "community": "The Springs",
+    "tower": "Springs 7"
+   },
+   "dealType": "Sale",
+   "price": 5750000,
+   "date": "2026-04-21",
+   "propertyType": "Villa",
+   "bedroom": "3"
+  },
+  {
+   "location": {
+    "path": "1.89.4474",
+    "community": "The Springs",
+    "tower": "Springs 15"
+   },
+   "dealType": "Sale",
+   "price": 4990000,
+   "date": "2026-04-20",
+   "propertyType": "Villa",
+   "bedroom": "3"
+  },
+  {
+   "location": {
+    "path": "1.89.4474",
+    "community": "The Springs",
+    "tower": "Springs 15"
+   },
+   "dealType": "Sale",
+   "price": 4990000,
+   "date": "2026-02-02",
+   "propertyType": "Villa",
+   "bedroom": "3"
+  },
+  {
+   "location": {
+    "path": "1.89.4474",
+    "community": "The Springs",
+    "tower": "Springs 15"
+   },
+   "dealType": "Sale",
+   "price": 5600000,
+   "date": "2026-01-13",
+   "propertyType": "Villa",
+   "bedroom": "3"
+  },
+  {
+   "location": {
+    "path": "1.89.4463",
+    "community": "The Springs",
+    "tower": "Springs 4"
+   },
+   "dealType": "Sale",
+   "price": 3900000,
+   "date": "2026-01-02",
+   "propertyType": "Villa",
+   "bedroom": "2"
+  }
+ ],
+ "broker": {
+  "id": 4338,
+  "slug": "barnes-international-realty-v2-4338",
+  "name": "Barnes International Realty",
+  "logo": {
+   "token": "34647a85609699b0c65646fa15eacdf045055f84",
+   "path": "/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/original.png?v=9ac661461d35c93d7e64608b910b91f3",
+   "links": {
+    "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+    "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+    "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.jpg?v=d90d56cc02cc4aaa8cc05c7f9219d643",
+    "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/520x400.webp?v=54150e6d80d1f9b20b71d5e04875cc28",
+    "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.jpg?v=027075d61cbc373388edf9c84f8a8af0",
+    "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/260x200.webp?v=97a226b1edf3e799a5507bb355e6dfe9",
+    "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+    "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.jpg?v=a033ee93038289e8c7d673b88d74fd5f",
+    "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/178x98.webp?v=dd8f9b53b910c393eb422a8cdb65dfcb",
+    "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+    "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.jpg?v=b956e22836869f3863b72494ae71c7e6",
+    "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4338/1b9c6a6b-8221-4b42-b79d-4c03e10218f0/130x100.webp?v=4447a1c06e6332da7b8311429500dcff"
+   }
+  },
+  "address": "Office 21 M Floor, Building Golden Mile 2, Palm Jumeirah, Palm Jumeirah Road, Dubai, PO Box 0000",
+  "location": "Dubai",
+  "clientId": 4338
+ },
+ "compliances": [
+  {
+   "type": "brn",
+   "value": "46187"
+  }
+ ],
+ "transactionsInLocation": null
+}

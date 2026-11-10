@@ -1,0 +1,1733 @@
+{
+ "location_id": 50,
+ "top_parent_location_id": null,
+ "parent_location_id": 1,
+ "level": 1,
+ "is_top_level": true,
+ "name": {
+  "en": "Dubai Marina",
+  "ar": "دبي مارينا"
+ },
+ "images": [],
+ "reviews": {
+  "count": 12,
+  "aggregate": {
+   "overall_score": 3.9,
+   "connectivity_and_traffic": 3.7,
+   "peace_and_quiet": 3.8,
+   "parks_nearby": 4.1,
+   "family_friendly": 4.1,
+   "maintenance": 4.3,
+   "parking_area": 3.4,
+   "amenities": 4.2
+  },
+  "page": 1,
+  "pageSize": 10,
+  "pageCount": 2,
+  "sort": "newest",
+  "reviews": [
+   {
+    "id": "oexg9oebwz2lcbicvc5yf57d",
+    "body": {
+     "en": "Dubai Marina is a beautiful place with amazing waterfront views, great restaurants, and a lively atmosphere. It's perfect for a walk, relaxing, or enjoying the city skyline.",
+     "ar": "دبي مارينا هي منطقة جميلة ذات إطلالات مائية خلابة، ومطاعم رائعة، وأجواء حيوية. إنها مثالية للمشي، أو الاسترخاء، أو الاستمتاع بأفق المدينة."
+    },
+    "language": "en",
+    "review_date": "2026-07-21T11:46:06.617Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Yosef",
+     "ar": "Yosef"
+    },
+    "scores": {
+     "overall_score": 3.7,
+     "connectivity_and_traffic": 3,
+     "peace_and_quiet": 2,
+     "parks_nearby": 4,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 2,
+     "amenities": 5
+    },
+    "like_count": 4,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "kmg6r9nwruqdcq065y1qi11f",
+    "body": {
+     "en": "Dubai Marina is one of the best communities in Dubai",
+     "ar": "تعتبر دبي مارينا واحدة من أفضل المجتمعات في دبي"
+    },
+    "language": "en",
+    "review_date": "2026-06-01T08:32:08.974Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Yosef",
+     "ar": "Yosef"
+    },
+    "scores": {
+     "overall_score": 3.8,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 1,
+     "parks_nearby": 4,
+     "family_friendly": 5,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 4,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "eekh3oxw1kuhe760492fxaxr",
+    "body": {
+     "en": "Dubai Marina is generally a great community; however, commute-wise, it is extremely difficult.\n\nGoing in and out of the Marina is not necessarily the easiest commute. Additionally, because of the tram, you will encounter a lot of traffic lights. Let alone the fact that it is known for being a tourist community, it gets extremely busy during the winter months, starting in November and lasting until February.\n\nIf you understand the pros and cons of it. ",
+     "ar": "دبي مارينا بشكل عام مجتمع رائع؛ إلا أنه من حيث التنقل، يعتبر صعبًا للغاية. الدخول والخروج من المارينا ليس بالضرورة أسهل تنقل. بالإضافة إلى ذلك، بسبب الترام، ستواجه العديد من إشارات المرور. ناهيك عن كونه مجتمعًا سياحيًا معروفًا، فإنه يصبح مزدحمًا للغاية خلال أشهر الشتاء، بدءًا من نوفمبر وحتى فبراير. إذا كنت تفهم إيجابياته وسلبياته."
+    },
+    "language": "en",
+    "review_date": "2026-03-26T06:10:05.922Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Ahmed",
+     "ar": "Ahmed"
+    },
+    "scores": {
+     "overall_score": 2,
+     "connectivity_and_traffic": 4,
+     "peace_and_quiet": 1,
+     "parks_nearby": 2,
+     "family_friendly": 1,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "n9oj13loo0w8gvjg4cnz376t",
+    "body": {
+     "en": "Dubai Marina has both residential and commercial buildings and offices. Most of the popular companies are located in Dubai Marina. It has people from all around the world, you could experience different culture. Dubai Marina is good for relaxing around the water in cafes and restaurants. It is nearby to Marina mall, Nakheel mall, Palm Jumeriah, JLT, Blue water Island and JBR. Metro, tram and bus facilities are available. Not much parks for the kids to play but most of the residential buildings has swimming pool and play areas. Nice view of ships and cruise around. Views are amazing from the balconies of most of the buildings. Main tech hubs are situated here. People who wish to have peaceful, greenery place might not like this busy area.",
+     "ar": "تضم دبي مارينا مبانٍ سكنية وتجارية ومكاتب. تتمركز معظم الشركات المعروفة في دبي مارينا. يقطنها أشخاص من جميع أنحاء العالم، مما يتيح لك تجربة ثقافات مختلفة. تعتبر دبي مارينا مكانًا مثاليًا للاسترخاء بجانب المياه في المقاهي والمطاعم. تقع بالقرب من مارينا مول، نخيل مول، نخلة جميرا، أبراج بحيرة جميرا (JLT)، جزيرة بلو ووترز، وجميرا بيتش ريزيدنس (JBR). تتوفر فيها مرافق المترو والترام والحافلات. لا يوجد الكثير من الحدائق لألعاب الأطفال، ولكن معظم المباني السكنية تحتوي على مسابح ومناطق لعب. تتميز بإطلالات جميلة على السفن واليخوت التي تبحر في المنطقة. المناظر خلابة من شرفات معظم المباني. تتمركز فيها مراكز التكنولوجيا الرئيسية. قد لا يفضل الأشخاص الذين يبحثون عن مكان هادئ ومليء بالخضرة هذه المنطقة المزدحمة."
+    },
+    "language": "en",
+    "review_date": "2026-03-17T19:20:26.929Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Gomathy",
+     "ar": "Gomathy"
+    },
+    "scores": {
+     "overall_score": 2.8,
+     "connectivity_and_traffic": 4,
+     "peace_and_quiet": 2,
+     "parks_nearby": 3,
+     "family_friendly": 2,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 1,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "rtu12rxxfhcpq2nvexd5chpp",
+    "body": {
+     "en": "Very lively and vibrant area! The Marina Walk/Promenade is the highlight of this community, with beautiful walking path along the marina harbour. This community has great restaurants across all cuisines. Weather gets windy during evening (non-summer months). Ample places for families to stroll, walk and enjoy. Lived here since a more than a year and absolutely loved it. Traffic can be a challenge during peak hours. Marina also offers great connectivity across tram, metro and bus. The community is very diverse with residents (and tourists) from all over the globe which adds to unique touch. Highlight recommended for young professionals and new families ",
+     "ar": "منطقة حيوية ونابضة بالحياة للغاية! ممشى المارينا هو أبرز ما يميز هذا المجتمع، مع مسار جميل للمشي على طول مرفأ المارينا. يحتوي هذا المجتمع على مطاعم رائعة تقدم مأكولات من جميع المطابخ. يصبح الطقس عاصفاً خلال المساء (في غير أشهر الصيف). أماكن وافرة للعائلات للتنزه والمشي والاستمتاع. عشت هنا لأكثر من عام وأحببت المكان تماماً. قد تكون حركة المرور تحدياً خلال ساعات الذروة. توفر المارينا أيضاً اتصالاً ممتازاً عبر الترام والمترو والحافلات. المجتمع متنوع للغاية مع سكان (وسياح) من جميع أنحاء العالم مما يضيف لمسة فريدة. موصى به بشدة للمهنيين الشباب والعائلات الجديدة."
+    },
+    "language": "en",
+    "review_date": "2026-03-13T18:16:37.407Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Hamzah",
+     "ar": "Hamzah"
+    },
+    "scores": {
+     "overall_score": 4.3,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 4,
+     "parks_nearby": 4,
+     "family_friendly": 4,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 1,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "yuk4c3vy560nvtjdm4i9qz6g",
+    "body": {
+     "en": "Dubai Marina delivers on its promise of a vibrant, walkable lifestyle. The buzz of the neighbourhood is great - there's always energy, whether you're heading out for a morning coffee or an evening stroll. The Marina Walk is a genuine highlight, and the sheer variety of restaurants, cafés and shops on your doorstep is hard to beat. For anyone who wants convenience and a lively atmosphere, it genuinely delivers.\n\nThe downsides are real though. Traffic can be seriously frustrating, particularly at peak hours, and the ongoing roadworks have added another layer of congestion that tests your patience. The neighbourhood can also tip into feeling overcrowded at weekends and during busier periods - which, depending on your mood, can make it feel less like a community and more like a tourist hotspot.\n\nOverall, a great place to live if you embrace the energy - just factor in the commute.",
+     "ar": "تُحقق دبي مارينا وعدها بتقديم نمط حياة حيوي يسهل فيه التنقل مشيًا. الأجواء الصاخبة والنابضة بالحياة في الحي رائعة؛ هناك دائمًا طاقة وحيوية مستمرة، سواء كنت تتجه لتناول قهوة الصباح أو نزهة مسائية. يُعد ممشى المارينا من أبرز المعالم، كما أن التنوع الهائل للمطاعم والمقاهي والمتاجر على عتبة بابك لا يُضاهى. لأي شخص يرغب في الراحة والأجواء الحيوية، فإن هذه المنطقة تلبي احتياجاته حقًا.\n\nومع ذلك، فإن السلبيات حقيقية. يمكن أن تكون حركة المرور مزعجة للغاية، خاصة في ساعات الذروة، وقد أضافت أعمال الطرق المستمرة طبقة أخرى من الازدحام التي تختبر صبرك. يمكن أن يصبح الحي أيضًا مزدحمًا للغاية في عطلات نهاية الأسبوع وخلال الفترات الأكثر نشاطًا، مما قد يجعله –حسب مزاجك– يبدو وكأنه وجهة سياحية صاخبة أكثر منه مجتمعًا سكنيًا.\n\nبشكل عام، إنه مكان رائع للعيش إذا كنت تتقبل طاقته وحيويته – فقط ضع في اعتبارك التنقلات اليومية."
+    },
+    "language": "en",
+    "review_date": "2026-03-13T11:55:18.633Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Donna",
+     "ar": "Donna"
+    },
+    "scores": {
+     "overall_score": 2.5,
+     "connectivity_and_traffic": 4,
+     "peace_and_quiet": 1,
+     "parks_nearby": 3,
+     "family_friendly": 2,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 1,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "hjwfq8ryduabhi7vpa3btxni",
+    "body": {
+     "en": "Dubai Marina is one of Dubai’s most vibrant waterfront communities, known for its stunning skyline, luxury towers, and lively atmosphere. With attractions like Dubai Marina Walk and easy access to the Dubai Metro, it offers a perfect mix of modern living, dining, and entertainment.",
+     "ar": "دبي مارينا هي واحدة من أكثر المجتمعات السكنية حيوية على الواجهة المائية في دبي، وتشتهر بأفقها العمراني الخلاب، وأبراجها الفاخرة، وأجوائها النابضة بالحياة. مع معالم جذب مثل ممشى دبي مارينا وسهولة الوصول إلى مترو دبي، فإنها توفر مزيجًا مثاليًا من الحياة العصرية، وخيارات الطعام، والترفيه."
+    },
+    "language": "en",
+    "review_date": "2026-03-13T11:42:27.086Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Yasmin Meky",
+     "ar": "Yasmin Meky"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "cg776h0p77ewjey5v4phpyh9",
+    "body": {
+     "en": "Dubai Marina is a lively and vibrant place to live. Walking around the Marina during the early dawn or in the evening feels quite surreal. Marina Walk has plenty of places to eat, drink, and spend time with friends, making it a great spot to unwind, especially since it feels removed from the city’s usual traffic and noise.\n\nThe area is very convenient, with easy access to malls, supermarkets, and daily essentials. There are also many fitness studios, Pilates studios, gyms, and wellness spaces, which makes it great for maintaining an active lifestyle. It is also close to the beach.\n\nThat said, traffic can get quite heavy depending on where you live, so it’s worth factoring in an extra 15–20 minutes during peak hours.\n",
+     "ar": "دبي مارينا مكان معيشة حيوي ونابض بالحياة. المشي حول المارينا في الفجر الباكر أو في المساء يمنح شعوراً أشبه بالخيال. يزخر ممشى المارينا بالعديد من المطاعم والمقاهي وأماكن قضاء الوقت مع الأصدقاء، مما يجعله وجهة رائعة للاسترخاء، خاصة وأنه يبدو بعيداً عن زحمة المدينة المعتادة وضجيجها.\n\nتتمتع المنطقة بموقع ملائم للغاية، مع سهولة الوصول إلى مراكز التسوق ومحلات السوبر ماركت والاحتياجات اليومية. كما تضم العديد من استوديوهات اللياقة البدنية والبيلاتس والصالات الرياضية ومراكز العافية، مما يجعلها مثالية لاتباع نمط حياة نشط. وهي أيضاً قريبة من الشاطئ.\n\nولكن، قد يكون الازدحام المروري كثيفاً جداً حسب موقع إقامتك، لذا يُنصح بأخذ 15-20 دقيقة إضافية في الاعتبار خلال ساعات الذروة."
+    },
+    "language": "en",
+    "review_date": "2026-03-13T06:39:04.483Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Shriya",
+     "ar": "Shriya"
+    },
+    "scores": {
+     "overall_score": 4,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 2,
+     "parks_nearby": 4,
+     "family_friendly": 5,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "r4mksc05ffopeskutikrqqie",
+    "body": {
+     "en": "Dubai Marina is a great place to live for families and people of all ages. The area offers several outdoor spaces, including parks, playgrounds, and the famous Marina Walk, which is perfect for walking, jogging, or simply relaxing by the waterfront.\n\nIt is also located close to the beach, allowing residents to enjoy activities such as sunbathing and seaside walks. For commuting, Dubai Marina is well connected through the Dubai Metro Red Line and the Dubai Tram, making it convenient to travel to other parts of the city.\n\nIn addition, the area features a shopping mall, a wide range of restaurants and cafes, and impressive modern architecture. Compared to some other busy areas in Dubai, certain parts of the Marina can also feel less crowded while still offering a vibrant lifestyle.",
+     "ar": "تُعد دبي مارينا مكانًا رائعًا للعيش للعائلات والأشخاص من جميع الأعمار. توفر المنطقة العديد من المساحات الخارجية، بما في ذلك المتنزهات ومناطق اللعب، وممشى المارينا الشهير، والذي يُعد مثاليًا للمشي أو الركض أو مجرد الاسترخاء بجانب الواجهة المائية. كما تقع المنطقة بالقرب من الشاطئ، مما يتيح للمقيمين الاستمتاع بأنشطة مثل حمامات الشمس والمشي على شاطئ البحر. وللتنقل، تتميز دبي مارينا باتصال جيد عبر الخط الأحمر لمترو دبي وترام دبي، مما يسهل الوصول إلى أجزاء أخرى من المدينة. بالإضافة إلى ذلك، تضم المنطقة مركزًا للتسوق، ومجموعة واسعة من المطاعم والمقاهي، وهندسة معمارية حديثة ومُبهرة. مقارنة ببعض المناطق المزدحمة الأخرى في دبي، يمكن أن تبدو أجزاء معينة من المارينا أقل ازدحامًا، بينما لا تزال توفر نمط حياة نابضًا بالحياة."
+    },
+    "language": "en",
+    "review_date": "2026-03-12T12:38:25.179Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Kirk Carino",
+     "ar": "Kirk Carino"
+    },
+    "scores": {
+     "overall_score": 4.5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 3,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   },
+   {
+    "id": "rtozx7gzhs776s2ziysqcf8x",
+    "body": {
+     "en": "Pros:\n\n- Great place to live for tourists and residents alike\n- Super convenient area to live in (plenty of supermarkets, pharmacies, etc nearby)\n- Cleanliness\n- Walkability (the Marina Walk is less than 3 minutes away by foot)\n- Vibrant lifestyle\n\nCons:\n\n- Traffic is a nightmare here, especially in recent years (plenty of bottlenecks)\n- High cost of living\n- Noise and crowds (cars revving, parties, etc)",
+     "ar": "الإيجابيات:\n\n- مكان رائع للعيش للسياح والمقيمين على حد سواء\n- منطقة مريحة للغاية للسكن (وفرة السوبر ماركت والصيدليات وما إلى ذلك في الجوار)\n- النظافة\n- سهولة التنقل سيراً على الأقدام (ممشى المارينا يبعد أقل من 3 دقائق سيراً)\n- نمط حياة نابض بالحياة\n\nالسلبيات:\n\n- الازدحام المروري كابوس هنا، خاصة في السنوات الأخيرة (وفرة الاختناقات المرورية)\n- ارتفاع تكلفة المعيشة\n- الضوضاء والحشود (صخب السيارات، الحفلات، إلخ)"
+    },
+    "language": "en",
+    "review_date": "2026-03-12T12:05:16.569Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Mahmoud",
+     "ar": "Mahmoud"
+    },
+    "scores": {
+     "overall_score": 3,
+     "connectivity_and_traffic": 4,
+     "peace_and_quiet": 1,
+     "parks_nearby": 4,
+     "family_friendly": 3,
+     "maintenance": 0,
+     "parking_area": 0,
+     "amenities": 0
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 50,
+     "name": {
+      "en": "Dubai Marina",
+      "ar": "دبي مارينا"
+     }
+    }
+   }
+  ]
+ },
+ "children": {
+  "count": 1126,
+  "aggregate": {
+   "overall_score": 3.9,
+   "connectivity_and_traffic": 3.7,
+   "peace_and_quiet": 3.8,
+   "parks_nearby": 4.1,
+   "family_friendly": 4.1,
+   "maintenance": 4.3,
+   "parking_area": 3.4,
+   "amenities": 4.2
+  },
+  "page": 1,
+  "pageSize": 10,
+  "pageCount": 113,
+  "sort": "newest",
+  "reviews": [
+   {
+    "id": "ykqtut63d1q193bbxz5th91d",
+    "body": {
+     "en": "Really comfortably located in the heart of Dubai Marina. Perfect for families with access to the Marina Walk and a lot of restaurants nearby. Really worth for what you get in return.",
+     "ar": "موقعه مريح للغاية في قلب دبي مارينا. مثالي للعائلات مع إمكانية الوصول إلى ممشى المارينا والعديد من المطاعم القريبة. يستحق حقاً ما تحصل عليه في المقابل."
+    },
+    "language": "en",
+    "review_date": "2026-10-13T18:17:08.021Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Emily Walker",
+     "ar": "Emily Walker"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3052,
+     "name": {
+      "en": "Iris Blue",
+      "ar": "أيريس بلو"
+     }
+    }
+   },
+   {
+    "id": "kkss100xsfqrrbzieh4m1mcu",
+    "body": {
+     "en": "Excellent location and building quality ",
+     "ar": "موقع ممتاز وجودة بناء عالية"
+    },
+    "language": "en",
+    "review_date": "2026-10-13T18:09:56.783Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Fred Ian",
+     "ar": "Fred Ian"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3052,
+     "name": {
+      "en": "Iris Blue",
+      "ar": "أيريس بلو"
+     }
+    }
+   },
+   {
+    "id": "dto2c6mg8tc02makfsydev27",
+    "body": {
+     "en": "Very nice building. I like the location and the proximity to the JBR area. As well as metro and tram station is not far. Many restaurants nearby!",
+     "ar": "مبنى جميل جداً. أعجبني الموقع والقرب من منطقة JBR. وكذلك محطة المترو والترام ليست بعيدة. العديد من المطاعم قريبة!"
+    },
+    "language": "en",
+    "review_date": "2026-10-13T18:07:15.058Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Tom Uriel",
+     "ar": "Tom Uriel"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3052,
+     "name": {
+      "en": "Iris Blue",
+      "ar": "أيريس بلو"
+     }
+    }
+   },
+   {
+    "id": "nb5pdd7n32pddkqdx56sb6my",
+    "body": {
+     "en": "Nice building, wanted to stay longer. Recommended.\n",
+     "ar": "مبنى جميل، تمنيت لو بقيت لفترة أطول. أوصي به."
+    },
+    "language": "en",
+    "review_date": "2026-10-10T19:30:46.329Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Tom Walker",
+     "ar": "Tom Walker"
+    },
+    "scores": {
+     "overall_score": 4.4,
+     "connectivity_and_traffic": 4,
+     "peace_and_quiet": 4,
+     "parks_nearby": 4,
+     "family_friendly": 5,
+     "maintenance": 4,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3052,
+     "name": {
+      "en": "Iris Blue",
+      "ar": "أيريس بلو"
+     }
+    }
+   },
+   {
+    "id": "wa76zh0lxuialz2qypjv3rgr",
+    "body": {
+     "en": "A well-built residential tower with 29 residential floors, it is relatively low-rise compared to many of the taller buildings in Dubai Marina. The solid, fire-resistant walls add to the sense of safety and quality construction.\nThe building has three lifts, which are sufficient for its size, with minimal crowding and virtually no waiting times. The swimming pool is spacious and offers beautiful views of the Marina, while the green outdoor area provides a pleasant space for children to play.\nThe gym is relatively small, but it is equipped with high-quality Technogym equipment. The location is another major advantage: directly on the Marina promenade and walking path, next to the boat station, yet away from the main traffic. 10 min walk  to the Metro Station. Many apartments enjoy lovely Marina or sea views.\nRecently the lobby was rennovated and with the new Facility management company it is expected to bring up the maintenance to the highest standards.  \n",
+     "ar": "برج سكني متين البناء يضم 29 طابقًا سكنيًا، ويُعتبر منخفض الارتفاع نسبيًا مقارنة بالعديد من المباني الشاهقة في دبي مارينا. تُعزز الجدران المتينة المقاومة للحريق الشعور بالأمان وجودة البناء. يضم المبنى ثلاثة مصاعد، وهي كافية لحجمه، مع حد أدنى من الازدحام وعدم وجود أوقات انتظار تقريبًا. المسبح فسيح ويوفر إطلالات جميلة على المارينا، بينما توفر المنطقة الخضراء الخارجية مساحة ممتعة للأطفال للعب. صالة الألعاب الرياضية صغيرة نسبيًا، لكنها مجهزة بمعدات Technogym عالية الجودة. الموقع ميزة رئيسية أخرى: فهو يقع مباشرة على ممشى المارينا ومسار المشي، بجوار محطة القوارب، ومع ذلك بعيدًا عن الازدحام المروري الرئيسي. 10 دقائق سيرًا على الأقدام إلى محطة المترو. تتمتع العديد من الشقق بإطلالات رائعة على المارينا أو البحر. تم تجديد الردهة (اللوبي) مؤخرًا، ومع شركة إدارة المرافق الجديدة، من المتوقع أن ترتقي الصيانة إلى أعلى المعايير."
+    },
+    "language": "en",
+    "review_date": "2026-10-10T19:20:33.784Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Lara",
+     "ar": "Lara"
+    },
+    "scores": {
+     "overall_score": 4.7,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 4,
+     "parking_area": 5,
+     "amenities": 4
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3052,
+     "name": {
+      "en": "Iris Blue",
+      "ar": "أيريس بلو"
+     }
+    }
+   },
+   {
+    "id": "rpsftw7sg7qo0hgd8d5pczrj",
+    "body": {
+     "en": "Love the building, but the traffic around here is INSANE ",
+     "ar": "أحب المبنى، لكن حركة المرور هنا جنونية."
+    },
+    "language": "en",
+    "review_date": "2026-10-02T17:45:26.960Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Anonymous",
+     "ar": "مجهول"
+    },
+    "scores": {
+     "overall_score": 3.3,
+     "connectivity_and_traffic": 3,
+     "peace_and_quiet": 3,
+     "parks_nearby": 2,
+     "family_friendly": 2,
+     "maintenance": 5,
+     "parking_area": 3,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 9086,
+     "name": {
+      "en": "Jumeirah Living Marina Gate",
+      "ar": "جميرا ليفينج مارينا جات"
+     }
+    }
+   },
+   {
+    "id": "u1h9clr5flr3w9rdtihwx7ap",
+    "body": {
+     "en": "AmazinMarina View Tower is fantastic—just steps from the Metro and right by the Marina Promenade. It’s convenient, scenic, and a really lovely place to live.",
+     "ar": "برج أمازين مارينا فيو مذهل — على بُعد خطوات فقط من المترو ومحاذٍ تمامًا لممشى المارينا. إنه ملائم، ويتمتع بإطلالات خلابة، ومكان رائع جدًا للعيش."
+    },
+    "language": "en",
+    "review_date": "2026-10-02T13:28:04.804Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Anonymous",
+     "ar": "مجهول"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3160,
+     "name": {
+      "en": "Marina View Tower B",
+      "ar": "برج B  - مارينا فيو"
+     }
+    }
+   },
+   {
+    "id": "ky4m9ly83tdwc76okkg6j01d",
+    "body": {
+     "en": "This is one of the nicest building in Marina",
+     "ar": "هذا من أجمل المباني في المارينا."
+    },
+    "language": "en",
+    "review_date": "2026-10-02T06:44:08.156Z",
+    "persona": {
+     "en": "Investor",
+     "ar": "مستثمر"
+    },
+    "user_name": {
+     "en": "Anonymous",
+     "ar": "مجهول"
+    },
+    "scores": {
+     "overall_score": 4.9,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 4,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3102,
+     "name": {
+      "en": "Ocean Heights",
+      "ar": "أوشن هايتس"
+     }
+    }
+   },
+   {
+    "id": "gwuzjfp65wa31httv98vwxuz",
+    "body": {
+     "en": "Marina 101 is a beautiful 101 floor tower with Palm / Marina and golf view and clean accessible with very spacious apartments, the layout of the apartments are very huge compare to currently available and prices are very comfortable for Tenants and for secondary buyers, its a brand new tower just handed over,  Parking is very spacious ",
+     "ar": "برج مارينا 101 هو برج فاخر مكون من 101 طابق، يتميز بإطلالات على نخلة جميرا والمارينا وملعب الغولف. يسهل الوصول إليه ويضم شققاً نظيفة وفسيحة جداً. تصميمات الشقق واسعة للغاية مقارنة بالوحدات المتاحة حالياً، والأسعار مريحة جداً للمستأجرين والمشترين في السوق الثانوي. إنه برج جديد كلياً تم تسليمه للتو، وتتوفر فيه مواقف سيارات واسعة جداً."
+    },
+    "language": "en",
+    "review_date": "2026-09-29T11:23:51.350Z",
+    "persona": {
+     "en": "Investor",
+     "ar": "مستثمر"
+    },
+    "user_name": {
+     "en": "PRABHA",
+     "ar": "PRABHA"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 3061,
+     "name": {
+      "en": "Marina 101",
+      "ar": "مارينا 101"
+     }
+    }
+   },
+   {
+    "id": "flyzxuqfahl9iu5tanyn97mx",
+    "body": {
+     "en": "Best building in Marina, incredible views and stunning lobby and infinity pool. ",
+     "ar": "أفضل مبنى في المارينا، إطلالات خلابة وردهة مذهلة ومسبح لا متناهي."
+    },
+    "language": "en",
+    "review_date": "2026-09-25T17:54:00.838Z",
+    "persona": {
+     "en": "Resident",
+     "ar": "مقيم"
+    },
+    "user_name": {
+     "en": "Anonymous",
+     "ar": "مجهول"
+    },
+    "scores": {
+     "overall_score": 5,
+     "connectivity_and_traffic": 5,
+     "peace_and_quiet": 5,
+     "parks_nearby": 5,
+     "family_friendly": 5,
+     "maintenance": 5,
+     "parking_area": 5,
+     "amenities": 5
+    },
+    "like_count": 0,
+    "liked": false,
+    "location": {
+     "location_id": 8317,
+     "name": {
+      "en": "5242",
+      "ar": "5242"
+     }
+    }
+   }
+  ],
+  "location_names": [
+   {
+    "location_id": 714,
+    "name": {
+     "en": "DEC Towers",
+     "ar": "D.E.C.  أبراج"
+    }
+   },
+   {
+    "location_id": 717,
+    "name": {
+     "en": "Al Majara Towers",
+     "ar": "المجرة"
+    }
+   },
+   {
+    "location_id": 719,
+    "name": {
+     "en": "Bay Central",
+     "ar": "باي سنترال"
+    }
+   },
+   {
+    "location_id": 720,
+    "name": {
+     "en": "Marina Diamonds",
+     "ar": "ماسات المارينا"
+    }
+   },
+   {
+    "location_id": 722,
+    "name": {
+     "en": "Marina Quays",
+     "ar": "مراسي المارينا"
+    }
+   },
+   {
+    "location_id": 723,
+    "name": {
+     "en": "Marina View",
+     "ar": "مارينا فيو"
+    }
+   },
+   {
+    "location_id": 727,
+    "name": {
+     "en": "Silverene",
+     "ar": "سيلفيرين"
+    }
+   },
+   {
+    "location_id": 732,
+    "name": {
+     "en": "Dubai Marina Towers",
+     "ar": "ابراج مارينا"
+    }
+   },
+   {
+    "location_id": 734,
+    "name": {
+     "en": "Dubai Marina Walk",
+     "ar": "مارينا ووك"
+    }
+   },
+   {
+    "location_id": 742,
+    "name": {
+     "en": "Barcelo Residences (Al Dar Tower)",
+     "ar": "بارسيلو ريزيدنسز"
+    }
+   },
+   {
+    "location_id": 743,
+    "name": {
+     "en": "Continental Tower",
+     "ar": "برج كنتننتال"
+    }
+   },
+   {
+    "location_id": 745,
+    "name": {
+     "en": "Stella Maris",
+     "ar": "ستيلا ماريس"
+    }
+   },
+   {
+    "location_id": 2278,
+    "name": {
+     "en": "Tamani Marina Hotel and Hotel Apartment",
+     "ar": "فندق تماني مارينا"
+    }
+   },
+   {
+    "location_id": 3025,
+    "name": {
+     "en": "DEC Tower 1",
+     "ar": "برج دي إي سي 1"
+    }
+   },
+   {
+    "location_id": 3026,
+    "name": {
+     "en": "DEC Tower 2",
+     "ar": "برج دي إي سي 2"
+    }
+   },
+   {
+    "location_id": 3027,
+    "name": {
+     "en": "Escan Tower",
+     "ar": "برج إسكان"
+    }
+   },
+   {
+    "location_id": 3028,
+    "name": {
+     "en": "23 Marina",
+     "ar": "23 مارينا"
+    }
+   },
+   {
+    "location_id": 3032,
+    "name": {
+     "en": "Marina Royale tower",
+     "ar": "برج مارينا رويال"
+    }
+   },
+   {
+    "location_id": 3033,
+    "name": {
+     "en": "Al Seef Tower",
+     "ar": "برج السيف 1"
+    }
+   },
+   {
+    "location_id": 3034,
+    "name": {
+     "en": "Ary Marina View Tower",
+     "ar": "برج أري مارينا فيو"
+    }
+   },
+   {
+    "location_id": 3037,
+    "name": {
+     "en": "Botanica Tower",
+     "ar": "برج بوتانيكا"
+    }
+   },
+   {
+    "location_id": 3040,
+    "name": {
+     "en": "Cascades Tower",
+     "ar": "برج كاسكيد"
+    }
+   },
+   {
+    "location_id": 3041,
+    "name": {
+     "en": "Damac Residenze",
+     "ar": "مرتفعات داماك"
+    }
+   },
+   {
+    "location_id": 3042,
+    "name": {
+     "en": "Dorra Bay",
+     "ar": "خليج الدرة"
+    }
+   },
+   {
+    "location_id": 3043,
+    "name": {
+     "en": "JW Marriott Hotel Marina",
+     "ar": "جي دبليو ماريوت هوتيل مارينا"
+    }
+   },
+   {
+    "location_id": 3045,
+    "name": {
+     "en": "Elite Residence",
+     "ar": "مساكن النخبة"
+    }
+   },
+   {
+    "location_id": 3047,
+    "name": {
+     "en": "Emirates Crown",
+     "ar": "تاج الإمارات"
+    }
+   },
+   {
+    "location_id": 3050,
+    "name": {
+     "en": "Horizon Tower",
+     "ar": "برج هورايزون"
+    }
+   },
+   {
+    "location_id": 3051,
+    "name": {
+     "en": "Cayan Tower",
+     "ar": "(برج كيان (إنفينيتي"
+    }
+   },
+   {
+    "location_id": 3052,
+    "name": {
+     "en": "Iris Blue",
+     "ar": "أيريس بلو"
+    }
+   },
+   {
+    "location_id": 3054,
+    "name": {
+     "en": "KG Tower",
+     "ar": "K G  برج"
+    }
+   },
+   {
+    "location_id": 3056,
+    "name": {
+     "en": "La Riviera",
+     "ar": "الريفييرا"
+    }
+   },
+   {
+    "location_id": 3057,
+    "name": {
+     "en": "Le Reve",
+     "ar": "الحلم"
+    }
+   },
+   {
+    "location_id": 3059,
+    "name": {
+     "en": "MAG 218",
+     "ar": "برج ماج 218"
+    }
+   },
+   {
+    "location_id": 3060,
+    "name": {
+     "en": "Manchester Tower",
+     "ar": "برج مانشستر"
+    }
+   },
+   {
+    "location_id": 3061,
+    "name": {
+     "en": "Marina 101",
+     "ar": "مارينا 101"
+    }
+   },
+   {
+    "location_id": 3063,
+    "name": {
+     "en": "Marina Arcade Tower",
+     "ar": "مارينا أركيد"
+    }
+   },
+   {
+    "location_id": 3064,
+    "name": {
+     "en": "Marina Heights",
+     "ar": "تلال المارينا"
+    }
+   },
+   {
+    "location_id": 3065,
+    "name": {
+     "en": "Marina Mansions",
+     "ar": "مارينا مانشونز"
+    }
+   },
+   {
+    "location_id": 3066,
+    "name": {
+     "en": "Marina Park",
+     "ar": "مارينا بارك"
+    }
+   },
+   {
+    "location_id": 3067,
+    "name": {
+     "en": "Marina Pearl",
+     "ar": "لؤلؤة المارينا"
+    }
+   },
+   {
+    "location_id": 3068,
+    "name": {
+     "en": "Marina Pinnacle",
+     "ar": "مارينا بيناكل"
+    }
+   },
+   {
+    "location_id": 3070,
+    "name": {
+     "en": "Marina Sail",
+     "ar": "شراع المارينا"
+    }
+   },
+   {
+    "location_id": 3073,
+    "name": {
+     "en": "Marina Terrace",
+     "ar": "مارينا تيراس"
+    }
+   },
+   {
+    "location_id": 3074,
+    "name": {
+     "en": "Marina Tower",
+     "ar": "برج المارينا"
+    }
+   },
+   {
+    "location_id": 3075,
+    "name": {
+     "en": "My Tower",
+     "ar": "برجي"
+    }
+   },
+   {
+    "location_id": 3084,
+    "name": {
+     "en": "Skyview Tower",
+     "ar": "سكاي فيو"
+    }
+   },
+   {
+    "location_id": 3085,
+    "name": {
+     "en": "Sulafa Tower",
+     "ar": "برج سولافا"
+    }
+   },
+   {
+    "location_id": 3088,
+    "name": {
+     "en": "The Atlantic",
+     "ar": "الأطلنطي"
+    }
+   },
+   {
+    "location_id": 3091,
+    "name": {
+     "en": "The Point",
+     "ar": "برج ذا بوينت"
+    }
+   },
+   {
+    "location_id": 3092,
+    "name": {
+     "en": "Princess Tower",
+     "ar": "برج الأميرة"
+    }
+   },
+   {
+    "location_id": 3094,
+    "name": {
+     "en": "The Torch",
+     "ar": "ذا تورش"
+    }
+   },
+   {
+    "location_id": 3095,
+    "name": {
+     "en": "The Zen Tower",
+     "ar": "برج زين"
+    }
+   },
+   {
+    "location_id": 3096,
+    "name": {
+     "en": "Time Place Tower",
+     "ar": "برج الزمان والمكان"
+    }
+   },
+   {
+    "location_id": 3097,
+    "name": {
+     "en": "Westside Marina",
+     "ar": "مارينا ويست سايد"
+    }
+   },
+   {
+    "location_id": 3098,
+    "name": {
+     "en": "Yacht Bay",
+     "ar": "خليج اليخوت"
+    }
+   },
+   {
+    "location_id": 3099,
+    "name": {
+     "en": "Zumurud Tower",
+     "ar": "برج الزمرد"
+    }
+   },
+   {
+    "location_id": 3100,
+    "name": {
+     "en": "Marina Crown",
+     "ar": "مارينا كراون 1"
+    }
+   },
+   {
+    "location_id": 3101,
+    "name": {
+     "en": "Marina Plaza",
+     "ar": "مارينا بلازا"
+    }
+   },
+   {
+    "location_id": 3102,
+    "name": {
+     "en": "Ocean Heights",
+     "ar": "أوشن هايتس"
+    }
+   },
+   {
+    "location_id": 3103,
+    "name": {
+     "en": "Trident Grand Residence",
+     "ar": "ترايدنت جراند ريزيدنس"
+    }
+   },
+   {
+    "location_id": 3105,
+    "name": {
+     "en": "Trident Bayside",
+     "ar": "ترايدنت بايسايد"
+    }
+   },
+   {
+    "location_id": 3108,
+    "name": {
+     "en": "Al Fairooz Villas",
+     "ar": "فيلات الفيروز"
+    }
+   },
+   {
+    "location_id": 3110,
+    "name": {
+     "en": "Grosvenor House",
+     "ar": "جروفينور هاوس"
+    }
+   },
+   {
+    "location_id": 3111,
+    "name": {
+     "en": "Orra Marina",
+     "ar": "اورا مارينا"
+    }
+   },
+   {
+    "location_id": 3115,
+    "name": {
+     "en": "Ariyana Tower",
+     "ar": "برج أريانا"
+    }
+   },
+   {
+    "location_id": 3116,
+    "name": {
+     "en": "West Avenue Tower",
+     "ar": "وست أفينيو"
+    }
+   },
+   {
+    "location_id": 3118,
+    "name": {
+     "en": "Marina First Tower",
+     "ar": "برج مارينا فرست"
+    }
+   },
+   {
+    "location_id": 3121,
+    "name": {
+     "en": "Sukoon Tower",
+     "ar": "برج السكون"
+    }
+   },
+   {
+    "location_id": 3123,
+    "name": {
+     "en": "Bunyan Tower",
+     "ar": "برج بنيان"
+    }
+   },
+   {
+    "location_id": 3126,
+    "name": {
+     "en": "Jannah Place Dubai Marina",
+     "ar": "جنة بلايس في دبي مارينا"
+    }
+   },
+   {
+    "location_id": 3127,
+    "name": {
+     "en": "Trident Waterfront",
+     "ar": "ترايدنت الواجهة البحرية"
+    }
+   },
+   {
+    "location_id": 3128,
+    "name": {
+     "en": "Damac Heights",
+     "ar": "داماك هايتس"
+    }
+   },
+   {
+    "location_id": 3131,
+    "name": {
+     "en": "Al Majara 1",
+     "ar": "المجرة  1"
+    }
+   },
+   {
+    "location_id": 3132,
+    "name": {
+     "en": "Al Majara 2",
+     "ar": "المجرة 2"
+    }
+   },
+   {
+    "location_id": 3133,
+    "name": {
+     "en": "Al Majara 3",
+     "ar": "المجرة - 3"
+    }
+   },
+   {
+    "location_id": 3135,
+    "name": {
+     "en": "Al Majara 5",
+     "ar": "المجرة 5"
+    }
+   },
+   {
+    "location_id": 3137,
+    "name": {
+     "en": "Al Sahab 1",
+     "ar": "السحاب 1"
+    }
+   },
+   {
+    "location_id": 3138,
+    "name": {
+     "en": "Al Sahab 2",
+     "ar": "السحاب 2"
+    }
+   },
+   {
+    "location_id": 3139,
+    "name": {
+     "en": "Bay Central Tower East",
+     "ar": "برج باي سنترال الشرقي"
+    }
+   },
+   {
+    "location_id": 3140,
+    "name": {
+     "en": "Bay Central Tower West",
+     "ar": "برج باي سنترال الغربي"
+    }
+   },
+   {
+    "location_id": 3142,
+    "name": {
+     "en": "Marina Diamond 1",
+     "ar": "ماسة المارينا 1"
+    }
+   },
+   {
+    "location_id": 3143,
+    "name": {
+     "en": "Marina Diamond 2",
+     "ar": "ماسة المارينا 2"
+    }
+   },
+   {
+    "location_id": 3144,
+    "name": {
+     "en": "Marina Diamond 3",
+     "ar": "ماسة المارينا 3"
+    }
+   },
+   {
+    "location_id": 3145,
+    "name": {
+     "en": "Marina Diamond 4",
+     "ar": "ماسة المارينا 4"
+    }
+   },
+   {
+    "location_id": 3146,
+    "name": {
+     "en": "Marina Diamond 5",
+     "ar": "ماسة المارينا 5"
+    }
+   },
+   {
+    "location_id": 3147,
+    "name": {
+     "en": "Marina Diamond 6",
+     "ar": "ماسة المارينا 6"
+    }
+   },
+   {
+    "location_id": 3149,
+    "name": {
+     "en": "Attessa Tower",
+     "ar": "برج أتيسا"
+    }
+   },
+   {
+    "location_id": 3150,
+    "name": {
+     "en": "Aurora Tower",
+     "ar": "برج أورورا"
+    }
+   },
+   {
+    "location_id": 3152,
+    "name": {
+     "en": "Delphine Tower",
+     "ar": "برج دلفين"
+    }
+   },
+   {
+    "location_id": 3153,
+    "name": {
+     "en": "Paloma Tower",
+     "ar": "بالوما"
+    }
+   },
+   {
+    "location_id": 3154,
+    "name": {
+     "en": "Shemara Tower",
+     "ar": "برج شيمارا"
+    }
+   },
+   {
+    "location_id": 3155,
+    "name": {
+     "en": "Marina Quays East",
+     "ar": "مارينا كوايز إيست"
+    }
+   },
+   {
+    "location_id": 3156,
+    "name": {
+     "en": "Marina Quays North",
+     "ar": "مارينا كوايز نورث"
+    }
+   },
+   {
+    "location_id": 3157,
+    "name": {
+     "en": "Marina Quays West",
+     "ar": "مارينا كوايز ويست"
+    }
+   },
+   {
+    "location_id": 3158,
+    "name": {
+     "en": "Marina Quays Villas",
+     "ar": "فيلات مارينا كواي"
+    }
+   },
+   {
+    "location_id": 3159,
+    "name": {
+     "en": "Marina View Tower A",
+     "ar": "مارينا فيو  A برج"
+    }
+   },
+   {
+    "location_id": 3160,
+    "name": {
+     "en": "Marina View Tower B",
+     "ar": "برج B  - مارينا فيو"
+    }
+   },
+   {
+    "location_id": 3162,
+    "name": {
+     "en": "Marina Wharf 1",
+     "ar": "رصيف المينا"
+    }
+   },
+   {
+    "location_id": 3163,
+    "name": {
+     "en": "Marina Wharf 2",
+     "ar": "رصيف المارينا 2"
+    }
+   },
+   {
+    "location_id": 3164,
+    "name": {
+     "en": "Marinascape Oceanic",
+     "ar": "ماريناسكيب أوشيانيك"
+    }
+   },
+   {
+    "location_id": 3165,
+    "name": {
+     "en": "Marinascape Avant",
+     "ar": "ماريناسكيب أفانت"
+    }
+   },
+   {
+    "location_id": 3166,
+    "name": {
+     "en": "Blakely Tower",
+     "ar": "برج بلاكلي"
+    }
+   },
+   {
+    "location_id": 3167,
+    "name": {
+     "en": "Bonaire Tower",
+     "ar": "برج بونير"
+    }
+   },
+   {
+    "location_id": 3168,
+    "name": {
+     "en": "Fairfield Tower",
+     "ar": "برج فيرفيلد"
+    }
+   },
+   {
+    "location_id": 3169,
+    "name": {
+     "en": "Sanibel Tower",
+     "ar": "برج سانيبال"
+    }
+   },
+   {
+    "location_id": 3171,
+    "name": {
+     "en": "Silverene Tower A",
+     "ar": "A برج سيلفرين"
+    }
+   },
+   {
+    "location_id": 3172,
+    "name": {
+     "en": "Silverene Tower B",
+     "ar": "B برج سيلفرين"
+    }
+   },
+   {
+    "location_id": 3173,
+    "name": {
+     "en": "The Jewel Tower A",
+     "ar": "A برج الجواهر"
+    }
+   },
+   {
+    "location_id": 3174,
+    "name": {
+     "en": "The Jewel Tower B",
+     "ar": "B برج الجواهر"
+    }
+   },
+   {
+    "location_id": 3175,
+    "name": {
+     "en": "The Waves Tower A",
+     "ar": "A - برج الأمواج"
+    }
+   },
+   {
+    "location_id": 3176,
+    "name": {
+     "en": "The Waves Tower B",
+     "ar": "B- برج الأمواج"
+    }
+   },
+   {
+    "location_id": 3178,
+    "name": {
+     "en": "The Royal Oceanic",
+     "ar": "رويال أوشيانيك"
+    }
+   },
+   {
+    "location_id": 3180,
+    "name": {
+     "en": "Murjan Tower",
+     "ar": "برج المرجان"
+    }
+   },
+   {
+    "location_id": 3181,
+    "name": {
+     "en": "Al Mass Tower",
+     "ar": "برج الماس"
+    }
+   },
+   {
+    "location_id": 3182,
+    "name": {
+     "en": "Al Fairooz Tower",
+     "ar": "برج الفيروز"
+    }
+   },
+   {
+    "location_id": 3183,
+    "name": {
+     "en": "Al Yass Tower",
+     "ar": "برج الياس"
+    }
+   },
+   {
+    "location_id": 3184,
+    "name": {
+     "en": "Al Mesk Tower",
+     "ar": "برج المسك"
+    }
+   },
+   {
+    "location_id": 3185,
+    "name": {
+     "en": "Al Anbar Tower",
+     "ar": "برج العنبر"
+    }
+   },
+   {
+    "location_id": 3186,
+    "name": {
+     "en": "Marina Gate 1",
+     "ar": "بوابة المارينا 1"
+    }
+   },
+   {
+    "location_id": 3192,
+    "name": {
+     "en": "Sparkle Tower 2",
+     "ar": "برج التألق 2"
+    }
+   },
+   {
+    "location_id": 3194,
+    "name": {
+     "en": "Dream Tower 1",
+     "ar": "برج الأحلام"
+    }
+   },
+   {
+    "location_id": 3197,
+    "name": {
+     "en": "Marina Residence A",
+     "ar": "مارينا ريزيدنس أ"
+    }
+   },
+   {
+    "location_id": 3198,
+    "name": {
+     "en": "Marina Residence B",
+     "ar": "مارينا ريزيدنس"
+    }
+   },
+   {
+    "location_id": 8317,
+    "name": {
+     "en": "5242",
+     "ar": "5242"
+    }
+   },
+   {
+    "location_id": 8758,
+    "name": {
+     "en": "Studio One",
+     "ar": "استوديو وان"
+    }
+   },
+   {
+    "location_id": 8995,
+    "name": {
+     "en": "Vida Residences Dubai Marina",
+     "ar": "فيدا ريزيدنس دبي مارينا"
+    }
+   },
+   {
+    "location_id": 9086,
+    "name": {
+     "en": "Jumeirah Living Marina Gate",
+     "ar": "جميرا ليفينج مارينا جات"
+    }
+   },
+   {
+    "location_id": 9616,
+    "name": {
+     "en": "DEC Towers Podium",
+     "ar": "منصة برج دي إي سي"
+    }
+   },
+   {
+    "location_id": 9769,
+    "name": {
+     "en": "LIV Residence",
+     "ar": "ليف ريزيدينس"
+    }
+   },
+   {
+    "location_id": 9894,
+    "name": {
+     "en": "JAM Marina Residence",
+     "ar": "جام مارينا ريزيدنس"
+    }
+   },
+   {
+    "location_id": 9908,
+    "name": {
+     "en": "The Residences",
+     "ar": "ذا ريزيدنسز"
+    }
+   },
+   {
+    "location_id": 12597,
+    "name": {
+     "en": "5242 Tower 1",
+     "ar": "5242 تاور 1"
+    }
+   }
+  ]
+ },
+ "categories": {
+  "connectivity_and_traffic": {
+   "en": "Connectivity & Traffic",
+   "ar": "التنقل وحركة المرور"
+  },
+  "peace_and_quiet": {
+   "en": "Peace & Quiet",
+   "ar": "الهدوء والسكينة"
+  },
+  "parks_nearby": {
+   "en": "Parks Nearby",
+   "ar": "الحدائق القريبة"
+  },
+  "family_friendly": {
+   "en": "Family Friendly",
+   "ar": "مناسب للعائلات"
+  },
+  "maintenance": {
+   "en": "Maintenance",
+   "ar": "الصيانة"
+  },
+  "parking_area": {
+   "en": "Parking",
+   "ar": "مواقف السيارات"
+  },
+  "amenities": {
+   "en": "Amenities",
+   "ar": "المرافق"
+  }
+ }
+}

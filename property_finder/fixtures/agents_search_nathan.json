@@ -1,0 +1,970 @@
+{
+ "rows": [
+  {
+   "id": 429909,
+   "slug": "nathan-klue",
+   "name": "Nathan Klue",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 23,
+   "propertiesResidentialForRentCount": 23,
+   "propertiesResidentialForSaleCount": 0,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 5,
+   "experienceSince": 2026,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/170x200.jpg?v=65d3510295fe26549676f1a706929232",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/170x200.jpg?v=65d3510295fe26549676f1a706929232",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/170x200.webp?v=1ddfbdb601531dff0bb4f0a708f72758",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/260x200.jpg?v=82bbecebe34b2c22646e7baec038ea38",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/520x400.jpg?v=b61f1399a578558b0d46c9a8cc4fa41a",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/520x400.jpg?v=b61f1399a578558b0d46c9a8cc4fa41a",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/520x400.webp?v=ebd39d5b5e61477c86f91d4b1cc05902",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/260x200.jpg?v=82bbecebe34b2c22646e7baec038ea38",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/260x200.webp?v=baeb3e59629357bb2275850e770b0ac5",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/130x100.jpg?v=860161e6cc0faaadfe57fdfc4cadc106",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/130x100.jpg?v=860161e6cc0faaadfe57fdfc4cadc106",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/130x100.webp?v=12b087af64cb4d950338b2e4137dd377",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/38x38.jpg?v=136955f2a3ab8254ee492ac5032dda7a",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/38x38.jpg?v=136955f2a3ab8254ee492ac5032dda7a",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/429909/a12d650b-9292-4702-a916-514d3ae56f54/38x38.webp?v=1d273ff8f1b834da776a23018699328e"
+    }
+   },
+   "position": "Property Broker",
+   "bio": "Nathan is ready to help with your residential leasing needs. As a proud member of the White and Co family, he carries the values of hard work, integrity, and outstanding client service into everything he does. He provides quality service to build client relationships and, more importantly, maintain those relationships by communicating effectively.",
+   "nationality": {
+    "code": "ZA",
+    "name": "South Africa"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 98,
+   "isTransactionsVisible": true,
+   "transactionsCount": 11,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 1,
+    "score4": 0,
+    "score5": 0
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 67,
+     "name": "Jumeirah Beach Residence"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 0,
+   "claimedTransactionsRent": 11,
+   "claimedTransactionsDealVolume": 1454000,
+   "claimedTransactionsSaleAVGAmount": 0,
+   "claimedTransactionsRentAVGAmount": 132181.81,
+   "claimedTransactionsRentTotalAmount": 1454000,
+   "claimedTransactionsSaleTotalAmount": 0,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.67.10735",
+      "community": "Jumeirah Beach Residence",
+      "tower": "La Vie"
+     },
+     "dealType": "Rent",
+     "price": 280000,
+     "date": "2026-10-19",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.67.925.3667",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Bahar 1"
+     },
+     "dealType": "Rent",
+     "price": 65000,
+     "date": "2026-10-15",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.67.929.3694",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Shams 1"
+     },
+     "dealType": "Rent",
+     "price": 210000,
+     "date": "2026-10-08",
+     "propertyType": "Apartment",
+     "bedroom": "3"
+    },
+    {
+     "location": {
+      "path": "1.67.8795.11541",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Jumeirah Gate Tower 2"
+     },
+     "dealType": "Rent",
+     "price": 100000,
+     "date": "2026-09-29",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.67.927.3683",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Rimal 4"
+     },
+     "dealType": "Rent",
+     "price": 60000,
+     "date": "2026-09-08",
+     "propertyType": "Apartment",
+     "bedroom": "studio"
+    },
+    {
+     "location": {
+      "path": "1.67.926.3675",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Murjan 2"
+     },
+     "dealType": "Rent",
+     "price": 75000,
+     "date": "2026-09-07",
+     "propertyType": "Apartment",
+     "bedroom": "studio"
+    },
+    {
+     "location": {
+      "path": "1.67.929.3694",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Shams 1"
+     },
+     "dealType": "Rent",
+     "price": 135000,
+     "date": "2026-09-07",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.67.927.3680",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Rimal 1"
+     },
+     "dealType": "Rent",
+     "price": 200000,
+     "date": "2026-09-02",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.67.926.3675",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Murjan 2"
+     },
+     "dealType": "Rent",
+     "price": 83000,
+     "date": "2026-07-30",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.67.923.3660",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Al Fattan Marine Tower"
+     },
+     "dealType": "Rent",
+     "price": 170000,
+     "date": "2026-07-30",
+     "propertyType": "Apartment",
+     "bedroom": "3"
+    },
+    {
+     "location": {
+      "path": "1.67.928.3693",
+      "community": "Jumeirah Beach Residence",
+      "tower": "Sadaf 8"
+     },
+     "dealType": "Rent",
+     "price": 76000,
+     "date": "2026-07-29",
+     "propertyType": "Apartment",
+     "bedroom": "3"
+    }
+   ],
+   "broker": {
+    "id": 4246,
+    "slug": "white-co-real-estate-4372",
+    "name": "White & Co Real Estate",
+    "logo": {
+     "token": "a8b6130ca40318381fb7136c544353ebeeafa1cb",
+     "path": "/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/original.jpg",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/260x200.jpg",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/520x400.jpg",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/520x400.jpg",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/520x400.webp?v=b83408e401a01657f2e649330694c083",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/260x200.jpg",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/260x200.webp?v=23d91c44f315e2cf785d5b19dd95e827",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/178x98.jpg",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/178x98.jpg",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/178x98.webp?v=44eca44b8a0c8549f35aa67b7a103b86",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/130x100.jpg",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/130x100.jpg",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/130x100.webp?v=2abee53e705201ff184f1e4dc99f4bc5"
+     }
+    },
+    "address": "Office 7th Floor, Building Control Tower, Motor City, Detroit Road, Dubai, ",
+    "location": "Dubai",
+    "clientId": 4246
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "98388"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 269293,
+   "slug": "nathan-daley",
+   "name": "Nathan Daley",
+   "userId": 120888,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 11,
+   "propertiesResidentialForRentCount": 0,
+   "propertiesResidentialForSaleCount": 11,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 5,
+   "experienceSince": 2023,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/170x200.jpg?v=6c9034d0ecb2389e9077e6b003937a19",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/170x200.jpg?v=6c9034d0ecb2389e9077e6b003937a19",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/170x200.webp?v=e4f874523db3d90c968ce56d6dbec498",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/260x200.jpg?v=40a3ee42efb7bb9b1988a962f63b1907",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/520x400.jpg?v=34e887d3bdce38f3bebf4712809b1fc8",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/520x400.jpg?v=34e887d3bdce38f3bebf4712809b1fc8",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/520x400.webp?v=325ac8bb1b3bdd07ab0f298df8c43a4a",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/260x200.jpg?v=40a3ee42efb7bb9b1988a962f63b1907",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/260x200.webp?v=122b4696146c806707a0a1d58af71968",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/130x100.jpg?v=d4724277db063327e722d3a5220536de",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/130x100.jpg?v=d4724277db063327e722d3a5220536de",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/130x100.webp?v=96ff5320fbae9867f990c1c15c3a5352",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/38x38.jpg?v=70399cc6106ac0f8c9f36a477820baf7",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/38x38.jpg?v=70399cc6106ac0f8c9f36a477820baf7",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/269293/f0b01d8b-3fa4-4544-b614-17f7018605df/38x38.webp?v=d72555e9a9b9274c7e5030fe8e749221"
+    }
+   },
+   "position": "Real Estate Specialist",
+   "bio": "Nathan is ready to help with your residential sales needs. As a proud member of the White and Co family, carries the values of hard work, integrity, and outstanding client service into everything he does. He provides quality service to build relationships with clients and more importantly, maintain those relationships by communicating effectively.",
+   "nationality": {
+    "code": "GB",
+    "name": "United Kingdom"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 94,
+   "isTransactionsVisible": true,
+   "transactionsCount": 5,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 100,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 1
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 11559,
+     "name": "Damac Lagoons"
+    },
+    {
+     "id": 14611,
+     "name": "Damac Islands"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 5,
+   "claimedTransactionsRent": 0,
+   "claimedTransactionsDealVolume": 22630000,
+   "claimedTransactionsSaleAVGAmount": 4526000,
+   "claimedTransactionsRentAVGAmount": 0,
+   "claimedTransactionsRentTotalAmount": 0,
+   "claimedTransactionsSaleTotalAmount": 22630000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.11559.11614.11615",
+      "community": "Damac Lagoons",
+      "tower": "Costa Brava 1"
+     },
+     "dealType": "Sale",
+     "price": 2700000,
+     "date": "2026-10-12",
+     "propertyType": "Townhouse",
+     "bedroom": "4"
+    },
+    {
+     "location": {
+      "path": "1.11559.11614.11615",
+      "community": "Damac Lagoons",
+      "tower": "Costa Brava 1"
+     },
+     "dealType": "Sale",
+     "price": 3600000,
+     "date": "2026-09-23",
+     "propertyType": "Townhouse",
+     "bedroom": "5"
+    },
+    {
+     "location": {
+      "path": "1.11559.12237",
+      "community": "Damac Lagoons",
+      "tower": "Ibiza"
+     },
+     "dealType": "Sale",
+     "price": 3200000,
+     "date": "2026-04-29",
+     "propertyType": "Townhouse",
+     "bedroom": "5"
+    },
+    {
+     "location": {
+      "path": "1.11559.11614.11615",
+      "community": "Damac Lagoons",
+      "tower": "Costa Brava 1"
+     },
+     "dealType": "Sale",
+     "price": 2630000,
+     "date": "2026-04-06",
+     "propertyType": "Townhouse",
+     "bedroom": "4"
+    },
+    {
+     "location": {
+      "path": "1.11559.11722",
+      "community": "Damac Lagoons",
+      "tower": "Portofino"
+     },
+     "dealType": "Sale",
+     "price": 10500000,
+     "date": "2026-02-27",
+     "propertyType": "Villa",
+     "bedroom": "7"
+    }
+   ],
+   "broker": {
+    "id": 4246,
+    "slug": "white-co-real-estate-4372",
+    "name": "White & Co Real Estate",
+    "logo": {
+     "token": "a8b6130ca40318381fb7136c544353ebeeafa1cb",
+     "path": "/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/original.jpg",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/260x200.jpg",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/520x400.jpg",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/520x400.jpg",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/520x400.webp?v=b83408e401a01657f2e649330694c083",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/260x200.jpg",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/260x200.webp?v=23d91c44f315e2cf785d5b19dd95e827",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/178x98.jpg",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/178x98.jpg",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/178x98.webp?v=44eca44b8a0c8549f35aa67b7a103b86",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/130x100.jpg",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/130x100.jpg",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4246/5f2ecd41-da29-48f8-95d2-dabac16efc7b/130x100.webp?v=2abee53e705201ff184f1e4dc99f4bc5"
+     }
+    },
+    "address": "Office 7th Floor, Building Control Tower, Motor City, Detroit Road, Dubai, ",
+    "location": "Dubai",
+    "clientId": 4246
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "73099"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 284270,
+   "slug": "nathan-hemingway",
+   "name": "Nathan Hemingway",
+   "userId": 133777,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 14,
+   "propertiesResidentialForRentCount": 0,
+   "propertiesResidentialForSaleCount": 14,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 162,
+   "experienceSince": 2019,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/170x200.jpg?v=2567ac2917e08830355179653273c1d5",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/170x200.jpg?v=2567ac2917e08830355179653273c1d5",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/170x200.webp?v=9c8f172cef969e65c67910595fbc8b9f",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/260x200.jpg?v=2bdf10cc95841cfc30aee247f2d1dc6b",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/520x400.jpg?v=bdb68e07a71608200d9ad7f839e9daa9",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/520x400.jpg?v=bdb68e07a71608200d9ad7f839e9daa9",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/520x400.webp?v=590316fa9dec48cc9fce21e45e3240a1",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/260x200.jpg?v=2bdf10cc95841cfc30aee247f2d1dc6b",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/260x200.webp?v=189ad1898f13e7e50db6d78cf9aed849",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/130x100.jpg?v=8422c98ca98cd9983cd8cc4ec4b2c1bb",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/130x100.jpg?v=8422c98ca98cd9983cd8cc4ec4b2c1bb",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/130x100.webp?v=252d589adf97e0f2d88896f93badfd0d",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/38x38.jpg?v=89ccf85dcbbc5e129976cbcf4e417b32",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/38x38.jpg?v=89ccf85dcbbc5e129976cbcf4e417b32",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/284270/a71b37d9-a616-4bde-a407-94a87d303dd5/38x38.webp?v=f74f11dc1803e3174ce42e0c7161e2f4"
+    }
+   },
+   "position": " Palm Jumeirah Area Manager ",
+   "bio": "Palm Jumeirah Specialist \n\nPalm Jumeirah Area Manager at LuxFolio Real Estate\n\nI moved to Dubai back in August 2019 to pursue a career in real estate in Dubai. I started my career in the Palm Jumeirah leasing team for a period of 18 months. This time allowed me to learn about the industry & my gain experience brokering on the Palm. \n\nAfter I had completed my lengthy time in leasing, I then moved to Palm Jumeirah sales team where I perfected my craft and earned a wealth of experience & knowledge on the processes & the area in general. Fast forward 5 years, I am now the Palm Jumeirah Area Manager for LuxFolio Real Estate where I not only serve my existing clients & new, but support a team of brokers on how to make their work a success.",
+   "nationality": {
+    "code": "GB",
+    "name": "United Kingdom"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 92,
+   "isTransactionsVisible": true,
+   "transactionsCount": 2,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 96,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 1
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 86,
+     "name": "Palm Jumeirah"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 2,
+   "claimedTransactionsRent": 0,
+   "claimedTransactionsDealVolume": 9725000,
+   "claimedTransactionsSaleAVGAmount": 4862500,
+   "claimedTransactionsRentAVGAmount": 0,
+   "claimedTransactionsRentTotalAmount": 0,
+   "claimedTransactionsSaleTotalAmount": 9725000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.129.8803",
+      "community": "Damac Hills",
+      "tower": "The Field"
+     },
+     "dealType": "Sale",
+     "price": 7650000,
+     "date": "2026-10-26",
+     "propertyType": "Villa",
+     "bedroom": "5"
+    },
+    {
+     "location": {
+      "path": "1.86.1203.13617",
+      "community": "Palm Jumeirah",
+      "tower": "Azizi Mina"
+     },
+     "dealType": "Sale",
+     "price": 2075000,
+     "date": "2026-01-14",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    }
+   ],
+   "broker": {
+    "id": 3640,
+    "slug": "luxfolio-real-estate-brokers-llc-3766",
+    "name": "Luxfolio Real Estate Brokers LLC",
+    "logo": {
+     "token": "2d79f3bd8fc59e11e0eba074eccc015a82de4c67",
+     "path": "/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/original.png?v=9bb64b7a7d7d1631b01375487d9ddf9d",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/260x200.jpg?v=290cd9338a8a007a71b6153a328ccfa9",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/520x400.jpg?v=a2e0fcf10be75827af05f696cd05045a",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/520x400.jpg?v=a2e0fcf10be75827af05f696cd05045a",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/520x400.webp?v=0e5d29a57324b1c0d10f456226ddf3cb",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/260x200.jpg?v=290cd9338a8a007a71b6153a328ccfa9",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/260x200.webp?v=8fee81e7bd8c081ee9b560338f84cc14",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/178x98.jpg?v=8d78eed9541a6b5fb20be551d8a28c2f",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/178x98.jpg?v=8d78eed9541a6b5fb20be551d8a28c2f",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/178x98.webp?v=9f6c46eaa55aee9f660363bc86ba77cc",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/130x100.jpg?v=061b224f475258ca018d9b43a915a2b6",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/130x100.jpg?v=061b224f475258ca018d9b43a915a2b6",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3640/bd409065-41e9-428a-9589-8f0830ed2605/130x100.webp?v=76c4e5be43e652da7c4606a9a2579d99"
+     }
+    },
+    "address": "Office Office G24, Building Building 5, Gold and Diamond Park, Al Quoz, Building 5, Gold and Diamond Park, Dubai, PO Box 0",
+    "location": "Dubai",
+    "clientId": 3640
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "45278"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 324955,
+   "slug": "nathan-stanley",
+   "name": "Nathan Stanley",
+   "userId": 151144,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 25,
+   "propertiesResidentialForRentCount": 8,
+   "propertiesResidentialForSaleCount": 17,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 36,
+   "experienceSince": 2025,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/200x200.jpg?v=e8f614b68d7546964819eb1b81741bd0",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/200x200.jpg?v=e8f614b68d7546964819eb1b81741bd0",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/200x200.webp?v=e9aa5a87d90f290493bdeee85b69b0c0",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/400x400.jpg?v=f89c94bad6822c8d029812d81b49419c",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/520x520.jpg?v=c442212854f3d95c678a64a552322968",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/520x520.jpg?v=c442212854f3d95c678a64a552322968",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/520x520.webp?v=f53a1becba11859b36668abee5ba09ca",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/400x400.jpg?v=f89c94bad6822c8d029812d81b49419c",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/400x400.webp?v=bd169d7a2295dde3c41e83c7b6215d10",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/130x130.jpg?v=5cb48489e96227cef5594c55a6b6306b",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/130x130.jpg?v=5cb48489e96227cef5594c55a6b6306b",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/130x130.webp?v=0ac9df7fa15529edef95143a81ca3c00",
+     "original": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/original.png?v=4e1984addc3ea6f9e7f75ac872aab577",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/38x38.jpg?v=f7ee055b881e541e75ff4d6ff896a5d3",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/38x38.jpg?v=f7ee055b881e541e75ff4d6ff896a5d3",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/324955/ac14ac87-fa36-4881-b2f0-cb0ccf01d1cb/38x38.webp?v=b1a6495f5366a0dccf2b46293f2bd54a"
+    }
+   },
+   "position": "Consultant - Residential",
+   "bio": "Nathan brings a client-focused approach to real estate, built on years of experience working across different roles within the industry. His passion for property, paired with his personal experience as a buyer, seller, landlord, and renovator across multiple countries, gives him a well-rounded understanding of what clients truly need—whether they’re looking to invest, relocate, or grow their portfolio.\n\nKnown for his clear communication, attention to detail, and ability to build strong relationships, Nathan supports his clients through every step of the property journey. His goal is to make the process not only successful but also enjoyable and informed.",
+   "nationality": {
+    "code": "NZ",
+    "name": "New Zealand"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 92,
+   "isTransactionsVisible": true,
+   "transactionsCount": 10,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 1,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 1
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 62,
+     "name": "Dubai Production City (IMPZ)"
+    },
+    {
+     "id": 105,
+     "name": "Dubai Hills Estate"
+    },
+    {
+     "id": 113,
+     "name": "Meydan"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 2,
+   "claimedTransactionsRent": 8,
+   "claimedTransactionsDealVolume": 4711000,
+   "claimedTransactionsSaleAVGAmount": 1767500,
+   "claimedTransactionsRentAVGAmount": 147000,
+   "claimedTransactionsRentTotalAmount": 1176000,
+   "claimedTransactionsSaleTotalAmount": 3535000,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.62.874.3555",
+      "community": "Dubai Production City (IMPZ)",
+      "tower": "Centrium Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 58000,
+     "date": "2026-11-06",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.104.1321.8946.17913",
+      "community": "Mohammed Bin Rashid City",
+      "tower": "Sobha Hartland Greens 2"
+     },
+     "dealType": "Rent",
+     "price": 104000,
+     "date": "2026-10-20",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.34.479.16338",
+      "community": "Arabian Ranches",
+      "tower": "Saheel 3"
+     },
+     "dealType": "Rent",
+     "price": 615000,
+     "date": "2026-10-16",
+     "propertyType": "Villa",
+     "bedroom": "4"
+    },
+    {
+     "location": {
+      "path": "1.105.11769.13130",
+      "community": "Dubai Hills Estate",
+      "tower": "Collective 2.0 Tower A"
+     },
+     "dealType": "Rent",
+     "price": 129000,
+     "date": "2026-09-07",
+     "propertyType": "Apartment",
+     "bedroom": "2"
+    },
+    {
+     "location": {
+      "path": "1.62.874.3558",
+      "community": "Dubai Production City (IMPZ)",
+      "tower": "Centrium Tower 4"
+     },
+     "dealType": "Sale",
+     "price": 685000,
+     "date": "2026-08-19",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.102.12841",
+      "community": "Dubai Studio City",
+      "tower": "Azizi Vista"
+     },
+     "dealType": "Rent",
+     "price": 78000,
+     "date": "2026-08-05",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.102.11963",
+      "community": "Dubai Studio City",
+      "tower": "Laya Heights"
+     },
+     "dealType": "Rent",
+     "price": 70000,
+     "date": "2026-07-29",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.131.11843",
+      "community": "Town Square",
+      "tower": "Shams Townhouses"
+     },
+     "dealType": "Sale",
+     "price": 2850000,
+     "date": "2026-07-28",
+     "propertyType": "Townhouse",
+     "bedroom": "3"
+    },
+    {
+     "location": {
+      "path": "1.9974.12483",
+      "community": "Liwan",
+      "tower": "Vision 1"
+     },
+     "dealType": "Rent",
+     "price": 62000,
+     "date": "2026-07-28",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    },
+    {
+     "location": {
+      "path": "1.62.874.3555",
+      "community": "Dubai Production City (IMPZ)",
+      "tower": "Centrium Tower 1"
+     },
+     "dealType": "Rent",
+     "price": 60000,
+     "date": "2026-01-13",
+     "propertyType": "Apartment",
+     "bedroom": "1"
+    }
+   ],
+   "broker": {
+    "id": 4950,
+    "slug": "anarock-property-consultants-private-limited-dubai-branch-5076",
+    "name": "Anarock Middle East",
+    "logo": {
+     "token": "ad6512d7a22071cbe321fad1890dc46fd3f91ce9",
+     "path": "/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/original.png",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/260x200.jpg",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/520x400.jpg",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/520x400.jpg",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/520x400.webp?v=2accb314cc3b91fb05c0cec5120b1673",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/260x200.jpg",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/260x200.webp?v=aee97fd54aa9ec65626f672591f7ed95",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/178x98.jpg",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/178x98.jpg",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/178x98.webp?v=eebd59a8670b6eb5c7b52c7d617d6063",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/130x100.jpg",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/130x100.jpg",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/4950/dcb9efad-8c3b-4391-901b-beb38ffa07b1/130x100.webp?v=40ff46d99f172addd534905259f2b1f9"
+     }
+    },
+    "address": "Office 404, Building 4, Dubai Hills Business Park, Dubai Hills Estate, Al Khail Road, Dubai, PO Box 000000",
+    "location": "Dubai",
+    "clientId": 4950
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "88729"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  },
+  {
+   "id": 397970,
+   "slug": "nathanial-rose",
+   "name": "Nathanial Rose",
+   "userId": 0,
+   "superagent": true,
+   "verified": true,
+   "totalProperties": 12,
+   "propertiesResidentialForRentCount": 12,
+   "propertiesResidentialForSaleCount": 0,
+   "propertiesCommercialForRentCount": 0,
+   "propertiesCommercialForSaleCount": 0,
+   "avgWhatsappResponseTime": 44,
+   "experienceSince": 2022,
+   "image": {
+    "token": "",
+    "path": "",
+    "links": {
+     "agentCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/170x200.jpg?v=be8916bfe8cd5e04923b402e9c9f88f1",
+     "agentCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/170x200.jpg?v=be8916bfe8cd5e04923b402e9c9f88f1",
+     "agentCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/170x200.webp?v=bcc04160ce01ccd8ecb768f011bf4679",
+     "desktop": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/260x200.jpg?v=82b4c2745fdad243cf94cbc55eb4d083",
+     "desktop2x": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/520x400.jpg?v=aff6d65fa2192d6ba78aea8b3e424e28",
+     "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/520x400.jpg?v=aff6d65fa2192d6ba78aea8b3e424e28",
+     "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/520x400.webp?v=5433ce5541ad57f55d0b0c35b0c1366d",
+     "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/260x200.jpg?v=82b4c2745fdad243cf94cbc55eb4d083",
+     "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/260x200.webp?v=1e00a97cb598f26c7f65ad12f125ceee",
+     "mobile": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/130x100.jpg?v=28120881686a1ba30b5fd31cc1bba319",
+     "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/130x100.jpg?v=28120881686a1ba30b5fd31cc1bba319",
+     "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/130x100.webp?v=ea543a7c44fb73b98c68474d7a7e9417",
+     "propertyCard": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/38x38.jpg?v=f718a369e4cc3f853c96498823fc9df7",
+     "propertyCardJpg": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/38x38.jpg?v=f718a369e4cc3f853c96498823fc9df7",
+     "propertyCardWebp": "https://static.shared.propertyfinder.ae/media/images/agent_image/397970/b5503fdd-c3a9-45fa-9fd7-b4035bb858bc/38x38.webp?v=63e96f9c977cf49c329615409a1c409a"
+    }
+   },
+   "position": "Leasing Consultant",
+   "bio": "Nat is originally from Shropshire in the UK. After studying Business and Management at University of Exeter, he moved to London where he specialized in high-end leasing deals, focusing on the Chelsea and South Kensington areas.\nHaving built a strong network in London, Nat now works closely with clients relocating to Dubai, helping them secure the best possible properties to suit their lifestyle and needs. He also works with property owners to ensure their homes are matched with high-quality tenants.\nOutside of work, Nat enjoys playing rugby, trying new restaurants, and relaxing at The Crafty Fox.",
+   "nationality": {
+    "code": "GB",
+    "name": "United Kingdom"
+   },
+   "linkedinAddress": "",
+   "licenseNumber": "",
+   "ranking": 91,
+   "isTransactionsVisible": true,
+   "transactionsCount": 2,
+   "listingLevel": 0,
+   "averageRating": 0,
+   "reviewCount": 0,
+   "medianListingQuality": 99,
+   "ratingDistribution": {
+    "score1": 0,
+    "score2": 0,
+    "score3": 0,
+    "score4": 0,
+    "score5": 0
+   },
+   "languages": [
+    {
+     "id": 1,
+     "name": "English"
+    }
+   ],
+   "topLocations": [
+    {
+     "id": 68,
+     "name": "Jumeirah Golf Estates"
+    },
+    {
+     "id": 55,
+     "name": "Dubai Sports City"
+    },
+    {
+     "id": 80,
+     "name": "Motor City"
+    }
+   ],
+   "superAgentAwardImageUrl": "",
+   "claimedTransactionsSale": 0,
+   "claimedTransactionsRent": 2,
+   "claimedTransactionsDealVolume": 1900000,
+   "claimedTransactionsSaleAVGAmount": 0,
+   "claimedTransactionsRentAVGAmount": 950000,
+   "claimedTransactionsRentTotalAmount": 1900000,
+   "claimedTransactionsSaleTotalAmount": 0,
+   "claimedTransactionsList": [
+    {
+     "location": {
+      "path": "1.68.3716",
+      "community": "Jumeirah Golf Estates",
+      "tower": "The Sundials"
+     },
+     "dealType": "Rent",
+     "price": 1300000,
+     "date": "2026-09-08",
+     "propertyType": "Villa",
+     "bedroom": "5"
+    },
+    {
+     "location": {
+      "path": "1.55.810.3397",
+      "community": "Dubai Sports City",
+      "tower": "Estella"
+     },
+     "dealType": "Rent",
+     "price": 600000,
+     "date": "2026-09-07",
+     "propertyType": "Villa",
+     "bedroom": "4"
+    }
+   ],
+   "broker": {
+    "id": 3560,
+    "slug": "better-homes-motor-city-3686",
+    "name": "betterhomes - Motor City",
+    "logo": {
+     "token": "82b1832f1855fcd4df2379dacaad0bd716e4edcd",
+     "path": "/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/original.png",
+     "links": {
+      "desktop": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/260x200.jpg",
+      "desktop2x": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/520x400.jpg",
+      "desktop2xJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/520x400.jpg",
+      "desktop2xWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/520x400.webp?v=a876a897bc8c74425ea6e03510c50e39",
+      "desktopJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/260x200.jpg",
+      "desktopWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/260x200.webp?v=2e10aa5c8dbb72ed32a3348da8e89008",
+      "logoSmall": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/178x98.jpg",
+      "logoSmallJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/178x98.jpg",
+      "logoSmallWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/178x98.webp?v=9d1a9b7960d87e5d9bf12b1ab81be191",
+      "mobile": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/130x100.jpg",
+      "mobileJpg": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/130x100.jpg",
+      "mobileWebp": "https://static.shared.propertyfinder.ae/media/images/client_logos/3560/aa747dcb-b783-459e-bf13-b83db73e731f/130x100.webp?v=9bb69bef4229b2c6ef7dc042ed1bde31"
+     }
+    },
+    "address": "Office 33rd floor, Building Control Tower, Motor City, -, Dubai, PO Box -",
+    "location": "Dubai",
+    "clientId": 3560
+   },
+   "compliances": [
+    {
+     "type": "brn",
+     "value": "96997"
+    }
+   ],
+   "transactionsInLocation": null,
+   "email": "",
+   "phone": "",
+   "whatsappPhone": ""
+  }
+ ],
+ "totals": {
+  "total": 19,
+  "total_pages": 4,
+  "page": 1
+ }
+}
