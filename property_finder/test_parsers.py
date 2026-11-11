@@ -90,6 +90,12 @@ def test_resolve_project_and_developer():
     ("https://www.propertyfinder.ae/en/transactions/rented/dubai/1-bedroom-apartments-downtown-dubai-burj-khalifa-area-burj-khalifa",
      {"ids": None, "slug": "downtown-dubai-burj-khalifa-area-burj-khalifa", "city_slug": "dubai", "query": None, "country": "ae",
       "deal": "rented"}),
+    # the "Hotel & Hotel Apartments" similar-search link of the transactions fixtures
+    ("https://www.propertyfinder.ae/en/transactions/rented/dubai/hotels-hotel-apartments-dubai-marina",
+     {"ids": None, "slug": "dubai-marina", "city_slug": "dubai", "query": None, "country": "ae", "deal": "rented"}),
+    # a city page keeps its deal type too
+    ("https://www.propertyfinder.ae/en/transactions/rented/dubai",
+     {"ids": None, "slug": "dubai", "city_slug": "dubai", "query": None, "country": "ae", "deal": "rented"}),
     ("https://www.propertyfinder.ae/en/buy/dubai/properties-for-sale-dubai-marina.html", {"ids": None, "slug": "dubai-marina", "city_slug": "dubai", "query": None, "country": "ae"}),
     ("https://www.propertyfinder.ae/en/buy/dubai/villas-for-sale-palm-jumeirah.html", {"ids": None, "slug": "palm-jumeirah", "city_slug": "dubai", "query": None, "country": "ae"}),
     ("https://www.propertyfinder.ae/en/rent/dubai/apartments-for-rent-dubai-marina.html", {"ids": None, "slug": "dubai-marina", "city_slug": "dubai", "query": None, "country": "ae"}),

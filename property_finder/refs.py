@@ -297,9 +297,10 @@ def resolve_developer(value):
 # 1-bedroom-apartments- … all name the place after for-sale / for-rent
 _SEO_SLUG_RE = re.compile(r"^[a-z0-9-]*?-?for-(?:sale|rent)(?:-(.+))?\.html$")
 # /en/transactions/<sold|rented>/<city>/<what>-<place>: the similar-search links put
-# bedrooms and a property type before the place (1-bedroom-apartments-downtown-dubai)
+# bedrooms and a property type before the place (1-bedroom-apartments-downtown-dubai,
+# hotels-hotel-apartments-dubai-marina)
 _TX_PREFIX_RE = re.compile(
-    r"^(?:(?:studio|\d+-bedrooms?)-)?(?:hotel-)?(?:apartments|villas|townhouses|penthouses|duplexes|compounds|"
+    r"^(?:(?:studio|\d+-bedrooms?)-)?(?:hotels-)?(?:hotel-)?(?:apartments|villas|townhouses|penthouses|duplexes|compounds|"
     r"bungalows|lands|plots|offices|shops|warehouses|full-floors|half-floors|whole-buildings)-")
 
 
@@ -340,7 +341,10 @@ def resolve_location(value):
             # /en/buy/dubai/properties-for-sale.html -> the city itself
             return slug_ref(country, segments[1], segments[1])
         if len(segments) >= 2 and segments[0] in ("area-insights", "transactions"):
-            return slug_ref(country, segments[-1], segments[-1])
+            ref = slug_ref(country, segments[-1], segments[-1])
+            if segments[0] == "transactions" and len(segments) >= 3 and segments[1] in ("sold", "rented"):
+                ref["deal"] = segments[1]      # a city page: /en/transactions/rented/dubai
+            return ref
         # a new-projects area page: /en/new-projects/lp/<city>/<area> (or /lp/<city>)
         if len(segments) >= 3 and segments[0] == "new-projects" and segments[1] == "lp":
             return slug_ref(country, segments[-1], segments[2])

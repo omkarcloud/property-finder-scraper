@@ -41,6 +41,11 @@ def test_companies_search_sends_one_location_id(monkeypatch):
     assert ("location_id", 86) in sent and ("text", "sotheby") in sent
     assert not any(k in ("location_ids", "location_id") and v == 50 for k, v in sent)
     assert [r["id"] for r in out["location"]] == [86]
+    # the id lookup answers in its own order (fixture locations_ids_1_50_4467: 50, 4467, 1):
+    # the context is still the place the filter used
+    rows.reverse()
+    out = api._companies_search(None, {"ids": [86, 50]}, None, 1, 20, "ae")
+    assert ("location_id", 86) in _sent(seen["params"]) and [r["id"] for r in out["location"]] == [86]
 
 
 def test_agents_listing_sorts_stop_at_10000_results(monkeypatch):

@@ -305,8 +305,10 @@ def _companies_search(query, location, sort, page, per_page, country):
     params = [("text", query), ("sort", sort), ("page", page), ("per_page", per_page),
               ("location_id", ids[0] if ids else None)]
     data, totals = fetch_brokerages(country, params)
+    # the place the filter used: the lookup answers several ids in its own order, not the given one
+    used = [r for r in (rows or []) if r.get("id") == ids[0]][:1] if ids else []
     return {
-        "country": country, "query": query, "location": _location_context((rows or [])[:1]),
+        "country": country, "query": query, "location": _location_context(used),
         "results": [parsers.parse_company(r, country) for r in data],
         "pagination": _pagination(page, per_page, totals.get("total"), totals.get("total_pages")),
     }
