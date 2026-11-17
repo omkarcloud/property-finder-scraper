@@ -30,6 +30,7 @@ from schema_fields import (BaseSchema, ChoiceField, CommaListField, CountryCodeF
                            NonNegativeNumber, PageField, PageSizeField, Price, QueryField, RefField,
                            StrippedString)
 from property_finder import refs
+from scraper_utils.schema import max_length as _max_length
 
 MAX_SEARCH_PAGE_SIZE = 60        # property-api/web/v2: pagination.limit 61 is a 400
 MAX_SEARCH_PAGE = 2000           # page 2000 of a 189K result set still answers
@@ -40,15 +41,6 @@ MAX_AGENTS_PAGE_SIZE = 100       # pf-b2c-customer per_page ceiling
 MAX_PROJECTS_PAGE_SIZE = 50      # bilbo serves 100, but a project card is ~70 KB upstream
 MAX_TRANSACTIONS_PAGE_SIZE = 50  # b2c-transactions size ceiling (60 is a 400)
 MAX_REVIEWS_PAGE_SIZE = 50
-
-
-def _max_length(n):
-    """validate.Length(max=n) that tolerates the None StrippedString returns
-    for an empty optional value."""
-    def check(value):
-        if value is not None and len(value) > n:
-            raise ValidationError(f"Longer than maximum length {n}.")
-    return check
 
 
 def _optional_text(description, n=200):

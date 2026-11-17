@@ -1,10 +1,17 @@
 """Property Finder transport: plain curl_cffi with browser-impersonated TLS.
 No browser, no cookies kept. Egress: the pod's own IP by default
 (config.property_finder_proxy(), knob PROPERTY_FINDER_EXIT); a block moves
-every NEW session to a sticky datacenter exit
-(config.property_finder_fallback_proxy()) for PROPERTY_FINDER_BLOCK_HOLD_S
-seconds, and the blocked thread drops its session at once so the retry
-rides a fresh exit. Pod probe 2026-11-07: table in config.py's property
+every NEW session to the fallback tier
+(config.property_finder_fallback_proxy(); since 2026-11-11 the shared gateway
+exit, PROPERTY_FINDER_FALLBACK_EXIT = "gateway", exit_gateway.py: a fresh gateway
+address on nearly every request, numbers in config.py's property finder
+block) for PROPERTY_FINDER_BLOCK_HOLD_S seconds, and the blocked thread
+drops its session at once so the retry rides a fresh exit. Behind the
+gateway sits a sticky datacenter exit (config.property_finder_last_proxy(),
+PROPERTY_FINDER_LAST_EXIT): a refusal through the gateway moves new
+sessions there for the hold, and a call the gateway fails any other way
+(the gateway's own errors, a timeout, 5xx) makes its last retry there, for
+that call only. Pod probe 2026-11-07: table in config.py's property
 finder block.
 
 Only the TLS fingerprint matters: a plain python UA answers AWS WAF 403 on
@@ -61,6 +68,7 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from property_finder import refs
+from scraper_utils import sessions
 
 IMPERSONATE = "chrome"
 PAGE_TIMEOUT = 45     # the area-insights page is ~2.4 MB
@@ -98,29 +106,35 @@ class PropertyFinderNotFound(NotFound):
 
 
 # ---- sessions --------------------------------------------------------------------
-# One session per cheroot worker thread (a curl handle is not thread-safe).
+# One session per cheroot worker thread (a curl handle is not thread-safe;
+# egress.new_session: curl_cffi, or the gateway exit's look-alike).
 # Process-wide: after a block on the default tier every new session rides
-# the fallback tier until _fallback_until.
+# the fallback tier until _fallback_until; after a refusal through the gateway
+# exit, the last tier (a datacenter exit) until _last_until.
 _local = threading.local()
 _fallback_until = 0.0
+_last_until = 0.0
 _fallback_lock = threading.Lock()
 
 
 def _proxy():
+    if getattr(_local, "last_try", False):      # the last retry of a call the gateway kept failing (_retrying)
+        return config.property_finder_last_proxy()
     proxy = config.property_finder_proxy()
-    if proxy is None and time.time() < _fallback_until:
-        proxy = config.property_finder_fallback_proxy()
+    if proxy is None:
+        now = time.time()
+        if now < _last_until:
+            proxy = config.property_finder_last_proxy()
+        if proxy is None and now < _fallback_until:
+            proxy = config.property_finder_fallback_proxy()
     return proxy
 
 
 def _session():
     sess = getattr(_local, "session", None)
     if sess is None:
-        from curl_cffi import requests as curl_requests
-        proxy = _proxy()
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
+        proxy = _local.exit = _proxy()
+        sess = egress.new_session(proxy, impersonate=IMPERSONATE)     # None, a proxy URL, or the gateway exit ("gateway")
         sess.headers["accept-language"] = egress.accept_language(proxy)
         _local.session = sess
     # every surface answers a cookie-less request; nothing is kept
@@ -131,38 +145,58 @@ def _session():
     return sess
 
 
+def _on_gateway():
+    """True while the thread's session rides the gateway exit."""
+    return getattr(_local, "session", None) is not None and bool(config.gateway_exit(getattr(_local, "exit", None)))
+
+
 def _drop_session(blocked=False):
     """Close the thread's session (fresh exit next time); a block on the
-    default tier also starts the fallback hold for every thread."""
-    global _fallback_until
+    default tier also starts the fallback hold for every thread, and a
+    block through the gateway exit the last tier's."""
+    global _fallback_until, _last_until
+    on_gateway = _on_gateway()
     sess = getattr(_local, "session", None)
     _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.close_quietly(sess)
     if blocked and config.property_finder_proxy() is None:
+        until = time.time() + config.PROPERTY_FINDER_BLOCK_HOLD_S
         with _fallback_lock:
-            _fallback_until = time.time() + config.PROPERTY_FINDER_BLOCK_HOLD_S
+            if on_gateway and config.property_finder_last_proxy() is not None:
+                print(f"property-finder: the gateway exit was refused too ({config.PROPERTY_FINDER_FALLBACK_EXIT}); "
+                      f"new sessions on {config.PROPERTY_FINDER_LAST_EXIT} for {config.PROPERTY_FINDER_BLOCK_HOLD_S} s")
+                _last_until = until
+            elif time.time() < _last_until:         # refused on the last tier: stay there on a fresh exit
+                _last_until = until
+            else:
+                _fallback_until = until
 
 
 def _retrying(fn):
     """Run fn() under the shared retry policy (retryable errors only;
-    NotFound / BadRequest surface immediately)."""
+    NotFound / BadRequest surface immediately). A call whose tries through
+    the gateway exit keep failing makes its LAST retry on
+    config.PROPERTY_FINDER_LAST_EXIT: the gateway's own errors (its
+    throttle, its 29 s timeout) then cost latency, not the call."""
     last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except PropertyFinderBlocked as e:
-            last = e
-            _drop_session(blocked=True)
-        except PropertyFinderUpstreamError as e:
-            last = e
-            _drop_session()
-        if attempt < config.MAX_RETRIES:
-            time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    try:
+        for attempt in range(1, config.MAX_RETRIES + 1):
+            try:
+                return fn()
+            except PropertyFinderUpstreamError as e:
+                last = e
+                on_gateway = _on_gateway()
+                _drop_session(blocked=isinstance(e, PropertyFinderBlocked))
+            if attempt < config.MAX_RETRIES:
+                # the session _session() builds next
+                _local.last_try = (on_gateway and attempt + 1 == config.MAX_RETRIES
+                                   and config.property_finder_last_proxy() is not None)
+                time.sleep(config.RETRY_BACKOFF * attempt)
+        raise last
+    finally:
+        if getattr(_local, "last_try", False):
+            _local.last_try = False
+            _drop_session()         # the next call starts on the thread's own tier again
 
 
 # ---- requests ----------------------------------------------------------------------

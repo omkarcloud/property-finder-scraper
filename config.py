@@ -40,3 +40,15 @@ def property_finder_fallback_proxy():
     a direct connection. None keeps them direct; return a proxy URL here to
     switch to it automatically."""
     return None
+
+
+# ---- added by the sync: defaults for a direct run ----
+PROPERTY_FINDER_FALLBACK_EXIT = None
+PROPERTY_FINDER_LAST_EXIT = None
+def gateway_exit(exit=None):
+    return None
+
+
+def property_finder_last_proxy():
+    return None
+

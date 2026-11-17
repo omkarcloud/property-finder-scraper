@@ -37,6 +37,7 @@ import json
 import re
 
 from property_finder import refs
+from scraper_utils.values import as_dict as _dict, as_list as _list, to_int as _int
 
 _NEXT_DATA_RE = re.compile(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', re.S)
 _TAG_RE = re.compile(r"<[^>]+>")
@@ -61,17 +62,6 @@ def _none(value):
 def _missing(value):
     """None / '' / a bare boolean count as "no number" (0 does not)."""
     return value is None or value is True or value is False or (isinstance(value, str) and not value.strip())
-
-
-def _int(value):
-    if _missing(value):
-        return None
-    try:
-        if isinstance(value, str):
-            value = value.replace(",", "").strip()
-        return int(float(value))
-    except (TypeError, ValueError):
-        return None
 
 
 def _float(value):
@@ -144,14 +134,6 @@ def _en(value):
 
 def _ar(value):
     return _none(value.get("ar")) if isinstance(value, dict) else None
-
-
-def _dict(value):
-    return value if isinstance(value, dict) else {}
-
-
-def _list(value):
-    return value if isinstance(value, list) else []
 
 
 def _coordinates(value):
